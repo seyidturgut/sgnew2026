@@ -1,0 +1,688 @@
+{
+    "kosgeb-destekleri": {
+        "slug": "kosgeb-destekleri",
+        "category_slug": "finansmana-erisim",
+        "category_name": "Finansmana Erişim",
+        "title": "KOSGEB",
+        "title_highlighted": "Destekleri",
+        "hero_image": "/entrepreneurship.webp",
+        "content_json": {}
+    },
+    "tubitak-destekleri": {
+        "slug": "tubitak-destekleri",
+        "category_slug": "finansmana-erisim",
+        "category_name": "Finansmana Erişim",
+        "title": "TÜBİTAK",
+        "title_highlighted": "Destekleri",
+        "hero_image": "/innovation-lab.webp",
+        "content_json": {}
+    },
+    "teknoloji-odakli-sanayi-hamlesi": {
+        "slug": "teknoloji-odakli-sanayi-hamlesi",
+        "category_slug": "finansmana-erisim",
+        "category_name": "Finansmana Erişim",
+        "title": "Teknoloji Odaklı",
+        "title_highlighted": "Sanayi Hamlesi",
+        "hero_image": "/industrial-tech.webp",
+        "content_json": {
+            "sections": [
+                {
+                    "type": "hero_intro",
+                    "icon": "Factory",
+                    "badge": "Milli Teknoloji",
+                    "title": "Stratejik Yatırımlarda",
+                    "title_highlight": "HAMLE Dönemi",
+                    "description": "Yüksek katma değerli ürünlerin yerli üretimi için tasarlanan uçtan uca destek programı.",
+                    "features": [
+                        "30M TL Proje alt limiti",
+                        "KDV muafiyeti",
+                        "Vergi indirimi"
+                    ]
+                },
+                {
+                    "type": "data_table",
+                    "title": "Program Proje Limitleri",
+                    "subtitle": "Milyon TL Cinsinden",
+                    "rows": [
+                        {
+                            "label": "Genel Sektörler",
+                            "value": "30.000.000 TL"
+                        },
+                        {
+                            "label": "Yazılım Geliştirme",
+                            "value": "10.000.000 TL"
+                        }
+                    ]
+                },
+                {
+                    "type": "icon_grid",
+                    "title": "Destek Paketleri",
+                    "items": [
+                        {
+                            "icon": "PieChart",
+                            "title": "Yatırım Teşviği",
+                            "desc": "SGK primi, vergi indirimi ve faiz desteği entegrasyonu."
+                        },
+                        {
+                            "icon": "Target",
+                            "title": "KOSGEB & TÜBİTAK",
+                            "desc": "Ar-Ge ve üretim aşamalarında eş zamanlı hibeler."
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "dahilde-isleme-rejimi-danismanligi": {
+        "slug": "dahilde-isleme-rejimi-danismanligi",
+        "category_slug": "finansmana-erisim",
+        "category_name": "Finansmana Erişim",
+        "title": "Dahilde İşleme Rejimi",
+        "title_highlighted": "Danışmanlığı",
+        "hero_image": "/global-trade.webp",
+        "content_json": {}
+    },
+    "yatirim-tesvik-danismanligi": {
+        "slug": "yatirim-tesvik-danismanligi",
+        "category_slug": "finansmana-erisim",
+        "category_name": "Finansmana Erişim",
+        "title": "Yatırım Teşvik",
+        "title_highlighted": "Danışmanlığı",
+        "hero_image": "/investment.webp",
+        "content_json": {}
+    },
+    "ticaret-bakanligi-destekleri": {
+        "slug": "ticaret-bakanligi-destekleri",
+        "category_slug": "finansmana-erisim",
+        "category_name": "Finansmana Erişim",
+        "title": "Ticaret Bakanlığı",
+        "title_highlighted": "Destekleri",
+        "hero_image": "/global-trade.webp",
+        "content_json": {
+            "sections": [
+                {
+                    "type": "hero_intro",
+                    "icon": "Globe",
+                    "badge": "İhracat Geliştirme",
+                    "title": "Küresel Pazarda",
+                    "title_highlight": "Güçlü Varlık",
+                    "description": "Pazar araştırmasından yurt dışı marka tesciline kadar ihracat odaklı tüm süreçlerde Bakanlık hibeleri.",
+                    "features": [
+                        "Yurt dışı tanıtım desteği",
+                        "Kira desteği",
+                        "Fuar katılım teşviki"
+                    ]
+                },
+                {
+                    "type": "process_steps",
+                    "title": "Başvuru Süreci",
+                    "description": "Destek Yönetim Sistemi (DYS) üzerinden ilerleyen aşamalar.",
+                    "steps": [
+                        {
+                            "title": "DYS Kayıt",
+                            "desc": "Şirket yetkilendirmesi ve sistemsel açılış."
+                        },
+                        {
+                            "title": "Ön Onay",
+                            "desc": "Yurt dışı harcamalar öncesi stratejik onay."
+                        },
+                        {
+                            "title": "Ödeme Talebi",
+                            "desc": "YMM onaylı belgelerle hibe tahsilatı."
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "e-turquality-programi": {
+        "slug": "e-turquality-programi",
+        "category_slug": "finansmana-erisim",
+        "category_name": "Finansmana Erişim",
+        "title": "E-Turquality",
+        "title_highlighted": "Programı",
+        "hero_image": "/digital-economy.webp",
+        "content_json": {
+            "sections": [
+                {
+                    "type": "hero_intro",
+                    "icon": "Cpu",
+                    "badge": "Bilişim İhracatı",
+                    "title": "Bilişimin Yıldızları",
+                    "title_highlight": "Programı",
+                    "description": "Yazılım, oyun ve fintech gibi sektörlere özel 5+5 yıllık dev destek paketi.",
+                    "features": [
+                        "70 Puan barajı",
+                        "Personel hibe desteği",
+                        "Bulut ve yazılım desteği"
+                    ]
+                },
+                {
+                    "type": "data_table",
+                    "title": "Asgari İhracat Limitleri",
+                    "subtitle": "Yıllık Ortalama",
+                    "rows": [
+                        {
+                            "label": "Dijital Oyun",
+                            "value": "1.000.000 $"
+                        },
+                        {
+                            "label": "Yazılım ve Fintech",
+                            "value": "500.000 $"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "markadegerleme": {
+        "id": 8,
+        "slug": "markadegerleme",
+        "title": "Marka"
+    },
+    "sektoranalizraporlari": {
+        "id": 9,
+        "slug": "sektoranalizraporlari",
+        "title": "Sektör Analiz"
+    },
+    "transferfiyatlandirmasi": {
+        "id": 10,
+        "slug": "transferfiyatlandirmasi",
+        "title": "Transfer"
+    },
+    "kurumlargelirvergisitasdiki": {
+        "id": 11,
+        "slug": "kurumlargelirvergisitasdiki",
+        "title": "Kurumlar ve Gelir Vergisi"
+    },
+    "finansaldanismanliklar": {
+        "id": 12,
+        "slug": "finansaldanismanliklar",
+        "title": "Finansal"
+    },
+    "yazilimveteknoloji": {
+        "id": 14,
+        "slug": "yazilimveteknoloji",
+        "title": "Yazılım ve Teknoloji"
+    },
+    "ozelhakvelisans": {
+        "id": 16,
+        "slug": "ozelhakvelisans",
+        "title": "Özel Hak ve Lisans"
+    },
+    "sirketkurulusu": {
+        "id": 17,
+        "slug": "sirketkurulusu",
+        "title": "Şirket Kuruluşu"
+    },
+    "ihalebedelitespiti": {
+        "id": 18,
+        "slug": "ihalebedelitespiti",
+        "title": "İhale Bedeli"
+    },
+    "vergiyonetimdanismanligi": {
+        "id": 19,
+        "slug": "vergiyonetimdanismanligi",
+        "title": "1. İncelemenin Başlatılması"
+    },
+    "halkaarzdanismanligi": {
+        "id": 20,
+        "slug": "halkaarzdanismanligi",
+        "title": "Halka Arz"
+    },
+    "sirketdegerleme": {
+        "id": 21,
+        "slug": "sirketdegerleme",
+        "title": "Şirket"
+    },
+    "argetasarimraporu": {
+        "id": 22,
+        "slug": "argetasarimraporu",
+        "title": "Ar-Ge ve Tasarım"
+    },
+    "duediligence": {
+        "id": 23,
+        "slug": "duediligence",
+        "title": "Due"
+    },
+    "bordrooutsource": {
+        "id": 24,
+        "slug": "bordrooutsource",
+        "title": "Outsource Bordro"
+    },
+    "rekabetuyum": {
+        "id": 26,
+        "slug": "rekabetuyum",
+        "title": "Rekabet Uyum ve"
+    },
+    "sozlesmeriskyonetimi": {
+        "id": 27,
+        "slug": "sozlesmeriskyonetimi",
+        "title": "Sözleşme"
+    },
+    "startupdestek": {
+        "id": 28,
+        "slug": "startupdestek",
+        "title": "Startup Destek ve"
+    },
+    "argeveyasalcerceve": {
+        "id": 29,
+        "slug": "argeveyasalcerceve",
+        "title": "Ar-Ge Yönetimi"
+    },
+    "kisiselveriyonetimi": {
+        "id": 30,
+        "slug": "kisiselveriyonetimi",
+        "title": "Kişisel Veri Yönetimi"
+    },
+    "birlesmevedevralma": {
+        "id": 32,
+        "slug": "birlesmevedevralma",
+        "title": "Birleşme ve Devralma"
+    },
+    "issurecleriuyum": {
+        "id": 34,
+        "slug": "issurecleriuyum",
+        "title": "İş Süreçleri ve"
+    },
+    "aileanayasasi": {
+        "id": 35,
+        "slug": "aileanayasasi",
+        "title": "Aile Anayasası ve"
+    },
+    "ihracatgelistirme": {
+        "id": 36,
+        "slug": "ihracatgelistirme",
+        "title": "İhracat Geliştirme Danışmanlığı"
+    },
+    "eturquality": {
+        "id": 37,
+        "slug": "eturquality",
+        "title": "E-Turquality Programı Nedir?"
+    },
+    "pazaranalizi": {
+        "id": 38,
+        "slug": "pazaranalizi",
+        "title": "Pazar Analizi ve Hedef Pazar Tespiti"
+    },
+    "ticaretbakanligidestekleri": {
+        "id": 39,
+        "slug": "ticaretbakanligidestekleri",
+        "title": "Ticaret Bakanlığı Destekleri"
+    },
+    "yurtdisisirketkurma": {
+        "id": 40,
+        "slug": "yurtdisisirketkurma",
+        "title": "Yurtdışında"
+    },
+    "ihracatdanismanligi": {
+        "id": 41,
+        "slug": "ihracatdanismanligi",
+        "title": "İhracata Başlangıç Danışmanlığı Nedir?"
+    },
+    "pazaragiris": {
+        "id": 42,
+        "slug": "pazaragiris",
+        "title": "Pazara Giriş"
+    },
+    "dahildeislemerejimidanismanligi": {
+        "id": 45,
+        "slug": "dahildeislemerejimidanismanligi",
+        "title": "Dahilde İşleme Rejimi Nedir?"
+    },
+    "kosgebdestekleri": {
+        "id": 46,
+        "slug": "kosgebdestekleri",
+        "title": "KOSGEB"
+    },
+    "teknolojiodaklisanayihamlesi": {
+        "id": 47,
+        "slug": "teknolojiodaklisanayihamlesi",
+        "title": "Teknoloji Odaklı Sanayi Hamlesi Nedir?"
+    },
+    "yatirimtesvikdanismanligi": {
+        "id": 48,
+        "slug": "yatirimtesvikdanismanligi",
+        "title": "Yatırım Teşvik Danışmanlığı"
+    },
+    "tubitakdestekleri": {
+        "id": 49,
+        "slug": "tubitakdestekleri",
+        "title": "TÜBİTAK"
+    },
+    "yurtdisi-sirket-kurma": {
+        "id": 92,
+        "slug": "yurtdisi-sirket-kurma",
+        "title": "Yurtdışında"
+    },
+    "ihracat-gelistirme": {
+        "id": 93,
+        "slug": "ihracat-gelistirme",
+        "title": "İhracat Geliştirme Danışmanlığı"
+    },
+    "sozlesme-risk-yonetimi": {
+        "id": 94,
+        "slug": "sozlesme-risk-yonetimi",
+        "title": "Sözleşme"
+    },
+    "marka-degerleme": {
+        "id": 137,
+        "slug": "marka-degerleme",
+        "title": "Marka"
+    },
+    "sektor-analiz-raporlari": {
+        "id": 138,
+        "slug": "sektor-analiz-raporlari",
+        "title": "Sektör Analiz"
+    },
+    "transfer-fiyatlandirmasi": {
+        "id": 139,
+        "slug": "transfer-fiyatlandirmasi",
+        "title": "Transfer"
+    },
+    "kurumlar-gelir-vergisi-tasdiki": {
+        "id": 140,
+        "slug": "kurumlar-gelir-vergisi-tasdiki",
+        "title": "Kurumlar ve Gelir Vergisi"
+    },
+    "finansal-danismanliklar": {
+        "id": 141,
+        "slug": "finansal-danismanliklar",
+        "title": "Finansal"
+    },
+    "sgk-tesvik": {
+        "id": 142,
+        "slug": "sgk-tesvik",
+        "title": "SGK Teşvik"
+    },
+    "yazilim-ve-teknoloji": {
+        "id": 143,
+        "slug": "yazilim-ve-teknoloji",
+        "title": "Yazılım ve Teknoloji"
+    },
+    "kdv-iade": {
+        "id": 144,
+        "slug": "kdv-iade",
+        "title": "KDV İade"
+    },
+    "ozel-hakve-lisans": {
+        "id": 145,
+        "slug": "ozel-hakve-lisans",
+        "title": "Özel Hak ve Lisans"
+    },
+    "sirket-kurulusu": {
+        "id": 146,
+        "slug": "sirket-kurulusu",
+        "title": "Şirket Kuruluşu"
+    },
+    "ihale-bedeli-tespiti": {
+        "id": 147,
+        "slug": "ihale-bedeli-tespiti",
+        "title": "İhale Bedeli"
+    },
+    "vergi-yonetim-danismanligi": {
+        "id": 148,
+        "slug": "vergi-yonetim-danismanligi",
+        "title": "1. İncelemenin Başlatılması"
+    },
+    "halka-arz-danismanligi": {
+        "id": 149,
+        "slug": "halka-arz-danismanligi",
+        "title": "Halka Arz"
+    },
+    "sirket-degerleme": {
+        "id": 150,
+        "slug": "sirket-degerleme",
+        "title": "Şirket"
+    },
+    "ar-ge-tasarim-raporu": {
+        "id": 151,
+        "slug": "ar-ge-tasarim-raporu",
+        "title": "Ar-Ge ve Tasarım"
+    },
+    "due-diligence": {
+        "id": 152,
+        "slug": "due-diligence",
+        "title": "Due"
+    },
+    "outsource-bordro-yonetimi": {
+        "id": 153,
+        "slug": "outsource-bordro-yonetimi",
+        "title": "Outsource Bordro"
+    },
+    "sirket-kurma-ttk-uygulama-ve-sicil-isleri-danismanligi": {
+        "id": 154,
+        "slug": "sirket-kurma-ttk-uygulama-ve-sicil-isleri-danismanligi",
+        "title": "Şirket Kurma,"
+    },
+    "rekabet-uyum": {
+        "id": 155,
+        "slug": "rekabet-uyum",
+        "title": "Rekabet Uyum ve"
+    },
+    "startup-destek": {
+        "id": 157,
+        "slug": "startup-destek",
+        "title": "Startup Destek ve"
+    },
+    "ar-ge-veyasal-cerceve": {
+        "id": 158,
+        "slug": "ar-ge-veyasal-cerceve",
+        "title": "Ar-Ge Yönetimi"
+    },
+    "kisisel-veri-yonetimi-ve-uyum-danismanligi": {
+        "id": 159,
+        "slug": "kisisel-veri-yonetimi-ve-uyum-danismanligi",
+        "title": "Kişisel Veri Yönetimi"
+    },
+    "pay-devri": {
+        "id": 160,
+        "slug": "pay-devri",
+        "title": "Pay Devri ve Pay Sahipliği"
+    },
+    "birlesme-ve-devralma-ma-danismanligi": {
+        "id": 161,
+        "slug": "birlesme-ve-devralma-ma-danismanligi",
+        "title": "Birleşme ve Devralma"
+    },
+    "genel-kurul": {
+        "id": 162,
+        "slug": "genel-kurul",
+        "title": "Genel Kurul"
+    },
+    "is-surecleri-ve-uyum-danismanligi": {
+        "id": 163,
+        "slug": "is-surecleri-ve-uyum-danismanligi",
+        "title": "İş Süreçleri ve"
+    },
+    "aile-anayasasi": {
+        "id": 164,
+        "slug": "aile-anayasasi",
+        "title": "Aile Anayasası ve"
+    },
+    "e-turquality": {
+        "id": 166,
+        "slug": "e-turquality",
+        "title": "E-Turquality Programı Nedir?"
+    },
+    "pazar-analizi-ve-hedef-pazar-tespiti": {
+        "slug": "pazar-analizi-ve-hedef-pazar-tespiti",
+        "category_slug": "globallesme-ve-ihracat",
+        "category_name": "Globalleşme & İhracat",
+        "title": "Pazar Analizi ve",
+        "title_highlighted": "Hedef Pazar Tespiti",
+        "hero_image": "/market-research-data.webp",
+        "content_json": {
+            "sections": [
+                {
+                    "type": "hero_intro",
+                    "icon": "Target",
+                    "badge": "Doğru Pazar Hedeflemesi",
+                    "title": "Pazar Analizi ve",
+                    "title_highlight": "Hedef Pazar Tespiti",
+                    "description": "Ürünleriniz için en yüksek potansiyele sahip pazarları veriye dayalı stratejilerle belirliyor, ihracat risklerinizi minimize ediyoruz.",
+                    "features": [
+                        "Doğru ürün-pazar eşleştirmesi",
+                        "Engel ve fırsat analizleri",
+                        "Veriye dayalı strateji"
+                    ]
+                },
+                {
+                    "type": "icon_grid",
+                    "title": "Neden Pazar Analizi?",
+                    "items": [
+                        {
+                            "icon": "TrendingUp",
+                            "title": "İhracata Başlayanlar",
+                            "desc": "Global ölçekte en yüksek potansiyele ve talebe sahip pazarları belirlemek."
+                        },
+                        {
+                            "icon": "BarChart",
+                            "title": "Pazar Payını Artıranlar",
+                            "desc": "Mevcut pazarlardaki konjonktürü anlayarak rekabette öne geçmek."
+                        },
+                        {
+                            "icon": "Globe",
+                            "title": "Yeni Pazarlar Arayanlar",
+                            "desc": "Risk dağılımı için alternatif ve yeni pazarlara açılmak."
+                        }
+                    ]
+                },
+                {
+                    "type": "rich_text",
+                    "title": "Sistem Global Metodolojisi",
+                    "html": "<p>Çeyrek asrı aşan tecrübemiz ve yerel ofislerimizden gelen saha bilgileriyle ürününüze özel analizler gerçekleştiriyoruz.</p><ul><li>Ürün bazlı özelleştirme</li><li>Çok katmanlı analiz</li><li>Saha istihbaratı</li></ul>"
+                }
+            ]
+        }
+    },
+    "ihracat-danismanligi-ve-ihracata-baslangic": {
+        "slug": "ihracat-danismanligi-ve-ihracata-baslangic",
+        "category_slug": "globallesme-ve-ihracat",
+        "category_name": "Globalleşme & İhracat",
+        "title": "İhracat Danışmanlığı ve",
+        "title_highlighted": "İhracata Başlangıç",
+        "hero_image": "/shipping-port.webp",
+        "content_json": {
+            "sections": [
+                {
+                    "type": "hero_intro",
+                    "icon": "Rocket",
+                    "badge": "İlk Adımı Güçlü Atın",
+                    "title": "İhracat Danışmanlığı ve",
+                    "title_highlight": "İhracata Başlangıç",
+                    "description": "Henüz ihracat yapmamış şirketler için tasarlanmış, ihracat kapasitesini artıran ve ilk satışı hedefleyen 6 aylık kapsamlı bir yol haritası.",
+                    "features": [
+                        "Hedef pazar tespiti",
+                        "6 Aylık danışmanlık programı",
+                        "Ticaret Bakanlığı destek yönetimi"
+                    ]
+                },
+                {
+                    "type": "rich_text",
+                    "title": "İhracata Başlangıç Danışmanlığı Nedir?",
+                    "html": "<p>Henüz ihracat yapmamış şirketlerin, gelişim alanlarını belirleyerek ihracat kapasitelerini artırmak ve uluslararası ticarete başlamalarını sağlamak amacıyla geliştirilmiş <b>6 aylık</b> bir programdır.</p>"
+                },
+                {
+                    "type": "process_steps",
+                    "title": "6 Aylık Yol Haritası",
+                    "description": "Adım adım globale açılma süreci.",
+                    "steps": [
+                        {
+                            "title": "Analiz & Hazırlık",
+                            "desc": "Firmanın ihracat olgunluk seviyesinin analizi ve tanıtım materyallerinin hazırlanması."
+                        },
+                        {
+                            "title": "Pazar Araştırması",
+                            "desc": "Ürünleriniz için en doğru hedef pazarların tespiti ve rekabet analizi."
+                        },
+                        {
+                            "title": "Müşteri Erişimi",
+                            "desc": "Potansiyel alıcıların listelenmesi ve ilk temasların kurulması."
+                        },
+                        {
+                            "title": "Destek Yönetimi",
+                            "desc": "Ticaret Bakanlığı ihracat desteklerine başvuruların yönetilmesi."
+                        }
+                    ]
+                },
+                {
+                    "type": "cta_box",
+                    "title": "İhracata Şimdi Başlayın",
+                    "description": "Amerika’dan Asya-Pasifik’e uzanan geniş network ağımızla sizi dünyaya açıyoruz.",
+                    "button_text": "Hemen Başlayın"
+                }
+            ]
+        }
+    },
+    "pazara-giris-projeleri-destegi": {
+        "id": 171,
+        "slug": "pazara-giris-projeleri-destegi",
+        "title": "Pazara Giriş"
+    },
+    "kurumlar-ve-gelir-vergisi-tasdiki": {
+        "id": 182,
+        "slug": "kurumlar-ve-gelir-vergisi-tasdiki",
+        "title": "Kurumlar ve Gelir Vergisi"
+    },
+    "yazilim-ve-teknoloji-degerleme": {
+        "id": 185,
+        "slug": "yazilim-ve-teknoloji-degerleme",
+        "title": "Yazılım ve Teknoloji"
+    },
+    "ozel-hak-ve-lisans-degerleme": {
+        "id": 187,
+        "slug": "ozel-hak-ve-lisans-degerleme",
+        "title": "Özel Hak ve Lisans"
+    },
+    "sirket-kurulusu-danismanligi": {
+        "id": 188,
+        "slug": "sirket-kurulusu-danismanligi",
+        "title": "Şirket Kuruluşu"
+    },
+    "ar-ge-ve-tasarim-indirimi-raporu": {
+        "id": 193,
+        "slug": "ar-ge-ve-tasarim-indirimi-raporu",
+        "title": "Ar-Ge ve Tasarım"
+    },
+    "rekabet-uyum-ve-strateji-danismanligi": {
+        "id": 197,
+        "slug": "rekabet-uyum-ve-strateji-danismanligi",
+        "title": "Rekabet Uyum ve"
+    },
+    "startup-destek-ve-uyum-danismanligi": {
+        "id": 199,
+        "slug": "startup-destek-ve-uyum-danismanligi",
+        "title": "Startup Destek ve"
+    },
+    "pay-devri-ve-pay-sahipligi-sozlesmeleri-danismanligi": {
+        "id": 202,
+        "slug": "pay-devri-ve-pay-sahipligi-sozlesmeleri-danismanligi",
+        "title": "Pay Devri ve Pay Sahipliği"
+    },
+    "genel-kurul-danismanligi": {
+        "id": 204,
+        "slug": "genel-kurul-danismanligi",
+        "title": "Genel Kurul"
+    },
+    "aile-anayasasi-ve-kurumsallasma-hizmetleri": {
+        "id": 206,
+        "slug": "aile-anayasasi-ve-kurumsallasma-hizmetleri",
+        "title": "Aile Anayasası ve"
+    },
+    "ticaret-bakanligi-ihracat-destekleri": {
+        "id": 210,
+        "slug": "ticaret-bakanligi-ihracat-destekleri",
+        "title": "Ticaret Bakanlığı Destekleri"
+    },
+    "sgk-tesvik-danismanligi": {
+        "id": 226,
+        "slug": "sgk-tesvik-danismanligi",
+        "title": "SGK Teşvik"
+    },
+    "ar-ge-yonetimi-ve-yasal-cerceveye-uyum-danismanligi": {
+        "id": 242,
+        "slug": "ar-ge-yonetimi-ve-yasal-cerceveye-uyum-danismanligi",
+        "title": "Ar-Ge Yönetimi"
+    }
+}
