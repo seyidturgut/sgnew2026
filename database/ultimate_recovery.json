@@ -1,0 +1,117 @@
+{
+    "vergi-yonetim-danismanligi": {
+        "comp": "T3",
+        "path": "/servisler/vergi-finans/vergi/vergi-yonetim-danismanligi",
+        "raw_js": "[...r.el.querySelectorAll('[loading=\"lazy\"]')]"
+    },
+    "transfer-fiyatlandirmasi": {
+        "comp": "E3",
+        "path": "/servisler/vergi-finans/vergi/transfer-fiyatlandirmasi",
+        "raw_js": "[],r={\"container-start\":[],\"container-end\":[],\"wrapper-start\":[],\"wrapper-end\":[]};return me.Children.toArray(e).forEach(a=>{if(Ky(a))t.push(a);else if(a.props&&a.props.slot&&r[a.props.slot])r[a.props.slot].push(a);else if(a.props&&a.props.children){const s=Hy(a.props.children);s.length>0?s.forEach(n=>t.push(n)):r[\"container-end\"].push(a)}else r[\"container-end\"].push(a)}),{slides:t,slots:r}}function y3(e,t,r){if(!r)return null;const a=u=>{let m=u;return u<0?m=t.length+u:m>=t.length&&(m=m-t.length),m},s=e.isHorizontal()?{[e.rtlTranslate?\"right\":\"left\"]:`${r.offset}px`}:{top:`${r.offset}px`},{from:n,to:l}=r,o=e.params.loop?-t.length:0,d=e.params.loop?t.length*2:t.length,c=[]"
+    },
+    "kurumlar-ve-gelir-vergisi-tasdiki": {
+        "comp": "P3",
+        "path": "/servisler/vergi-finans/vergi/kurumlar-ve-gelir-vergisi-tasdiki",
+        "raw_js": "[],r={\"container-start\":[],\"container-end\":[],\"wrapper-start\":[],\"wrapper-end\":[]};return me.Children.toArray(e).forEach(a=>{if(Ky(a))t.push(a);else if(a.props&&a.props.slot&&r[a.props.slot])r[a.props.slot].push(a);else if(a.props&&a.props.children){const s=Hy(a.props.children);s.length>0?s.forEach(n=>t.push(n)):r[\"container-end\"].push(a)}else r[\"container-end\"].push(a)}),{slides:t,slots:r}}function y3(e,t,r){if(!r)return null;const a=u=>{let m=u;return u<0?m=t.length+u:m>=t.length&&(m=m-t.length),m},s=e.isHorizontal()?{[e.rtlTranslate?\"right\":\"left\"]:`${r.offset}px`}:{top:`${r.offset}px`},{from:n,to:l}=r,o=e.params.loop?-t.length:0,d=e.params.loop?t.length*2:t.length,c=[]"
+    },
+    "kdv-iade": {
+        "comp": "M3",
+        "path": "/servisler/vergi-finans/vergi/kdv-iade",
+        "raw_js": "[],r={\"container-start\":[],\"container-end\":[],\"wrapper-start\":[],\"wrapper-end\":[]};return me.Children.toArray(e).forEach(a=>{if(Ky(a))t.push(a);else if(a.props&&a.props.slot&&r[a.props.slot])r[a.props.slot].push(a);else if(a.props&&a.props.children){const s=Hy(a.props.children);s.length>0?s.forEach(n=>t.push(n)):r[\"container-end\"].push(a)}else r[\"container-end\"].push(a)}),{slides:t,slots:r}}function y3(e,t,r){if(!r)return null;const a=u=>{let m=u;return u<0?m=t.length+u:m>=t.length&&(m=m-t.length),m},s=e.isHorizontal()?{[e.rtlTranslate?\"right\":\"left\"]:`${r.offset}px`}:{top:`${r.offset}px`},{from:n,to:l}=r,o=e.params.loop?-t.length:0,d=e.params.loop?t.length*2:t.length,c=[]"
+    },
+    "ar-ge-ve-tasarim-indirimi-raporu": {
+        "comp": "C3",
+        "path": "/servisler/vergi-finans/vergi/ar-ge-ve-tasarim-indirimi-raporu",
+        "raw_js": "[],r={\"container-start\":[],\"container-end\":[],\"wrapper-start\":[],\"wrapper-end\":[]};return me.Children.toArray(e).forEach(a=>{if(Ky(a))t.push(a);else if(a.props&&a.props.slot&&r[a.props.slot])r[a.props.slot].push(a);else if(a.props&&a.props.children){const s=Hy(a.props.children);s.length>0?s.forEach(n=>t.push(n)):r[\"container-end\"].push(a)}else r[\"container-end\"].push(a)}),{slides:t,slots:r}}function y3(e,t,r){if(!r)return null;const a=u=>{let m=u;return u<0?m=t.length+u:m>=t.length&&(m=m-t.length),m},s=e.isHorizontal()?{[e.rtlTranslate?\"right\":\"left\"]:`${r.offset}px`}:{top:`${r.offset}px`},{from:n,to:l}=r,o=e.params.loop?-t.length:0,d=e.params.loop?t.length*2:t.length,c=[]"
+    },
+    "due-diligence": {
+        "comp": "A3",
+        "path": "/servisler/vergi-finans/vergi/due-diligence",
+        "raw_js": "[],r={\"container-start\":[],\"container-end\":[],\"wrapper-start\":[],\"wrapper-end\":[]};return me.Children.toArray(e).forEach(a=>{if(Ky(a))t.push(a);else if(a.props&&a.props.slot&&r[a.props.slot])r[a.props.slot].push(a);else if(a.props&&a.props.children){const s=Hy(a.props.children);s.length>0?s.forEach(n=>t.push(n)):r[\"container-end\"].push(a)}else r[\"container-end\"].push(a)}),{slides:t,slots:r}}function y3(e,t,r){if(!r)return null;const a=u=>{let m=u;return u<0?m=t.length+u:m>=t.length&&(m=m-t.length),m},s=e.isHorizontal()?{[e.rtlTranslate?\"right\":\"left\"]:`${r.offset}px`}:{top:`${r.offset}px`},{from:n,to:l}=r,o=e.params.loop?-t.length:0,d=e.params.loop?t.length*2:t.length,c=[]"
+    },
+    "outsource-bordro-yonetimi": {
+        "comp": "R3",
+        "path": "/servisler/vergi-finans/vergi/outsource-bordro-yonetimi",
+        "raw_js": "[],r={\"container-start\":[],\"container-end\":[],\"wrapper-start\":[],\"wrapper-end\":[]};return me.Children.toArray(e).forEach(a=>{if(Ky(a))t.push(a);else if(a.props&&a.props.slot&&r[a.props.slot])r[a.props.slot].push(a);else if(a.props&&a.props.children){const s=Hy(a.props.children);s.length>0?s.forEach(n=>t.push(n)):r[\"container-end\"].push(a)}else r[\"container-end\"].push(a)}),{slides:t,slots:r}}function y3(e,t,r){if(!r)return null;const a=u=>{let m=u;return u<0?m=t.length+u:m>=t.length&&(m=m-t.length),m},s=e.isHorizontal()?{[e.rtlTranslate?\"right\":\"left\"]:`${r.offset}px`}:{top:`${r.offset}px`},{from:n,to:l}=r,o=e.params.loop?-t.length:0,d=e.params.loop?t.length*2:t.length,c=[]"
+    },
+    "sirket-kurulusu-danismanligi": {
+        "comp": "L3",
+        "path": "/servisler/vergi-finans/vergi/sirket-kurulusu-danismanligi",
+        "raw_js": "[],r={\"container-start\":[],\"container-end\":[],\"wrapper-start\":[],\"wrapper-end\":[]};return me.Children.toArray(e).forEach(a=>{if(Ky(a))t.push(a);else if(a.props&&a.props.slot&&r[a.props.slot])r[a.props.slot].push(a);else if(a.props&&a.props.children){const s=Hy(a.props.children);s.length>0?s.forEach(n=>t.push(n)):r[\"container-end\"].push(a)}else r[\"container-end\"].push(a)}),{slides:t,slots:r}}function y3(e,t,r){if(!r)return null;const a=u=>{let m=u;return u<0?m=t.length+u:m>=t.length&&(m=m-t.length),m},s=e.isHorizontal()?{[e.rtlTranslate?\"right\":\"left\"]:`${r.offset}px`}:{top:`${r.offset}px`},{from:n,to:l}=r,o=e.params.loop?-t.length:0,d=e.params.loop?t.length*2:t.length,c=[]"
+    },
+    "sgk-tesvik-danismanligi": {
+        "comp": "V3",
+        "path": "/servisler/vergi-finans/vergi/sgk-tesvik-danismanligi",
+        "raw_js": "[],r={\"container-start\":[],\"container-end\":[],\"wrapper-start\":[],\"wrapper-end\":[]};return me.Children.toArray(e).forEach(a=>{if(Ky(a))t.push(a);else if(a.props&&a.props.slot&&r[a.props.slot])r[a.props.slot].push(a);else if(a.props&&a.props.children){const s=Hy(a.props.children);s.length>0?s.forEach(n=>t.push(n)):r[\"container-end\"].push(a)}else r[\"container-end\"].push(a)}),{slides:t,slots:r}}function y3(e,t,r){if(!r)return null;const a=u=>{let m=u;return u<0?m=t.length+u:m>=t.length&&(m=m-t.length),m},s=e.isHorizontal()?{[e.rtlTranslate?\"right\":\"left\"]:`${r.offset}px`}:{top:`${r.offset}px`},{from:n,to:l}=r,o=e.params.loop?-t.length:0,d=e.params.loop?t.length*2:t.length,c=[]"
+    },
+    "sirket-degerleme": {
+        "comp": "B3",
+        "path": "/servisler/vergi-finans/kurumsal-finansman/sirket-degerleme",
+        "raw_js": "[],r={\"container-start\":[],\"container-end\":[],\"wrapper-start\":[],\"wrapper-end\":[]};return me.Children.toArray(e).forEach(a=>{if(Ky(a))t.push(a);else if(a.props&&a.props.slot&&r[a.props.slot])r[a.props.slot].push(a);else if(a.props&&a.props.children){const s=Hy(a.props.children);s.length>0?s.forEach(n=>t.push(n)):r[\"container-end\"].push(a)}else r[\"container-end\"].push(a)}),{slides:t,slots:r}}function y3(e,t,r){if(!r)return null;const a=u=>{let m=u;return u<0?m=t.length+u:m>=t.length&&(m=m-t.length),m},s=e.isHorizontal()?{[e.rtlTranslate?\"right\":\"left\"]:`${r.offset}px`}:{top:`${r.offset}px`},{from:n,to:l}=r,o=e.params.loop?-t.length:0,d=e.params.loop?t.length*2:t.length,c=[]"
+    },
+    "marka-degerleme": {
+        "comp": "O3",
+        "path": "/servisler/vergi-finans/kurumsal-finansman/marka-degerleme",
+        "raw_js": "[],r={\"container-start\":[],\"container-end\":[],\"wrapper-start\":[],\"wrapper-end\":[]};return me.Children.toArray(e).forEach(a=>{if(Ky(a))t.push(a);else if(a.props&&a.props.slot&&r[a.props.slot])r[a.props.slot].push(a);else if(a.props&&a.props.children){const s=Hy(a.props.children);s.length>0?s.forEach(n=>t.push(n)):r[\"container-end\"].push(a)}else r[\"container-end\"].push(a)}),{slides:t,slots:r}}function y3(e,t,r){if(!r)return null;const a=u=>{let m=u;return u<0?m=t.length+u:m>=t.length&&(m=m-t.length),m},s=e.isHorizontal()?{[e.rtlTranslate?\"right\":\"left\"]:`${r.offset}px`}:{top:`${r.offset}px`},{from:n,to:l}=r,o=e.params.loop?-t.length:0,d=e.params.loop?t.length*2:t.length,c=[]"
+    },
+    "yazilim-ve-teknoloji-degerleme": {
+        "comp": "I3",
+        "path": "/servisler/vergi-finans/kurumsal-finansman/yazilim-ve-teknoloji-degerleme",
+        "raw_js": "[],r={\"container-start\":[],\"container-end\":[],\"wrapper-start\":[],\"wrapper-end\":[]};return me.Children.toArray(e).forEach(a=>{if(Ky(a))t.push(a);else if(a.props&&a.props.slot&&r[a.props.slot])r[a.props.slot].push(a);else if(a.props&&a.props.children){const s=Hy(a.props.children);s.length>0?s.forEach(n=>t.push(n)):r[\"container-end\"].push(a)}else r[\"container-end\"].push(a)}),{slides:t,slots:r}}function y3(e,t,r){if(!r)return null;const a=u=>{let m=u;return u<0?m=t.length+u:m>=t.length&&(m=m-t.length),m},s=e.isHorizontal()?{[e.rtlTranslate?\"right\":\"left\"]:`${r.offset}px`}:{top:`${r.offset}px`},{from:n,to:l}=r,o=e.params.loop?-t.length:0,d=e.params.loop?t.length*2:t.length,c=[]"
+    },
+    "ozel-hak-ve-lisans-degerleme": {
+        "comp": "F3",
+        "path": "/servisler/vergi-finans/kurumsal-finansman/ozel-hak-ve-lisans-degerleme",
+        "raw_js": "[],r={\"container-start\":[],\"container-end\":[],\"wrapper-start\":[],\"wrapper-end\":[]};return me.Children.toArray(e).forEach(a=>{if(Ky(a))t.push(a);else if(a.props&&a.props.slot&&r[a.props.slot])r[a.props.slot].push(a);else if(a.props&&a.props.children){const s=Hy(a.props.children);s.length>0?s.forEach(n=>t.push(n)):r[\"container-end\"].push(a)}else r[\"container-end\"].push(a)}),{slides:t,slots:r}}function y3(e,t,r){if(!r)return null;const a=u=>{let m=u;return u<0?m=t.length+u:m>=t.length&&(m=m-t.length),m},s=e.isHorizontal()?{[e.rtlTranslate?\"right\":\"left\"]:`${r.offset}px`}:{top:`${r.offset}px`},{from:n,to:l}=r,o=e.params.loop?-t.length:0,d=e.params.loop?t.length*2:t.length,c=[]"
+    },
+    "halka-arz-danismanligi": {
+        "comp": "G3",
+        "path": "/servisler/vergi-finans/kurumsal-finansman/halka-arz-danismanligi",
+        "raw_js": "[],r={\"container-start\":[],\"container-end\":[],\"wrapper-start\":[],\"wrapper-end\":[]};return me.Children.toArray(e).forEach(a=>{if(Ky(a))t.push(a);else if(a.props&&a.props.slot&&r[a.props.slot])r[a.props.slot].push(a);else if(a.props&&a.props.children){const s=Hy(a.props.children);s.length>0?s.forEach(n=>t.push(n)):r[\"container-end\"].push(a)}else r[\"container-end\"].push(a)}),{slides:t,slots:r}}function y3(e,t,r){if(!r)return null;const a=u=>{let m=u;return u<0?m=t.length+u:m>=t.length&&(m=m-t.length),m},s=e.isHorizontal()?{[e.rtlTranslate?\"right\":\"left\"]:`${r.offset}px`}:{top:`${r.offset}px`},{from:n,to:l}=r,o=e.params.loop?-t.length:0,d=e.params.loop?t.length*2:t.length,c=[]"
+    },
+    "sektor-analiz-raporlari": {
+        "comp": "K3",
+        "path": "/servisler/vergi-finans/kurumsal-finansman/sektor-analiz-raporlari",
+        "raw_js": "[],r={\"container-start\":[],\"container-end\":[],\"wrapper-start\":[],\"wrapper-end\":[]};return me.Children.toArray(e).forEach(a=>{if(Ky(a))t.push(a);else if(a.props&&a.props.slot&&r[a.props.slot])r[a.props.slot].push(a);else if(a.props&&a.props.children){const s=Hy(a.props.children);s.length>0?s.forEach(n=>t.push(n)):r[\"container-end\"].push(a)}else r[\"container-end\"].push(a)}),{slides:t,slots:r}}function y3(e,t,r){if(!r)return null;const a=u=>{let m=u;return u<0?m=t.length+u:m>=t.length&&(m=m-t.length),m},s=e.isHorizontal()?{[e.rtlTranslate?\"right\":\"left\"]:`${r.offset}px`}:{top:`${r.offset}px`},{from:n,to:l}=r,o=e.params.loop?-t.length:0,d=e.params.loop?t.length*2:t.length,c=[]"
+    },
+    "finansal-danismanliklar": {
+        "comp": "H3",
+        "path": "/servisler/vergi-finans/kurumsal-finansman/finansal-danismanliklar",
+        "raw_js": "[],r={\"container-start\":[],\"container-end\":[],\"wrapper-start\":[],\"wrapper-end\":[]};return me.Children.toArray(e).forEach(a=>{if(Ky(a))t.push(a);else if(a.props&&a.props.slot&&r[a.props.slot])r[a.props.slot].push(a);else if(a.props&&a.props.children){const s=Hy(a.props.children);s.length>0?s.forEach(n=>t.push(n)):r[\"container-end\"].push(a)}else r[\"container-end\"].push(a)}),{slides:t,slots:r}}function y3(e,t,r){if(!r)return null;const a=u=>{let m=u;return u<0?m=t.length+u:m>=t.length&&(m=m-t.length),m},s=e.isHorizontal()?{[e.rtlTranslate?\"right\":\"left\"]:`${r.offset}px`}:{top:`${r.offset}px`},{from:n,to:l}=r,o=e.params.loop?-t.length:0,d=e.params.loop?t.length*2:t.length,c=[]"
+    },
+    "ar-ge-yonetimi-ve-yasal-cerceveye-uyum-danismanligi": {
+        "comp": "U3",
+        "path": "/servisler/mevzuat-ve-uyum/ar-ge-yonetimi-ve-yasal-cerceveye-uyum-danismanligi",
+        "raw_js": "[],r={\"container-start\":[],\"container-end\":[],\"wrapper-start\":[],\"wrapper-end\":[]};return me.Children.toArray(e).forEach(a=>{if(Ky(a))t.push(a);else if(a.props&&a.props.slot&&r[a.props.slot])r[a.props.slot].push(a);else if(a.props&&a.props.children){const s=Hy(a.props.children);s.length>0?s.forEach(n=>t.push(n)):r[\"container-end\"].push(a)}else r[\"container-end\"].push(a)}),{slides:t,slots:r}}function y3(e,t,r){if(!r)return null;const a=u=>{let m=u;return u<0?m=t.length+u:m>=t.length&&(m=m-t.length),m},s=e.isHorizontal()?{[e.rtlTranslate?\"right\":\"left\"]:`${r.offset}px`}:{top:`${r.offset}px`},{from:n,to:l}=r,o=e.params.loop?-t.length:0,d=e.params.loop?t.length*2:t.length,c=[]"
+    },
+    "sozlesme-risk-yonetimi": {
+        "comp": "Y3",
+        "path": "/servisler/mevzuat-ve-uyum/sozlesme-risk-yonetimi",
+        "raw_js": "[],r={\"container-start\":[],\"container-end\":[],\"wrapper-start\":[],\"wrapper-end\":[]};return me.Children.toArray(e).forEach(a=>{if(Ky(a))t.push(a);else if(a.props&&a.props.slot&&r[a.props.slot])r[a.props.slot].push(a);else if(a.props&&a.props.children){const s=Hy(a.props.children);s.length>0?s.forEach(n=>t.push(n)):r[\"container-end\"].push(a)}else r[\"container-end\"].push(a)}),{slides:t,slots:r}}function y3(e,t,r){if(!r)return null;const a=u=>{let m=u;return u<0?m=t.length+u:m>=t.length&&(m=m-t.length),m},s=e.isHorizontal()?{[e.rtlTranslate?\"right\":\"left\"]:`${r.offset}px`}:{top:`${r.offset}px`},{from:n,to:l}=r,o=e.params.loop?-t.length:0,d=e.params.loop?t.length*2:t.length,c=[]"
+    },
+    "aile-anayasasi-ve-kurumsallasma-hizmetleri": {
+        "comp": "W3",
+        "path": "/servisler/mevzuat-ve-uyum/aile-anayasasi-ve-kurumsallasma-hizmetleri",
+        "raw_js": "[],r={\"container-start\":[],\"container-end\":[],\"wrapper-start\":[],\"wrapper-end\":[]};return me.Children.toArray(e).forEach(a=>{if(Ky(a))t.push(a);else if(a.props&&a.props.slot&&r[a.props.slot])r[a.props.slot].push(a);else if(a.props&&a.props.children){const s=Hy(a.props.children);s.length>0?s.forEach(n=>t.push(n)):r[\"container-end\"].push(a)}else r[\"container-end\"].push(a)}),{slides:t,slots:r}}function y3(e,t,r){if(!r)return null;const a=u=>{let m=u;return u<0?m=t.length+u:m>=t.length&&(m=m-t.length),m},s=e.isHorizontal()?{[e.rtlTranslate?\"right\":\"left\"]:`${r.offset}px`}:{top:`${r.offset}px`},{from:n,to:l}=r,o=e.params.loop?-t.length:0,d=e.params.loop?t.length*2:t.length,c=[]"
+    },
+    "genel-kurul-danismanligi": {
+        "comp": "X3",
+        "path": "/servisler/mevzuat-ve-uyum/genel-kurul-danismanligi",
+        "raw_js": "[],r={\"container-start\":[],\"container-end\":[],\"wrapper-start\":[],\"wrapper-end\":[]};return me.Children.toArray(e).forEach(a=>{if(Ky(a))t.push(a);else if(a.props&&a.props.slot&&r[a.props.slot])r[a.props.slot].push(a);else if(a.props&&a.props.children){const s=Hy(a.props.children);s.length>0?s.forEach(n=>t.push(n)):r[\"container-end\"].push(a)}else r[\"container-end\"].push(a)}),{slides:t,slots:r}}function y3(e,t,r){if(!r)return null;const a=u=>{let m=u;return u<0?m=t.length+u:m>=t.length&&(m=m-t.length),m},s=e.isHorizontal()?{[e.rtlTranslate?\"right\":\"left\"]:`${r.offset}px`}:{top:`${r.offset}px`},{from:n,to:l}=r,o=e.params.loop?-t.length:0,d=e.params.loop?t.length*2:t.length,c=[]"
+    },
+    "is-surecleri-ve-uyum-danismanligi": {
+        "comp": "Z3",
+        "path": "/servisler/mevzuat-ve-uyum/is-surecleri-ve-uyum-danismanligi",
+        "raw_js": "[],r={\"container-start\":[],\"container-end\":[],\"wrapper-start\":[],\"wrapper-end\":[]};return me.Children.toArray(e).forEach(a=>{if(Ky(a))t.push(a);else if(a.props&&a.props.slot&&r[a.props.slot])r[a.props.slot].push(a);else if(a.props&&a.props.children){const s=Hy(a.props.children);s.length>0?s.forEach(n=>t.push(n)):r[\"container-end\"].push(a)}else r[\"container-end\"].push(a)}),{slides:t,slots:r}}function y3(e,t,r){if(!r)return null;const a=u=>{let m=u;return u<0?m=t.length+u:m>=t.length&&(m=m-t.length),m},s=e.isHorizontal()?{[e.rtlTranslate?\"right\":\"left\"]:`${r.offset}px`}:{top:`${r.offset}px`},{from:n,to:l}=r,o=e.params.loop?-t.length:0,d=e.params.loop?t.length*2:t.length,c=[]"
+    },
+    "pay-devri-ve-pay-sahipligi-sozlesmeleri-danismanligi": {
+        "comp": "Q3",
+        "path": "/servisler/mevzuat-ve-uyum/pay-devri-ve-pay-sahipligi-sozlesmeleri-danismanligi",
+        "raw_js": "[],r={\"container-start\":[],\"container-end\":[],\"wrapper-start\":[],\"wrapper-end\":[]};return me.Children.toArray(e).forEach(a=>{if(Ky(a))t.push(a);else if(a.props&&a.props.slot&&r[a.props.slot])r[a.props.slot].push(a);else if(a.props&&a.props.children){const s=Hy(a.props.children);s.length>0?s.forEach(n=>t.push(n)):r[\"container-end\"].push(a)}else r[\"container-end\"].push(a)}),{slides:t,slots:r}}function y3(e,t,r){if(!r)return null;const a=u=>{let m=u;return u<0?m=t.length+u:m>=t.length&&(m=m-t.length),m},s=e.isHorizontal()?{[e.rtlTranslate?\"right\":\"left\"]:`${r.offset}px`}:{top:`${r.offset}px`},{from:n,to:l}=r,o=e.params.loop?-t.length:0,d=e.params.loop?t.length*2:t.length,c=[]"
+    },
+    "rekabet-uyum-ve-strateji-danismanligi": {
+        "comp": "J3",
+        "path": "/servisler/mevzuat-ve-uyum/rekabet-uyum-ve-strateji-danismanligi",
+        "raw_js": "[],r={\"container-start\":[],\"container-end\":[],\"wrapper-start\":[],\"wrapper-end\":[]};return me.Children.toArray(e).forEach(a=>{if(Ky(a))t.push(a);else if(a.props&&a.props.slot&&r[a.props.slot])r[a.props.slot].push(a);else if(a.props&&a.props.children){const s=Hy(a.props.children);s.length>0?s.forEach(n=>t.push(n)):r[\"container-end\"].push(a)}else r[\"container-end\"].push(a)}),{slides:t,slots:r}}function y3(e,t,r){if(!r)return null;const a=u=>{let m=u;return u<0?m=t.length+u:m>=t.length&&(m=m-t.length),m},s=e.isHorizontal()?{[e.rtlTranslate?\"right\":\"left\"]:`${r.offset}px`}:{top:`${r.offset}px`},{from:n,to:l}=r,o=e.params.loop?-t.length:0,d=e.params.loop?t.length*2:t.length,c=[]"
+    }
+}

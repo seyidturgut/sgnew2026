@@ -1,0 +1,727 @@
+{
+    "sirketdegerleme": {
+        "grid_sections": [
+            [
+                {
+                    "title": "Mevzuat Takibi",
+                    "desc": "Sürekli değişen yasalara uzman hakimiyetiyle tam uyum.",
+                    "icon": "ws"
+                },
+                {
+                    "title": "Mali Tasarruf",
+                    "desc": "Yasal indirim ve teşviklerle vergi yükünde optimize düşüş.",
+                    "icon": "X"
+                },
+                {
+                    "title": "Hazırlıklı Denetim",
+                    "desc": "Transparan süreç yönetimiyle incelemeleri sorunsuz atlatma.",
+                    "icon": "K"
+                },
+                {
+                    "title": "Hatasız Beyanname",
+                    "desc": "Cezaları tamamen ortadan kaldıran zamanında raporlama.",
+                    "icon": "re"
+                },
+                {
+                    "title": "Zaman Tasarrufu",
+                    "desc": "Operasyonel yükün uzmanlara devriyle ana işe odaklanma.",
+                    "icon": "ws"
+                },
+                {
+                    "title": "Küresel Yönetim",
+                    "desc": "Uluslararası vergi ve stopaj analizlerinde tam destek.",
+                    "icon": "Je"
+                }
+            ],
+            [
+                {
+                    "title": "Uluslararası Kurumlar",
+                    "desc": "Yurt dışındaki ilişkili şirketleri ve şubeleri ile işlem yapan kurumlar vergisi mükellefleri.",
+                    "icon": "Je"
+                },
+                {
+                    "title": "Serbest Bölge Şirketleri",
+                    "desc": "Serbest bölgedeki şirketler veya buralarda şubesi olan kurumlar için özel düzenlemeler.",
+                    "icon": "ve"
+                }
+            ],
+            [
+                {
+                    "title": "Doğru Benchmark Analizi",
+                    "desc": "Emsallere Uygunluk İlkesinin Sağlanmasında En Doğru ve Sağlıklı Benchmark Analizlerinin Yapılması.",
+                    "icon": "ut"
+                },
+                {
+                    "title": "Gelecek Odaklı Yaklaşım",
+                    "desc": "Sadece Geçmişe Etkili Değil Geleceğe Yönelik Transfer Fiyatlaması Hususunda İşletmenin Yönlendirilmesi.",
+                    "icon": "X"
+                }
+            ],
+            [
+                {
+                    "title": "Patent & Teknoloji Due Diligence",
+                    "desc": "Fikri mülkiyet haklarının, patentlerin geçerliliğinin ve teknolojik altyapının değerinin analizi.",
+                    "icon": "Di"
+                }
+            ],
+            [
+                {
+                    "title": "Satış & Birleşme",
+                    "desc": "Şirket satışı veya birleşme süreçlerinde adil fiyat tespiti.",
+                    "icon": "Oe"
+                },
+                {
+                    "title": "Yatırım Arayışı",
+                    "desc": "Yeni yatırımcı girişi veya sermaye artırımı öncesi hazırlık.",
+                    "icon": "ve"
+                },
+                {
+                    "title": "Stratejik Yönetim",
+                    "desc": "Ortak değişimi veya finansal yapılandırma kararları.",
+                    "icon": "Ba"
+                },
+                {
+                    "title": "Resmi Süreçler",
+                    "desc": "Halka arz, miras veya vergi odaklı yasal gereklilikler.",
+                    "icon": "K"
+                }
+            ],
+            [
+                {
+                    "title": "Çarpan Analizi Yöntemi",
+                    "desc": "Sektördeki benzer şirketlerin piyasa değerleri üzerinden yapılan piyasa bazlı karşılaştırma.",
+                    "icon": "X"
+                },
+                {
+                    "title": "İndirgenmiş Nakit Akışı (DCF)",
+                    "desc": "Gelecek kazançların bugünkü değere indirgenmesiyle hesaplanan, büyüme odaklı projeksiyon.",
+                    "icon": "Ba"
+                },
+                {
+                    "title": "Benzer Şirket Karşılaştırması",
+                    "desc": "Sektör standartları, kârlılık ve borç oranları baz alınarak yapılan pratik analiz.",
+                    "icon": "Q"
+                }
+            ],
+            [
+                {
+                    "title": "Mali Hazırlık",
+                    "desc": "Mali tabloların SPK standartlarına uygun hale getirilmesi.",
+                    "icon": "ut"
+                },
+                {
+                    "title": "Yasal Uyum",
+                    "desc": "İzahname, bağımsız denetim ve diğer yasal dokümantasyon hazırlığı.",
+                    "icon": "re"
+                },
+                {
+                    "title": "Roadshow Yönetimi",
+                    "desc": "Yatırımcı toplantıları ve tanıtım faaliyetlerinin koordinasyonu.",
+                    "icon": "Qa"
+                },
+                {
+                    "title": "SPK & BIST Takibi",
+                    "desc": "Resmi kurumlarla olan tüm yazışmaların ve süreçlerin yönetimi.",
+                    "icon": "E1"
+                }
+            ]
+        ],
+        "lists": []
+    },
+    "duediligence": {
+        "grid_sections": [
+            [
+                {
+                    "title": "Riskleri Minimize Edin",
+                    "desc": "Gizli mali yükümlülükleri, bekleyen hukuki davaları ve operasyonel dar boğazları önceden görün.",
+                    "icon": "wn"
+                },
+                {
+                    "title": "Gerçek Değeri Belirleyin",
+                    "desc": "Varlıkların, borçların ve nakit akışının doğrulanmasıyla yatırımın gerçek değerine ulaşın.",
+                    "icon": "X"
+                },
+                {
+                    "title": "Güven İnşa Edin",
+                    "desc": "Yatırımcılar ve paydaşlar arasında şeffaf bir bilgi akışı sağlayarak süreci hızlandırın.",
+                    "icon": "K"
+                }
+            ],
+            [
+                {
+                    "title": "Finansal Due Diligence",
+                    "desc": "Nakit akışı, karlılık analizleri, çalışma sermayesi ihtiyacı ve bilanço kalemlerinin detaylı doğrulanması.",
+                    "icon": "ut"
+                },
+                {
+                    "title": "Vergisel Due Diligence",
+                    "desc": "Geçmiş dönem vergi beyanlarının analizi, potansiyel vergi riskleri ve bekleyen istisnaların değerlendirilmesi.",
+                    "icon": "fe"
+                },
+                {
+                    "title": "Hukuki Due Diligence",
+                    "desc": "Şirket esas sözleşmesi, hissedarlık yapısı, ticari sözleşmeler ve bekleyen dava risklerinin hukuki boyutta incelenmesi.",
+                    "icon": "Jn"
+                }
+            ]
+        ],
+        "lists": []
+    },
+    "bordrooutsource": {
+        "grid_sections": [
+            [
+                {
+                    "title": "TEYDEB Uyum",
+                    "desc": "Ar-Ge faaliyeti yürüten firmalara özel teknik kadro desteği.",
+                    "icon": "Va"
+                },
+                {
+                    "title": "Teknopark Danışmanlığı",
+                    "desc": "Bölge özelindeki teşviklerin tam ve hatasız uygulanması.",
+                    "icon": "Oe"
+                },
+                {
+                    "title": "Mevzuat Takibi",
+                    "desc": "Değişen yasal şartlara anlık uyum garantisi.",
+                    "icon": "Ix"
+                },
+                {
+                    "title": "En Yüksek Seviye Fayda",
+                    "desc": "İşletme yapınıza uygun maksimum teşvik kazanımı.",
+                    "icon": "X"
+                }
+            ]
+        ],
+        "lists": []
+    },
+    "argetasarimraporu": {
+        "grid_sections": [
+            [
+                {
+                    "title": "Yeni Vergi Dilimleri",
+                    "desc": "%15'ten başlayıp yüksek gelir grupları için %40'a kadar kademelendirilen yeni tarifeler.",
+                    "icon": "X"
+                }
+            ]
+        ],
+        "lists": []
+    },
+    "transferfiyatlandirmasi": {
+        "grid_sections": [
+            [
+                {
+                    "title": "BMVD Kayıtlı Şirketler",
+                    "desc": "Büyük Mükellefler Vergi Dairesi Başkanlığı'na kayıtlı tüm şirketler için zorunlu ve kritik bir süreçtir.",
+                    "icon": "Q"
+                }
+            ],
+            [
+                {
+                    "title": "Optimum Vergi Yönetimi",
+                    "desc": "İşletmenin ve İşletmenin İçinde Bulunduğu Grubun Optimum Vergi Düzeyinde Kalması.",
+                    "icon": "K"
+                },
+                {
+                    "title": "Yeniden Yapılandırma Rehberliği",
+                    "desc": "İşletmenin Gerek Yurt İçinde Gerekse Yurt Dışında Yeniden Yapılandırma İşlemlerinde Rehberliğin Sağlanması.",
+                    "icon": "re"
+                }
+            ],
+            [
+                {
+                    "title": "Varlık Tanımlama",
+                    "desc": "Ruhsat, patent veya lisansın kapsamı ve haklarının belirlenmesi.",
+                    "icon": "fe"
+                },
+                {
+                    "title": "Pazar ve Rekabet",
+                    "desc": "Sektörel benzerlerle kıyaslama ve yasal çerçeve analizi.",
+                    "icon": "Nn"
+                },
+                {
+                    "title": "Modelleme",
+                    "desc": "Gelecekteki potansiyel getirilerin bugünkü değerinin hesaplanması.",
+                    "icon": "X"
+                },
+                {
+                    "title": "Raporlama",
+                    "desc": "Stratejik kararlara yön veren kapsamlı ve şeffaf rapor sunumu.",
+                    "icon": "re"
+                }
+            ]
+        ],
+        "lists": []
+    },
+    "kurumlargelirvergisitasdiki": {
+        "grid_sections": [
+            [
+                {
+                    "title": "Vergi İncelemesi Riski",
+                    "desc": "Tam Tasdik yaptıran mükellefler öncelikli incelenecek firma olmaktan çıkarak inceleme riskini minimize ederler.",
+                    "icon": "fe"
+                },
+                {
+                    "title": "Doğru Beyan Güvencesi",
+                    "desc": "Kurumlar vergisi beyannamenizin mevzuata tam uygun olarak verilmesi sağlanır.",
+                    "icon": "re"
+                },
+                {
+                    "title": "Risk Bertarafı",
+                    "desc": "Rutin ve önleyici denetimlerle muhasebe hataları zamanında düzeltilir, bilmeden alınan riskler ortadan kalkar.",
+                    "icon": "K"
+                },
+                {
+                    "title": "Aktif Danışmanlık",
+                    "desc": "Vergi kanunlarındaki değişikliklerin getirdiği riskler ve belirsizlikler konusunda proaktif destek alınır.",
+                    "icon": "Q"
+                },
+                {
+                    "title": "Zorunlu Rapor Muafiyeti",
+                    "desc": "Ar-Ge/Tasarım İndirimi gibi istisnalar için ayrıca YMM raporu düzenletilmesine gerek kalmaz.",
+                    "icon": "Oe"
+                },
+                {
+                    "title": "Nakden İade Hakkı",
+                    "desc": "Tevkif yoluyla kesilen vergilerin 500 bin liraya kadar olan kısmını nakden iade alma hakkı sağlar.",
+                    "icon": "ut"
+                },
+                {
+                    "title": "Müşavir Muafiyeti",
+                    "desc": "Belirli limitleri aşan firmaların beyannamelerini SMMM'ye imzalatma zorunluluğu Tam Tasdik ile kalkar.",
+                    "icon": "V"
+                },
+                {
+                    "title": "İTUS Sistemine Geçiş",
+                    "desc": "İndirimli Teminat Uygulaması Sistemi'ne (İTUS) dahil olmak için Tam Tasdik sözleşmesi temel şarttır.",
+                    "icon": "tl"
+                }
+            ]
+        ],
+        "lists": []
+    },
+    "finansaldanismanliklar": {
+        "grid_sections": [
+            [
+                {
+                    "title": "360 Derece Bakış",
+                    "desc": "Kamu ve özel sektör tecrübesinin birleşimiyle mevzuatın her iki tarafını da anlayan yorumlama kabiliyeti.",
+                    "icon": "fe"
+                },
+                {
+                    "title": "Katma Değer Üretimi",
+                    "desc": "Sadece vergi riskini yönetmekle kalmıyor, teşvik ve desteklerle şirketinize finansal fayda yaratıyoruz.",
+                    "icon": "ut"
+                }
+            ],
+            [
+                {
+                    "title": "Yatırım & Fonlama",
+                    "desc": "Yatırımcı güvenini kazanmak ve fon turlarını kolaylaştırmak için.",
+                    "icon": "X"
+                },
+                {
+                    "title": "M&A ve Devirler",
+                    "desc": "Birleşme, satın alma ve hisse devirlerinde adil fiyat tespiti.",
+                    "icon": "Oe"
+                },
+                {
+                    "title": "Lisanslama & SaaS",
+                    "desc": "Yazılım ürünleri için doğru lisans bedelleri ve SaaS gelir modelleri.",
+                    "icon": "re"
+                },
+                {
+                    "title": "Vergi Planlaması",
+                    "desc": "Fikri mülkiyet transferlerinde uluslararası vergi uyumu.",
+                    "icon": "K"
+                },
+                {
+                    "title": "Kredi & Finansman",
+                    "desc": "Maddi olmayan varlıkların teminat olarak değerlendirilmesi.",
+                    "icon": "Za"
+                },
+                {
+                    "title": "Stratejik Planlama",
+                    "desc": "Büyüme hedeflerini belirlemek ve rekabet analizi yapmak için.",
+                    "icon": "ve"
+                }
+            ],
+            [
+                {
+                    "title": "Varlık Belirleme",
+                    "desc": "Yazılım, algoritma, veri tabanı ve fikri mülkiyet haklarının tespiti.",
+                    "icon": "fe"
+                },
+                {
+                    "title": "Teknik Analiz",
+                    "desc": "Teknolojinin özgünlüğü, güncelliği ve rekabet avantajının ölçümü.",
+                    "icon": "Va"
+                },
+                {
+                    "title": "Risk & Sürdürülebilirlik",
+                    "desc": "Siber güvenlik, entegrasyon yeteneği ve ölçeklenebilirlik analizi.",
+                    "icon": "K"
+                },
+                {
+                    "title": "Finansal Raporlama",
+                    "desc": "Pazar potansiyeli ve yatırımcı ilgisini içeren şeffaf raporlama.",
+                    "icon": "re"
+                }
+            ],
+            [
+                {
+                    "title": "Sağlık & İlaç",
+                    "desc": "Hastane ruhsatları, ilaç üretim izinleri ve tıbbi cihaz tescilleri.",
+                    "icon": "h1"
+                },
+                {
+                    "title": "Enerji Sektörü",
+                    "desc": "Yenilenebilir enerji üretim lisansları ve maden işletme hakları.",
+                    "icon": "Oa"
+                },
+                {
+                    "title": "Teknoloji",
+                    "desc": "Faydalı model tescilleri, patent portföyleri ve yazılım lisansları.",
+                    "icon": "Di"
+                },
+                {
+                    "title": "Sanayi & Üretim",
+                    "desc": "Özel üretim izinleri, kotalar ve marka tescil hakları.",
+                    "icon": "Gx"
+                }
+            ],
+            [
+                {
+                    "title": "Stratejik Planlama",
+                    "desc": "Piyasa koşullarına göre en uygun halka arz zamanlamasının belirlenmesi.",
+                    "icon": "Nn"
+                }
+            ],
+            [
+                {
+                    "title": "Yatırım Fizibilitesi",
+                    "desc": "Yeni projelerin finansal karlılığının değerlendirilmesi.",
+                    "icon": "Ox"
+                },
+                {
+                    "title": "Yatırımcı Sunumu",
+                    "desc": "Finans kuruluşları ile görüşmeler öncesinde profesyonel hazırlık.",
+                    "icon": "Qa"
+                },
+                {
+                    "title": "Risk Analizi",
+                    "desc": "Finansal risklerin ve fırsatların senaryo bazlı öngörülmesi.",
+                    "icon": "K"
+                },
+                {
+                    "title": "Stratejik Planlama",
+                    "desc": "Şirketin uzun vadeli büyüme ve finansal hedeflerinin belirlenmesi.",
+                    "icon": "ve"
+                }
+            ]
+        ],
+        "lists": [
+            [
+                "Nakit Akış Tabloları",
+                "Vergi Beyannameleri",
+                "Son 3 Yıllık Bilanço",
+                "Gelir Tabloları",
+                "Faaliyet Raporları",
+                "Varlık & Borç Listeleri"
+            ]
+        ]
+    },
+    "sgk-tesvik": {
+        "grid_sections": [
+            [
+                {
+                    "title": "İşveren Teşvikleri Yönetimi",
+                    "desc": "SGK teşvik süreçlerinin kapsamlı ve yasal uyumlu yönetimi.",
+                    "icon": "K"
+                },
+                {
+                    "title": "Personel Sorgulama",
+                    "desc": "Çalışanların tüm teşvik uygunluklarının sistem üzerinden sorgulanması.",
+                    "icon": "fe"
+                },
+                {
+                    "title": "Maliyet Analizi",
+                    "desc": "Personel bazında yararlanılabilecek teşviklerin finansal analizleri.",
+                    "icon": "ut"
+                },
+                {
+                    "title": "Süre Takibi",
+                    "desc": "Teşvik sürelerinin personel bazında otomatik ve hassas takibi.",
+                    "icon": "tl"
+                },
+                {
+                    "title": "İstihdam Değer Takibi",
+                    "desc": "Teşvikten yararlanmak için gerekli ortalama istihdam değerlerinin takibi.",
+                    "icon": "Q"
+                },
+                {
+                    "title": "Avantaj Raporlaması",
+                    "desc": "Elde edilen maliyet avantajının aylık şeffaf raporlaması.",
+                    "icon": "d1"
+                }
+            ]
+        ],
+        "lists": []
+    },
+    "markadegerleme": {
+        "grid_sections": [
+            [
+                {
+                    "title": "M&A Süreçleri",
+                    "desc": "Birleşme ve satın alımlarda markanın işleme doğrudan etkisi.",
+                    "icon": "Oe"
+                }
+            ],
+            [
+                {
+                    "title": "Varlık & Pazar Analizi",
+                    "desc": "Maddi ve manevi tüm varlıkların, bilinirlik ve itibar verileriyle analizi.",
+                    "icon": "fe"
+                }
+            ]
+        ],
+        "lists": []
+    },
+    "birlesmevedevralma": {
+        "grid_sections": [
+            [
+                {
+                    "title": "Lisanslama & Franchise",
+                    "desc": "Doğru fiyatlandırma ile sürdürülebilir gelir kaynakları.",
+                    "icon": "re"
+                },
+                {
+                    "title": "Yatırım & Sermaye",
+                    "desc": "Yatırımcılar için pazar konumu ve potansiyel gelir analizi.",
+                    "icon": "ve"
+                },
+                {
+                    "title": "Büyüme Stratejileri",
+                    "desc": "Bilinirlik ve sadakatin finansal etkisinin ölçümü.",
+                    "icon": "Ba"
+                },
+                {
+                    "title": "Finansman Erişimi",
+                    "desc": "Kredi değerlendirmelerinde marka gücünün teminat etkisi.",
+                    "icon": "K"
+                },
+                {
+                    "title": "Halka Arz (IPO)",
+                    "desc": "Borsaya açılma süreçlerinde yatırımcı güveninin tesisi.",
+                    "icon": "X"
+                }
+            ],
+            [
+                {
+                    "title": "Stratejik Planlama",
+                    "desc": "Yönetim kurulu sunumları ve 5 yıllık büyüme planları için stratejik veri kaynağı.",
+                    "icon": "u1"
+                },
+                {
+                    "title": "Pazar Konumlandırma",
+                    "desc": "Şirketin pazar payı ve marka gücünün sektörel trendlerle uyumu.",
+                    "icon": "Je"
+                }
+            ]
+        ],
+        "lists": []
+    },
+    "pazaranalizi": {
+        "grid_sections": [
+            [
+                {
+                    "title": "Algısal Değer Ölçümü",
+                    "desc": "Tüketici gözündeki duygusal bağın anket ve veri analiziyle tespiti.",
+                    "icon": "Q"
+                },
+                {
+                    "title": "Finansal Modelleme",
+                    "desc": "Tahmini gelir akışları ve piyasa çarpanlarıyla nihai hesaplamalar.",
+                    "icon": "Za"
+                }
+            ]
+        ],
+        "lists": []
+    },
+    "ihalebedelitespiti": {
+        "grid_sections": [
+            [
+                {
+                    "title": "Kamu & Özel İhaleler",
+                    "desc": "Devlet kurumları veya büyük ölçekli özel sektör ihaleleri için rekabet analizi.",
+                    "icon": "el"
+                },
+                {
+                    "title": "Büyük Ölçekli Altyapı",
+                    "desc": "İnşaat, enerji ve savunma sanayi gibi yüksek maliyetli ve uzun vadeli projeler.",
+                    "icon": "n1"
+                },
+                {
+                    "title": "Uluslararası Teklifler",
+                    "desc": "Yurt dışı projelerinde döviz kurları ve bölgesel maliyetlerin analizi.",
+                    "icon": "m1"
+                },
+                {
+                    "title": "Yatırım Getirisi (ROI)",
+                    "desc": "Projenin finansal getirisinin şirket hedefleriyle uyumunun ölçülmesi.",
+                    "icon": "X"
+                },
+                {
+                    "title": "Risk Yönetimi",
+                    "desc": "Operasyonel ve finansal risklerin teklif bedeline doğru yansıtılması.",
+                    "icon": "K"
+                }
+            ],
+            [
+                {
+                    "title": "Şartname Analizi",
+                    "desc": "İhale kapsamı, teknik gereksinimler ve değerlendirme kriterlerinin incelenmesi.",
+                    "icon": "fe"
+                },
+                {
+                    "title": "Maliyet & Kârlılık",
+                    "desc": "İş gücü, malzeme ve lojistik giderlerinin kalem kalem hesaplanması.",
+                    "icon": "Ox"
+                },
+                {
+                    "title": "Rekabet Analizi",
+                    "desc": "Rakip fiyat politikaları ve piyasa trendlerinin karşılaştırılması.",
+                    "icon": "ut"
+                },
+                {
+                    "title": "Nakit Akışı Planlama",
+                    "desc": "Projenin finansman ihtiyacı ve ödeme planlarının modellenmesi.",
+                    "icon": "qx"
+                },
+                {
+                    "title": "Risk & Strateji",
+                    "desc": "Döviz kuru ve tedarik zinciri gibi risklerin fiyatlandırılması.",
+                    "icon": "wn"
+                },
+                {
+                    "title": "Nihai Teklif",
+                    "desc": "Tüm analizler ışığında en doğru teklif bedelinin raporlanması.",
+                    "icon": "ve"
+                }
+            ]
+        ],
+        "lists": []
+    },
+    "halkaarzdanismanligi": {
+        "grid_sections": [
+            [
+                {
+                    "title": "Halka Arza Hazırlık",
+                    "desc": "Borsa İstanbul yıldız pazar veya ana pazar için kapsamlı kurumsal hazırlık.",
+                    "icon": "La"
+                },
+                {
+                    "title": "Girişim Sermayesi (GSP)",
+                    "desc": "Büyüme potansiyeli yüksek şirketler için Girişim Sermayesi Pazarı'na giriş.",
+                    "icon": "X"
+                },
+                {
+                    "title": "Kitlesel Fonlama",
+                    "desc": "Yenilikçi projeler için kitlesel fonlama (Crowdfunding) başvuru danışmanlığı.",
+                    "icon": "Q"
+                },
+                {
+                    "title": "Yasal Uyum",
+                    "desc": "SPK ve BIST mevzuatına tam uyumun sağlanması ve denetim süreçleri.",
+                    "icon": "K"
+                },
+                {
+                    "title": "Mali Tablo Analizi",
+                    "desc": "Finansal verilerin halka arz standartlarında revize edilmesi ve raporlanması.",
+                    "icon": "Tc"
+                }
+            ],
+            [
+                {
+                    "title": "Ön Değerlendirme",
+                    "desc": "Şirketin halka arz uygunluğu analizi ve yol haritasının oluşturulması.",
+                    "icon": "fe"
+                }
+            ]
+        ],
+        "lists": []
+    },
+    "sektoranalizraporlari": {
+        "grid_sections": [
+            [
+                {
+                    "title": "Yatırım ve Büyüme Stratejileri",
+                    "desc": "Yeni pazarlara giriş veya mevcut faaliyetleri ölçeklendirmek için risk ve fırsat analizi.",
+                    "icon": "X"
+                },
+                {
+                    "title": "Resmi Başvurular ve Destekler",
+                    "desc": "Halka arz izahnameleri, proje, teşvik ve devlet desteği başvuruları için profesyonel içerik.",
+                    "icon": "Ix"
+                },
+                {
+                    "title": "Rekabet Analizi",
+                    "desc": "Rakiplere göre konumlandırma, güçlü ve zayıf yönlerin (SWOT) tespiti.",
+                    "icon": "ad"
+                },
+                {
+                    "title": "M&A Süreçleri",
+                    "desc": "Birleşme ve satın alma süreçlerinde hedef sektörün büyüme dinamiklerinin analizi.",
+                    "icon": "Q"
+                }
+            ]
+        ],
+        "lists": []
+    },
+    "argeveyasalcerceve": {
+        "grid_sections": [],
+        "lists": [
+            [
+                "read",
+                "resolveKeyframes",
+                "update",
+                "preRender",
+                "render",
+                "postRender"
+            ]
+        ]
+    },
+    "vergiyonetimdanismanligi": {
+        "grid_sections": [],
+        "lists": [
+            [
+                "Yasal güvenlik ve uyum",
+                "Cezai risklerin minimizasyonu",
+                "Mali sürdürülebilirlik",
+                "Vergisel avantaj kullanımı",
+                "Rekabet avantajı yaratma",
+                "Yatırımcı güveni artışı"
+            ],
+            [
+                "Şirket Sahipleri",
+                "E-Ticaret Girişimcileri",
+                "Freelance Çalışanlar",
+                "Uluslararası Ticaret",
+                "Emlak Yatırımcıları",
+                "İnceleme Altındaki Mükellef"
+            ]
+        ]
+    },
+    "kosgeb-destekleri": {
+        "grid_sections": [],
+        "lists": [
+            [
+                "Pazarlama ve satış odaklı harcamalar.",
+                "Seri üretim ve imalat aşaması giderleri.",
+                "Hazır teknoloji satın alma ve lisans giderleri.",
+                "Yurt dışı merkezlerde yapılan Ar-Ge harcamaları.",
+                "Gayrimenkul ve inşaat alımı giderleri.",
+                "Rutin bakım ve onarım faaliyetleri."
+            ]
+        ]
+    }
+}

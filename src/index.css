@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-sans antialiased text-secondary;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-serif;
+  }
+}
+/* AI Search Bar Styles from index.html */
+@property --border-angle {
+  syntax: "<angle>";
+  inherits: true;
+  initial-value: 0turn;
+}
+
+.ai-search-bar {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  width: 100%;
+  max-width: 700px;
+  padding: 12px 18px 12px 20px;
+  border-radius: 999px;
+  border: 3px solid transparent;
+  background: 
+    linear-gradient(white, white) padding-box,
+    conic-gradient(from var(--border-angle), transparent 70%, #ff8400 80%, #ff8400 90%, transparent 100%) border-box;
+  box-shadow: 0 12px 30px rgba(255, 132, 0, 0.25);
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;
+  --border-angle: 0turn;
+  animation: bg-spin 4s linear infinite;
+}
+
+@keyframes bg-spin {
+  to {
+    --border-angle: 1turn;
+  }
+}
+
+.ai-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #ff8400, #ffb347);
+  flex-shrink: 0;
+}
+
+.ai-icon svg {
+  width: 18px;
+  height: 18px;
+  fill: #fff;
+}
+
+.ai-placeholder {
+  flex: 1;
+  color: #a3a9b3;
+  font-size: 18px;
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ai-badge {
+  padding: 8px 18px;
+  border-radius: 999px;
+  background: #f4f4f4;
+  color: #8c8f98;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  flex-shrink: 0;
+}

@@ -1,0 +1,234 @@
+{
+    "grids": [
+        {
+            "title": "Yeni Vergi Dilimleri",
+            "desc": "%15'ten başlayıp yüksek gelir grupları için %40'a kadar kademelendirilen yeni tarifeler.",
+            "icon": "X"
+        },
+        {
+            "title": "Asgari Ücret Muafiyeti",
+            "desc": "2022 itibarıyla asgari ücretin gelir ve damga vergisinden muaf tutulması.",
+            "icon": "K"
+        },
+        {
+            "title": "Beyanname Yaygınlaşması",
+            "desc": "Birden fazla gelire sahip olanlar için beyanname verme yükümlülüğünün genişlemesi.",
+            "icon": "re"
+        },
+        {
+            "title": "Uluslararası Paylaşım (CRS)",
+            "desc": "Yurt dışı finansal bilgilerin Türkiye ile karşılıklı paylaşımı ve vergi etkileri.",
+            "icon": "Je"
+        },
+        {
+            "title": "Genç Girişimci İstisnası",
+            "desc": "29 yaş altı girişimciler için 3 yıl süreyle sağlanan gelir vergisi muafiyeti.",
+            "icon": "Q"
+        },
+        {
+            "title": "BMVD Kayıtlı Şirketler",
+            "desc": "Büyük Mükellefler Vergi Dairesi Başkanlığı'na kayıtlı tüm şirketler için zorunlu ve kritik bir süreçtir.",
+            "icon": "Q"
+        },
+        {
+            "title": "Uluslararası Kurumlar",
+            "desc": "Yurt dışındaki ilişkili şirketleri ve şubeleri ile işlem yapan kurumlar vergisi mükellefleri.",
+            "icon": "Je"
+        },
+        {
+            "title": "Serbest Bölge Şirketleri",
+            "desc": "Serbest bölgedeki şirketler veya buralarda şubesi olan kurumlar için özel düzenlemeler.",
+            "icon": "ve"
+        },
+        {
+            "title": "Doğru Benchmark Analizi",
+            "desc": "Emsallere Uygunluk İlkesinin Sağlanmasında En Doğru ve Sağlıklı Benchmark Analizlerinin Yapılması.",
+            "icon": "ut"
+        },
+        {
+            "title": "Gelecek Odaklı Yaklaşım",
+            "desc": "Sadece Geçmişe Etkili Değil Geleceğe Yönelik Transfer Fiyatlaması Hususunda İşletmenin Yönlendirilmesi.",
+            "icon": "X"
+        },
+        {
+            "title": "Optimum Vergi Yönetimi",
+            "desc": "İşletmenin ve İşletmenin İçinde Bulunduğu Grubun Optimum Vergi Düzeyinde Kalması.",
+            "icon": "K"
+        },
+        {
+            "title": "Yeniden Yapılandırma Rehberliği",
+            "desc": "İşletmenin Gerek Yurt İçinde Gerekse Yurt Dışında Yeniden Yapılandırma İşlemlerinde Rehberliğin Sağlanması.",
+            "icon": "re"
+        },
+        {
+            "title": "Vergi İncelemesi Riski",
+            "desc": "Tam Tasdik yaptıran mükellefler öncelikli incelenecek firma olmaktan çıkarak inceleme riskini minimize ederler.",
+            "icon": "fe"
+        },
+        {
+            "title": "Doğru Beyan Güvencesi",
+            "desc": "Kurumlar vergisi beyannamenizin mevzuata tam uygun olarak verilmesi sağlanır.",
+            "icon": "re"
+        },
+        {
+            "title": "Risk Bertarafı",
+            "desc": "Rutin ve önleyici denetimlerle muhasebe hataları zamanında düzeltilir, bilmeden alınan riskler ortadan kalkar.",
+            "icon": "K"
+        },
+        {
+            "title": "Aktif Danışmanlık",
+            "desc": "Vergi kanunlarındaki değişikliklerin getirdiği riskler ve belirsizlikler konusunda proaktif destek alınır.",
+            "icon": "Q"
+        },
+        {
+            "title": "Zorunlu Rapor Muafiyeti",
+            "desc": "Ar-Ge/Tasarım İndirimi gibi istisnalar için ayrıca YMM raporu düzenletilmesine gerek kalmaz.",
+            "icon": "Oe"
+        },
+        {
+            "title": "Nakden İade Hakkı",
+            "desc": "Tevkif yoluyla kesilen vergilerin 500 bin liraya kadar olan kısmını nakden iade alma hakkı sağlar.",
+            "icon": "ut"
+        },
+        {
+            "title": "Müşavir Muafiyeti",
+            "desc": "Belirli limitleri aşan firmaların beyannamelerini SMMM'ye imzalatma zorunluluğu Tam Tasdik ile kalkar.",
+            "icon": "V"
+        },
+        {
+            "title": "İTUS Sistemine Geçiş",
+            "desc": "İndirimli Teminat Uygulaması Sistemi'ne (İTUS) dahil olmak için Tam Tasdik sözleşmesi temel şarttır.",
+            "icon": "tl"
+        },
+        {
+            "title": "360 Derece Bakış",
+            "desc": "Kamu ve özel sektör tecrübesinin birleşimiyle mevzuatın her iki tarafını da anlayan yorumlama kabiliyeti.",
+            "icon": "fe"
+        },
+        {
+            "title": "Katma Değer Üretimi",
+            "desc": "Sadece vergi riskini yönetmekle kalmıyor, teşvik ve desteklerle şirketinize finansal fayda yaratıyoruz.",
+            "icon": "ut"
+        },
+        {
+            "title": "Mevzuat Takibi",
+            "desc": "Sürekli değişen yasalara uzman hakimiyetiyle tam uyum.",
+            "icon": "ws"
+        },
+        {
+            "title": "Mali Tasarruf",
+            "desc": "Yasal indirim ve teşviklerle vergi yükünde optimize düşüş.",
+            "icon": "X"
+        },
+        {
+            "title": "Hazırlıklı Denetim",
+            "desc": "Transparan süreç yönetimiyle incelemeleri sorunsuz atlatma.",
+            "icon": "K"
+        },
+        {
+            "title": "Hatasız Beyanname",
+            "desc": "Cezaları tamamen ortadan kaldıran zamanında raporlama.",
+            "icon": "re"
+        },
+        {
+            "title": "Zaman Tasarrufu",
+            "desc": "Operasyonel yükün uzmanlara devriyle ana işe odaklanma.",
+            "icon": "ws"
+        },
+        {
+            "title": "Küresel Yönetim",
+            "desc": "Uluslararası vergi ve stopaj analizlerinde tam destek.",
+            "icon": "Je"
+        },
+        {
+            "title": "Finansal Due Diligence",
+            "desc": "Nakit akışı, karlılık analizleri, çalışma sermayesi ihtiyacı ve bilanço kalemlerinin detaylı doğrulanması.",
+            "icon": "ut"
+        },
+        {
+            "title": "Vergisel Due Diligence",
+            "desc": "Geçmiş dönem vergi beyanlarının analizi, potansiyel vergi riskleri ve bekleyen istisnaların değerlendirilmesi.",
+            "icon": "fe"
+        },
+        {
+            "title": "Hukuki Due Diligence",
+            "desc": "Şirket esas sözleşmesi, hissedarlık yapısı, ticari sözleşmeler ve bekleyen dava risklerinin hukuki boyutta incelenmesi.",
+            "icon": "Jn"
+        },
+        {
+            "title": "Patent & Teknoloji Due Diligence",
+            "desc": "Fikri mülkiyet haklarının, patentlerin geçerliliğinin ve teknolojik altyapının değerinin analizi.",
+            "icon": "Di"
+        },
+        {
+            "title": "TEYDEB Uyum",
+            "desc": "Ar-Ge faaliyeti yürüten firmalara özel teknik kadro desteği.",
+            "icon": "Va"
+        },
+        {
+            "title": "Teknopark Danışmanlığı",
+            "desc": "Bölge özelindeki teşviklerin tam ve hatasız uygulanması.",
+            "icon": "Oe"
+        },
+        {
+            "title": "Mevzuat Takibi",
+            "desc": "Değişen yasal şartlara anlık uyum garantisi.",
+            "icon": "Ix"
+        },
+        {
+            "title": "En Yüksek Seviye Fayda",
+            "desc": "İşletme yapınıza uygun maksimum teşvik kazanımı.",
+            "icon": "X"
+        }
+    ],
+    "lists": [
+        [
+            "read",
+            "resolveKeyframes",
+            "update",
+            "preRender",
+            "render",
+            "postRender"
+        ],
+        [
+            "https://sg2026.ey08.co.uk/wp-content/uploads/argera.png",
+            "https://sg2026.ey08.co.uk/wp-content/uploads/edanisman.png",
+            "https://sg2026.ey08.co.uk/wp-content/uploads/legalmatic.png",
+            "https://sg2026.ey08.co.uk/wp-content/uploads/siba.png",
+            "https://sg2026.ey08.co.uk/wp-content/uploads/sparks.png",
+            "https://sg2026.ey08.co.uk/wp-content/uploads/wecover.png"
+        ],
+        [
+            "Yasal güvenlik ve uyum",
+            "Cezai risklerin minimizasyonu",
+            "Mali sürdürülebilirlik",
+            "Vergisel avantaj kullanımı",
+            "Rekabet avantajı yaratma",
+            "Yatırımcı güveni artışı"
+        ],
+        [
+            "Şirket Sahipleri",
+            "E-Ticaret Girişimcileri",
+            "Freelance Çalışanlar",
+            "Uluslararası Ticaret",
+            "Emlak Yatırımcıları",
+            "İnceleme Altındaki Mükellef"
+        ],
+        [
+            "Pazarlama ve satış odaklı harcamalar.",
+            "Seri üretim ve imalat aşaması giderleri.",
+            "Hazır teknoloji satın alma ve lisans giderleri.",
+            "Yurt dışı merkezlerde yapılan Ar-Ge harcamaları.",
+            "Gayrimenkul ve inşaat alımı giderleri.",
+            "Rutin bakım ve onarım faaliyetleri."
+        ],
+        [
+            "Nakit Akış Tabloları",
+            "Vergi Beyannameleri",
+            "Son 3 Yıllık Bilanço",
+            "Gelir Tabloları",
+            "Faaliyet Raporları",
+            "Varlık & Borç Listeleri"
+        ]
+    ]
+}
