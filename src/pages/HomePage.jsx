@@ -9,19 +9,19 @@ import Newsletter from '../components/home/Newsletter'
 import BlogSlider from '../components/home/BlogSlider'
 import InfoGrid from '../components/home/InfoGrid'
 
-const HomePage = () =\u003e {
+const HomePage = () => {
     return (
-\u003cmain className = "pt-20"\u003e
-\u003cHero /\u003e
-\u003cServices /\u003e
-\u003cDigitalInvestments /\u003e
-\u003cSuccessStories /\u003e
-\u003cAnalysisLoop /\u003e
-\u003cTrainingEvents /\u003e
-\u003cNewsletter /\u003e
-\u003cBlogSlider /\u003e
-\u003cInfoGrid /\u003e
-\u003c / main\u003e
+        <main className="pt-20">
+            <Hero />
+            <Services />
+            <DigitalInvestments />
+            <SuccessStories />
+            <AnalysisLoop />
+            <TrainingEvents />
+            <Newsletter />
+            <BlogSlider />
+            <InfoGrid />
+        </main>
     )
 }
 
