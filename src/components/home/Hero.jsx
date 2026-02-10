@@ -18,11 +18,11 @@ const Hero = () => {
     };
 
     return (
-        <section ref={targetRef} className="relative w-full pt-20 pb-12 lg:pt-24 lg:pb-24 overflow-hidden bg-cover bg-center" style={{ backgroundImage: "url('/header-bg-v2.webp')" }}>
+        <section ref={targetRef} className="relative w-full pt-4 pb-12 lg:pt-10 lg:pb-24 overflow-hidden bg-cover bg-center" style={{ backgroundImage: "url('/header-bg-v2.webp')" }}>
             <div className="container mx-auto px-4">
 
                 {/* AI Search Bar - Centered Top */}
-                <div className="w-full flex justify-center mb-12 lg:mb-20">
+                <div className="w-full flex justify-center mb-4 lg:mb-6">
                     <div className="ai-search-bar !max-w-[800px] !bg-white/90 !backdrop-blur-md shadow-sm">
                         <div className="ai-icon bg-gradient-to-br from-[#ff8400] to-[#ffb347]" aria-hidden="true">
                             <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" className="fill-white">
@@ -64,7 +64,7 @@ const Hero = () => {
                     <div className="w-full lg:w-7/12 relative flex justify-center lg:justify-start lg:pl-16">
                         <motion.div
                             style={{ rotate }}
-                            className="relative w-full max-w-[750px] lg:-mt-24 drop-shadow-2xl"
+                            className="relative w-full max-w-[750px] mt-8 lg:mt-0 drop-shadow-2xl"
                         >
                             <InteractiveCark onSectionClick={handleSectionClick} />
                         </motion.div>

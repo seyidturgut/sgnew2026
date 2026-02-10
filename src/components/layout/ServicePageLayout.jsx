@@ -52,14 +52,21 @@ const ServicePageLayout = ({
             {/* Breadcrumb Section */}
             <div className="container mx-auto px-4 py-4 border-b border-gray-100">
                 <nav className="flex items-center gap-2 text-sm text-gray-500 overflow-x-auto whitespace-nowrap lg:whitespace-normal">
-                    <a href="/" className="hover:text-brand transition-colors">Anasayfa</a>
                     {breadcrumb.map((item, idx) => (
                         <React.Fragment key={idx}>
-                            <ChevronRight className="w-4 h-4 text-gray-300 flex-shrink-0" />
+                            {idx > 0 && <ChevronRight className="w-4 h-4 text-gray-300 flex-shrink-0" />}
                             {item.href ? (
-                                <a href={item.href} className="hover:text-brand transition-colors">{item.label}</a>
+                                <a href={item.href} className="hover:text-primary transition-colors flex items-center gap-1">
+                                    {item.icon === 'Home' ? (
+                                        <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
+                                        </svg>
+                                    ) : (
+                                        <span>{item.label}</span>
+                                    )}
+                                </a>
                             ) : (
-                                <span className="text-gray-400">{item.label}</span>
+                                <span className="text-gray-900 font-medium">{item.label}</span>
                             )}
                         </React.Fragment>
                     ))}
@@ -77,7 +84,8 @@ const ServicePageLayout = ({
                 <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/40 to-transparent z-0"></div>
 
                 <div className="container mx-auto px-4 relative z-10">
-                    <div className="flex flex-col lg:flex-row items-center justify-between gap-10">
+                    <div className="flex flex-col lg:flex-row items-center justify-between gap-10 lg:gap-16">
+                        {/* Left - Title & Description */}
                         <div className="w-full lg:w-7/12">
                             <h1 className="text-5xl lg:text-7xl font-serif font-medium leading-[1.05] tracking-tight">
                                 <span className="text-primary block mb-1">{title}</span>
@@ -90,6 +98,45 @@ const ServicePageLayout = ({
                                 <a href="#contact-form" className="inline-flex items-center justify-center px-8 py-4 bg-white/10 backdrop-blur-md text-white border border-white/20 rounded-lg hover:bg-white hover:text-secondary transition-all font-bold text-sm transform hover:-translate-y-0.5">
                                     Hemen Başvurun
                                 </a>
+                            </div>
+                        </div>
+
+                        {/* Right - Hero Form - Compact (Desktop Only) */}
+                        <div className="hidden lg:block w-full lg:w-5/12">
+                            <div className="bg-white rounded-2xl shadow-2xl p-6 lg:p-8">
+                                <div className="mb-5">
+                                    <h3 className="text-xl font-bold text-secondary mb-2">Detaylı Bilgi Alın</h3>
+                                    <p className="text-gray-600 text-sm leading-relaxed">Formu doldurun, size ulaşalım ve tüm sorularınızı yanıtlayalım.</p>
+                                </div>
+                                <form className="space-y-3">
+                                    <input
+                                        type="text"
+                                        placeholder="Ad Soyad *"
+                                        className="w-full px-4 py-2.5 text-sm border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary"
+                                        required
+                                    />
+                                    <input
+                                        type="email"
+                                        placeholder="Email *"
+                                        className="w-full px-4 py-2.5 text-sm border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary"
+                                        required
+                                    />
+                                    <input
+                                        type="tel"
+                                        placeholder="Telefon *"
+                                        className="w-full px-4 py-2.5 text-sm border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary"
+                                        required
+                                    />
+                                    <button
+                                        type="submit"
+                                        className="w-full px-6 py-3 bg-gradient-to-r from-primary to-orange-400 text-white font-bold text-sm rounded-lg hover:shadow-xl hover:scale-105 transition-all duration-200"
+                                    >
+                                        Hemen İletişime Geçin
+                                    </button>
+                                </form>
+                                <p className="text-xs text-gray-500 mt-3 text-center">
+                                    🔒 Bilgileriniz güvende
+                                </p>
                             </div>
                         </div>
                     </div>
