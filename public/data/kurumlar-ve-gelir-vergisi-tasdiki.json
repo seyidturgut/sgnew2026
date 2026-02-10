@@ -1,0 +1,132 @@
+{
+  "slug": "kurumlar-ve-gelir-vergisi-tasdiki",
+  "title": "Kurumlar ve Gelir",
+  "title_highlighted": "Vergisi Tasdiki",
+  "category": "Vergi",
+  "youtube_id": "aA2-eH_v2Qc",
+  "breadcrumb": [
+    {
+      "name": "Anasayfa",
+      "link": "/"
+    },
+    {
+      "name": "Servisler",
+      "link": "/servisler"
+    },
+    {
+      "name": "Vergi & Finans",
+      "link": "/servisler/vergi-finans"
+    },
+    {
+      "name": "Vergi",
+      "link": "/servisler/vergi-finans/vergi"
+    },
+    {
+      "name": "Kurumlar ve Gelir Vergisi Tasdiki",
+      "link": "/servisler/vergi-finans/vergi/kurumlar-ve-gelir-vergisi-tasdiki"
+    }
+  ],
+  "hero": {
+    "title": "Kurumlar ve Gelir Vergisi Tasdiki",
+    "description": "Mali tablolarınızın doğruluğunu ve güvenilirliğini Tam Tasdik hizmetimizle tescilleyin.",
+    "image": "/images/kurumlar-vergisi-hero.webp",
+    "buttons": [
+      {
+        "text": "Hemen Başvur",
+        "link": "#contact",
+        "variant": "primary"
+      },
+      {
+        "text": "Detaylı Bilgi",
+        "link": "#details",
+        "variant": "outline"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "Neden Tam Tasdik",
+      "title_highlight": "Hizmeti Alınmalı?",
+      "description": "Tam Tasdik amacıyla gerçekleştirilen denetim faaliyetleri sonucunda ortaya çıkan sonuçlar, mali tabloların doğru ve güvenilir olduğu sonucunun ötesindedir. Tam Tasdik ile firmaların doğrudan, dolaylı elde edeceği faydalar saymakla bitmez.",
+      "badge": "Vergi Denetimi",
+      "features": [
+        "Vergi İncelemesi Riski Azalır",
+        "Doğru Beyan Garantisi",
+        "Muhasebe Hataları Önlenir",
+        "Aktif Danışmanlık"
+      ],
+      "image": "/images/kurumlar-vergisi-intro.webp"
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Tam Tasdik Avantajları",
+      "benefits": [
+        {
+          "title": "Vergi İncelemesi",
+          "desc": "Tam Tasdik yaptıran firmalar öncelikli incelenecek firma olmaktan çıkar, inceleme riski minimize edilir.",
+          "icon": "Search"
+        },
+        {
+          "title": "Doğru Beyan",
+          "desc": "Kurumlar vergisi beyannamenizin mevzuata uygun olarak verilmesi sağlanır.",
+          "icon": "FileCheck"
+        },
+        {
+          "title": "Risk Bertaraf",
+          "desc": "Rutin ve önleyici denetimlerle muhasebe hataları zamanında düzeltilir, riskler ortadan kalkar.",
+          "icon": "ShieldAlert"
+        },
+        {
+          "title": "Aktif Danışmanlık",
+          "desc": "Kanun değişikliklerinin getirdiği riskler ve belirsizlikler konusunda aktif danışmanlık alınır.",
+          "icon": "BrainCircuit"
+        },
+        {
+          "title": "Rapor Kolaylığı",
+          "desc": "Ar-Ge, Yatırım İndirimi gibi istisnalar için ayrıca YMM raporu düzenletmeye gerek kalmaz.",
+          "icon": "FileText"
+        },
+        {
+          "title": "Nakden İade",
+          "desc": "Belirli limitlere kadar olan alacaklar, tam tasdik raporu ile nakden iade alınabilir.",
+          "icon": "Banknote"
+        },
+        {
+          "title": "Tek Müşavir",
+          "desc": "YMM ile tam tasdik sözleşmesi imzalayanlar, ayrıca SMMM imzasına ihtiyaç duymaz.",
+          "icon": "UserCheck"
+        },
+        {
+          "title": "Karşıt İnceleme",
+          "desc": "Bilgi verme yükümlülüğü YMM tarafından karşılanır, firmanızın iş yükü azalır.",
+          "icon": "Minimize2"
+        },
+        {
+          "title": "İTUS Uyumu",
+          "desc": "İndirimli Teminat Uygulaması Sistemi'ne (İTUS) dahil olmak için gerekli şartları sağlar.",
+          "icon": "Percent"
+        },
+        {
+          "title": "Nakit İade Hakkı",
+          "desc": "Bavul ticareti ve yolcu beraberi eşya ihracatında raporsuz ve teminatsız iade imkanı sağlar.",
+          "icon": "Wallet"
+        }
+      ]
+    },
+    {
+      "type": "content_with_image",
+      "title": "SG-YMM Uzmanlığının Farkı?",
+      "content": "<p>SG-YMM Tam Tasdik faaliyetleri kapsamında rutin denetimleri uzman kadrolarıyla gerçekleştirerek ara dönemlerde Finansal ve Denetim Raporlarını yönetici ve karar alıcılar için düzenli şekilde üretmektedir. Bu raporlarla şirket faaliyetlerinin mali riskleri ve fırsatların karar alıcılar tarafından değerlendirilmesi mümkündür.</p>\n            <p>SG-YMM kadroları Uluslararası ve yerel mevzuata hâkim Uzman Mali Müşavirler, Yeminli Mali Müşavirlerden oluşmaktadır. Yeminli Mali Müşavirlerin Kamu tecrübesinin de olması konuların kamu-özel bakış açısıyla yorumlanmasını sağladığından, gündemlere 360 derece değerlendirme imkânı katmaktadır.</p>\n            <p>SG-YMM kadrolarının deneyimleri sadece vergi odaklı değildir. Tam Tasdik hizmeti sunulan firmaların bulunduğu sektörlerin faydalanabilineceği kamu ve uluslararası desteklere (hibe-teşvik) yönlendirilmesi ve katma değer üretilmesi genlerimizde bulunmaktadır. Yerel mevzuattaki teşvik sistemlerinin en fazla kapsama alanı olan Ar-Ge ve İnovasyon konusunda kadrolarımızın tecrübesi ortalamanın çok üzerindedir.</p>",
+      "image": "/images/kurumlar-vergisi-fark.webp",
+      "image_position": "left"
+    },
+    {
+      "type": "cta_box",
+      "title": "Hemen Başvurun",
+      "description": "Mali süreçlerinizi güvence altına almak ve vergi risklerinizi yönetmek için bize ulaşın.",
+      "button_text": "İletişime Geçin",
+      "secondary_button": "Hizmetlerimiz"
+    }
+  ]
+}

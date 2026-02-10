@@ -1,5 +1,5 @@
 import json
-
+import os
 # Load extracted content
 with open('extracted_vergi_content.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
@@ -85,4 +85,9 @@ final_data = {
 with open('api/vergi_content_final.json', 'w', encoding='utf-8') as f:
     json.dump(final_data, f, ensure_ascii=False)
 
-print("JSON created: api/vergi_content_final.json")
+# Also write to public/data for local development without DB
+os.makedirs('public/data', exist_ok=True)
+with open('public/data/vergi-yonetim-danismanligi.json', 'w', encoding='utf-8') as f:
+    json.dump(final_data, f, ensure_ascii=False)
+
+print("JSON created: api/vergi_content_final.json and public/data/vergi-yonetim-danismanligi.json")

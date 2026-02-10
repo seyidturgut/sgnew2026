@@ -1,5 +1,6 @@
 import json
 import re
+import os
 
 # Load extracted content
 with open('extracted_vergi_content.json', 'r', encoding='utf-8') as f:
@@ -237,5 +238,10 @@ final_data = {
 with open('api/vergi_content_final.json', 'w', encoding='utf-8') as f:
     json.dump(final_data, f, ensure_ascii=False, indent=2)
 
-print("✅ Corporate Premium content created: api/vergi_content_final.json")
+# Also write to public/data for local development without DB
+os.makedirs('public/data', exist_ok=True)
+with open('public/data/vergi-yonetim-danismanligi.json', 'w', encoding='utf-8') as f:
+    json.dump(final_data, f, ensure_ascii=False, indent=2)
+
+print("✅ Corporate Premium content created: api/vergi_content_final.json and public/data/vergi-yonetim-danismanligi.json")
 print(f"📊 Total sections: {len(content_structure['sections'])}")

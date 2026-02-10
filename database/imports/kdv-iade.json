@@ -1,0 +1,139 @@
+{
+    "title": "KDV İade Hizmeti Nedir?",
+    "slug": "kdv-iade",
+    "hero_image": "/images/kdv-iade/hero-tax.webp",
+    "breadcrumb": [
+        {
+            "label": "Anasayfa",
+            "url": "/"
+        },
+        {
+            "label": "Servisler",
+            "url": "/servisler"
+        },
+        {
+            "label": "Vergi & Finans",
+            "url": "/servisler/vergi-finans"
+        },
+        {
+            "label": "Vergi",
+            "url": "/servisler/vergi-finans/vergi"
+        },
+        {
+            "label": "KDV İadesi",
+            "url": "/servisler/vergi-finans/vergi/kdv-iade"
+        }
+    ],
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "title": "KDV İade Hizmeti Nedir?",
+                "description": "Türkiye’de yapılan mal ve hizmet teslimleri katma değer vergisine tabiidir. Ancak birtakım faaliyetlerin KDV'ye tabi olmadığından veya genel orandan daha düşük oranda KDV’ye tabi olmasından dolayı bu faaliyetlerde ticaret yapanların Türkiye’de ödediği KDV’yi Yeminli Mali Müşavir tarafından düzenlenen YMM raporu ile iade edilmesi mümkündür. Bu kapsamda şirketimiz tarafından sunulan hizmetlerimizin bütünü KDV İade Hizmetleri çerçevesinde gerçekleşmektedir.",
+                "image": "/images/kdv-iade/hero-tax.webp",
+                "buttons": [
+                    {
+                        "label": "Bize Ulaşın",
+                        "url": "/iletisim",
+                        "variant": "primary"
+                    },
+                    {
+                        "label": "Hizmet Detayları",
+                        "url": "#detaylar",
+                        "variant": "outline"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "rich_text",
+            "data": {
+                "content": "<h3>KDV İade Hizmeti Nedir?</h3><p>Türkiye’de yapılan mal ve hizmet teslimleri katma değer vergisine tabiidir. Ancak birtakım faaliyetlerin KDV'ye tabi olmadığından veya genel orandan daha düşük oranda KDV’ye tabi olmasından dolayı bu faaliyetlerde ticaret yapanların Türkiye’de ödediği KDV’yi Yeminli Mali Müşavir tarafından düzenlenen YMM raporu ile iade edilmesi mümkündür. Bu kapsamda şirketimiz tarafından sunulan hizmetlerimizin bütünü KDV İade Hizmetleri çerçevesinde gerçekleşmektedir. Kısa ve öz anlatmak gerekirse katma değer vergisi devlete ödenen KDV vergisinin bir kısmını geri almaya yarayan bir süreçten ibarettir. Bu süreç de, işletmeler ihracatlarda KDV iadesi, tevkifatlı işlemleri ve indirimli oranlara tabi teslimler gibi işlemlerde devlet adına tüketiciden KDV vergisini alırken KDV iadesi ile bunun bir kısmını devletten geri alabilirler. Bu duruma KDV iadesi denir. ve bu işlemler yılın son aylarına doğru yapılır.</p>"
+            }
+        },
+        {
+            "type": "features_grid",
+            "title": "KDV İadesi Türleri",
+            "data": {
+                "features": [
+                    {
+                        "title": "Mal ve Hizmet İhracatı Kaynaklı İadeler",
+                        "description": "Yurt dışına yapılan mal ve hizmet satışlarından doğan KDV iadeleri.",
+                        "icon": "file-text"
+                    },
+                    {
+                        "title": "İndirimli Orana Tabi İşlemler",
+                        "description": "%1 veya %10 KDV oranına tabi teslimler nedeniyle yüklenilen vergilerin iadesi.",
+                        "icon": "file-text"
+                    },
+                    {
+                        "title": "Tevkifatlı İşlemler",
+                        "description": "Alıcı tarafından KDV'nin bir kısmının kesilip ödendiği işlemlerde satıcının iade hakkı.",
+                        "icon": "file-text"
+                    },
+                    {
+                        "title": "Yatırım Teşvik Belgesi Kapsamındaki İşlemler",
+                        "description": "Makine ve teçhizat alımlarında ödenmeyen KDV'nin iadesi veya istisnası.",
+                        "icon": "file-text"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "process_timeline",
+            "title": "KDV İade Süreci",
+            "data": {
+                "steps": [
+                    {
+                        "step": 1,
+                        "title": "Firmanızın KDV iade potansiyelinin analizi.",
+                        "description": ""
+                    },
+                    {
+                        "step": 2,
+                        "title": "Gerekli belgelerin ve listelerin (İndirilecek KDV, Yüklenilen KDV) hazırlanması.",
+                        "description": ""
+                    },
+                    {
+                        "step": 3,
+                        "title": "Yeminli Mali Müşavir (YMM) raporunun yazılması.",
+                        "description": ""
+                    },
+                    {
+                        "step": 4,
+                        "title": "Vergi dairesi eksiklik yazılarının cevaplanması.",
+                        "description": ""
+                    },
+                    {
+                        "step": 5,
+                        "title": "İade tutarının mahsuben veya nakden tahsili.",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "list_section",
+            "title": "KDV İadesi Alınabilecek Hizmetler",
+            "data": {
+                "items": [
+                    "İmalat Sanayi Yatırımları",
+                    "Tam İstisna Kapsamındaki İşlemler",
+                    "Kısmi İstisna Kapsamındaki İşlemler",
+                    "Dahilde İşleme İzin Belgesi (DİİB) Kapsamındaki İşlemler"
+                ]
+            }
+        },
+        {
+            "type": "cta",
+            "data": {
+                "title": "KDV İade Süreçlerinizde Yanınızdayız",
+                "description": "Uzman ekibimizle vergi iadesi süreçlerinizi hızlandırın ve nakit akışınızı güçlendirin.",
+                "button": {
+                    "label": "Teklif Alın",
+                    "url": "/iletisim"
+                }
+            }
+        }
+    ]
+}

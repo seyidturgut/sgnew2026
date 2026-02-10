@@ -5,6 +5,7 @@ const ServicePageLayout = ({
     breadcrumb,
     title,
     titleHighlighted,
+    description,
     content,
     sidebarTitle = "İletişime Geçin",
     sidebarSubtitle = "Sorularınız için uzmanlarımız size ulaşsın.",
@@ -91,6 +92,11 @@ const ServicePageLayout = ({
                                 <span className="text-primary block mb-1">{title}</span>
                                 <span className="text-white block">{titleHighlighted}</span>
                             </h1>
+                            {description && (
+                                <p className="text-xl text-gray-200 mt-6 font-light leading-relaxed max-w-2xl">
+                                    {description}
+                                </p>
+                            )}
                             <div className="mt-10 flex flex-wrap gap-4">
                                 <a href="#content-start" className="inline-flex items-center justify-center px-8 py-4 bg-primary text-white rounded-lg hover:bg-primary/90 transition-all font-bold text-sm shadow-xl shadow-primary/20 transform hover:-translate-y-0.5">
                                     Detayları İnceleyin
