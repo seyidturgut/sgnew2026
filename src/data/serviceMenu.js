@@ -11,7 +11,9 @@ import {
     Briefcase,
     Ship,
     Users,
-    Settings
+    Settings,
+    Monitor,
+    Code
 } from 'lucide-react';
 
 export const serviceMenu = [
@@ -215,6 +217,27 @@ export const serviceMenu = [
                     { title: "Kurumsallaşma Check Up", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/kurumsallasma-hizli-check-up" },
                     { title: "Dijitalleşme Danışmanlığı", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/dijitallesme-danismanligi" },
                     { title: "RPA Teknik İzleme & Workshop", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/rpa-teknik-izleme" },
+                ]
+            }
+        ]
+    },
+    {
+        title: "Yazılım: Proje ve Ürün Çözümleri",
+        slug: "yazilim-proje-urun-cozumleri",
+        description: "Dijital dönüşümünüzü hızlandıran teknoloji çözümleri.",
+        icon: Monitor,
+        color: "from-indigo-500 to-purple-600",
+        bgImage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80",
+        subcategories: [
+            {
+                title: "Yazılım Çözümleri", // Using generic title for flat structure or specific if needed
+                slug: "yazilim-cozumleri",
+                icon: Code,
+                items: [
+                    { title: 'Dijital Çözümler ve Teknoloji Platformları', href: '/servisler/yazilim-proje-urun-cozumleri/dijital-cozumler-teknoloji-platformlari' },
+                    { title: 'Yazılım Geliştirme Hizmetleri', href: '/servisler/yazilim-proje-urun-cozumleri/yazilim-gelistirme-hizmetleri' },
+                    { title: 'Destek Çözümler', href: '/servisler/yazilim-proje-urun-cozumleri/destek-cozumler' },
+                    { title: 'Dijital Hizmetler', href: '/servisler/yazilim-proje-urun-cozumleri/dijital-hizmetler' },
                 ]
             }
         ]
