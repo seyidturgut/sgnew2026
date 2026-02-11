@@ -95,7 +95,11 @@ const DropdownMenu = ({ isOpen, onClose }) => {
     }, [isOpen]);
 
     useEffect(() => {
-        setActiveSubcategory(null);
+        if (activeCategory && activeCategory.submenu && activeCategory.submenu.length === 1) {
+            setActiveSubcategory(activeCategory.submenu[0]);
+        } else {
+            setActiveSubcategory(null);
+        }
     }, [activeCategory]);
 
     useEffect(() => {

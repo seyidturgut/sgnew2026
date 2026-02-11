@@ -35,7 +35,7 @@ const Header = () => {
 
                     <a href="/dijital-urunler" className="text-gray-600 hover:text-primary transition-colors font-medium">Dijital Ürünler</a>
                     <a href="/ekosistemimiz" className="text-gray-600 hover:text-primary transition-colors font-medium">Ekosistemimiz</a>
-                    <a href="/medya" className="text-gray-600 hover:text-primary transition-colors font-medium">Medya & İçerikler</a>
+                    <a href="/medya" className="text-gray-600 hover:text-primary transition-colors font-medium">Medya & İçeriklerimiz</a>
                     <a href="/iletisim" className="text-gray-600 hover:text-primary transition-colors font-medium">İletişim</a>
                 </nav>
 
