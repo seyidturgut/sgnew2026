@@ -4,7 +4,7 @@ import os
 page_data = {
     "slug": "destek-cozumler",
     "title": "Destek Çözümler",
-    "title_highlighted": "Sürdürülebilir Başarı İçin",
+    "title_highlighted": "",
     "category": "Yazılım: Proje ve Ürün Çözümleri",
     "breadcrumb": [
         {"name": "Anasayfa", "link": "/"},

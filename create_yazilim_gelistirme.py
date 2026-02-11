@@ -4,7 +4,7 @@ import os
 page_data = {
     "slug": "yazilim-gelistirme-hizmetleri",
     "title": "Yazılım Geliştirme Hizmetleri",
-    "title_highlighted": "Dijital Dönüşümün Mimarları",
+    "title_highlighted": "",
     "category": "Yazılım: Proje ve Ürün Çözümleri",
     "breadcrumb": [
         {"name": "Anasayfa", "link": "/"},
