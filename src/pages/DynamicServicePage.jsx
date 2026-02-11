@@ -124,6 +124,7 @@ const DynamicServicePage = ({ forcedSlug, forcedSubcategory }) => {
                 const localCandidates = [
                     `/data/${routeKey}.json`,
                     category && slug ? `/data/${category}__${slug}.json` : null,
+                    category && slug ? `/data/${category}__${category}__${slug}.json` : null, // Handle implicit same-name subcategory
                     `/data/${slug}.json`
                 ].filter(Boolean)
 
@@ -305,6 +306,7 @@ const DynamicServicePage = ({ forcedSlug, forcedSubcategory }) => {
     if (activeSubcategory &&
         activeSubcategory.slug !== 'uluslararasi-ticaret' &&
         activeSubcategory.slug !== 'sirket-kurulusu-ve-yonetimi' &&
+        activeSubcategory.slug !== 'proje-ve-urun-cozumleri' &&
         activeSubcategory.slug !== 'yasal-uyum-risk') {
         const subTitle = subcategoryNameMap[activeSubcategory.slug] || activeSubcategory.title;
         breadcrumb.push({

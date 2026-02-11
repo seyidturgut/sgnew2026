@@ -1,0 +1,26 @@
+﻿Dijital Hizmetler
+Yazılımın Değere Dönüştüğü Nokta
+Dijital Hizmetlerimiz, geliştirilen veya kullanılan yazılımların kurum içinde gerçek fayda üretmesini sağlar. Bu başlık altında sunduğumuz hizmetler; koddan bağımsız, kullanım, verimlilik ve dönüşüm odaklıdır.
+1.Dijital Dönüşüm & Süreç Tasarımı: Sistemi Kurmak Yetmez, Doğru Kurgulamak Gerekir
+* Mevcut iş süreçlerinin analiz edilmesi
+* Manuel adımların dijitalleştirilmesi
+* Süreç sadeleştirme ve otomasyon
+* Kuruma özel dijital yol haritası
+👉 Yazılım öncesi veya sonrası uygulanabilir.
+2.Raporlama & Karar Destek Hizmetleri: Veriyi Okunur ve Anlamlı Hale Getirir
+* Yönetim ve operasyon raporlarının kurgulanması
+* Gösterge panelleri (dashboard)
+* Performans ve karşılaştırma analizleri
+* Karar destek mekanizmalarının oluşturulması
+👉 “Verimiz var ama okuyamıyoruz” diyen kurumlar için.
+3.Otomasyon & Verimlilik Çözümleri: Tekrarlayan İşleri Sistemlere Bırakın
+* Operasyonel otomasyon senaryoları
+* Veri aktarım ve senkronizasyon kurguları
+* Zaman ve iş gücü tasarrufu sağlayan çözümler
+* Sistemler arası otomatik akışlar
+👉 İnsan hatasını azaltır, hız kazandırır.
+4.Eğitim & Kullanıcı Adaptasyonu: Kullanılmayan Yazılım, Değer Üretmez
+* Kullanıcı eğitimleri
+* Rol bazlı kullanım senaryoları
+* Adaptasyon ve kullanım verimliliği çalışmaları
+* İç ekiplerin dijital yetkinliğinin artırılması

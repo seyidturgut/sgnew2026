@@ -230,8 +230,8 @@ export const serviceMenu = [
         bgImage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80",
         subcategories: [
             {
-                title: "Yazılım Çözümleri", // Using generic title for flat structure or specific if needed
-                slug: "yazilim-cozumleri",
+                title: "Proje ve Ürün Çözümleri",
+                slug: "proje-ve-urun-cozumleri",
                 icon: Code,
                 items: [
                     { title: 'Dijital Çözümler ve Teknoloji Platformları', href: '/servisler/yazilim-proje-urun-cozumleri/dijital-cozumler-teknoloji-platformlari' },
