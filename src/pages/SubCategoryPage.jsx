@@ -144,11 +144,20 @@ const SubCategoryPage = ({ forcedCategory }) => {
                         <Link to="/servisler" className="hover:text-primary transition-colors uppercase tracking-widest font-bold text-[10px]">Servisler</Link>
                         <ChevronRight size={10} />
                         {subcategory ? (
-                            <>
-                                <Link to={`/servisler/${category.slug}`} className="hover:text-primary transition-colors">{category.title}</Link>
-                                <ChevronRight size={10} />
-                                <span className="text-secondary font-bold">{subcategory.title}</span>
-                            </>
+                            // Special case for digital products where subcategory (Group) comes before Category in breadcrumbs
+                            ['dijital-cozumler', 'finansal-araclar', 'yasal-uyum', 'ihracat-yazilimlari', 'egitim-platformlari'].includes(subcategory.slug) ? (
+                                <>
+                                    <span className="hover:text-primary transition-colors">{subcategory.title}</span>
+                                    <ChevronRight size={10} />
+                                    <span className="text-secondary font-bold">{category.title}</span>
+                                </>
+                            ) : (
+                                <>
+                                    <Link to={`/servisler/${category.slug}`} className="hover:text-primary transition-colors">{category.title}</Link>
+                                    <ChevronRight size={10} />
+                                    <span className="text-secondary font-bold">{subcategory.title}</span>
+                                </>
+                            )
                         ) : (
                             <span className="text-secondary font-bold">{category.title}</span>
                         )}

@@ -28,7 +28,17 @@ def create_placeholder(product):
         "globallesme-ve-ihracat": "Globalleşme ve İhracat",
         "online-danismanlik": "Online Danışmanlık"
     }
+
+    subcat_names = {
+        "ar-ge-ve-fikri-mulkiyet": "Dijital Çözümler",
+        "vergi-ve-finans": "Finansal Araçlar",
+        "mevzuat-ve-uyum": "Yasal Uyum",
+        "globallesme-ve-ihracat": "İhracat Yazılımları",
+        "online-danismanlik": "Eğitim Platformları"
+    }
+
     cat_name = cat_names.get(product['category'], product['category'])
+    subcat_name = subcat_names.get(product['category'], "Dijital Çözümler")
 
     data = {
         "slug": product['slug'],
@@ -39,8 +49,8 @@ def create_placeholder(product):
         "breadcrumb": [
             {"name": "Anasayfa", "link": "/"},
             {"name": "Servisler", "link": "/servisler"},
-            {"name": "Dijital Çözümler", "link": "#"},
-            {"name": cat_name, "link": f"/servisler/{product['category']}/dijital-cozumler"},
+            {"name": subcat_name, "link": "#"},
+            {"name": cat_name, "link": f"/servisler/{product['category']}/dijital-cozumler" if product['category'] == 'ar-ge-ve-fikri-mulkiyet' else f"/servisler/{product['category']}/{product['category']}"},
             {"name": product['title']}
         ],
         "hero_image": "/images/servisler/services-hero-business.webp",
