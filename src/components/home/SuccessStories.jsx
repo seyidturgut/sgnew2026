@@ -13,7 +13,7 @@ const SuccessStories = () => {
                     <div className="flex flex-col md:flex-row gap-8 items-center">
                         <div className="md:w-1/3 text-center">
                             <div className="w-32 h-32 mx-auto rounded-full overflow-hidden border-4 border-orange-100 mb-4">
-                                <img src="https://sg2026.ey08.co.uk/wp-content/uploads/2-150x150.jpeg" alt="Seyid Turgut" className="w-full h-full object-cover" />
+                                <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=150&h=150&q=80" alt="Seyid Turgut" className="w-full h-full object-cover" />
                             </div>
                             <h4 className="font-bold text-lg">Seyid Turgut</h4>
                             <p className="text-gray-500 text-sm">EY08</p>

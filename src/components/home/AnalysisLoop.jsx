@@ -479,17 +479,17 @@ const AnalysisLoop = () => {
         {
             title: "Mevzuat & Uyum Analizi",
             desc: "KVKK, ESG, ve regülasyonlara uyum seviyenizi tespit edin.",
-            img: "https://sg2026.ey08.co.uk/wp-content/uploads/Mevzuat-Uyum-Assessmenti.webp"
+            img: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=800&q=80"
         },
         {
             title: "Kurumsal Yetkinlik Analizi",
             desc: "Ekiplerin inovasyon, liderlik ve adaptasyon düzeyini değerlendirin.",
-            img: "https://sg2026.ey08.co.uk/wp-content/uploads/Kurumsal-Yetkinlik-Analizi.webp"
+            img: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=800&q=80"
         },
         {
             title: "Dijital Olgunluk Analizi",
             desc: "İş süreçlerinizin dijital dönüşüme uygunluğunu ölçün.",
-            img: "https://sg2026.ey08.co.uk/wp-content/uploads/dijital-analiz.webp"
+            img: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80"
         },
     ];
 

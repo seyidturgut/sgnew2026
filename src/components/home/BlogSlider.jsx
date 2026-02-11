@@ -5,7 +5,7 @@ const BlogSlider = () => {
         {
             title: "Dijital Dönüşüm Nedir? Temel Unsurları Nelerdir?",
             date: "25 Kasım 2025",
-            img: "https://sg2026.ey08.co.uk/wp-content/uploads/Vergi-Levhasi-Nasil-Alinir-1024x561.webp"
+            img: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=800&q=80"
         },
         {
             title: "Dış Ticarette Sağlanan Teşvikler Nelerdir?",

@@ -5,12 +5,12 @@ import 'swiper/css';
 
 const DigitalInvestments = () => {
     const logos = [
-        "https://sg2026.ey08.co.uk/wp-content/uploads/argera.png",
-        "https://sg2026.ey08.co.uk/wp-content/uploads/edanisman.png",
-        "https://sg2026.ey08.co.uk/wp-content/uploads/legalmatic.png",
-        "https://sg2026.ey08.co.uk/wp-content/uploads/siba.png",
-        "https://sg2026.ey08.co.uk/wp-content/uploads/sparks.png",
-        "https://sg2026.ey08.co.uk/wp-content/uploads/wecover.png"
+        "https://via.placeholder.com/150x60/F37021/FFFFFF?text=ARGERA",
+        "https://via.placeholder.com/150x60/2C3E50/FFFFFF?text=EDANISMAN",
+        "https://via.placeholder.com/150x60/F37021/FFFFFF?text=LEGALMATIC",
+        "https://via.placeholder.com/150x60/2C3E50/FFFFFF?text=SIBA",
+        "https://via.placeholder.com/150x60/F37021/FFFFFF?text=SPARKS",
+        "https://via.placeholder.com/150x60/2C3E50/FFFFFF?text=WECOVER"
     ]
 
     return (
