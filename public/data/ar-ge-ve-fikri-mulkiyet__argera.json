@@ -10,38 +10,89 @@
             "link": "/"
         },
         {
-            "name": "Servisler",
-            "link": "/servisler"
-        },
-        {
-            "name": "Dijital Çözümler",
-            "link": "#"
+            "name": "Dijital Ürünler",
+            "link": "/dijital-urunler"
         },
         {
             "name": "Ar-Ge ve Fikri Mülkiyet",
-            "link": "/servisler/ar-ge-ve-fikri-mulkiyet/dijital-cozumler"
+            "link": "/dijital-urunler/ar-ge-ve-fikri-mulkiyet"
         },
         {
             "name": "Argera"
         }
     ],
-    "hero_image": "/images/servisler/services-hero-business.webp",
+    "hero_image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1600&q=80",
     "content_json": {
         "hero": {
-            "title": "Argera",
-            "description": "Dijital Dönüşüm Yolculuğunuzda Yanınızdayız.",
-            "image": "/images/servisler/services-hero-business.webp"
+            "title": "Ar-Ge ve Tasarım Merkezleri İçin Uçtan Uca Yönetim Portalı",
+            "description": "Argera, Ar-Ge ve Tasarım Merkezleri'nin proje, iş gücü ve bordrolama gibi kritik süreçlerini tek bir platform üzerinden, Bakanlık portalı ile tam uyumlu yönetmenizi sağlar.",
+            "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1600&q=80",
+            "buttons": [
+                {
+                    "text": "Platformu Tanıyın",
+                    "link": "#details",
+                    "variant": "primary"
+                }
+            ]
         },
         "sections": [
             {
+                "id": "details",
                 "type": "intro_text",
-                "content": "<div class=\"mb-8 p-6 bg-white rounded-2xl border border-gray-100 shadow-sm inline-block\"><img src=\"/images/dijital-urunler/argera.webp\" alt=\"Argera Logo\" class=\"h-16 w-auto object-contain\" /></div><p><strong>Çalışmalarımız devam ediyor.</strong></p><p>Bu ürünümüzle ilgili detaylı bilgiler çok yakında burada olacak. Sistem Global olarak dijital çözümlerimizi geliştirmeye ve size en iyi kullanıcı deneyimini sunmaya devam ediyoruz.</p>"
+                "content": "<div class=\"mb-10 p-8 bg-white rounded-3xl border border-gray-100 shadow-xl inline-block group hover:scale-105 transition-transform duration-500\"><img src=\"/images/dijital-urunler/argera.webp\" alt=\"Argera Logo\" class=\"h-20 w-auto object-contain\" /></div><p class=\"text-2xl font-light text-secondary leading-relaxed mb-6\">Argera, Türkiye'deki Ar-Ge ve Tasarım Merkezleri'nin proje, personel ve bordrolama süreçlerini dijitalleştiren kapsamlı bir yazılım platformudur.</p><p class=\"text-lg text-gray-600 leading-relaxed\">Gelişmiş modülleri sayesinde proje yönetiminden iş gücü takibine, bordro analizinden dokümantasyona kadar ihtiyacınız olan tüm bileşenleri tek bir çatıda toplar. Bakanlık portalı ile %100 uyumlu çalışarak faaliyet raporu hazırlama süreçlerinizi hatasız ve hızlı tamamlamanızı sağlar.</p>"
             },
             {
+                "id": "benefits",
+                "type": "info_list",
+                "title": "Argera'nın Sunduğu Çözümler",
+                "description": "Ar-Ge merkezinizin performansını artıracak dijital araçlar.",
+                "items": [
+                    {
+                        "title": "Bakanlık Portalı Entegrasyonu",
+                        "desc": "Bakanlık portalı ile tam uyumlu altyapısı sayesinde tüm faaliyet raporu isterlerini saniyeler içinde hatasız aktarmanızı sağlar."
+                    },
+                    {
+                        "title": "Proje ve İş Gücü Yönetimi",
+                        "desc": "Projelerinizi, personellerinizin çalışma sürelerini ve görev dağılımlarını anlık olarak takip edin, verimliliği ölçün."
+                    },
+                    {
+                        "title": "Bordro ve Mali Analiz",
+                        "desc": "Ar-Ge teşvikleri ile tam uyumlu bordro hesaplamaları yapın, mali riskleri minimize edin ve yasal süreçleri otomatikleştirin."
+                    },
+                    {
+                        "title": "Dokümantasyon Merkezi",
+                        "desc": "Ar-Ge süreçlerinizle ilgili tüm teknik ve idari dokümantasyonu güvenli bir ortamda saklayın ve yönetin."
+                    },
+                    {
+                        "title": "Anlık Raporlama",
+                        "desc": "Merkezinizin durumunu, harcamalarını ve teşvik faydalanma oranlarını dinamik dashboardlar üzerinden anlık izleyin."
+                    },
+                    {
+                        "title": "Mevzuat Uyumu",
+                        "desc": "Güncel Ar-Ge ve Tasarım Merkezi yönetmelikleriyle %100 uyumlu yapı sayesinde denetimlere her an hazır olun."
+                    }
+                ]
+            },
+            {
+                "id": "pricing",
+                "type": "intro_block",
+                "title": "Argera Yönetim Sistemi",
+                "subtitle": "Esnek ve Güçlü Altyapı",
+                "content": "<p>Argera, firmanızın büyüklüğüne ve Ar-Ge merkezinizin ihtiyaçlarına göre ölçeklenebilir bir yapı sunar. Tek seferlik kurulum ve eğitim süreçlerinden sonra ekibiniz platformu tam kapasite kullanmaya başlar.</p><div class=\"mt-8 flex items-center gap-4 p-6 bg-orange-50 rounded-2xl border border-orange-100\"><div class=\"w-12 h-12 bg-orange-500 rounded-full flex items-center justify-center text-white font-bold\">!</div><div><p class=\"text-sm text-gray-800\"><strong>Önemli Not:</strong> Tek seferlik kurulum ve eğitim ücreti ayrıca uygulanmaktadır. Detaylı bilgi için bizimle iletişime geçebilirsiniz.</p></div></div>",
+                "highlights": [
+                    "Bakanlık Portal Uyumu",
+                    "Esnek Kullanıcı Yetkilendirme",
+                    "Gelişmiş Veri Güvenliği",
+                    "7/24 Teknik Destek",
+                    "Bulut veya Yerel Kurulum Seçenekleri"
+                ]
+            },
+            {
+                "id": "cta",
                 "type": "cta_simple",
-                "title": "Detaylı Bilgi Almak İster Misiniz?",
-                "description": "Ürünümüz hakkında ön bilgi almak veya çözüm ortaklığı süreçlerimizi öğrenmek için bizimle iletişime geçebilirsiniz.",
-                "button_text": "Bize Ulaşın"
+                "title": "Ar-Ge Merkezinizi Argera ile Yönetin",
+                "description": "Dijital dönüşümün gücüyle operasyonel yükünüzü azaltın, stratejik hedeflerinize odaklanın.",
+                "button_text": "Hemen Bilgi Alın"
             }
         ]
     }

@@ -58,6 +58,15 @@ export const serviceMenu = [
                     { title: "Sektör Analiz Raporları", href: "/servisler/vergi-finans/kurumsal-finansman/sektor-analiz-raporlari" },
                     { title: "Finansal Danışmanlıklar", href: "/servisler/vergi-finans/kurumsal-finansman/finansal-danismanliklar" },
                 ]
+            },
+            {
+                title: "Finansal Araçlar",
+                slug: "finansal-araclar",
+                icon: Monitor,
+                description: "Finansal süreçler ve vergi yönetimi araçları.",
+                items: [
+                    { title: 'Rating Value', href: '/dijital-urunler/vergi-ve-finans/rating-value' }
+                ]
             }
         ]
     },
@@ -142,6 +151,15 @@ export const serviceMenu = [
                     { title: "Şirket Kurma, TTK Uygulama ve Sicil İşleri Danışmanlığı", href: "/servisler/mevzuat-ve-uyum/sirket-kurma-ttk-uygulama-ve-sicil-isleri-danismanligi" },
                     { title: "Startup Destek ve Uyum Danışmanlığı", href: "/servisler/mevzuat-ve-uyum/startup-destek-ve-uyum-danismanligi" },
                 ]
+            },
+            {
+                title: "Yasal Uyum",
+                slug: "yasal-uyum",
+                icon: ShieldCheck,
+                description: "Hukuki ve mevzuat uyum teknolojileri.",
+                items: [
+                    { title: 'Legalmatic', href: '/dijital-urunler/mevzuat-ve-uyum/legalmatic' }
+                ]
             }
         ]
     },
@@ -167,6 +185,16 @@ export const serviceMenu = [
                     { title: "İhracat Geliştirme", href: "/servisler/globallesme-ve-ihracat/ihracat-gelistirme" },
                     { title: "Ticaret Bakanlığı İhracat Destekleri", href: "/servisler/globallesme-ve-ihracat/ticaret-bakanligi-ihracat-destekleri" },
                     { title: "E-Turquality Programı", href: "/servisler/globallesme-ve-ihracat/e-turquality-programi" },
+                ]
+            },
+            {
+                title: "İhracat Yazılımları",
+                slug: "ihracat-yazilimlari",
+                icon: Globe,
+                description: "Uluslararası ticaret ve ekspansiyon yazılımları.",
+                items: [
+                    { title: 'Jestiyon', href: '/dijital-urunler/globallesme-ve-ihracat/jestiyon' },
+                    { title: 'Quandatum', href: '/dijital-urunler/globallesme-ve-ihracat/quandatum' }
                 ]
             }
         ]

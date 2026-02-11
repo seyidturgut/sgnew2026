@@ -1,10 +1,10 @@
 import React from 'react'
-import { Shield, Award, CheckCircle2, Star } from 'lucide-react'
+import { ShieldCheck, Award, CheckCircle2, Star } from 'lucide-react'
 
 const TrustBadges = () => {
     const badges = [
         {
-            icon: Shield,
+            icon: ShieldCheck,
             title: "ISO 9001",
             subtitle: "Kalite Sertifikası"
         },

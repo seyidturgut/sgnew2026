@@ -2,8 +2,9 @@ import React, { useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { ArrowRight, ChevronRight, Home } from 'lucide-react';
 import { serviceMenu } from '../data/serviceMenu';
+import { productsMenu } from '../data/productsMenu';
 
-const SubCategoryPage = ({ forcedCategory }) => {
+const SubCategoryPage = ({ forcedCategory, isProduct = false }) => {
     const params = useParams();
     const categorySlug = forcedCategory || params.category;
     const subcategorySlug = params.subcategory;
@@ -12,7 +13,8 @@ const SubCategoryPage = ({ forcedCategory }) => {
         window.scrollTo(0, 0);
     }, [categorySlug, subcategorySlug]);
 
-    const category = serviceMenu.find(c => c.slug === categorySlug);
+    const menuSource = isProduct ? productsMenu : serviceMenu;
+    const category = menuSource.find(c => c.slug === categorySlug);
 
     // If subcategorySlug is present, find it. Otherwise, we might be in "All Category" mode.
     const subcategory = subcategorySlug
@@ -141,23 +143,16 @@ const SubCategoryPage = ({ forcedCategory }) => {
                             <Home size={12} /> Anasayfa
                         </Link>
                         <ChevronRight size={10} />
-                        <Link to="/servisler" className="hover:text-primary transition-colors uppercase tracking-widest font-bold text-[10px]">Servisler</Link>
+                        <Link to={isProduct ? "/dijital-urunler" : "/servisler"} className="hover:text-primary transition-colors uppercase tracking-widest font-bold text-[10px]">
+                            {isProduct ? "Dijital Ürünler" : "Servisler"}
+                        </Link>
                         <ChevronRight size={10} />
                         {subcategory ? (
-                            // Special case for digital products where subcategory (Group) comes before Category in breadcrumbs
-                            ['dijital-cozumler', 'finansal-araclar', 'yasal-uyum', 'ihracat-yazilimlari', 'egitim-platformlari'].includes(subcategory.slug) ? (
-                                <>
-                                    <span className="hover:text-primary transition-colors">{subcategory.title}</span>
-                                    <ChevronRight size={10} />
-                                    <span className="text-secondary font-bold">{category.title}</span>
-                                </>
-                            ) : (
-                                <>
-                                    <Link to={`/servisler/${category.slug}`} className="hover:text-primary transition-colors">{category.title}</Link>
-                                    <ChevronRight size={10} />
-                                    <span className="text-secondary font-bold">{subcategory.title}</span>
-                                </>
-                            )
+                            <>
+                                <Link to={isProduct ? `/dijital-urunler/${category.slug}` : `/servisler/${category.slug}`} className="hover:text-primary transition-colors">{category.title}</Link>
+                                <ChevronRight size={10} />
+                                <span className="text-secondary font-bold">{subcategory.title}</span>
+                            </>
                         ) : (
                             <span className="text-secondary font-bold">{category.title}</span>
                         )}

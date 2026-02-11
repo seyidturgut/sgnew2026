@@ -10,38 +10,89 @@
             "link": "/"
         },
         {
-            "name": "Servisler",
-            "link": "/servisler"
-        },
-        {
-            "name": "Dijital Çözümler",
-            "link": "#"
+            "name": "Dijital Ürünler",
+            "link": "/dijital-urunler"
         },
         {
             "name": "Ar-Ge ve Fikri Mülkiyet",
-            "link": "/servisler/ar-ge-ve-fikri-mulkiyet/dijital-cozumler"
+            "link": "/dijital-urunler/ar-ge-ve-fikri-mulkiyet"
         },
         {
             "name": "Sparks"
         }
     ],
-    "hero_image": "/images/servisler/services-hero-business.webp",
+    "hero_image": "/images/servisler/tech-general.webp",
     "content_json": {
         "hero": {
-            "title": "Sparks",
-            "description": "Dijital Dönüşüm Yolculuğunuzda Yanınızdayız.",
-            "image": "/images/servisler/services-hero-business.webp"
+            "title": "Personellerinizin SGK ve Teşvik İşlemlerinde Akıllı Dijital Çözüm!",
+            "description": "Sparks, çok şubeli ve kalabalık kadrolara sahip işletmelerin SGK işlemlerini tek bir ekrandan hızlı ve hatasız bir şekilde yönetmelerini sağlayan yapay zeka destekli bir kurumsal koordinasyon yazılımıdır.",
+            "image": "/images/servisler/tech-general.webp",
+            "buttons": [
+                {
+                    "text": "Ürünü Keşfedin",
+                    "link": "#features",
+                    "variant": "primary"
+                }
+            ]
         },
         "sections": [
             {
+                "id": "intro",
                 "type": "intro_text",
-                "content": "<div class=\"mb-8 p-6 bg-white rounded-2xl border border-gray-100 shadow-sm inline-block\"><img src=\"/images/dijital-urunler/sparkslogo.png\" alt=\"Sparks Logo\" class=\"h-16 w-auto object-contain\" /></div><p><strong>Çalışmalarımız devam ediyor.</strong></p><p>Bu ürünümüzle ilgili detaylı bilgiler çok yakında burada olacak. Sistem Global olarak dijital çözümlerimizi geliştirmeye ve size en iyi kullanıcı deneyimini sunmaya devam ediyoruz.</p>"
+                "content": "<div class=\"mb-10 p-8 bg-white rounded-3xl border border-gray-100 shadow-xl inline-block group hover:scale-105 transition-transform duration-500\"><img src=\"/images/dijital-urunler/sparkslogo.png\" alt=\"Sparks Logo\" class=\"h-20 w-auto object-contain\" /></div><p class=\"text-2xl font-light text-secondary leading-relaxed mb-8\">Sparks, SGK ve bordro süreçlerindeki tecrübemiz ve bilgimizle iş yükünüzü azaltıp, verimliliğinizi artırmanız için yanınızdayız.</p><div class=\"grid grid-cols-1 md:grid-cols-3 gap-4 mt-8\"><div class=\"p-6 bg-orange-50/50 rounded-2xl border border-orange-100\"><h4 class=\"font-bold text-orange-600 text-sm uppercase tracking-widest mb-2\">Kimler İçindir?</h4><p class=\"text-gray-700 text-sm font-medium leading-relaxed\">Zaman ve maliyet tasarrufu hedefleyen firmalar, Mali Müşavirler ve İK Yöneticileri.</p></div></div>"
             },
             {
+                "id": "features",
+                "type": "info_list",
+                "title": "Sparks İşletmenize Ne Kazandırır?",
+                "description": "Yapay zeka destekli altyapımızla SGK süreçlerinizi modernize ediyoruz.",
+                "items": [
+                    {
+                        "title": "Toplu İşlem Kapasitesi",
+                        "desc": "Yüzlerce sigortalı için toplu işe giriş ve işten ayrılış bildirgesini saniyeler içinde sunar, operasyonel hızı maksimize eder."
+                    },
+                    {
+                        "title": "Potansiyel Teşvik Sorgulama",
+                        "desc": "Teşvikten yararlanacak personel adaylarını işe alım öncesi dahil tespit ederek maliyet avantajı sağlar."
+                    },
+                    {
+                        "title": "E-Vizite Entegrasyonu",
+                        "desc": "Hastalık, analık ve iş kazası/meslek hastalığı raporlarının tek bir onay işlemiyle saniyeler içinde hatasız onaylanmasını sağlar."
+                    },
+                    {
+                        "title": "Cari Dönem Teşvik Çalışmaları",
+                        "desc": "Excel ve MUHSGK üzerinden cari dönem teşvik çalışmaları yaparak firmanıza en uygun senaryoları hazırlar."
+                    },
+                    {
+                        "title": "Toplu Rapor Yönetimi",
+                        "desc": "Hizmet ve Tahakkuk Listelerini istediğiniz dönem için toplu veya tek tek indirmenizi, saniyeler içinde görüntülemenizi sağlar."
+                    },
+                    {
+                        "title": "Sürekli Mevzuat Uyumu",
+                        "desc": "Yeni teşvikler ve yasal değişikliklere en hızlı şekilde uyum sağlayarak hiçbir fırsatı kaçırmamanızı garanti eder."
+                    }
+                ]
+            },
+            {
+                "id": "highlights",
+                "type": "intro_block",
+                "title": "SG Öne Çıkanlar",
+                "subtitle": "Neden Sparks'ı Tercih Etmelisiniz?",
+                "content": "<p>Sistem Global'in derin mevzuat bilgisi ile teknolojiyi birleştiren Sparks, işletmenizin SGK operasyonlarını bir risk yönetimi unsuru olmaktan çıkarıp verimlilik aracına dönüştürür.</p>",
+                "highlights": [
+                    "SGK alanında uzman ve deneyimli kadro",
+                    "Tüm SGK teşvik işlemlerini tek bir ekrandan yürütme imkanı",
+                    "SGK mevzuatındaki değişikliklere hızlı ve hatasız uyum",
+                    "En üst düzeyde veri güvenliği ve gizliliği",
+                    "Platform kaynaklı olası teşvik kayıplarında firmanın riskini üstlenme"
+                ]
+            },
+            {
+                "id": "cta",
                 "type": "cta_simple",
-                "title": "Detaylı Bilgi Almak İster Misiniz?",
-                "description": "Ürünümüz hakkında ön bilgi almak veya çözüm ortaklığı süreçlerimizi öğrenmek için bizimle iletişime geçebilirsiniz.",
-                "button_text": "Bize Ulaşın"
+                "title": "SGK İşlemlerinizde Hata Payını Sıfıra İndirin",
+                "description": "Sparks ile dijital dönüşümünüzü tamamlayın, hem zamandan hem maliyetten tasarruf edin.",
+                "button_text": "Hemen Bilgi Alın"
             }
         ]
     }

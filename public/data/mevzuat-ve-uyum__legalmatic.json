@@ -10,16 +10,12 @@
             "link": "/"
         },
         {
-            "name": "Servisler",
-            "link": "/servisler"
-        },
-        {
-            "name": "Yasal Uyum",
-            "link": "#"
+            "name": "Dijital Ürünler",
+            "link": "/dijital-urunler"
         },
         {
             "name": "Mevzuat ve Uyum",
-            "link": "/servisler/mevzuat-ve-uyum/mevzuat-ve-uyum"
+            "link": "/dijital-urunler/mevzuat-ve-uyum"
         },
         {
             "name": "Legalmatic"

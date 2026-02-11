@@ -11,7 +11,7 @@ products = [
     {"category": "mevzuat-ve-uyum", "slug": "legalmatic", "title": "Legalmatic", "logo": "/images/dijital-urunler/legalmatic.png"},
     {"category": "globallesme-ve-ihracat", "slug": "jestiyon", "title": "Jestiyon"},
     {"category": "globallesme-ve-ihracat", "slug": "quandatum", "title": "Quandatum"},
-    {"category": "online-danismanlik", "slug": "edanisman", "title": "eDanışman", "logo": "/images/dijital-urunler/xe-danisman-logo.png"},
+    {"category": "online-danismanlik-ve-egitim", "slug": "edanisman", "title": "eDanışman", "logo": "/images/dijital-urunler/xe-danisman-logo.png"},
 ]
 
 def create_placeholder(product):
@@ -26,19 +26,10 @@ def create_placeholder(product):
         "vergi-ve-finans": "Vergi ve Finans",
         "mevzuat-ve-uyum": "Mevzuat ve Uyum",
         "globallesme-ve-ihracat": "Globalleşme ve İhracat",
-        "online-danismanlik": "Online Danışmanlık"
-    }
-
-    subcat_names = {
-        "ar-ge-ve-fikri-mulkiyet": "Dijital Çözümler",
-        "vergi-ve-finans": "Finansal Araçlar",
-        "mevzuat-ve-uyum": "Yasal Uyum",
-        "globallesme-ve-ihracat": "İhracat Yazılımları",
-        "online-danismanlik": "Eğitim Platformları"
+        "online-danismanlik-ve-egitim": "Online Danışmanlık ve Eğitim"
     }
 
     cat_name = cat_names.get(product['category'], product['category'])
-    subcat_name = subcat_names.get(product['category'], "Dijital Çözümler")
 
     data = {
         "slug": product['slug'],
@@ -48,9 +39,8 @@ def create_placeholder(product):
         "layout_density": "compact",
         "breadcrumb": [
             {"name": "Anasayfa", "link": "/"},
-            {"name": "Servisler", "link": "/servisler"},
-            {"name": subcat_name, "link": "#"},
-            {"name": cat_name, "link": f"/servisler/{product['category']}/dijital-cozumler" if product['category'] == 'ar-ge-ve-fikri-mulkiyet' else f"/servisler/{product['category']}/{product['category']}"},
+            {"name": "Dijital Ürünler", "link": "/dijital-urunler"},
+            {"name": cat_name, "link": f"/dijital-urunler/{product['category']}"},
             {"name": product['title']}
         ],
         "hero_image": "/images/servisler/services-hero-business.webp",
@@ -81,3 +71,4 @@ def create_placeholder(product):
 
 for p in products:
     create_placeholder(p)
+

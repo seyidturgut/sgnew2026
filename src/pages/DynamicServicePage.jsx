@@ -11,14 +11,14 @@ import {
     CheckCircle2, ArrowRight, Loader2, Star, Target, Award,
     Briefcase, Settings, Zap, ShieldCheck, PieChart, Factory,
     Ship, Cpu, Coins, Globe, TrendingUp, Users, BookOpen, Scale, ChevronRight,
-    LineChart, Layers, Search, Shield
+    LineChart, Layers, Search
 } from 'lucide-react'
 
 // İkon Haritası - JSON'dan gelen string'i Lucide ikonuna çevirmek için
 const IconMap = {
-    Star, Target, Award, Briefcase, Settings, Zap, ShieldCheck,
+    Star, Target, Award, Briefcase, Settings, Zap, ShieldCheck, Shield: ShieldCheck,
     PieChart, Factory, Ship, Cpu, Coins, Globe, TrendingUp, Users, BookOpen, Scale, ArrowRight,
-    LineChart, Layers, Search, Shield, CheckCircle2
+    LineChart, Layers, Search, CheckCircle2
 }
 
 const TabsContentSection = ({ section }) => {

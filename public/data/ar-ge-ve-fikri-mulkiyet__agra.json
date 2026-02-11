@@ -10,16 +10,12 @@
             "link": "/"
         },
         {
-            "name": "Servisler",
-            "link": "/servisler"
-        },
-        {
-            "name": "Dijital Çözümler",
-            "link": "#"
+            "name": "Dijital Ürünler",
+            "link": "/dijital-urunler"
         },
         {
             "name": "Ar-Ge ve Fikri Mülkiyet",
-            "link": "/servisler/ar-ge-ve-fikri-mulkiyet/dijital-cozumler"
+            "link": "/dijital-urunler/ar-ge-ve-fikri-mulkiyet"
         },
         {
             "name": "Agra"

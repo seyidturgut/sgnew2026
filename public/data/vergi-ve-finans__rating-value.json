@@ -10,38 +10,111 @@
             "link": "/"
         },
         {
-            "name": "Servisler",
-            "link": "/servisler"
-        },
-        {
-            "name": "Finansal Araçlar",
-            "link": "#"
+            "name": "Dijital Ürünler",
+            "link": "/dijital-urunler"
         },
         {
             "name": "Vergi ve Finans",
-            "link": "/servisler/vergi-ve-finans/vergi-ve-finans"
+            "link": "/dijital-urunler/vergi-ve-finans"
         },
         {
             "name": "Rating Value"
         }
     ],
-    "hero_image": "/images/servisler/services-hero-business.webp",
+    "hero_image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=1600&q=80",
     "content_json": {
         "hero": {
-            "title": "Rating Value",
-            "description": "Dijital Dönüşüm Yolculuğunuzda Yanınızdayız.",
-            "image": "/images/servisler/services-hero-business.webp"
+            "title": "Hızlı, Basit ve Güvenilir Şirket Değerlemesi",
+            "description": "Haftalar süren şirket değerleme süreçlerini saatler içinde tamamlayarak finansal kararlarınızı güvenle alın.",
+            "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=1600&q=80",
+            "buttons": [
+                {
+                    "text": "Ürünü İnceleyin",
+                    "link": "#details",
+                    "variant": "primary"
+                }
+            ]
         },
         "sections": [
             {
+                "id": "details",
                 "type": "intro_text",
-                "content": "<div class=\"mb-8 p-6 bg-white rounded-2xl border border-gray-100 shadow-sm inline-block\"><img src=\"/images/dijital-urunler/ratingvalue.webp\" alt=\"Rating Value Logo\" class=\"h-16 w-auto object-contain\" /></div><p><strong>Çalışmalarımız devam ediyor.</strong></p><p>Bu ürünümüzle ilgili detaylı bilgiler çok yakında burada olacak. Sistem Global olarak dijital çözümlerimizi geliştirmeye ve size en iyi kullanıcı deneyimini sunmaya devam ediyoruz.</p>"
+                "content": "<div class=\"mb-10 p-8 bg-white rounded-3xl border border-gray-100 shadow-xl inline-block group hover:scale-105 transition-transform duration-500\"><img src=\"/images/dijital-urunler/ratingvalue.webp\" alt=\"Rating Value Logo\" class=\"h-20 w-auto object-contain\" /></div><p class=\"text-2xl font-light text-secondary leading-relaxed mb-6\">Rating Value, şirketinizin ekonomik değerini teknik bilgiye ihtiyaç duymadan, sadece birkaç dakika içinde öğrenmenizi sağlayan yeni nesil bir değerleme platformudur.</p><p class=\"text-lg text-gray-600 leading-relaxed\">Geleneksel ve karmaşık değerleme yöntemlerini sadeleştirerek; KOBİ'ler, scale-up'lar, yatırım fonları ve mali müşavirler için pratik, hızlı ve ekonomik çözümler sunar. Yatırım veya ortaklık kararları öncesinde ihtiyaç duyduğunuz güvenilir finansal analizi saniyeler içinde raporlar.</p>"
             },
             {
+                "id": "importance",
+                "type": "intro_block",
+                "title": "Şirket Değerleme Neden Önemlidir?",
+                "subtitle": "Stratejik Kararlar İçin Sağlam Zemin",
+                "content": "<p>Doğru bir değerleme, işletmenizin büyüme potansiyelini ve piyasadaki gerçek yerini gösterir. Yatırımcı güveninden rekabet avantajına kadar her aşamada kritik rol oynar.</p>",
+                "highlights": [
+                    "Yatırım ve ortaklık görüşmelerinde ikna edici veriler",
+                    "Stratejik planlama ve büyüme kararları için rehberlik",
+                    "Finansal durumun objektif analizi",
+                    "Piyasa koşullarına göre güncellenebilir değerleme"
+                ]
+            },
+            {
+                "id": "benefits",
+                "type": "info_list",
+                "title": "Öne Çıkan Özellikler ve Faydalar",
+                "description": "Geleneksel yöntemlerin karmaşıklığını geride bırakan dijital avantajlar.",
+                "items": [
+                    {
+                        "title": "1 Saatte Raporlama",
+                        "desc": "Değerleme süreci saatler içinde tamamlanarak zamandan tasarruf etmenize ve hızlı karar almanıza yardımcı olur."
+                    },
+                    {
+                        "title": "Sınırsız Revize ve Güncelleme",
+                        "desc": "Piyasa koşulları veya şirket içi veriler değiştikçe sistem üzerinden kolayca güncellemeler yapabilirsiniz."
+                    },
+                    {
+                        "title": "Teknik Bilgi Gerektirmez",
+                        "desc": "Karmaşık finansal formüller yerine herkesin rahatlıkla kullanabileceği kullanıcı dostu bir arayüz sunar."
+                    },
+                    {
+                        "title": "Ekonomik ve Profesyonel",
+                        "desc": "Yüksek kalite standartlarından ödün vermeden, her ölçekten işletmenin ulaşabileceği erişilebilir fiyatlarla hizmet sunar."
+                    },
+                    {
+                        "title": "Bilimsel Metodoloji",
+                        "desc": "Uluslararası standartlarda kabul görmüş değerleme yöntemlerini yapay zeka ve güncel piyasa verileriyle harmanlar."
+                    },
+                    {
+                        "title": "Anlık Finansal Check-up",
+                        "desc": "Şirketinizin finansal sağlığını sadece değerleme bazlı değil, genel bir check-up mantığıyla görmenizi sağlar."
+                    }
+                ]
+            },
+            {
+                "id": "target",
+                "type": "benefits_grid",
+                "title": "Rating Value Kimler İçindir?",
+                "benefits": [
+                    {
+                        "title": "KOBİ'ler",
+                        "desc": "Şirket değerini öğrenerek gelecek stratejisini belirlemek isteyen işletmeler."
+                    },
+                    {
+                        "title": "Scale-up Firmalar",
+                        "desc": "Yatırım turuna hazırlanan ve profesyonel değerleme raporuna ihtiyaç duyan girişimler."
+                    },
+                    {
+                        "title": "Yatırım Fonları & GSYF",
+                        "desc": "Portföy operasyonlarını hızlandırmak ve anlık değer takibi yapmak isteyen profesyoneller."
+                    },
+                    {
+                        "title": "Mali Müşavirler",
+                        "desc": "Müşterilerine katma değerli değerleme hizmeti sunmak isteyen profesyonel danışmanlar."
+                    }
+                ]
+            },
+            {
+                "id": "cta",
                 "type": "cta_simple",
-                "title": "Detaylı Bilgi Almak İster Misiniz?",
-                "description": "Ürünümüz hakkında ön bilgi almak veya çözüm ortaklığı süreçlerimizi öğrenmek için bizimle iletişime geçebilirsiniz.",
-                "button_text": "Bize Ulaşın"
+                "title": "Şirketinizin Güncel Değerini Hemen Öğrenin",
+                "description": "Rating Value ile finansal süreçlerinizde hız ve netlik kazanın.",
+                "button_text": "Hemen Bilgi Alın"
             }
         ]
     }

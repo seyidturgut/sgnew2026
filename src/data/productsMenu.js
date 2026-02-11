@@ -5,7 +5,7 @@ import {
     Globe,
     Monitor,
     Lightbulb,
-    Shield,
+    ShieldCheck,
     TrendingUp,
     Rocket,
     BookOpen
@@ -50,7 +50,7 @@ export const productsMenu = [
         title: "Mevzuat ve Uyum",
         slug: "mevzuat-ve-uyum",
         description: "Hukuki ve mevzuat uyum teknolojileri.",
-        icon: Scale,
+        icon: ShieldCheck,
         subcategories: [
             {
                 title: "Yasal Uyum",
@@ -87,7 +87,7 @@ export const productsMenu = [
                 title: "Eğitim Platformları",
                 slug: "egitim-platformlari",
                 items: [
-                    { title: 'eDanışman', href: '/dijital-urunler/online-danismanlik/edanisman' }
+                    { title: 'eDanışman', href: '/dijital-urunler/online-danismanlik-ve-egitim/edanisman' }
                 ]
             }
         ]

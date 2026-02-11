@@ -10,16 +10,12 @@
             "link": "/"
         },
         {
-            "name": "Servisler",
-            "link": "/servisler"
-        },
-        {
-            "name": "İhracat Yazılımları",
-            "link": "#"
+            "name": "Dijital Ürünler",
+            "link": "/dijital-urunler"
         },
         {
             "name": "Globalleşme ve İhracat",
-            "link": "/servisler/globallesme-ve-ihracat/globallesme-ve-ihracat"
+            "link": "/dijital-urunler/globallesme-ve-ihracat"
         },
         {
             "name": "Quandatum"
