@@ -4,6 +4,27 @@
     "title_highlighted": "",
     "category": "ar-ge-ve-fikri-mulkiyet",
     "layout_density": "compact",
+    "breadcrumb": [
+        {
+            "name": "Anasayfa",
+            "link": "/"
+        },
+        {
+            "name": "Servisler",
+            "link": "/servisler"
+        },
+        {
+            "name": "Dijital Çözümler",
+            "link": "#"
+        },
+        {
+            "name": "Ar-Ge ve Fikri Mülkiyet",
+            "link": "/servisler/ar-ge-ve-fikri-mulkiyet/dijital-cozumler"
+        },
+        {
+            "name": "Marqby"
+        }
+    ],
     "hero_image": "/images/servisler/services-hero-business.webp",
     "content_json": {
         "hero": {

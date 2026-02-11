@@ -99,6 +99,19 @@ export const serviceMenu = [
                     { title: "Marka, Tasarım, Patent Başvuruları", href: "/servisler/ar-ge-ve-fikri-mulkiyet/fikri-mulkiyet/marka-tasarim-patent-basvurulari" },
                     { title: "Patent İhlal Analizleri", href: "/servisler/ar-ge-ve-fikri-mulkiyet/fikri-mulkiyet/patent-ihlal-analizleri" }
                 ]
+            },
+            {
+                title: "Dijital Çözümler",
+                slug: "dijital-cozumler",
+                icon: Monitor,
+                description: "Ar-Ge ve teknoloji projelerinizi yöneten dijital platformlar.",
+                items: [
+                    { title: 'HaaS', href: '/dijital-urunler/ar-ge-ve-fikri-mulkiyet/haas' },
+                    { title: 'Sparks', href: '/dijital-urunler/ar-ge-ve-fikri-mulkiyet/sparks' },
+                    { title: 'Agra', href: '/dijital-urunler/ar-ge-ve-fikri-mulkiyet/agra' },
+                    { title: 'Argera', href: '/dijital-urunler/ar-ge-ve-fikri-mulkiyet/argera' },
+                    { title: 'Marqby', href: '/dijital-urunler/ar-ge-ve-fikri-mulkiyet/marqby' },
+                ]
             }
         ]
     },

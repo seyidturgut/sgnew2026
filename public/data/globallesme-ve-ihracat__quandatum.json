@@ -4,6 +4,27 @@
     "title_highlighted": "",
     "category": "globallesme-ve-ihracat",
     "layout_density": "compact",
+    "breadcrumb": [
+        {
+            "name": "Anasayfa",
+            "link": "/"
+        },
+        {
+            "name": "Servisler",
+            "link": "/servisler"
+        },
+        {
+            "name": "Dijital Çözümler",
+            "link": "#"
+        },
+        {
+            "name": "Globalleşme ve İhracat",
+            "link": "/servisler/globallesme-ve-ihracat/dijital-cozumler"
+        },
+        {
+            "name": "Quandatum"
+        }
+    ],
     "hero_image": "/images/servisler/services-hero-business.webp",
     "content_json": {
         "hero": {

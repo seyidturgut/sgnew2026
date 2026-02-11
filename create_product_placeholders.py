@@ -21,12 +21,28 @@ def create_placeholder(product):
     if product.get('logo'):
         logo_html = f'<div class="mb-8 p-6 bg-white rounded-2xl border border-gray-100 shadow-sm inline-block"><img src="{product["logo"]}" alt="{product["title"]} Logo" class="h-16 w-auto object-contain" /></div>'
 
+    cat_names = {
+        "ar-ge-ve-fikri-mulkiyet": "Ar-Ge ve Fikri Mülkiyet",
+        "vergi-ve-finans": "Vergi ve Finans",
+        "mevzuat-ve-uyum": "Mevzuat ve Uyum",
+        "globallesme-ve-ihracat": "Globalleşme ve İhracat",
+        "online-danismanlik": "Online Danışmanlık"
+    }
+    cat_name = cat_names.get(product['category'], product['category'])
+
     data = {
         "slug": product['slug'],
         "title": product['title'],
         "title_highlighted": "",
         "category": product['category'],
         "layout_density": "compact",
+        "breadcrumb": [
+            {"name": "Anasayfa", "link": "/"},
+            {"name": "Servisler", "link": "/servisler"},
+            {"name": "Dijital Çözümler", "link": "#"},
+            {"name": cat_name, "link": f"/servisler/{product['category']}/dijital-cozumler"},
+            {"name": product['title']}
+        ],
         "hero_image": "/images/servisler/services-hero-business.webp",
         "content_json": {
             "hero": {

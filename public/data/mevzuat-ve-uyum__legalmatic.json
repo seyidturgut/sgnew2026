@@ -4,6 +4,27 @@
     "title_highlighted": "",
     "category": "mevzuat-ve-uyum",
     "layout_density": "compact",
+    "breadcrumb": [
+        {
+            "name": "Anasayfa",
+            "link": "/"
+        },
+        {
+            "name": "Servisler",
+            "link": "/servisler"
+        },
+        {
+            "name": "Dijital Çözümler",
+            "link": "#"
+        },
+        {
+            "name": "Mevzuat ve Uyum",
+            "link": "/servisler/mevzuat-ve-uyum/dijital-cozumler"
+        },
+        {
+            "name": "Legalmatic"
+        }
+    ],
     "hero_image": "/images/servisler/services-hero-business.webp",
     "content_json": {
         "hero": {

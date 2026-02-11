@@ -4,6 +4,27 @@
     "title_highlighted": "",
     "category": "vergi-ve-finans",
     "layout_density": "compact",
+    "breadcrumb": [
+        {
+            "name": "Anasayfa",
+            "link": "/"
+        },
+        {
+            "name": "Servisler",
+            "link": "/servisler"
+        },
+        {
+            "name": "Dijital Çözümler",
+            "link": "#"
+        },
+        {
+            "name": "Vergi ve Finans",
+            "link": "/servisler/vergi-ve-finans/dijital-cozumler"
+        },
+        {
+            "name": "Rating Value"
+        }
+    ],
     "hero_image": "/images/servisler/services-hero-business.webp",
     "content_json": {
         "hero": {

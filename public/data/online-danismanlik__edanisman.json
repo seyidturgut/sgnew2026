@@ -4,6 +4,27 @@
     "title_highlighted": "",
     "category": "online-danismanlik",
     "layout_density": "compact",
+    "breadcrumb": [
+        {
+            "name": "Anasayfa",
+            "link": "/"
+        },
+        {
+            "name": "Servisler",
+            "link": "/servisler"
+        },
+        {
+            "name": "Dijital Çözümler",
+            "link": "#"
+        },
+        {
+            "name": "Online Danışmanlık",
+            "link": "/servisler/online-danismanlik/dijital-cozumler"
+        },
+        {
+            "name": "eDanışman"
+        }
+    ],
     "hero_image": "/images/servisler/services-hero-business.webp",
     "content_json": {
         "hero": {
