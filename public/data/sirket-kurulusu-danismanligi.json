@@ -15,17 +15,17 @@
     },
     {
       "name": "İşletme Çözümleri",
-      "link": "/servisler/isletme-cozumleri"
+      "link": "/services/isletme-cozumleri"
     },
     {
       "name": "Şirket Kuruluşu Danışmanlığı",
-      "link": "/servisler/isletme-cozumleri/sirket-kurulusu-danismanligi"
+      "link": "/services/isletme-cozumleri/sirket-kurulusu-danismanligi"
     }
   ],
   "hero": {
     "title": "Şirket Kuruluşu Danışmanlığı",
     "description": "İhtiyacınıza en uygun şirket türünü belirleyin; kuruluş evrakları, tescil süreçleri ve resmi işlemleri uzman ekibimizle güvenle tamamlayın.",
-    "image": "/images/servisler/sirket-kurulusu-hero.jpg",
+    "image": "/assets/images/services/sirket-kurulusu-hero.jpg",
     "buttons": [
       {
         "text": "Uzmanımızla Görüşün",
@@ -44,7 +44,7 @@
       "type": "content_with_image",
       "title": "Şirket Kuruluşu Danışmanlığı Nedir?",
       "content": "<p>Gerçek veya tüzel kişi kurucuların ihtiyaçlarına en uygun şirket türünün belirlenmesi; şirket esas sözleşmesi başta olmak üzere ilgili ticaret odasının talep ettiği evrak setinin hazırlanması, noter ve ticaret sicil müdürlüğü işlemleri dahil tescil sürecinin tamamına danışmanlık sağlanmasıdır.</p><p>Bu hizmetten şirket kurmak isteyen girişimciler ve tüzel kişiler faydalanabilir.</p>",
-      "image": "/images/servisler/sirket-kurulusu-intro.jpg",
+      "image": "/assets/images/services/sirket-kurulusu-intro.jpg",
       "image_position": "right"
     },
     {

@@ -15,17 +15,17 @@
     },
     {
       "name": "İşletme Çözümleri",
-      "link": "/servisler/isletme-cozumleri"
+      "link": "/services/isletme-cozumleri"
     },
     {
       "name": "SGK Teşvik Danışmanlığı",
-      "link": "/servisler/isletme-cozumleri/sgk-tesvik-danismanligi"
+      "link": "/services/isletme-cozumleri/sgk-tesvik-danismanligi"
     }
   ],
   "hero": {
     "title": "SGK Teşvik Danışmanlığı",
     "description": "İstihdam, Ar-Ge ve yatırım teşviklerinden maksimum faydayı alın; yasal uyumla prim indirimlerinizi güvenle yönetin.",
-    "image": "/images/servisler/sgk-tesvik-hero.jpg",
+    "image": "/assets/images/services/sgk-tesvik-hero.jpg",
     "buttons": [
       {
         "text": "Uzmanımızla Görüşün",
@@ -44,7 +44,7 @@
       "type": "content_with_image",
       "title": "SGK Teşvikleri Nedir?",
       "content": "<p><strong>SGK teşvikleri</strong>; yatırımların, istihdamın ve Ar-Ge faaliyetlerinin artırılması amacıyla işverenlere tanınan sigorta prim indirimlerinin genel adıdır. Ülkemizde faaliyet gösteren tüm özel sektör işletmeleri, kanuni şartları sağlamaları ve prim ödemelerini yasal sürelerde yapmaları halinde bu teşviklerden yararlanabilir.</p><p>Firmaların sigortalı çalışanları için yatırdığı primlerdeki teşvik ve indirimleri hesaplayarak personel maliyetlerinden tasarruf sağlanmasına destek oluruz.</p>",
-      "image": "/images/servisler/sgk-tesvik-intro.jpg",
+      "image": "/assets/images/services/sgk-tesvik-intro.jpg",
       "image_position": "right"
     },
     {

@@ -7,13 +7,13 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Mevzuat ve Uyum", "link": "/servisler/mevzuat-ve-uyum" },
-    { "name": "İş Süreçleri ve Uyum Danışmanlığı", "link": "/servisler/mevzuat-ve-uyum/is-surecleri-ve-uyum-danismanligi" }
+    { "name": "Mevzuat ve Uyum", "link": "/services/mevzuat-ve-uyum" },
+    { "name": "İş Süreçleri ve Uyum Danışmanlığı", "link": "/services/mevzuat-ve-uyum/is-surecleri-ve-uyum-danismanligi" }
   ],
   "hero": {
     "title": "İş Süreçleri ve Uyum Danışmanlığı",
     "description": "İşveren-çalışan ilişkilerini mevzuata uygun yönetin, süreçlerinizi güvence altına alın.",
-    "image": "/images/servisler/is-surecleri-hero.jpg",
+    "image": "/assets/images/services/is-surecleri-hero.jpg",
     "buttons": [
       { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
       { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
@@ -24,14 +24,14 @@
       "type": "content_with_image",
       "title": "İş Süreçleri ve Yasal Uyum Nedir?",
       "content": "<p>İş süreçleri ve yasal uyum; işveren ile çalışanlar arasındaki ilişkilerin düzenlenmesini sağlayan bir alandır. Bu alan, iş sözleşmelerinin hazırlanmasından iş ilişkisinin sonlanmasına kadar pek çok süreci kapsar. Ayrıca, işçi haklarının korunması, tazminat süreçleri gibi önemli konuları içerir. İş süreçlerinde yasal uyumun amacı; iş yerlerinde adil bir ortam sağlamak ve tüm tarafların haklarının güvence altına alınmasını sağlamaktır.</p><p>İş yerlerinde uyulması gereken düzenlemelere ve prosedürlere uygun hareket etmek işverenler için büyük önem taşır. Bu nedenle, iş süreçleri konusunda uzman desteği almak, iş yerindeki olası sorunları önlemeye yardımcı olur.</p>",
-      "image": "/images/servisler/is-surecleri-intro.jpg",
+      "image": "/assets/images/services/is-surecleri-intro.jpg",
       "image_position": "right"
     },
     {
       "type": "image_text",
       "title": "Uyumlu İş Süreçleriyle Güvenli Yapı",
       "content": "<p>İş süreçlerinin mevzuata uygun yürütülmesi, hem çalışan haklarını korur hem de işverenin risklerini minimize eder. Uyumlu süreçler, operasyonel verimliliği artırır.</p>",
-      "image": "/images/servisler/is-surecleri-process.jpg",
+      "image": "/assets/images/services/is-surecleri-process.jpg",
       "layout": "left"
     },
     {

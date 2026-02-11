@@ -21,12 +21,12 @@
             "name": "Sparks"
         }
     ],
-    "hero_image": "/images/servisler/tech-general.webp",
+    "hero_image": "/assets/images/services/tech-general.webp",
     "content_json": {
         "hero": {
             "title": "Personellerinizin SGK ve Teşvik İşlemlerinde Akıllı Dijital Çözüm!",
             "description": "Sparks, çok şubeli ve kalabalık kadrolara sahip işletmelerin SGK işlemlerini tek bir ekrandan hızlı ve hatasız bir şekilde yönetmelerini sağlayan yapay zeka destekli bir kurumsal koordinasyon yazılımıdır.",
-            "image": "/images/servisler/tech-general.webp",
+            "image": "/assets/images/services/tech-general.webp",
             "buttons": [
                 {
                     "text": "Ürünü Keşfedin",
@@ -39,7 +39,7 @@
             {
                 "id": "intro",
                 "type": "intro_text",
-                "content": "<div class=\"mb-10 p-8 bg-white rounded-3xl border border-gray-100 shadow-xl inline-block group hover:scale-105 transition-transform duration-500\"><img src=\"/images/dijital-urunler/sparkslogo.png\" alt=\"Sparks Logo\" class=\"h-20 w-auto object-contain\" /></div><p class=\"text-2xl font-light text-secondary leading-relaxed mb-8\">Sparks, SGK ve bordro süreçlerindeki tecrübemiz ve bilgimizle iş yükünüzü azaltıp, verimliliğinizi artırmanız için yanınızdayız.</p><div class=\"grid grid-cols-1 md:grid-cols-3 gap-4 mt-8\"><div class=\"p-6 bg-orange-50/50 rounded-2xl border border-orange-100\"><h4 class=\"font-bold text-orange-600 text-sm uppercase tracking-widest mb-2\">Kimler İçindir?</h4><p class=\"text-gray-700 text-sm font-medium leading-relaxed\">Zaman ve maliyet tasarrufu hedefleyen firmalar, Mali Müşavirler ve İK Yöneticileri.</p></div></div>"
+                "content": "<div class=\"mb-10 p-8 bg-white rounded-3xl border border-gray-100 shadow-xl inline-block group hover:scale-105 transition-transform duration-500\"><img src=\"/assets/images/dijital-urunler/sparkslogo.png\" alt=\"Sparks Logo\" class=\"h-20 w-auto object-contain\" /></div><p class=\"text-2xl font-light text-secondary leading-relaxed mb-8\">Sparks, SGK ve bordro süreçlerindeki tecrübemiz ve bilgimizle iş yükünüzü azaltıp, verimliliğinizi artırmanız için yanınızdayız.</p><div class=\"grid grid-cols-1 md:grid-cols-3 gap-4 mt-8\"><div class=\"p-6 bg-orange-50/50 rounded-2xl border border-orange-100\"><h4 class=\"font-bold text-orange-600 text-sm uppercase tracking-widest mb-2\">Kimler İçindir?</h4><p class=\"text-gray-700 text-sm font-medium leading-relaxed\">Zaman ve maliyet tasarrufu hedefleyen firmalar, Mali Müşavirler ve İK Yöneticileri.</p></div></div>"
             },
             {
                 "id": "features",

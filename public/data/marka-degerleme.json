@@ -15,21 +15,21 @@
     },
     {
       "name": "Vergi & Finans",
-      "link": "/servisler/vergi-finans"
+      "link": "/services/vergi-finans"
     },
     {
       "name": "Kurumsal Finansman",
-      "link": "/servisler/vergi-finans/kurumsal-finansman"
+      "link": "/services/vergi-finans/kurumsal-finansman"
     },
     {
       "name": "Marka Değerleme",
-      "link": "/servisler/vergi-finans/kurumsal-finansman/marka-degerleme"
+      "link": "/services/vergi-finans/kurumsal-finansman/marka-degerleme"
     }
   ],
   "hero": {
     "title": "Marka Değerleme",
     "description": "Markanızın finansal ve algısal gücünü ölçün; yatırım, lisanslama ve büyüme kararlarınızı sağlam temellere oturtun.",
-    "image": "/images/servisler/marka-degerleme-hero.jpg",
+    "image": "/assets/images/services/marka-degerleme-hero.jpg",
     "buttons": [
       {
         "text": "Uzmanımızla Görüşün",
@@ -48,7 +48,7 @@
       "type": "content_with_image",
       "title": "Marka Değerleme Nedir?",
       "content": "<p>Marka değerleme, bir markanın finansal ve algısal gücünü analiz ederek piyasa değerini belirlemeye yönelik kapsamlı bir süreçtir. Şirketlerin rekabet avantajlarını, müşteri sadakatini ve pazardaki konumlarını anlamalarına yardımcı olur; yatırım, satın alma ve lisanslama süreçlerinde kritik rol oynar.</p><p>Sistem Global olarak uluslararası standartlara uygun yöntemlerle markaların gerçek değerini belirliyor ve stratejik kararları destekliyoruz.</p>",
-      "image": "/images/servisler/marka-degerleme-intro.jpg",
+      "image": "/assets/images/services/marka-degerleme-intro.jpg",
       "image_position": "right"
     },
     {

@@ -8,9 +8,9 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
-    { "name": "RPA ve Süreç Danışmanlığı", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi" },
-    { "name": "İç Denetim ve Sistem Kurulum Danışmanlığı", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/ic-denetim-ve-sistem-kurulum-danismanligi" }
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "RPA ve Süreç Danışmanlığı", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi" },
+    { "name": "İç Denetim ve Sistem Kurulum Danışmanlığı", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/ic-denetim-ve-sistem-kurulum-danismanligi" }
   ],
   "hero": {
     "title": "İç Denetim ve Sistem Kurulum Danışmanlığı",

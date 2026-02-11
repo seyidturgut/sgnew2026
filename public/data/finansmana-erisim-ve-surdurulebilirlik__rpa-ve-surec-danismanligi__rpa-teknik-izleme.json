@@ -8,9 +8,9 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
-    { "name": "RPA ve Süreç Danışmanlığı", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi" },
-    { "name": "RPA Teknik İzleme", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/rpa-teknik-izleme" }
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "RPA ve Süreç Danışmanlığı", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi" },
+    { "name": "RPA Teknik İzleme", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/rpa-teknik-izleme" }
   ],
   "hero": {
     "title": "RPA Teknik İzleme",

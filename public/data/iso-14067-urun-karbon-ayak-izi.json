@@ -7,14 +7,14 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
-    { "name": "Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
-    { "name": "ISO 14067 - Ürün Karbon Ayak İzi", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/iso-14067-urun-karbon-ayak-izi" }
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
+    { "name": "ISO 14067 - Ürün Karbon Ayak İzi", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/iso-14067-urun-karbon-ayak-izi" }
   ],
   "hero": {
     "title": "ISO 14067 - Ürün Karbon Ayak İzi",
     "description": "Ürün yaşam döngünüzün karbon etkisini bilimsel yöntemlerle görünür kılın ve düşük karbonlu ürün stratejinizi güçlendirin.",
-    "image": "/images/servisler/iso-14067-hero.jpg",
+    "image": "/assets/images/services/iso-14067-hero.jpg",
     "buttons": [
       { "text": "Ürün Karbon Analizi", "link": "#services", "variant": "primary" },
       { "text": "Uzman Desteği Alın", "link": "#contact", "variant": "outline" }
@@ -33,13 +33,13 @@
         "Düşük karbonlu ürün geliştirme için teknik altyapı",
         "ESG ve iklim hedeflerine ölçülebilir katkı"
       ],
-      "image": "/images/servisler/iso-14067-hero.jpg"
+      "image": "/assets/images/services/iso-14067-hero.jpg"
     },
     {
       "type": "content_with_image",
       "title": "Ürün Yaşam Döngünüzün Karbon Etkisini Bilimsel Bir Yaklaşımla Ortaya Koyun",
       "content": "<p>ISO 14067, bir ürünün yaşam döngüsü boyunca oluşturduğu sera gazı emisyonlarını bilimsel yöntemlerle hesaplamak için kullanılan uluslararası bir standarttır. Bu yaklaşım, hammaddenin çıkarılmasından üretim süreçlerine, lojistikten ürün kullanımına ve bertaraf aşamasına kadar tüm adımlarda ortaya çıkan karbon etkisini bütünsel bir çerçevede analiz eder.</p><p>Bu sayede işletmeler, yalnızca üretim adımlarındaki karbon yoğunluğunu değil; tedarik zinciri, süreç tasarımı ve ürün ömrü boyunca oluşan çevresel etkileri de net bir biçimde ortaya koyabilir. Ürün karbon ayak izi, düşük karbonlu ürün geliştirme hedeflerinin ve iklim stratejilerinin temel bileşenlerinden biridir.</p>",
-      "image": "/images/servisler/iso-14067-intro.jpg",
+      "image": "/assets/images/services/iso-14067-intro.jpg",
       "image_position": "right"
     },
     {
@@ -127,7 +127,7 @@
       "type": "image_text",
       "title": "Ürün Bazında Karbon Verisi ile Rekabet Gücünüzü Artırın",
       "content": "<p>ISO 14067 çalışmaları, ürünlerinizin çevresel etkisini ölçülebilir hale getirerek iyileştirme kararlarını teknik veriye dayandırır. Bu sayede kaynak verimliliği artar, emisyon yoğun süreçler optimize edilir ve ürün portföyünüz daha sürdürülebilir hale gelir.</p><p>Doğru kurgulanmış bir ürün karbon ayak izi yaklaşımı, hem regülasyonlara uyumu hızlandırır hem de uluslararası pazarlarda şirketinizin tercih edilirliğini güçlendirir.</p>",
-      "image": "/images/servisler/iso-14067-strategy.jpg",
+      "image": "/assets/images/services/iso-14067-strategy.jpg",
       "layout": "right"
     },
     {

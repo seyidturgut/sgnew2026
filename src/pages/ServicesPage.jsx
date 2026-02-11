@@ -15,7 +15,7 @@ const ServicesPage = () => {
                 {/* Background Image - No Gradient or Blur */}
                 <div className="absolute inset-0 z-0">
                     <img
-                        src="/images/servisler/services-hero-business.webp"
+                        src="/assets/images/services/services-hero-business.webp"
                         alt="Services Hero"
                         className="w-full h-full object-cover opacity-40"
                     />

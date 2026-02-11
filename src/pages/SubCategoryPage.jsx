@@ -74,45 +74,45 @@ const SubCategoryPage = ({ forcedCategory, isProduct = false }) => {
     // Category to Image mapping pools for variety
     const categoryImagePools = {
         'vergi-finans': [
-            '/images/servisler/tax-1.webp',
-            '/images/servisler/tax-2.webp',
-            '/images/servisler/tax-3.webp',
-            '/images/servisler/tax-4.webp',
-            '/images/servisler/tax-5.webp',
-            '/images/servisler/tax-6.webp',
-            '/images/servisler/tax-general.webp'
+            '/assets/images/services/tax-1.webp',
+            '/assets/images/services/tax-2.webp',
+            '/assets/images/services/tax-3.webp',
+            '/assets/images/services/tax-4.webp',
+            '/assets/images/services/tax-5.webp',
+            '/assets/images/services/tax-6.webp',
+            '/assets/images/services/tax-general.webp'
         ],
         'ar-ge-ve-fikri-mulkiyet': [
-            '/images/servisler/tech-general.webp',
-            '/images/servisler/fizibilite-hero.webp',
-            '/images/servisler/services-hero-business.webp'
+            '/assets/images/services/tech-general.webp',
+            '/assets/images/services/fizibilite-hero.webp',
+            '/assets/images/services/services-hero-business.webp'
         ],
         'mevzuat-uyum': [
-            '/images/servisler/legal-general.webp',
-            '/images/servisler/due-diligence-hero.webp'
+            '/assets/images/services/legal-general.webp',
+            '/assets/images/services/due-diligence-hero.webp'
         ],
         'globallesme-ihracat': [
-            '/images/servisler/global-general.webp',
-            '/images/servisler/services-hero.webp'
+            '/assets/images/services/global-general.webp',
+            '/assets/images/services/services-hero.webp'
         ],
         'finansmana-erisim-surdurulebilirlik': [
-            '/images/servisler/finance-general.webp',
-            '/images/servisler/fizibilite-financial.webp'
+            '/assets/images/services/finance-general.webp',
+            '/assets/images/services/fizibilite-financial.webp'
         ]
     };
 
     const getOptimalImage = (index, serviceHref) => {
-        const pool = categoryImagePools[categorySlug] || ['/images/servisler/services-hero-business.webp'];
+        const pool = categoryImagePools[categorySlug] || ['/assets/images/services/services-hero-business.webp'];
 
         // Try specific hero first
         const slug = serviceHref.split('/').pop();
-        const specificHero = `/images/servisler/${slug}-hero.webp`;
+        const specificHero = `/assets/images/services/${slug}-hero.webp`;
 
         // Special case overrides
         const specialMappings = {
-            'vergi-yonetim-danismanligi': '/images/servisler/yonetim-danismanligi-hero.webp',
-            'birlesme-ve-satin-alma-ma': '/images/servisler/ma-hero.webp',
-            'due-diligence': '/images/servisler/due-diligence-hero.webp'
+            'vergi-yonetim-danismanligi': '/assets/images/services/yonetim-danismanligi-hero.webp',
+            'birlesme-ve-satin-alma-ma': '/assets/images/services/ma-hero.webp',
+            'due-diligence': '/assets/images/services/due-diligence-hero.webp'
         };
 
         if (specialMappings[slug]) return specialMappings[slug];
@@ -260,7 +260,7 @@ const SubCategoryPage = ({ forcedCategory, isProduct = false }) => {
                     <div className="relative rounded-[3rem] overflow-hidden bg-secondary p-12 lg:p-20 group">
                         <div className="absolute inset-0 opacity-20 group-hover:opacity-30 transition-opacity">
                             <img
-                                src="/images/servisler/services-hero-business.webp"
+                                src="/assets/images/services/services-hero-business.webp"
                                 alt="cta background"
                                 className="w-full h-full object-cover scale-105 group-hover:scale-100 transition-transform duration-1000"
                             />

@@ -7,14 +7,14 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Finansmana Erisim ve Surdurulebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
-    { "name": "Finansmana Erisim", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim" },
-    { "name": "Yatirim Tesvik Danismanligi", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim/yatirim-tesvik-danismanligi" }
+    { "name": "Finansmana Erisim ve Surdurulebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "Finansmana Erisim", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim" },
+    { "name": "Yatirim Tesvik Danismanligi", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim/yatirim-tesvik-danismanligi" }
   ],
   "hero": {
     "title": "Yatirim Tesvik Danismanligi",
     "description": "Yatirim tesvik mevzuatina uygun, dogru kurgulanmis basvuru ve izleme surecleriyle desteklerden maksimum fayda elde edin.",
-    "image": "/images/servisler/yatirim-tesvik-hero.jpg",
+    "image": "/assets/images/services/yatirim-tesvik-hero.jpg",
     "buttons": [
       { "text": "Uygunluk Analizi", "link": "#contact", "variant": "primary" },
       { "text": "Destekleri Incele", "link": "#services", "variant": "outline" }
@@ -33,13 +33,13 @@
         "Bolgesel ve sektorel destekler",
         "Basvuru, surec ve kapama yonetimi"
       ],
-      "image": "/images/servisler/yatirim-tesvik-hero.jpg"
+      "image": "/assets/images/services/yatirim-tesvik-hero.jpg"
     },
     {
       "type": "content_with_image",
       "title": "Yatirim Tesvik Danismanligi Nedir?",
       "content": "<p>Kalkinma planlarinda ongorulen hedefler dogrultusunda; uretim ve istihdamin artirilmasi, kritik ihtiyaclarin karsilanmasi, disa bagimliligin azaltilmasi, uluslararasi rekabet gucunun artirilmasi, yesil ve dijital donusumun hizlandirilmasi ile bolgesel gelismislik farklarinin azaltilmasina yonelik yatirimlarin desteklenmesini kapsar.</p><p>Bu kapsamda yatirimci ve ureticilerin yatirimdan dogan yukumluluklerinin azaltilmasi ve muafiyetlerden yararlanmasi hedeflenir.</p>",
-      "image": "/images/servisler/yatirim-tesvik-intro.jpg",
+      "image": "/assets/images/services/yatirim-tesvik-intro.jpg",
       "image_position": "right"
     },
     {
@@ -68,7 +68,7 @@
       "type": "image_text",
       "title": "Oncelikli Urun Listesi ve Bolgesel Yaklasim",
       "content": "<p>Teknoloji Hamlesi Programi kapsaminda oncelikli urun listesindeki urunlere veya teknolojilere yonelik yatirimlar desteklenebilir. Liste; dis ticaret verileri, talep gelisimi ve rekabet yogunlugu gibi kriterlerle belirlenir ve Bakanlik tarafindan yillik olarak guncellenir.</p><p>Sektorel ve bolgesel tesvik sisteminde il/ilce bazli alt bolge destek oranlari, ozellikle SGK desteklerinde farklilasabilir.</p>",
-      "image": "/images/servisler/yatirim-tesvik-map.jpg",
+      "image": "/assets/images/services/yatirim-tesvik-map.jpg",
       "layout": "left"
     },
     {
@@ -152,7 +152,7 @@
       "type": "image_text",
       "title": "Yatirim Sureclerinde Operasyonel Takip",
       "content": "<p>Belge alimindan kapamaya kadar tum surecte teknik, mali ve mevzuat adimlarinin tutarli bicimde yurutilmesi; tesviklerden fiili olarak faydalanabilmenin temel kosuludur.</p><p>Dogru planlanan bir surec, yatirim maliyetini azaltir, belge risklerini dusurur ve finansal etkileri olculebilir hale getirir.</p>",
-      "image": "/images/servisler/yatirim-tesvik-process.jpg",
+      "image": "/assets/images/services/yatirim-tesvik-process.jpg",
       "layout": "right"
     },
     {

@@ -15,21 +15,21 @@
     },
     {
       "name": "Vergi & Finans",
-      "link": "/servisler/vergi-finans"
+      "link": "/services/vergi-finans"
     },
     {
       "name": "Vergi",
-      "link": "/servisler/vergi-finans/vergi"
+      "link": "/services/vergi-finans/vergi"
     },
     {
       "name": "Transfer Fiyatlandırması",
-      "link": "/servisler/vergi-finans/vergi/transfer-fiyatlandirmasi"
+      "link": "/services/vergi-finans/vergi/transfer-fiyatlandirmasi"
     }
   ],
   "hero": {
     "title": "Transfer Fiyatlandırması",
     "description": "İhtiyacınıza Uygun Transfer Fiyatlandırma Çözümleri için Sistem Global!",
-    "image": "/images/transfer-pricing-hero.webp",
+    "image": "/assets/images/transfer-pricing-hero.webp",
     "buttons": [
       {
         "text": "Detaylı Bilgi Alın",
@@ -48,7 +48,7 @@
       "type": "content_with_image",
       "title": "İhtiyacınıza Uygun Transfer Fiyatlandırma Çözümleri",
       "content": "<p>Transfer Fiyatlandırması Raporu Hazırlama hizmetimizle işletmenizin vergi kanunları ve uluslararası standartlara uyumunu sağlayarak, ilişkili kişilerle gerçekleştirdiğiniz alım, satım, imalat, inşaat, kiralama/kiraya verme, ödünç para alınması/verilmesi gibi işlemleri detaylı bir şekilde inceliyoruz.</p>\n            <p>Hizmetimizle hem ilişkili kişilerle gerçekleşmiş işlemleri irdeliyor hem de gelecekte gerçekleştirecek ilişkili kişi işlemlerinde fiyatlamanın tespitine ilişkin destek oluyoruz. İşletmenizi fiyatlamaya ilişkin vergisel risklerden korumak ve optimum düzeyde vergi ödemenizi sağlamak için deneyimli ekibimizle yanınızdayız.</p>",
-      "image": "/images/transfer-pricing-audit.webp",
+      "image": "/assets/images/transfer-pricing-audit.webp",
       "image_position": "right"
     },
     {

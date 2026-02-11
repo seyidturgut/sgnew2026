@@ -15,21 +15,21 @@
     },
     {
       "name": "Ar-Ge ve Fikri Mülkiyet",
-      "link": "/servisler/ar-ge-ve-fikri-mulkiyet"
+      "link": "/services/ar-ge-ve-fikri-mulkiyet"
     },
     {
       "name": "Ar-Ge Yönetimi",
-      "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi"
+      "link": "/services/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi"
     },
     {
       "name": "Uluslararası Fon Programları",
-      "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/uluslararasi-fon-programlari"
+      "link": "/services/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/uluslararasi-fon-programlari"
     }
   ],
   "hero": {
     "title": "Uluslararası Fon Programları Danışmanlığı",
     "description": "Horizon Europe, EUREKA, EUROSTARS ve daha fazlası... Küresel inovasyon ağlarına katılın, yüksek bütçeli hibe desteklerinden yararlanın.",
-    "image": "/images/uluslararasi-fon/hero.webp",
+    "image": "/assets/images/uluslararasi-fon/hero.webp",
     "buttons": [
       {
         "text": "Ücretsiz Ön Analiz",
@@ -48,7 +48,7 @@
       "type": "content_with_image",
       "title": "Uluslararası Fon Programları Nedir?",
       "content": "\n                <p>Uluslararası Fon Programları; firmaların, üniversitelerin, STK’ların ve kamu kurumlarının Ar-Ge yeteneklerini ve proje kapasitelerini geliştirmek, teknoloji seviyelerini artırmak amacıyla kurgulanmış küresel hibe mekanizmalarıdır.</p>\n                <p>Bu fonların en tanınmış olanları <strong>Ufuk Avrupa (Horizon Europe)</strong>, <strong>EUREKA</strong>, <strong>EUROSTARS</strong> ve <strong>ERA-NET</strong> gibi doğrudan veya ulusal ajanlar üzerinden yürüyen prestijli programlardır. Amacımız, bu karmaşık süreçlerde size rehberlik ederek en yüksek verimi almanızı sağlamaktır.</p>\n            ",
-      "image": "/images/uluslararasi-fon/intro.webp",
+      "image": "/assets/images/uluslararasi-fon/intro.webp",
       "image_position": "right"
     },
     {

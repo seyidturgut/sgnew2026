@@ -7,9 +7,9 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Ar-Ge ve Fikri Mülkiyet", "link": "/servisler/ar-ge-ve-fikri-mulkiyet" },
-    { "name": "Ar-Ge Yönetimi", "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi" },
-    { "name": "Dahilde İşleme Rejimi Danışmanlığı", "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/dahilde-isleme-rejimi-danismanligi" }
+    { "name": "Ar-Ge ve Fikri Mülkiyet", "link": "/services/ar-ge-ve-fikri-mulkiyet" },
+    { "name": "Ar-Ge Yönetimi", "link": "/services/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi" },
+    { "name": "Dahilde İşleme Rejimi Danışmanlığı", "link": "/services/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/dahilde-isleme-rejimi-danismanligi" }
   ],
   "hero": {
     "title": "Dahilde İşleme Rejimi Danışmanlığı",

@@ -21,12 +21,12 @@
             "name": "HaaS"
         }
     ],
-    "hero_image": "/images/servisler/services-hero-business.webp",
+    "hero_image": "/assets/images/services/services-hero-business.webp",
     "content_json": {
         "hero": {
             "title": "HaaS",
             "description": "Dijital Dönüşüm Yolculuğunuzda Yanınızdayız.",
-            "image": "/images/servisler/services-hero-business.webp"
+            "image": "/assets/images/services/services-hero-business.webp"
         },
         "sections": [
             {

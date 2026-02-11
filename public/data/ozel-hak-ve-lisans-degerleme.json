@@ -15,21 +15,21 @@
     },
     {
       "name": "Vergi & Finans",
-      "link": "/servisler/vergi-finans"
+      "link": "/services/vergi-finans"
     },
     {
       "name": "Kurumsal Finansman",
-      "link": "/servisler/vergi-finans/kurumsal-finansman"
+      "link": "/services/vergi-finans/kurumsal-finansman"
     },
     {
       "name": "Özel Hak ve Lisans Değerleme",
-      "link": "/servisler/vergi-finans/kurumsal-finansman/ozel-hak-ve-lisans-degerleme"
+      "link": "/services/vergi-finans/kurumsal-finansman/ozel-hak-ve-lisans-degerleme"
     }
   ],
   "hero": {
     "title": "Özel Hak ve Lisans Değerleme",
     "description": "Ruhsat, lisans ve patent gibi stratejik varlıkların gerçek değerini ortaya çıkarın; yatırım ve finansal kararlarınızı güçlendirin.",
-    "image": "/images/servisler/ozel-hak-hero.jpg",
+    "image": "/assets/images/services/ozel-hak-hero.jpg",
     "buttons": [
       {
         "text": "Uzmanımızla Görüşün",
@@ -48,7 +48,7 @@
       "type": "content_with_image",
       "title": "Özel Hak ve Lisans Değerleme Nedir?",
       "content": "<p>Şirketlerin sahip olduğu ruhsatlar, lisanslar, patentler ve benzeri yasal belgeler, maddi varlıklar kadar değerli stratejik varlıklardır. Özellikle sağlık, enerji, teknoloji ve üretim sektörlerinde faaliyet gösteren işletmeler için bu tür belgelerin doğru bir şekilde değerlenmesi, yatırım kararlarından finansal raporlamaya kadar birçok alanda kritik rol oynar.</p><p>Sistem Global olarak, uluslararası değerleme standartlarına uygun yöntemlerle ruhsat, lisans ve patent gibi varlıkların finansal değerini belirliyor, işletmelerin stratejik planlamalarını güçlendirmelerine yardımcı oluyoruz.</p>",
-      "image": "/images/servisler/ozel-hak-intro.jpg",
+      "image": "/assets/images/services/ozel-hak-intro.jpg",
       "image_position": "right"
     },
     {

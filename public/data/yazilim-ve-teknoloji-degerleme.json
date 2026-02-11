@@ -15,21 +15,21 @@
     },
     {
       "name": "Vergi & Finans",
-      "link": "/servisler/vergi-finans"
+      "link": "/services/vergi-finans"
     },
     {
       "name": "Kurumsal Finansman",
-      "link": "/servisler/vergi-finans/kurumsal-finansman"
+      "link": "/services/vergi-finans/kurumsal-finansman"
     },
     {
       "name": "Yazılım ve Teknoloji Değerleme",
-      "link": "/servisler/vergi-finans/kurumsal-finansman/yazilim-ve-teknoloji-degerleme"
+      "link": "/services/vergi-finans/kurumsal-finansman/yazilim-ve-teknoloji-degerleme"
     }
   ],
   "hero": {
     "title": "Yazılım ve Teknoloji Değerleme",
     "description": "Dijital varlıklarınızın gerçek değerini ortaya çıkarın; yatırım, satın alma ve büyüme kararlarınızı güvenle yönetin.",
-    "image": "/images/servisler/yazilim-teknoloji-hero.jpg",
+    "image": "/assets/images/services/yazilim-teknoloji-hero.jpg",
     "buttons": [
       {
         "text": "Uzmanımızla Görüşün",
@@ -48,7 +48,7 @@
       "type": "content_with_image",
       "title": "Yazılım ve Teknoloji Değerleme Nedir?",
       "content": "<p>Teknoloji şirketleri, yazılım ürünleri ve dijital varlıklar, modern iş dünyasının en değerli unsurları arasında yer almaktadır. Ancak, fiziksel varlıklar gibi doğrudan ölçülebilir olmadıkları için yazılım ve teknoloji değerlemesi, geleneksel varlık değerleme yöntemlerinden farklı bir yaklaşımla ele alınmalıdır. Yazılım ve teknoloji değerleme, bir yazılımın veya teknolojik varlığın finansal ve operasyonel değerini belirlemek için kullanılan kapsamlı bir süreçtir.</p><p>Sistem Global olarak, startup’lardan kurumsal teknoloji firmalarına kadar geniş bir yelpazede yazılım ve teknoloji varlıklarının finansal değerini doğru bir şekilde belirleyerek, yatırım süreçlerinden satın alma işlemlerine kadar kritik kararları destekleyen analizler sunuyoruz.</p>",
-      "image": "/images/servisler/yazilim-teknoloji-intro.jpg",
+      "image": "/assets/images/services/yazilim-teknoloji-intro.jpg",
       "image_position": "right"
     },
     {

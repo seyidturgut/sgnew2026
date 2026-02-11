@@ -15,21 +15,21 @@
     },
     {
       "name": "Vergi & Finans",
-      "link": "/servisler/vergi-finans"
+      "link": "/services/vergi-finans"
     },
     {
       "name": "Kurumsal Finansman",
-      "link": "/servisler/vergi-finans/kurumsal-finansman"
+      "link": "/services/vergi-finans/kurumsal-finansman"
     },
     {
       "name": "Şirket Değerleme",
-      "link": "/servisler/vergi-finans/kurumsal-finansman/sirket-degerleme"
+      "link": "/services/vergi-finans/kurumsal-finansman/sirket-degerleme"
     }
   ],
   "hero": {
     "title": "Şirket Değerleme",
     "description": "Şirketinizin gerçek değerini ortaya çıkarın; yatırım, birleşme ve stratejik kararlarınızı güvenle yönetin.",
-    "image": "/images/servisler/sirket-degerleme-hero.jpg",
+    "image": "/assets/images/services/sirket-degerleme-hero.jpg",
     "buttons": [
       {
         "text": "Uzmanımızla Görüşün",
@@ -48,7 +48,7 @@
       "type": "content_with_image",
       "title": "Şirket Değerleme: Gerçek Potansiyeli Keşfedin",
       "content": "<p>Şirketiniz, borsada işlem görmese bile dinamik piyasa koşulları ve içsel faktörler doğrultusunda sürekli değişen bir değere sahiptir. Bu değerin doğru tespiti ve onu etkileyen unsurların analiz edilmesi, stratejik kararlar alarak şirketinizin geleceğini şekillendirmenize olanak tanır.</p><p>Yatırım süreçleri öncesinde şirketinizin güncel değerini belirler, değeri artırmaya yönelik uygulanabilir finansal stratejiler geliştirir ve hayata geçirilmesi için yol haritası oluştururuz.</p><p><strong>Şirket değerleme</strong>; şirketin alım-satım işlemleri, yasal süreçler ve stratejik planlama için piyasa değerinin belirlenmesine yardımcı olan hesaplama sürecidir. Pazar konumu, varlıklar, borçlar, finansal raporlar ve rekabet gücü dikkate alınarak gerçekleştirilir.</p>",
-      "image": "/images/servisler/sirket-degerleme-intro.jpg",
+      "image": "/assets/images/services/sirket-degerleme-intro.jpg",
       "image_position": "right"
     },
     {

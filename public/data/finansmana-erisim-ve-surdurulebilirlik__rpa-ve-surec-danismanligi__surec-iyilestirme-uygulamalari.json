@@ -8,9 +8,9 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
-    { "name": "RPA ve Süreç Danışmanlığı", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi" },
-    { "name": "Süreç İyileştirme Uygulamaları", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/surec-iyilestirme-uygulamalari" }
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "RPA ve Süreç Danışmanlığı", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi" },
+    { "name": "Süreç İyileştirme Uygulamaları", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/surec-iyilestirme-uygulamalari" }
   ],
   "hero": {
     "title": "Süreç İyileştirme Uygulamaları",

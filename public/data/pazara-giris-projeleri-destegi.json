@@ -7,13 +7,13 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Globallesme ve İhracat", "link": "/servisler/globallesme-ve-ihracat" },
-    { "name": "Pazara Giriş Projeleri Desteği", "link": "/servisler/globallesme-ve-ihracat/pazara-giris-projeleri-destegi" }
+    { "name": "Globallesme ve İhracat", "link": "/services/globallesme-ve-ihracat" },
+    { "name": "Pazara Giriş Projeleri Desteği", "link": "/services/globallesme-ve-ihracat/pazara-giris-projeleri-destegi" }
   ],
   "hero": {
     "title": "Pazara Giriş Projeleri Desteği",
     "description": "Yeni pazarlara açılmak isteyen firmalar için strateji, planlama ve destek süreçlerini birlikte kurgulayın.",
-    "image": "/images/servisler/pazara-giris-hero.jpg",
+    "image": "/assets/images/services/pazara-giris-hero.jpg",
     "buttons": [
       { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
       { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
@@ -24,14 +24,14 @@
       "type": "content_with_image",
       "title": "Pazara Giriş Projeleri Desteği Nedir?",
       "content": "<p>İhracatını sürdürülebilir hale getirmek, yeni pazarlara ve yeni müşterilere ulaşmak isteyen firmaların yeni hedef pazarlar, pazara giriş, pazarlama ve markalaşma stratejileri ile bunlara dair 3 yıllık ihracat planı ve bütçelerini içeren danışmanlık ve rapor hizmeti giderleri, Ticaret Bakanlığı desteklerinden biridir.</p><p>Ticaret Bakanlığı, “Pazara Giriş Projeleri Hazırlama Desteği” kapsamında 761.017 TL’ye kadar %50 oranında hibe sağlamaktadır.</p><p>Sistem Global, Ticaret Bakanlığı'nın bu alandaki akredite kuruluşlarından biridir.</p>",
-      "image": "/images/servisler/pazara-giris-intro.jpg",
+      "image": "/assets/images/services/pazara-giris-intro.jpg",
       "image_position": "right"
     },
     {
       "type": "image_text",
       "title": "Stratejik Planlama ile Doğru Pazar Seçimi",
       "content": "<p>Hedef pazar analizleri ve rekabet değerlendirmeleri ile ihracat planınızı somutlaştırın. Pazara giriş stratejileri ve markalaşma planı başarıyı artırır.</p>",
-      "image": "/images/servisler/pazara-giris-process.jpg",
+      "image": "/assets/images/services/pazara-giris-process.jpg",
       "layout": "left"
     },
     {

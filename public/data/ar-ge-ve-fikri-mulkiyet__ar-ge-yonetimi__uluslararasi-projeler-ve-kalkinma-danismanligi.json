@@ -15,21 +15,21 @@
     },
     {
       "name": "Ar-Ge ve Fikri Mülkiyet",
-      "link": "/servisler/ar-ge-ve-fikri-mulkiyet"
+      "link": "/services/ar-ge-ve-fikri-mulkiyet"
     },
     {
       "name": "Ar-Ge Yönetimi",
-      "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi"
+      "link": "/services/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi"
     },
     {
       "name": "Uluslararası Projeler ve Kalkınma Danışmanlığı",
-      "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/uluslararasi-projeler-ve-kalkinma-danismanligi"
+      "link": "/services/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/uluslararasi-projeler-ve-kalkinma-danismanligi"
     }
   ],
   "hero": {
     "title": "Küresel Kalkınma ve Teknik Destek Projelerinde Güçlü Rehberlik",
     "description": "Avrupa Birliği, Dünya Bankası ve BM fonları ile finanse edilen projelerde Türkiye'nin yerli ve milli global danışmanlık gücü.",
-    "image": "/images/uluslararasi-projeler/hero.webp",
+    "image": "/assets/images/uluslararasi-projeler/hero.webp",
     "buttons": [
       {
         "text": "İhale ve Proje Desteği Alın",
@@ -48,7 +48,7 @@
       "type": "content_with_image",
       "title": "Uluslararası Teknik Destek ve Kalkınma İhaleleri",
       "content": "\n                <p>Türkiye ve birçok ülkede teknik destek ve kalkınma projeleri; politik reformları desteklemek, ekonomik, sosyal ve bölgesel kalkınmayı sağlamak, sürdürülebilirliği güçlendirmek amacıyla hayati öneme sahiptir.</p>\n                <p><strong>Sistem Global</strong> olarak, 2019 yılında kurduğumuz özel ekibimizle, ülkemizin uluslararası ölçekte faaliyet gösteren tek yerli danışmanlık firması olma hedefiyle dev projelerin yükleniciliğini ve danışmanlığını üstleniyoruz.</p>\n            ",
-      "image": "/images/uluslararasi-projeler/team.webp",
+      "image": "/assets/images/uluslararasi-projeler/team.webp",
       "image_position": "right"
     },
     {

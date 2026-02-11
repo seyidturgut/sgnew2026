@@ -8,9 +8,9 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
-    { "name": "RPA ve Süreç Danışmanlığı", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi" },
-    { "name": "Yıllık Lisans Kiralama ve Uyarlama Danışmanlığı", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/yillik-lisans-kiralama-ve-uyarlama-danismanligi" }
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "RPA ve Süreç Danışmanlığı", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi" },
+    { "name": "Yıllık Lisans Kiralama ve Uyarlama Danışmanlığı", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/yillik-lisans-kiralama-ve-uyarlama-danismanligi" }
   ],
   "hero": {
     "title": "Yıllık Lisans Kiralama ve Uyarlama Danışmanlığı",

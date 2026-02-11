@@ -7,13 +7,13 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Mevzuat ve Uyum", "link": "/servisler/mevzuat-ve-uyum" },
-    { "name": "Rekabet Uyum ve Strateji Danışmanlığı", "link": "/servisler/mevzuat-ve-uyum/rekabet-uyum-ve-strateji-danismanligi" }
+    { "name": "Mevzuat ve Uyum", "link": "/services/mevzuat-ve-uyum" },
+    { "name": "Rekabet Uyum ve Strateji Danışmanlığı", "link": "/services/mevzuat-ve-uyum/rekabet-uyum-ve-strateji-danismanligi" }
   ],
   "hero": {
     "title": "Rekabet Uyum ve Strateji Danışmanlığı",
     "description": "Rekabet kurallarına uyum sağlayın, riskleri azaltın ve stratejik avantaj kazanın.",
-    "image": "/images/servisler/rekabet-hero.jpg",
+    "image": "/assets/images/services/rekabet-hero.jpg",
     "buttons": [
       { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
       { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
@@ -24,14 +24,14 @@
       "type": "content_with_image",
       "title": "Rekabet Uyum ve Strateji Danışmanlığı",
       "content": "<p>Rekabet kuralları, piyasalarda sağlıklı ve adil bir işleyişin sürdürülebilmesi, tekelleşmenin önlenmesi ve haksız rekabetin engellenmesi amacıyla belirlenen düzenlemeleri kapsar. Şirketlerin bu kurallara uygun hareket etmesi, iş süreçlerinde sürdürülebilirliği sağlamalarına ve rekabet ortamında güvenilir şekilde faaliyet göstermelerine katkıda bulunur.</p><p>Rekabet Uyum ve Strateji Danışmanlığı, işletmelerin rekabet kurallarına uyumlu hareket etmesini sağlamak, ihlallerden kaynaklanabilecek cezaları ve riskleri en aza indirmek için kritik öneme sahiptir.</p>",
-      "image": "/images/servisler/rekabet-intro.jpg",
+      "image": "/assets/images/services/rekabet-intro.jpg",
       "image_position": "right"
     },
     {
       "type": "image_text",
       "title": "Rekabet Stratejisi ve Uyum Planı",
       "content": "<p>Rekabet uyumu, sadece riskleri azaltmakla kalmaz; sürdürülebilir büyüme ve kurumsal itibarı da güçlendirir. Stratejik planlama ile süreçlerinizi güvence altına alın.</p>",
-      "image": "/images/servisler/rekabet-process.jpg",
+      "image": "/assets/images/services/rekabet-process.jpg",
       "layout": "left"
     },
     {

@@ -15,17 +15,17 @@
     },
     {
       "name": "Finansal Yönetim",
-      "link": "/servisler/finansal-yonetim"
+      "link": "/services/finansal-yonetim"
     },
     {
       "name": "Due Diligence",
-      "link": "/servisler/finansal-yonetim/due-diligence"
+      "link": "/services/finansal-yonetim/due-diligence"
     }
   ],
   "hero": {
     "title": "Due Diligence (Durum Tespit) Hizmetleri",
     "description": "Şirket satın alma, yatırım ve birleşme süreçlerinizde riskleri minimize edin, kararlarınızı güvenilir verilerle destekleyin.",
-    "image": "/images/servisler/due-diligence-hero.webp",
+    "image": "/assets/images/services/due-diligence-hero.webp",
     "buttons": [
       {
         "text": "Uzmanımızla Görüşün",
@@ -44,7 +44,7 @@
       "type": "content_with_image",
       "title": "Due Diligence Nedir ve Neden Önemlidir?",
       "content": "\n                <p>Bir şirketin satın alınması ya da yatırım alması süreçlerinde; şirketin detaylı araştırmasının yapılması, mali ve hukuki verilerin incelenmesi süreçlerine <strong>Due Diligence (Durum Tespit Süreci)</strong> denir. Bu işlem sonucunda incelemeye konu şirketin tüm hatlarıyla stratejik bir özeti çıkarılır.</p>\n                <p>Due Diligence sürecinde, geriye dönük veriler ışığında şirketin riskleri ve zayıflıkları belirlenir. Yatırım aşamasında pazarlık unsuru oluşturacak verilerin tespiti ve satın alma aşamasında adil fiyat belirleme için sarsılmaz bir altyapı oluşturur.</p>\n            ",
-      "image": "/images/servisler/due-diligence-intro.webp",
+      "image": "/assets/images/services/due-diligence-intro.webp",
       "image_position": "right"
     },
     {

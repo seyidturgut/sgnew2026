@@ -7,14 +7,14 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
-    { "name": "Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
-    { "name": "Refinitiv (LSEG)", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/refinitiv-lseg" }
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
+    { "name": "Refinitiv (LSEG)", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/refinitiv-lseg" }
   ],
   "hero": {
     "title": "Refinitiv (LSEG)",
     "description": "Küresel yatırımcıların en güvendiği ESG skorlamasıyla sürdürülebilirlik performansınızı güçlendirin.",
-    "image": "/images/servisler/refinitiv-lseg-hero.jpg",
+    "image": "/assets/images/services/refinitiv-lseg-hero.jpg",
     "buttons": [
       { "text": "ESG Skorunuzu Güçlendirin", "link": "#services", "variant": "primary" },
       { "text": "Uzman Desteği Alın", "link": "#contact", "variant": "outline" }
@@ -33,13 +33,13 @@
         "Finansal risk/fırsat analizine katkı",
         "Sürdürülebilir finansmana erişimde avantaj"
       ],
-      "image": "/images/servisler/refinitiv-lseg-hero.jpg"
+      "image": "/assets/images/services/refinitiv-lseg-hero.jpg"
     },
     {
       "type": "content_with_image",
       "title": "Küresel Yatırımcıların En Güvendiği ESG Skorlamasıyla Sürdürülebilirlik Performansınızı Güçlendirin",
       "content": "<p>Refinitiv, dünya genelinde şirketlerin sürdürülebilirlik performansını objektif kriterlere göre ölçen en kapsamlı ESG veri platformlarından biridir. LSEG (London Stock Exchange Group) tarafından satın alınmasıyla birlikte platform, finansal piyasalar ile sürdürülebilirlik performansının entegrasyonunu daha güçlü bir yapıya kavuşturmuştur. Bu sayede Refinitiv, hem yatırımcılar hem de şirketler açısından güvenilir ESG skorlarının referans noktası hâline gelmiştir.</p><p>Refinitiv'in metodolojisi; çevresel etkilerden çalışan politikalarına, yönetişim kalitesinden etik uygulamalara kadar geniş bir göstergeler setiyle şirketleri çok boyutlu biçimde analiz eder. Bu analizler, işletmelerin sürdürülebilirlik seviyelerini ortaya koymakla kalmaz; aynı zamanda finansal riskleri, fırsatları ve uzun vadeli büyüme potansiyelini de görünür hâle getirir.</p>",
-      "image": "/images/servisler/refinitiv-lseg-intro.jpg",
+      "image": "/assets/images/services/refinitiv-lseg-intro.jpg",
       "image_position": "right"
     },
     {
@@ -78,14 +78,14 @@
       "type": "content_with_image",
       "title": "Kimler Bu Hizmetten Yararlanabilir?",
       "content": "<ul><li>Borsa İstanbul'da işlem gören şirketler</li><li>Uluslararası fonlardan yatırım çekmek isteyen kurumlar</li><li>Sürdürülebilirlik performansını global ölçekte görünür kılmak isteyen tüm şirketler</li><li>Yeşil finansman araçlarına başvurmayı planlayan işletmeler</li><li>ESG performansını iyileştirmek isteyen tüm sektörler</li><li>Kurumsal yapısını güçlendirme hedefi olan büyük ölçekli şirketler</li></ul>",
-      "image": "/images/servisler/refinitiv-lseg-strategy.jpg",
+      "image": "/assets/images/services/refinitiv-lseg-strategy.jpg",
       "image_position": "left"
     },
     {
       "type": "image_text",
       "title": "Refinitiv Skorunuzu Stratejik Avantaja Dönüştürün",
       "content": "<p>Doğru veri yönetimi, güçlü dokümantasyon ve stratejik iyileştirme adımlarıyla Refinitiv değerlendirmesinde daha güçlü bir konuma ulaşabilirsiniz.</p><p>Bu süreç, yalnızca ESG skorunu yükseltmekle kalmaz; yatırımcı iletişimini güçlendirir, finansmana erişimi kolaylaştırır ve şirketinizin uzun vadeli değer hikayesini somutlaştırır.</p>",
-      "image": "/images/servisler/refinitiv-lseg-data.jpg",
+      "image": "/assets/images/services/refinitiv-lseg-data.jpg",
       "layout": "right"
     },
     {

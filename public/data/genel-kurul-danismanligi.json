@@ -7,13 +7,13 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Mevzuat ve Uyum", "link": "/servisler/mevzuat-ve-uyum" },
-    { "name": "Genel Kurul Danışmanlığı", "link": "/servisler/mevzuat-ve-uyum/genel-kurul-danismanligi" }
+    { "name": "Mevzuat ve Uyum", "link": "/services/mevzuat-ve-uyum" },
+    { "name": "Genel Kurul Danışmanlığı", "link": "/services/mevzuat-ve-uyum/genel-kurul-danismanligi" }
   ],
   "hero": {
     "title": "Genel Kurul Danışmanlığı",
     "description": "Genel kurul süreçlerinizi mevzuata uygun, şeffaf ve verimli şekilde yönetin.",
-    "image": "/images/servisler/genel-kurul-hero.jpg",
+    "image": "/assets/images/services/genel-kurul-hero.jpg",
     "buttons": [
       { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
       { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
@@ -24,14 +24,14 @@
       "type": "content_with_image",
       "title": "Genel Kurul Danışmanlığı Nedir?",
       "content": "<p>Genel Kurul, bir şirketin en üst karar alma mekanizması olarak şirketin geleceğine yönelik kritik kararların alındığı toplantılardır. Hissedarların bir araya gelerek şirket yönetimi, finansal durumlar ve stratejik hedefler hakkında görüş bildirdiği bu toplantılar, şirketin resmi yükümlülüklerini yerine getirmesi açısından büyük önem taşır.</p><p>Genel Kurul süreçlerinin etkin ve düzenli şekilde yürütülmesi için profesyonel destek almak, toplantıların mevzuata uygun olarak organize edilmesini, kararların resmi çerçevede kaydedilmesini ve süreçlerin en verimli şekilde yönetilmesini sağlar.</p><p>Bu hizmet kapsamında, toplantının öncesinden itibaren tüm aşamalar planlanarak hissedarların haklarını en iyi şekilde kullanabilmesi için gerekli süreç yönetimi desteği sunulmaktadır.</p>",
-      "image": "/images/servisler/genel-kurul-intro.jpg",
+      "image": "/assets/images/services/genel-kurul-intro.jpg",
       "image_position": "right"
     },
     {
       "type": "image_text",
       "title": "Kurumsal Yönetişim ve Şeffaflık",
       "content": "<p>Genel kurul toplantıları, şirketin kurumsal yönetim standartlarını yükselten en kritik platformdur. Düzenli ve mevzuata uygun bir süreç, yatırımcı güvenini artırır ve kararların geçerliliğini güçlendirir.</p>",
-      "image": "/images/servisler/genel-kurul-process.jpg",
+      "image": "/assets/images/services/genel-kurul-process.jpg",
       "layout": "left"
     },
     {

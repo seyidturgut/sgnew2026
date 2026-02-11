@@ -15,17 +15,17 @@
     },
     {
       "name": "Mevzuat ve Uyum",
-      "link": "/servisler/mevzuat-ve-uyum"
+      "link": "/services/mevzuat-ve-uyum"
     },
     {
       "name": "Kişisel Veri Yönetimi ve Uyum Danışmanlığı",
-      "link": "/servisler/mevzuat-ve-uyum/kisisel-veri-yonetimi-ve-uyum-danismanligi"
+      "link": "/services/mevzuat-ve-uyum/kisisel-veri-yonetimi-ve-uyum-danismanligi"
     }
   ],
   "hero": {
     "title": "Kişisel Veri Yönetimi ve Uyum Danışmanlığı",
     "description": "KVKK uyumu, veri güvenliği ve süreç yönetimi için uçtan uca danışmanlık desteği alın.",
-    "image": "/images/servisler/kisisel-veri-hero.jpg",
+    "image": "/assets/images/services/kisisel-veri-hero.jpg",
     "buttons": [
       {
         "text": "Uzmanımızla Görüşün",
@@ -44,7 +44,7 @@
       "type": "content_with_image",
       "title": "Kişisel Verilerin Korunması (KVKK) Nedir?",
       "content": "<p>Günümüzde işletmelerin faaliyetleri sırasında çeşitli kişisel verilere erişmesi kaçınılmaz hale gelmiştir. Bu verilerin güvenli bir şekilde işlenmesi, saklanması ve yönetilmesi işletmeler için hem operasyonel verimlilik hem de güvenilirlik açısından büyük önem taşır. Kişisel verilerin düzenli ve uyumlu bir şekilde yönetilmesi, şirketlerin itibarını korumasına ve çeşitli düzenleyici gerekliliklere uyum sağlamasına katkıda bulunur.</p><p>Veri güvenliği ve uyumluluk süreçlerini etkin bir şekilde yönetmek, iş süreçlerinin sadeleşmesine, operasyonel verimliliğin artmasına ve müşterilerle olan güven ilişkisinin güçlenmesine yardımcı olabilir.</p>",
-      "image": "/images/servisler/kisisel-veri-intro.jpg",
+      "image": "/assets/images/services/kisisel-veri-intro.jpg",
       "image_position": "right"
     },
     {
@@ -101,7 +101,7 @@
       "type": "image_text",
       "title": "Uyum Yol Haritası",
       "content": "<p>KVKK uyumu için teknik ve organizasyonel adımların birlikte planlanması gerekir. Süreç boyunca veri envanteri, politika ve prosedürler ile eğitim modülleri eş zamanlı kurgulanır.</p>",
-      "image": "/images/servisler/kisisel-veri-security.jpg",
+      "image": "/assets/images/services/kisisel-veri-security.jpg",
       "layout": "right"
     },
     {
@@ -244,7 +244,7 @@
       "type": "image_text",
       "title": "Süreç Yönetimi ve Operasyonel Takip",
       "content": "<p>Veri işleme süreçlerinin izlenmesi, düzenli kontrol ve raporlama ile sürdürülebilir hale getirilir. Böylece mevzuat değişikliklerine hızlı uyum sağlanır.</p>",
-      "image": "/images/servisler/kisisel-veri-process.jpg",
+      "image": "/assets/images/services/kisisel-veri-process.jpg",
       "layout": "left"
     },
     {

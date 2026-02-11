@@ -7,14 +7,14 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
-    { "name": "Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
-    { "name": "ISO 14046 - Su Ayak İzi Raporu", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/iso-14046-su-ayak-izi-raporu" }
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
+    { "name": "ISO 14046 - Su Ayak İzi Raporu", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/iso-14046-su-ayak-izi-raporu" }
   ],
   "hero": {
     "title": "ISO 14046 - Su Ayak İzi Raporu",
     "description": "Şirketinizin su ayak izini ölçülebilir, karşılaştırılabilir ve stratejik bir sürdürülebilirlik göstergesine dönüştürün.",
-    "image": "/images/servisler/iso-14046-hero.jpg",
+    "image": "/assets/images/services/iso-14046-hero.jpg",
     "buttons": [
       { "text": "Su Ayak İzi Analizi", "link": "#services", "variant": "primary" },
       { "text": "Uzman Desteği Alın", "link": "#contact", "variant": "outline" }
@@ -33,13 +33,13 @@
         "Su verimliliği için uygulanabilir iyileştirme alanları",
         "ESG ve sürdürülebilirlik raporlaması için güçlü veri altyapısı"
       ],
-      "image": "/images/servisler/iso-14046-hero.jpg"
+      "image": "/assets/images/services/iso-14046-hero.jpg"
     },
     {
       "type": "content_with_image",
       "title": "Şirketinizin Su Ayak İzini Stratejik Bir Sürdürülebilirlik Göstergesine Dönüştürün",
       "content": "<p>ISO 14046, işletmelerin su tüketimi ve suya bağlı çevresel etkilerini yaşam döngüsü bakış açısıyla değerlendirmesine imkan tanıyan uluslararası standarttır. Bu yaklaşım, yalnızca tüketilen su miktarını ölçmekle kalmaz; suyun temin edildiği bölgedeki stres seviyesini, faaliyetlerin ekosistem üzerindeki etkilerini ve suya bağlı risklerin işletme süreçlerini nasıl etkilediğini bütüncül bir çerçevede ortaya koyar.</p><p>Su ayak izi analizi; hammadde tedarikinden üretime, dağıtımdan ürünü kullanım aşamasına ve bertarafa kadar geniş bir yelpazeyi kapsar. Böylece şirketler, su kullanımının hangi süreçlerde yoğunlaştığını, nerelerde risk oluşturduğunu ve hangi adımların iyileştirme fırsatı sunduğunu net şekilde görebilir.</p><p>Küresel ölçekte artan su kıtlığı, bölgesel su stresi ve tedarik zinciri riskleri göz önüne alındığında, ISO 14046 uyumlu çalışmalar işletmeler için hem çevresel hem de stratejik bir gereklilik haline gelmiştir. Bu analizler, su yönetimini operasyonel bir göstergeden çıkarıp sürdürülebilirlik stratejisinin kritik bir bileşenine dönüştürür.</p>",
-      "image": "/images/servisler/iso-14046-intro.jpg",
+      "image": "/assets/images/services/iso-14046-intro.jpg",
       "image_position": "right"
     },
     {
@@ -138,7 +138,7 @@
       "type": "image_text",
       "title": "Su Risklerini Erken Görün, Stratejik Dayanıklılığı Artırın",
       "content": "<p>ISO 14046 uyumlu su ayak izi analizi, suya bağlı riskleri operasyonel seviyede görünür hale getirir. Bu sayede şirketiniz, kritik süreçlerde su verimliliğini artıran ve kaynak kullanımını optimize eden aksiyonları daha hızlı devreye alabilir.</p><p>Doğru veri yönetimi ve yaşam döngüsü yaklaşımı, hem çevresel etkiyi azaltır hem de kurumsal sürdürülebilirlik performansını güçlendirir.</p>",
-      "image": "/images/servisler/iso-14046-strategy.jpg",
+      "image": "/assets/images/services/iso-14046-strategy.jpg",
       "layout": "right"
     },
     {

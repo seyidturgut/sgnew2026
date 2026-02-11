@@ -7,13 +7,13 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Mevzuat ve Uyum", "link": "/servisler/mevzuat-ve-uyum" },
-    { "name": "Aile Anayasası ve Kurumsallaşma Hizmetleri", "link": "/servisler/mevzuat-ve-uyum/aile-anayasasi-ve-kurumsallasma-hizmetleri" }
+    { "name": "Mevzuat ve Uyum", "link": "/services/mevzuat-ve-uyum" },
+    { "name": "Aile Anayasası ve Kurumsallaşma Hizmetleri", "link": "/services/mevzuat-ve-uyum/aile-anayasasi-ve-kurumsallasma-hizmetleri" }
   ],
   "hero": {
     "title": "Aile Anayasası ve Kurumsallaşma Hizmetleri",
     "description": "Aile şirketlerinde sürdürülebilirlik, şeffaf yönetim ve kuşaklar arası uyum için kurumsal yapı oluşturun.",
-    "image": "/images/servisler/aile-anayasasi-hero.jpg",
+    "image": "/assets/images/services/aile-anayasasi-hero.jpg",
     "buttons": [
       { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
       { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
@@ -24,7 +24,7 @@
       "type": "content_with_image",
       "title": "Aile Anayasası ve Kurumsallaşma Hizmetleri",
       "content": "<p>Aile şirketlerinin uzun vadeli sürdürülebilirliğini sağlamak amacıyla kullanılan stratejik bir araçtır. Bu belge ile aile üyeleri arasındaki ilişkileri ve aile işletmesinin yönetimini düzenlemek için oluşturulan kurallar, ilkeler ve yönergeler bütünü belirlenir ve aile işletmelerinin geleneksel değerlerini, etik ilkelerini ve iş yapma biçimlerini koruyarak yeni nesillere aktarılması hedeflenir.</p><p>Aile Anayasası; kuşaklar arası iletişimi ve iş birliğini güçlendirir, aile ve şirket kültürünü uyumlu hale getirir, kayırmacılığın önüne geçerek liyakat esaslı bir yapı oluşturur. Böylece şirketin sürdürülebilirliği ve uzun vadeli başarısı güvence altına alınır.</p><p>Danışmanlığımızda, aile şirketlerinin yapısal dengelerini ve kurumsal kimliklerini dikkate alarak her aileye özgü çözümler sunar; şeffaf ve adil süreç yönetimiyle uzun vadeli ve sürdürülebilir sonuçlar üretiriz.</p>",
-      "image": "/images/servisler/aile-anayasasi-intro.jpg",
+      "image": "/assets/images/services/aile-anayasasi-intro.jpg",
       "image_position": "right"
     },
     {
@@ -42,7 +42,7 @@
       "type": "image_text",
       "title": "Kurumsallaşma Yol Haritası",
       "content": "<p>Aile değerleri ile şirket değerlerinin aynı platformda buluşması, uzun vadeli başarı için kritik bir adımdır. Kurumsallaşma yol haritası, rollerin netleşmesini, karar mekanizmalarının sağlıklı işlemesini ve şirketin profesyonel yönetimle büyümesini sağlar.</p>",
-      "image": "/images/servisler/aile-anayasasi-process.jpg",
+      "image": "/assets/images/services/aile-anayasasi-process.jpg",
       "layout": "left"
     },
     {

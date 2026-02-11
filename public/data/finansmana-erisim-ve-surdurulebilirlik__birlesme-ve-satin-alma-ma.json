@@ -14,17 +14,17 @@
     },
     {
       "name": "Finansmana Erişim ve Sürdürülebilirlik",
-      "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik"
+      "link": "/services/finansmana-erisim-ve-surdurulebilirlik"
     },
     {
       "name": "Birleşme ve Satın Alma (M&A)",
-      "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/birlesme-ve-satin-alma-ma"
+      "link": "/services/finansmana-erisim-ve-surdurulebilirlik/birlesme-ve-satin-alma-ma"
     }
   ],
   "hero": {
     "title": "Stratejik Büyüme ve Başarılı Exit’ler İçin Karar Destek Platformu",
     "description": "Sistem Global, stratejik ve finansal yatırımcılar ile yatırım fonları için birleşme ve satın alma süreçlerini uçtan uca yöneten, değer odaklı entegre danışmanlık hizmetleri sunar.",
-    "image": "/images/servisler/ma-hero.webp",
+    "image": "/assets/images/services/ma-hero.webp",
     "buttons": [
       {
         "text": "İşleminizi Başlatın",
@@ -50,7 +50,7 @@
       "type": "content_with_image",
       "title": "Uluslararası Standartlarda M&A Danışmanlığı",
       "content": "\n                <p>Sistem Global, finansal, ticari, vergisel ve operasyonel boyutları tek bir platformda birleştirerek süreci yalnızca yönetmekle kalmaz, değer yaratımını maksimize eden bir stratejik mimari kurgular.</p>\n                <p>Müşterilerimize uluslararası standartlarda ve yatırım bankası seviyesinde bir çalışma taahhüt ediyoruz. Teslim ettiğimiz çalışmalar; yatırım komitelerinde savunulabilen ve kapanış sonrası değeri optimize etmeye odaklanan üst düzey bir çerçeve sunar.</p>\n            ",
-      "image": "/images/servisler/ma-intro.webp",
+      "image": "/assets/images/services/ma-intro.webp",
       "image_position": "right"
     },
     {
@@ -182,7 +182,7 @@
       "type": "content_with_image",
       "title": "Neden Sistem Global?",
       "content": "\n                <p>Çok disiplinli yaklaşımımız; finansal, ticari ve teknik analizleri entegre bir karar destek dokümanında birleştirir. Uluslararası yatırım bankaları ve üst düzey danışmanlık firmalarının uyguladığı standartlara bağlıyız.</p>\n                <p>İster büyüme amaçlı satın alma, ister portföy optimizasyonu yapıyor olun; Sistem Global yatırım kararınızı uluslararası standartlarda sağlam bir zemine oturtur.</p>\n            ",
-      "image": "/images/servisler/ma-why.webp",
+      "image": "/assets/images/services/ma-why.webp",
       "image_position": "left"
     },
     {

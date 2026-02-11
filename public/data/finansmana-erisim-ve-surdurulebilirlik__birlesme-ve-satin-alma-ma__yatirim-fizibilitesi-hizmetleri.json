@@ -14,21 +14,21 @@
     },
     {
       "name": "Finansmana Erişim ve Sürdürülebilirlik",
-      "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik"
+      "link": "/services/finansmana-erisim-ve-surdurulebilirlik"
     },
     {
       "name": "Birleşme ve Satın Alma (M&A)",
-      "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/birlesme-ve-satin-alma-ma"
+      "link": "/services/finansmana-erisim-ve-surdurulebilirlik/birlesme-ve-satin-alma-ma"
     },
     {
       "name": "Yatırım Fizibilitesi Hizmetleri",
-      "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/birlesme-ve-satin-alma-ma/yatirim-fizibilitesi-hizmetleri"
+      "link": "/services/finansmana-erisim-ve-surdurulebilirlik/birlesme-ve-satin-alma-ma/yatirim-fizibilitesi-hizmetleri"
     }
   ],
   "hero": {
     "title": "Stratejik Sermaye Kararları İçin Üst Düzey Analitik Derinlik",
     "description": "Uluslararası standartlarda, bankalarca finanse edilebilir ve yatırımcıya hazır fizibilite raporları ile stratejik kararlarınızı sağlam temellere oturtun.",
-    "image": "/images/servisler/fizibilite-hero.webp",
+    "image": "/assets/images/services/fizibilite-hero.webp",
     "buttons": [
       {
         "text": "Fizibilite Talebi",
@@ -54,7 +54,7 @@
       "type": "content_with_image",
       "title": "Analitik Derinlik ve Metodolojik Standartlar",
       "content": "\n                <p>Sistem Global, kurumsal şirketlerin stratejik yatırım kararlarını güçlü analitik temellere dayandırabilmeleri için kapsamlı Yatırım Fizibilitesi analizleri sunar.</p>\n                <p>Çalışmalarımız, uluslararası yatırım bankaları ve global danışmanlık şirketlerinin uyguladığı metodolojik standartlara uygun olarak hazırlanır. Her çalışma üç temel eksende yapılandırılır: Finansal Fizibilite, Ticari (Pazar) Fizibilitesi ve Teknik Fizibilite.</p>\n            ",
-      "image": "/images/servisler/fizibilite-intro.webp",
+      "image": "/assets/images/services/fizibilite-intro.webp",
       "image_position": "right"
     },
     {
@@ -63,7 +63,7 @@
       "title": "I - Finansal Fizibilite",
       "subtitle": "Finansal Derinliği Net Yatırım Kararlarına Dönüştürüyoruz",
       "content": "\n                <p>Projenin ekonomik uygulanabilirliğini ve sermaye verimliliğini ölçülebilir hale getiriyoruz. Tam entegre üçlü finansal modeller geliştirerek projeyi yatırımcı ve kredi veren perspektifinden değerlendiriyoruz.</p>\n                <ul>\n                    <li><strong>Entegre Finansal Modelleme:</strong> CAPEX/OPEX ayrıştırması ve nakit akışı odaklı şeffaf yapılar.</li>\n                    <li><strong>ROI Metrikleri:</strong> NPV, IRR ve Geri Ödeme Süresi analizleri.</li>\n                    <li><strong>Borç Servis Kapasitesi:</strong> DSCR ve LLCR analizleri ile finanse edilebilirlik doğrulaması.</li>\n                    <li><strong>Stres Testleri:</strong> Duyarlılık ve senaryo analizleri ile dayanıklılık ölçümü.</li>\n                </ul>\n            ",
-      "image": "/images/servisler/fizibilite-financial.webp",
+      "image": "/assets/images/services/fizibilite-financial.webp",
       "image_position": "left"
     },
     {
@@ -125,7 +125,7 @@
       "type": "content_with_image",
       "title": "Neden Sistem Global?",
       "content": "\n                <p>Sistem Global’in çok disiplinli yaklaşımı; finansal, ticari ve teknik analizleri entegre bir karar destek dokümanında birleştirir. Uluslararası yatırım bankaları seviyesinde standartlara bağlı kalırız.</p>\n                <p>Çalışmalarımız Yatırım Teşvik Belgesi başvurularından, proje finansmanı görüşmelerine kadar her aşamada güvenilir bir temel sunar.</p>\n            ",
-      "image": "/images/servisler/fizibilite-why.webp",
+      "image": "/assets/images/services/fizibilite-why.webp",
       "image_position": "left"
     },
     {

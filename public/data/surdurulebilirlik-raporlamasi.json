@@ -7,14 +7,14 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
-    { "name": "Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
-    { "name": "Sürdürülebilirlik Raporlaması", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/surdurulebilirlik-raporlamasi" }
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
+    { "name": "Sürdürülebilirlik Raporlaması", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/surdurulebilirlik-raporlamasi" }
   ],
   "hero": {
     "title": "Sürdürülebilirlik Raporlaması",
     "description": "ESG performansınızı şeffaf, ölçülebilir ve uluslararası standartlarla uyumlu şekilde ortaya koyun.",
-    "image": "/images/servisler/surdurulebilirlik-raporlamasi-hero.jpg",
+    "image": "/assets/images/services/surdurulebilirlik-raporlamasi-hero.jpg",
     "buttons": [
       { "text": "Raporlama Yol Haritası", "link": "#services", "variant": "primary" },
       { "text": "Hemen Görüşelim", "link": "#contact", "variant": "outline" }
@@ -33,13 +33,13 @@
         "Regülasyonlara hazırlık ve uyum",
         "Uzun vadeli değer yaratımının kanıtlanması"
       ],
-      "image": "/images/servisler/surdurulebilirlik-raporlamasi-hero.jpg"
+      "image": "/assets/images/services/surdurulebilirlik-raporlamasi-hero.jpg"
     },
     {
       "type": "content_with_image",
       "title": "Neden Sürdürülebilirlik Raporlaması?",
       "content": "<p>Günümüzde şirketlerin başarısı yalnızca finansal sonuçlarla ölçülmüyor; çevresel etkiler, sosyal sorumluluklar ve yönetişim standartları da kurumsal değer yaratımının ayrılmaz bir parçası hâline geliyor. Sürdürülebilirlik raporlaması, işletmelerin çevresel, sosyal ve yönetişim (ESG) performanslarını sistematik, doğrulanabilir ve uluslararası standartlara uygun bir çerçevede kamuya açıklamalarını sağlayan stratejik bir raporlama yöntemidir.</p><p>Bu raporlar, bir şirketin sadece \"ne kadar kâr ettiği\" ile değil, \"bunu nasıl yaptığı ve kimleri nasıl etkilediği\" ile ilgilenir. Enerji kullanımından karbon emisyonlarına, çalışan haklarından etik yönetim ilkelerine kadar pek çok alanda kurumun tüm sürdürülebilirlik yaklaşımını ortaya koyar. Şeffaf bir sürdürülebilirlik raporu, paydaş güvenini pekiştirir, kurumsal risklerin yönetimini kolaylaştırır ve uzun vadeli değer yaratımının kanıtlanmasını sağlar.</p>",
-      "image": "/images/servisler/surdurulebilirlik-raporlamasi-intro.jpg",
+      "image": "/assets/images/services/surdurulebilirlik-raporlamasi-intro.jpg",
       "image_position": "right"
     },
     {
@@ -116,14 +116,14 @@
       "type": "image_text",
       "title": "Raporlama Yapmamanın Olası Riskleri",
       "content": "<p><strong>Yasal risk:</strong> TSRS 1-2 kapsamında 2025 itibarıyla kapsamdaki şirketler için zorunluluk başlamaktadır.</p><p><strong>Finansal risk:</strong> Bankalar ve yatırımcılar, sürdürülebilirlik verisi olmayan şirketleri yüksek riskli olarak değerlendirmektedir.</p><p><strong>Tedarik zinciri kayıpları:</strong> Küresel alıcılar artık raporlamayı bir ön koşul olarak sunmaktadır.</p><p><strong>İtibar riski:</strong> Şeffaf olmayan firmalar kamuoyu ve paydaşlar nezdinde güven kaybedebilir.</p>",
-      "image": "/images/servisler/surdurulebilirlik-raporlamasi-risk.jpg",
+      "image": "/assets/images/services/surdurulebilirlik-raporlamasi-risk.jpg",
       "layout": "left"
     },
     {
       "type": "content_with_image",
       "title": "Veriye Dayalı, Ölçülebilir ve Karşılaştırılabilir ESG Yönetimi",
       "content": "<p>Sürdürülebilirlik raporlaması yalnızca bir uyum gerekliliği değil, stratejik karar alma süreçlerini besleyen güçlü bir yönetim aracıdır. Doğru veri kurgusu ve standartlara uyumlu raporlama sayesinde kurumlar; performansını dönemsel izleyebilir, risklerini erken tespit edebilir ve paydaşlarına net bir değer hikayesi sunabilir.</p>",
-      "image": "/images/servisler/surdurulebilirlik-raporlamasi-data.jpg",
+      "image": "/assets/images/services/surdurulebilirlik-raporlamasi-data.jpg",
       "image_position": "right"
     },
     {

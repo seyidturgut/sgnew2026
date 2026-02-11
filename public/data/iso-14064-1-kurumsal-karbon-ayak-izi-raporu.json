@@ -7,14 +7,14 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
-    { "name": "Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
-    { "name": "ISO 14064-1 Kurumsal Karbon Ayak İzi Raporu", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/iso-14064-1-kurumsal-karbon-ayak-izi-raporu" }
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
+    { "name": "ISO 14064-1 Kurumsal Karbon Ayak İzi Raporu", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/iso-14064-1-kurumsal-karbon-ayak-izi-raporu" }
   ],
   "hero": {
     "title": "ISO 14064-1 Kurumsal Karbon Ayak İzi Raporu",
     "description": "Sera gazı emisyonlarınızı bilimsel çerçevede hesaplayın, yönetin ve azaltım stratejinizi veriye dayalı kurgulayın.",
-    "image": "/images/servisler/iso-14064-1-hero.jpg",
+    "image": "/assets/images/services/iso-14064-1-hero.jpg",
     "buttons": [
       { "text": "Karbon Envanteri Oluştur", "link": "#services", "variant": "primary" },
       { "text": "Uzman Desteği Alın", "link": "#contact", "variant": "outline" }
@@ -33,13 +33,13 @@
         "CBAM ve tedarik zinciri taleplerine hazırlık",
         "Azaltım fırsatlarını görünür kılan bilimsel yaklaşım"
       ],
-      "image": "/images/servisler/iso-14064-1-hero.jpg"
+      "image": "/assets/images/services/iso-14064-1-hero.jpg"
     },
     {
       "type": "content_with_image",
       "title": "Sera Gazı Emisyonlarınızı Bilimsel Bir Çerçeveyle Hesaplayın, Yönetin ve Azaltın",
       "content": "<p>Kurumsal Karbon Ayak İzi, bir işletmenin bir yıl boyunca gerçekleştirdiği tüm faaliyetlerden kaynaklanan doğrudan ve dolaylı sera gazı emisyonlarının toplamını ifade eder ve birimi ton CO2 eşdeğeri olarak hesaplanır. Bu çalışma, şirketlerin çevresel etkilerini sayısal olarak ortaya koyması açısından en kritik sürdürülebilirlik araçlarından biridir.</p><p>ISO 14064-1 standardı ve Greenhouse Gas Protocol çerçevesi, karbon emisyonlarının hangi kaynaklardan geldiğini tutarlı, karşılaştırılabilir ve doğrulanabilir bir şekilde analiz etmeyi mümkün kılar. Farklı sera gazlarının küresel ısınma potansiyeleri (GWP) bilimsel olarak tanımlandığından, tüm etkiler CO2 eşdeğeri cinsinden tek bir ortak birime dönüştürülür ve böylece kurumlar arasında karşılaştırma yapılabilir hale gelir.</p><p>Günümüzde karbon yönetimi yalnızca çevresel bir sorumluluk değil; aynı zamanda tedarik zinciri talepleri, uluslararası regülasyonlar, Avrupa Yeşil Mutabakatı, CBAM ve finansal kriterlerle doğrudan ilişkili stratejik bir gerekliliktir. Pek çok sektör için artık yıllık karbon ayak izi hesaplaması, sürdürülebilirlik yol haritasının vazgeçilmez bir parçasıdır.</p>",
-      "image": "/images/servisler/iso-14064-1-intro.jpg",
+      "image": "/assets/images/services/iso-14064-1-intro.jpg",
       "image_position": "right"
     },
     {
@@ -164,14 +164,14 @@
       "type": "content_with_image",
       "title": "Neden Karbon Ayak İzi Çalışması Yapılmalı?",
       "content": "<ul><li><strong>Stratejik iklim hedeflerinin temelini oluşturur:</strong> Net sıfır, SBTi veya TSRS gibi süreçlere giden yolun ilk adımıdır.</li><li><strong>Emisyon azaltım fırsatlarını görünür kılar:</strong> Enerji verimliliği ve operasyonel iyileştirme potansiyellerini somutlaştırır.</li><li><strong>Tedarik zinciri sürdürülebilirliğini güçlendirir:</strong> Kapsam 3 analizi ile kritik emisyon kaynakları belirlenir.</li><li><strong>Paydaş güvenini artırır:</strong> Şeffaf, doğrulanabilir ve karşılaştırılabilir emisyon verileri kurumun sürdürülebilirlik itibarını güçlendirir.</li><li><strong>Yasal ve gönüllü raporlama gerekliliklerine uyum sağlar:</strong> TSRS, CDP, TCFD ve uluslararası raporlama standartları için zorunlu altyapıyı oluşturur.</li></ul>",
-      "image": "/images/servisler/iso-14064-1-scope.jpg",
+      "image": "/assets/images/services/iso-14064-1-scope.jpg",
       "image_position": "left"
     },
     {
       "type": "image_text",
       "title": "Karbon Verisini Stratejik Avantaja Dönüştürün",
       "content": "<p>ISO 14064-1 uyumlu karbon envanteri, şirketinizin iklim performansını yönetilebilir ve karşılaştırılabilir hale getirir. Bu yaklaşım, hem iç operasyonlarda iyileştirme alanlarını netleştirir hem de yatırımcı, müşteri ve tedarik zinciri paydaşlarıyla daha güçlü bir güven ilişkisi kurar.</p><p>Doğru kurgulanmış karbon yönetimi, sadece uyumu değil; rekabet gücünü, maliyet verimliliğini ve uzun vadeli kurumsal dayanıklılığı da güçlendirir.</p>",
-      "image": "/images/servisler/iso-14064-1-strategy.jpg",
+      "image": "/assets/images/services/iso-14064-1-strategy.jpg",
       "layout": "right"
     },
     {

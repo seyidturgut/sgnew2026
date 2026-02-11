@@ -15,17 +15,17 @@
     },
     {
       "name": "İşletme Çözümleri",
-      "link": "/servisler/isletme-cozumleri"
+      "link": "/services/isletme-cozumleri"
     },
     {
       "name": "Outsource Bordro Yönetimi",
-      "link": "/servisler/isletme-cozumleri/outsource-bordro-yonetimi"
+      "link": "/services/isletme-cozumleri/outsource-bordro-yonetimi"
     }
   ],
   "hero": {
     "title": "Outsource Bordro Yönetimi",
     "description": "Bordrolama süreçlerinizi uzman ekibimize devredin; operasyonel maliyeti düşürürken mevzuat risklerini kontrol altına alın.",
-    "image": "/images/servisler/outsource-bordro-hero.jpg",
+    "image": "/assets/images/services/outsource-bordro-hero.jpg",
     "buttons": [
       {
         "text": "Uzmanımızla Görüşün",
@@ -44,7 +44,7 @@
       "type": "content_with_image",
       "title": "Outsource Bordro Yönetimi Nedir?",
       "content": "<p>Şirketlerin evrak ve rapor yoğunluğunu azaltmak, mevzuattan doğabilecek riskleri yönetmek ve bordrolama süreçlerini daha verimli hale getirmek amacıyla bu süreci dış kaynakla yürütmesine <strong>Outsource Bordro Yönetimi</strong> denir.</p><p>Sistem Global olarak mevzuat deneyimimiz ve teknoloji odaklı yaklaşımımızla; işe giriş-çıkış bildirimi, iş göremezlik süreçleri, BES ve banka bildirimleri, bordroların hazırlanması, çalışanlara bordro iletimi, muhtasar ve SGK bildirimleri dahil uçtan uca bordro operasyonunu sizin adınıza yönetiyoruz.</p>",
-      "image": "/images/servisler/outsource-bordro-intro.jpg",
+      "image": "/assets/images/services/outsource-bordro-intro.jpg",
       "image_position": "right"
     },
     {

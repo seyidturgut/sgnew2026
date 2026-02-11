@@ -15,21 +15,21 @@
     },
     {
       "name": "Vergi & Finans",
-      "link": "/servisler/vergi-finans"
+      "link": "/services/vergi-finans"
     },
     {
       "name": "Vergi",
-      "link": "/servisler/vergi-finans/vergi"
+      "link": "/services/vergi-finans/vergi"
     },
     {
       "name": "Kurumlar ve Gelir Vergisi Tasdiki",
-      "link": "/servisler/vergi-finans/vergi/kurumlar-ve-gelir-vergisi-tasdiki"
+      "link": "/services/vergi-finans/vergi/kurumlar-ve-gelir-vergisi-tasdiki"
     }
   ],
   "hero": {
     "title": "Kurumlar ve Gelir Vergisi Tasdiki",
     "description": "Mali tablolarınızın doğruluğunu ve güvenilirliğini Tam Tasdik hizmetimizle tescilleyin.",
-    "image": "/images/kurumlar-vergisi-hero.webp",
+    "image": "/assets/images/kurumlar-vergisi-hero.webp",
     "buttons": [
       {
         "text": "Hemen Başvur",
@@ -56,7 +56,7 @@
         "Muhasebe Hataları Önlenir",
         "Aktif Danışmanlık"
       ],
-      "image": "/images/kurumlar-vergisi-intro.webp"
+      "image": "/assets/images/kurumlar-vergisi-intro.webp"
     },
     {
       "type": "benefits_grid",
@@ -118,7 +118,7 @@
       "type": "content_with_image",
       "title": "SG-YMM Uzmanlığının Farkı?",
       "content": "<p>SG-YMM Tam Tasdik faaliyetleri kapsamında rutin denetimleri uzman kadrolarıyla gerçekleştirerek ara dönemlerde Finansal ve Denetim Raporlarını yönetici ve karar alıcılar için düzenli şekilde üretmektedir. Bu raporlarla şirket faaliyetlerinin mali riskleri ve fırsatların karar alıcılar tarafından değerlendirilmesi mümkündür.</p>\n            <p>SG-YMM kadroları Uluslararası ve yerel mevzuata hâkim Uzman Mali Müşavirler, Yeminli Mali Müşavirlerden oluşmaktadır. Yeminli Mali Müşavirlerin Kamu tecrübesinin de olması konuların kamu-özel bakış açısıyla yorumlanmasını sağladığından, gündemlere 360 derece değerlendirme imkânı katmaktadır.</p>\n            <p>SG-YMM kadrolarının deneyimleri sadece vergi odaklı değildir. Tam Tasdik hizmeti sunulan firmaların bulunduğu sektörlerin faydalanabilineceği kamu ve uluslararası desteklere (hibe-teşvik) yönlendirilmesi ve katma değer üretilmesi genlerimizde bulunmaktadır. Yerel mevzuattaki teşvik sistemlerinin en fazla kapsama alanı olan Ar-Ge ve İnovasyon konusunda kadrolarımızın tecrübesi ortalamanın çok üzerindedir.</p>",
-      "image": "/images/kurumlar-vergisi-fark.webp",
+      "image": "/assets/images/kurumlar-vergisi-fark.webp",
       "image_position": "left"
     },
     {

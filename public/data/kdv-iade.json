@@ -15,21 +15,21 @@
     },
     {
       "name": "Vergi & Finans",
-      "link": "/servisler/vergi-finans"
+      "link": "/services/vergi-finans"
     },
     {
       "name": "Vergi",
-      "link": "/servisler/vergi-finans/vergi"
+      "link": "/services/vergi-finans/vergi"
     },
     {
       "name": "KDV İade",
-      "link": "/servisler/vergi-finans/vergi/kdv-iade"
+      "link": "/services/vergi-finans/vergi/kdv-iade"
     }
   ],
   "hero": {
     "title": "KDV İade Hizmetleri",
     "description": "YMM raporları ile KDV iadelerinizi hızlı ve güvenli şekilde alın. Vergisel haklarınızı tam olarak kullanın.",
-    "image": "/images/vergi/kdv-iade-hero.webp",
+    "image": "/assets/images/vergi/kdv-iade-hero.webp",
     "buttons": [
       {
         "text": "Ücretsiz Ön Değerlendirme",
@@ -48,7 +48,7 @@
       "type": "content_with_image",
       "title": "KDV İade Süreçlerinizi Profesyonelce Yönetelim",
       "content": "\n                <p>Türkiye'de yapılan mal ve hizmet teslimleri katma değer vergisine tabiidir. Ancak birtakım faaliyetlerin KDV'ye tabi olmadığından veya genel orandan daha düşük oranda KDV'ye tabi olmasından dolayı bu faaliyetlerde ticaret yapanların Türkiye'de ödediği KDV'yi Yeminli Mali Müşavir tarafından düzenlenen YMM raporu ile iade edilmesi mümkündür.</p>\n                <p>İşletmeler ihracatlarda KDV iadesi, tevkifatlı işlemleri ve indirimli oranlara tabi teslimler gibi işlemlerde devlet adına tüketiciden KDV vergisini alırken KDV iadesi ile bunun bir kısmını devletten geri alabilirler. SG-YMM olarak tüm süreçlerinizi başından sonuna kadar yönetiyor, iadelerinizin zamanında ve eksiksiz alınmasını sağlıyoruz.</p>\n            ",
-      "image": "/images/vergi/kdv-iade-intro.webp",
+      "image": "/assets/images/vergi/kdv-iade-intro.webp",
       "image_position": "right"
     },
     {

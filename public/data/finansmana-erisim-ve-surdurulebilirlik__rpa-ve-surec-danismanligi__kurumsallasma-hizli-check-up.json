@@ -8,9 +8,9 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
-    { "name": "RPA ve Süreç Danışmanlığı", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi" },
-    { "name": "Kurumsallaşma Hızlı Check Up", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/kurumsallasma-hizli-check-up" }
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "RPA ve Süreç Danışmanlığı", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi" },
+    { "name": "Kurumsallaşma Hızlı Check Up", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/kurumsallasma-hizli-check-up" }
   ],
   "hero": {
     "title": "Kurumsallaşma Hızlı Check-Up",

@@ -7,13 +7,13 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Mevzuat ve Uyum", "link": "/servisler/mevzuat-ve-uyum" },
-    { "name": "Birleşme ve Devralma (M&A) Danışmanlığı", "link": "/servisler/mevzuat-ve-uyum/birlesme-ve-devralma-ma-danismanligi" }
+    { "name": "Mevzuat ve Uyum", "link": "/services/mevzuat-ve-uyum" },
+    { "name": "Birleşme ve Devralma (M&A) Danışmanlığı", "link": "/services/mevzuat-ve-uyum/birlesme-ve-devralma-ma-danismanligi" }
   ],
   "hero": {
     "title": "Birleşme ve Devralma (M&A) Danışmanlığı",
     "description": "Büyüme ve yeniden yapılanma süreçlerinizde stratejik, finansal ve mevzuatsal destek alın.",
-    "image": "/images/servisler/ma-hero.jpg",
+    "image": "/assets/images/services/ma-hero.jpg",
     "buttons": [
       { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
       { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
@@ -24,14 +24,14 @@
       "type": "content_with_image",
       "title": "Birleşme ve Devralma (M&A) Nedir?",
       "content": "<p>Birleşme ve Devralma (M&A), şirketlerin büyüme stratejilerinde sıklıkla tercih ettiği bir iş modelidir. Birleşme, iki veya daha fazla şirketin varlıklarını birleştirerek tek bir şirket halinde faaliyet göstermesi anlamına gelir. Bu birleşme, şirketlerin ortak hedefler doğrultusunda sinerji yaratmasını, pazar paylarını genişletmesini ve rekabet avantajı elde etmesini sağlar. Devralma ise bir şirketin başka bir şirketin hisselerini veya varlıklarını satın almasıyla gerçekleşir. Bu süreçte, hedef şirketin kontrolü devralan şirkete geçer ve stratejik hedefler doğrultusunda yönetim değişikliği, yeniden yapılandırma ve entegrasyon gibi adımlar atılır.</p><p>Birleşme ve devralma süreçleri, büyüme potansiyelini artırmak, operasyonel verimlilik sağlamak, yeni pazarlara girmek veya rekabet gücünü artırmak gibi amaçlarla gerçekleştirilebilir. Ayrıca, finansal sıkıntıdaki şirketlerin kurtarılması veya stratejik olarak yeniden yapılandırılması için de etkili bir yöntemdir.</p><p>M&A süreçleri karmaşık ve riskli olabilir. Bu nedenle titiz planlama, detaylı durum tespiti (due diligence), mevzuatsal ve finansal danışmanlık ve etkili müzakere süreçleri gerektirir. Her adımda olası riskler ortaya konmalı ve minimize edilmelidir.</p><p>M&A yalnızca büyük şirketleri kapsamaz; KOBİ’ler için de büyüme ve genişleme stratejisi olarak değerlendirilebilir.</p>",
-      "image": "/images/servisler/ma-intro.jpg",
+      "image": "/assets/images/services/ma-intro.jpg",
       "image_position": "right"
     },
     {
       "type": "image_text",
       "title": "Stratejik Değer ve Sinerji",
       "content": "<p>Doğru hedef seçimi ve etkili entegrasyon planı, birleşme ve devralma işlemlerinde değer yaratımının temelidir. Sinerji fırsatları ve operasyonel verimlilik ilk günden planlanmalıdır.</p>",
-      "image": "/images/servisler/ma-process.jpg",
+      "image": "/assets/images/services/ma-process.jpg",
       "layout": "left"
     },
     {

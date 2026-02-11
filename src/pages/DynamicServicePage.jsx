@@ -246,19 +246,19 @@ const DynamicServicePage = ({ forcedSlug, forcedSubcategory }) => {
     }
 
     const categoryFallbacks = {
-        'vergi-finans': '/images/servisler/tax-general.webp',
-        'ar-ge-ve-fikri-mulkiyet': '/images/servisler/tech-general.webp',
-        'mevzuat-uyum': '/images/servisler/legal-general.webp',
-        'mevzuat-ve-uyum': '/images/servisler/legal-general.webp',
-        'globallesme-ihracat': '/images/servisler/global-general.webp',
-        'globallesme-ve-ihracat': '/images/servisler/global-general.webp',
-        'finansmana-erisim-surdurulebilirlik': '/images/servisler/finance-general.webp',
-        'finansmana-erisim-ve-surdurulebilirlik': '/images/servisler/finance-general.webp',
-        'kurumsal-finans': '/images/servisler/finance-general.webp',
-        'dis-ticaret': '/images/servisler/global-general.webp'
+        'vergi-finans': '/assets/images/services/vergi-hero.webp',
+        'ar-ge-ve-fikri-mulkiyet': '/assets/images/services/tech-hero.webp',
+        'mevzuat-uyum': '/assets/images/services/legal-compliance-hero.webp',
+        'mevzuat-ve-uyum': '/assets/images/services/legal-compliance-hero.webp',
+        'globallesme-ihracat': '/assets/images/services/global-trade.webp',
+        'globallesme-ve-ihracat': '/assets/images/services/global-trade.webp',
+        'finansmana-erisim-surdurulebilirlik': '/assets/images/services/finance-hero.webp',
+        'finansmana-erisim-ve-surdurulebilirlik': '/assets/images/services/finance-hero.webp',
+        'kurumsal-finans': '/assets/images/services/finance-hero.webp',
+        'dis-ticaret': '/assets/images/services/global-trade.webp'
     };
 
-    const getFallbackImage = (cat) => categoryFallbacks[cat] || '/images/servisler/services-hero-business.webp';
+    const getFallbackImage = (cat) => categoryFallbacks[cat] || '/assets/images/services/business-meeting.webp';
 
     // Helper to find service info in menu
     const findServiceInMenu = (targetSlug) => {

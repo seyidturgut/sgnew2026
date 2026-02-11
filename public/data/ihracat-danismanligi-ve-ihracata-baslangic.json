@@ -7,13 +7,13 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Globallesme ve İhracat", "link": "/servisler/globallesme-ve-ihracat" },
-    { "name": "İhracat Danışmanlığı ve İhracata Başlangıç", "link": "/servisler/globallesme-ve-ihracat/ihracat-danismanligi-ve-ihracata-baslangic" }
+    { "name": "Globallesme ve İhracat", "link": "/services/globallesme-ve-ihracat" },
+    { "name": "İhracat Danışmanlığı ve İhracata Başlangıç", "link": "/services/globallesme-ve-ihracat/ihracat-danismanligi-ve-ihracata-baslangic" }
   ],
   "hero": {
     "title": "İhracat Danışmanlığı ve İhracata Başlangıç",
     "description": "İhracata hızlı ve sürdürülebilir biçimde başlamak için 6 aylık uçtan uca danışmanlık programı.",
-    "image": "/images/servisler/ihracat-hero.jpg",
+    "image": "/assets/images/services/ihracat-hero.jpg",
     "buttons": [
       { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
       { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
@@ -32,20 +32,20 @@
         "Kurumsal Tanıtım Materyalleri",
         "Ticaret Bakanlığı Destekleri"
       ],
-      "image": "/images/servisler/ihracat-hero.jpg"
+      "image": "/assets/images/services/ihracat-hero.jpg"
     },
     {
       "type": "content_with_image",
       "title": "İhracata Başlangıç Danışmanlığı Nedir?",
       "content": "<p>İhracata Başlangıç Danışmanlığı, henüz ihracat yapmamış şirketlerin gelişim alanlarını belirleyerek ihracat kapasitelerini arttırmak ve ihracat yapmalarını sağlamak amacıyla geliştirilmiş 6 aylık bir ihracat danışmanlığı hizmetidir.</p><p>Firmaların mevcut durumunu analiz edip gelişim alanlarının belirlenmesinden başlayarak Hedef Pazar Tespiti, Yabancı Pazar Analizi, potansiyel müşteriye erişim, ihracat odaklı ve çok dilli kurumsal tanıtım materyallerinin oluşturulması ve Ticaret Bakanlığı İhracat Destekleri başvuru süreçlerinin yürütülmesi gibi ihracata başlamak isteyen bir şirketin tüm ihtiyaçlarına uçtan uca dokunan bir çalışmadır.</p>",
-      "image": "/images/servisler/ihracat-intro.jpg",
+      "image": "/assets/images/services/ihracat-intro.jpg",
       "image_position": "right"
     },
     {
       "type": "image_text",
       "title": "İhracata Başlangıç Danışmanlığı ile Elde Edilecek Kazanımlar",
       "content": "<p>İhracat yaparak gelir ve karlılığı arttırmak, pazar bağımlılığını azaltıp sürdürülebilir bir büyüklüğe erişmek günümüz küresel dünyasında tüm şirketler için olmazsa olmazdır. İhracata Başlangıç Danışmanlığı; henüz ihracat yapmayan şirketlerin, zaman, insan kaynağı ve finansal maliyetlerini minimize ederek mümkün olan en kısa zamanda ihracat yapabilir duruma gelmelerini sağlar. Firmanın analiz edilmesi ile belirlenecek gelişim alanları iyileştirilerek firmanın doğru pazarlardaki potansiyel müşterilerine hızla erişmesini ve nihai olarak ihracat gerçekleştirmesini sağlar.</p><p>Sıkı takip, yüksek iletişim, haftalık ve aylık toplantı ve raporlamalar ile firmaların ihracat kapasitelerini hızla geliştirip ihracata başlamalarını amaçlar.</p>",
-      "image": "/images/servisler/ihracat-process.jpg",
+      "image": "/assets/images/services/ihracat-process.jpg",
       "layout": "left"
     },
     {

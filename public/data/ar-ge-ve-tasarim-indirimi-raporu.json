@@ -15,21 +15,21 @@
     },
     {
       "name": "Vergi & Finans",
-      "link": "/servisler/vergi-finans"
+      "link": "/services/vergi-finans"
     },
     {
       "name": "Vergi",
-      "link": "/servisler/vergi-finans/vergi"
+      "link": "/services/vergi-finans/vergi"
     },
     {
       "name": "Ar-Ge ve Tasarım İndirimi Raporu",
-      "link": "/servisler/vergi-finans/vergi/ar-ge-ve-tasarim-indirimi-raporu"
+      "link": "/services/vergi-finans/vergi/ar-ge-ve-tasarim-indirimi-raporu"
     }
   ],
   "hero": {
     "title": "Ar-Ge ve Tasarım İndirimi Raporu",
     "description": "Teknoloji ve inovasyon yatırımlarınızı %100 vergi indirimine dönüştüren uzman danışmanlık çözümleri.",
-    "image": "/images/arge/hero.webp",
+    "image": "/assets/images/arge/hero.webp",
     "buttons": [
       {
         "text": "Ücretsiz Ön Analiz",
@@ -48,7 +48,7 @@
       "type": "content_with_image",
       "title": "Ar-Ge ve Tasarım Harcamalarınızda %100 Vergi Avantajı",
       "content": "\n                <p>İşletmelerin teknoloji kaynaklı sistem oluşturması ve küresel rekabet gücünü artırması için devlet zaman zaman bazı teşvikler verir. Bu teşviklerin amacı ülkedeki girişimcilerin ve yatırımcıların inovasyon ile teknoloji dönüşümünü gerçekleştirmesine imkan sunmaktır. Bu bağlamda arge ve tasarım indirimi, araştırma geliştirme faaliyetleri ile tasarım çalışmalarına ilişkin yapılan harcamaların %100’ünün kurum kazancından indirilmesidir diyebiliriz. Böylelikle şirketler aşağıdaki şartları yerine getirdiği takdirde Ar-Ge/Tasarım Merkezi’nin kurumlar vergisi yönünden matrahtan indirim hakkı ile Ar-Ge/Tasarım çalışanlarının ücretlerinden doğan gelir vergisi, damga vergisi teşviki ile sgk işveren payı indirimi gibi avantajlardan yararlanabilirler. Ayrıca işletmenin yaptığı Ar-Ge ve tasarım harcamaları amortisman yolu ile ikinci kez gider yazılacağından bu noktada kurumlar vergisi matrahından double indirim sağlayarak ödeyeceği kurumlar vergisi önemli ölçüde azalmaktadır.</p>\n                <p>Ar-Ge veya Tasarım Merkezi olan firmaların yazdırması zorunlu olan ve yıllık olarak düzenlenen bu rapor ile tüm haklarınızı güvence altına alıyoruz. Harcamalarınızın amortisman yoluyla ikinci kez gider yazılmasını sağlayarak çifte vergi avantajı elde etmenize destek oluyoruz.</p>\n            ",
-      "image": "/images/arge/intro.webp",
+      "image": "/assets/images/arge/intro.webp",
       "image_position": "right"
     },
     {

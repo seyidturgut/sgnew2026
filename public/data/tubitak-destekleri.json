@@ -7,14 +7,14 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Finansmana Erisim ve Surdurulebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
-    { "name": "Finansmana Erisim", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim" },
-    { "name": "TUBITAK Destekleri", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim/tubitak-destekleri" }
+    { "name": "Finansmana Erisim ve Surdurulebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "Finansmana Erisim", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim" },
+    { "name": "TUBITAK Destekleri", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim/tubitak-destekleri" }
   ],
   "hero": {
     "title": "TUBITAK Fonlarina Erisim Danismanligi",
     "description": "Ar-Ge ve inovasyon projeleriniz icin uygun TUBITAK programini belirleyin, basvurunuzu dogru kurgulayin ve sureci ucdan uca yonetin.",
-    "image": "/images/servisler/tubitak-destekleri-hero.jpg",
+    "image": "/assets/images/services/tubitak-destekleri-hero.jpg",
     "buttons": [
       { "text": "Uygunluk Analizi Yaptiralim", "link": "#contact", "variant": "primary" },
       { "text": "Programlari Incele", "link": "#services", "variant": "outline" }
@@ -33,13 +33,13 @@
         "Basvuru ve hakem surec yonetimi",
         "Raporlama ve AGY300 teknik dosya destegi"
       ],
-      "image": "/images/servisler/tubitak-destekleri-hero.jpg"
+      "image": "/assets/images/services/tubitak-destekleri-hero.jpg"
     },
     {
       "type": "content_with_image",
       "title": "Sistem Global ile Isinizi Gelistirmek Icin Gerekli Desteklere Hazir misiniz?",
       "content": "<p>Sistem Global Danismanlik olarak, hizmetlerimizle Turkiye'nin gelecegine yatirim yapmak isteyen KOBI basta olmak uzere her olcekteki sanayi kuruluslarinin yanindayiz.</p><p>Uzman ve tecrubeli ekibimizle Ar-Ge ve inovasyon ekosisteminin gelisimine katki sagliyor; ulusal hibe ve tesvik programlarina basvuruda 20 yili asan tecrubemizle TUBITAK TEYDEB proje basvuru sureclerinizi profesyonel sekilde yonetiyoruz.</p>",
-      "image": "/images/servisler/tubitak-destekleri-intro.jpg",
+      "image": "/assets/images/services/tubitak-destekleri-intro.jpg",
       "image_position": "right"
     },
     {
@@ -105,7 +105,7 @@
       "type": "image_text",
       "title": "Danismanlik Verdigimiz TUBITAK Programlari",
       "content": "<p>1501, 1505, 1507, 1509, 1511, 1512 (BiGG), 1515, 1601, 1707, 1831, 1832 ve 1833 cagri mekanizmalarinda projenin niteligine uygun kurgu ile basvuru surecini yonetiyoruz.</p><p>Amacimiz, kurumunuzun dogru programa dogru zamanda ve dogru kapsamla basvurmasini saglayarak hibe etkisini artirmaktir.</p>",
-      "image": "/images/servisler/tubitak-destekleri-programs.jpg",
+      "image": "/assets/images/services/tubitak-destekleri-programs.jpg",
       "layout": "left"
     },
     {

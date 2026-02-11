@@ -15,21 +15,21 @@
     },
     {
       "name": "Ar-Ge ve Fikri Mülkiyet",
-      "link": "/servisler/ar-ge-ve-fikri-mulkiyet"
+      "link": "/services/ar-ge-ve-fikri-mulkiyet"
     },
     {
       "name": "Fikri Mülkiyet",
-      "link": "/servisler/ar-ge-ve-fikri-mulkiyet/fikri-mulkiyet"
+      "link": "/services/ar-ge-ve-fikri-mulkiyet/fikri-mulkiyet"
     },
     {
       "name": "Patent İhlal Analizleri",
-      "link": "/servisler/ar-ge-ve-fikri-mulkiyet/fikri-mulkiyet/patent-ihlal-analizleri"
+      "link": "/services/ar-ge-ve-fikri-mulkiyet/fikri-mulkiyet/patent-ihlal-analizleri"
     }
   ],
   "hero": {
     "title": "Ticari Risklerinizi Minimize Edin, Fikri Haklarınızı Koruyun",
     "description": "Ürünlerinizin başkasına ait patentleri ihlal edip etmediğini uzman patent vekillerimizle analiz ediyor, sizi ağır tazminat ve dava risklerinden koruyoruz.",
-    "image": "/images/patent-ihlal/hero.webp",
+    "image": "/assets/images/patent-ihlal/hero.webp",
     "buttons": [
       {
         "text": "İhlal Analizi Talebi",
@@ -49,7 +49,7 @@
       "type": "content_with_image",
       "title": "Patent İhlali ve Ticari Boyutu",
       "content": "\n                <p>Patentli bir ürünü izin almadan üretmek, satmak veya ithal etmek, patent hakkına tecavüz (patent ihlali) sayılır (551 sayılı KHK, Md. 136). Yenilikçi ürünler geliştirirken farkında olmadan başkasına ait bir patentin çekirdek unsurlarını ihlal ediyor olabilirsiniz.</p>\n                <p>Patent ihlal davası, şirketin üretiminin durdurulmasından ciddi maddi tazminatlara kadar çok ağır sonuçlar doğurabilir. <strong>Sistem Global</strong> olarak, teknik ve hukuki uzmanlığımızla bu riskleri önceden tespit ediyoruz.</p>\n            ",
-      "image": "/images/patent-ihlal/team.webp",
+      "image": "/assets/images/patent-ihlal/team.webp",
       "image_position": "right"
     },
     {

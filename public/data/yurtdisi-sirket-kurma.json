@@ -16,17 +16,17 @@
     },
     {
       "name": "Globallesme ve İhracat",
-      "link": "/servisler/globallesme-ve-ihracat"
+      "link": "/services/globallesme-ve-ihracat"
     },
     {
       "name": "Yurtdışı Şirket Kurma",
-      "link": "/servisler/globallesme-ve-ihracat/yurtdisi-sirket-kurma"
+      "link": "/services/globallesme-ve-ihracat/yurtdisi-sirket-kurma"
     }
   ],
   "hero": {
     "title": "Yurtdışı Şirket Kurma",
     "description": "Küresel pazarlara güvenle açılın, doğru ülke ve şirket türü seçimiyle büyümenizi hızlandırın.",
-    "image": "/images/servisler/yurtdisi-sirket-kurma-hero.jpg",
+    "image": "/assets/images/services/yurtdisi-sirket-kurma-hero.jpg",
     "buttons": [
       {
         "text": "Uzmanımızla Görüşün",
@@ -53,20 +53,20 @@
         "Yasal ve Finansal Uyum",
         "Hızlı Kurulum ve Operasyonel Destek"
       ],
-      "image": "/images/servisler/yurtdisi-sirket-kurma-hero.jpg"
+      "image": "/assets/images/services/yurtdisi-sirket-kurma-hero.jpg"
     },
     {
       "type": "content_with_image",
       "title": "Yurtdışında Şirketleşme Nedir?",
       "content": "<p>Şirketlerin birçoğu belirli bir büyüklüğe geldikten sonra ürünlerini dış piyasaya çıkarmak ve yurtdışındaki potansiyel müşterilerine ulaşarak satış hacmini artırma vizyonunu hedefler.</p><p>Şirketlerin yurt dışındaki rekabet ortamında ayakta kalabilmesi için müşterisine ve pazara yakın olması avantajlı bir konuma gelmesini sağlar. Bu nedenle yurtdışına açılmak özellikle ihracatını arttırmak isteyen şirketler için önemli ve doğru bir adımdır.</p><p>Yurtdışında şirketleşme, bir kişinin veya işletmenin kendi ülkesinden farklı bir ülkede yasal bir ticari yapı kurarak uluslararası alanda faaliyet göstermesidir. Bu faaliyet süreci, girişimcilerin global pazara açılmasını, yabancı yatırımcılardan destek almasını ve çoğu zaman vergi avantajlarından yararlanmasını sağlar. Bu nedenle yurtdışında şirket kurmak, sadece büyük ölçekli firmalar için değil, dijital girişimciler, yazılımcılar, e-ticaret yapanlar ve danışmanlık hizmeti verenler için de giderek daha cazip hale gelmektedir. Özellikle son dönemde Estonya, İngiltere, ABD, Hollanda ve BAE gibi ülkelerin girişimcilere sağladığı düşük vergi oranları, dijital altyapı avantajları ve yatırımcıya açık yapıları yurtdışında şirketleşme faaliyetlerini daha da artmıştır. Bu bağlamda yurtdışında şirket kurmak, küresel rekabette daha güçlü bir konuma gelmek isteyen bireyler ve işletmeler için stratejik bir adımdır.</p>",
-      "image": "/images/servisler/yurtdisi-sirket-kurma-intro.jpg",
+      "image": "/assets/images/services/yurtdisi-sirket-kurma-intro.jpg",
       "image_position": "right"
     },
     {
       "type": "content_with_image",
       "title": "Yurt Dışında Nasıl Şirket Kurulur?",
       "content": "<p>Yurtdışında şirket kurmak isteyenlerin, kurulum sürecinde en merak ettiği sorulardan birisi de “yurtdışında nasıl şirket kurulur?” sorusudur. Bu sorunun cevabı her ne kadar karmaşık ve uzun süreli bir durum olarak gözükse de, sanılanın aksine oldukça kolay ve kısa sürmektedir. Özellikle dijitalleşmenin artmasıyla birlikte birçok ülke online şirket kurulumuna olanak tanımaktadır.</p><p>Bu bağlamda ilk olarak hangi ülkede şirket kurmak istediğinize karar vermeniz gerekir. Bu aşamada hedeflediğiniz pazar, vergi avantajları, dil ve yasal altyapı gibi kriterler belirleyici olur. Örneğin; ABD, dijital girişimciler için Delaware ve Wyoming gibi eyaletleri ile öne çıkarken; Estonya, dijital kimlik (e-Residency) programı sayesinde tüm süreci uzaktan yürütme imkânı sunar. Bu nedenle ülke seçimi yaparken, ülkenin sunduğu avantajlara dikkat etmeniz gerekir. Ülke seçiminin ardından, o ülkenin yasal mevzuatına uygun bir şirket türü belirlenir. Genellikle en çok tercih edilen yapılar arasında limited şirket (LLC), anonim şirket (Corporation) ve şahıs şirketi (Sole Proprietorship) bulunur.</p><p>Bir sonraki adımda ise, şirketin resmi unvanı belirlenir ve gerekli kuruluş belgeleri hazırlanır. Bu belgeler; kurucu ortakların bilgileri, şirket sözleşmesi (Articles of Association), faaliyet alanı ve sermaye yapısı gibi bilgileri içerir. Belgelerin hazırlanmasının ardından başvurular çoğu zaman online olarak ilgili resmi kurumlara (örneğin ticaret sicili veya şirketler dairesi) yapılabilir. Bu başvuruların onaylanması genellikle birkaç iş günü içinde tamamlanır.</p><p>Şirketin kurulmasıyla birlikte, yurt dışındaki vergi dairesine kayıt yaptırılır ve varsa yerel temsilci atanması gibi ek yükümlülükler yerine getirilir. Kurulumun tamamlanması için önemli bir adım da banka hesabı açılmasıdır. Bazı ülkelerde şirket kurulumunun ardından banka hesabı açmak kolay olurken, bazı ülkelerde daha sıkı incelemeler yapılabilir. Bu nedenle, dijital banka çözümleri (wise, payoneer, mercury gibi) de girişimciler arasında popülerdir. Sonuç olarak tüm bu adımları tamamladıktan sonra yurt dışında kolaylıkla şirketinizi kurabilirsiniz.</p>",
-      "image": "/images/servisler/yurtdisi-sirket-kurma-process.jpg",
+      "image": "/assets/images/services/yurtdisi-sirket-kurma-process.jpg",
       "image_position": "right"
     },
     {
@@ -126,7 +126,7 @@
       "type": "content_with_image",
       "title": "Popüler Ülkeler ve Şirketleşme Seçenekleri",
       "content": "<p>Yurt dışında şirket kurarken ülkelerin sunduğu avantajları dikkatli şekilde inceleyip karar vermek gerekir. Aşağıda en çok tercih edilen ülke seçeneklerini bulabilirsiniz.</p>",
-      "image": "/images/servisler/yurtdisi-sirket-kurma-countries.jpg",
+      "image": "/assets/images/services/yurtdisi-sirket-kurma-countries.jpg",
       "image_position": "right"
     },
     {

@@ -7,14 +7,14 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
-    { "name": "Finansmana Erişim", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim" },
-    { "name": "Ticaret Bakanlığı Destekleri", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim/ticaret-bakanligi-destekleri" }
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "Finansmana Erişim", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim" },
+    { "name": "Ticaret Bakanlığı Destekleri", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim/ticaret-bakanligi-destekleri" }
   ],
   "hero": {
     "title": "Ticaret Bakanlığı Destekleri",
     "description": "İhracata hazırlık, pazara giriş, markalaşma ve uluslararası büyüme süreçlerinde %50-%70 bandında devlet desteklerinden yararlanın.",
-    "image": "/images/servisler/ticaret-bakanligi-destekleri-hero.jpg",
+    "image": "/assets/images/services/ticaret-bakanligi-destekleri-hero.jpg",
     "buttons": [
       { "text": "Uygunluğunuzu Değerlendirelim", "link": "#contact", "variant": "primary" },
       { "text": "Destek Kalemleri", "link": "#services", "variant": "outline" }
@@ -33,7 +33,7 @@
         "Pazara Giriş Belgeleri",
         "Tanıtım ve Markalaşma"
       ],
-      "image": "/images/servisler/ticaret-bakanligi-destekleri-hero.jpg"
+      "image": "/assets/images/services/ticaret-bakanligi-destekleri-hero.jpg"
     },
     {
       "type": "stats_highlight",
@@ -48,7 +48,7 @@
       "type": "content_with_image",
       "title": "Ticaret Bakanlığı İhracat Destekleri Nedir?",
       "content": "<p>İhracat yapan ya da ihracata başlamak isteyen firmaların, ihracat oranlarını artırmak için yaptıkları harcamaların desteklendiği bir programdır.</p>",
-      "image": "/images/servisler/ticaret-bakanligi-destekleri-intro.jpg",
+      "image": "/assets/images/services/ticaret-bakanligi-destekleri-intro.jpg",
       "image_position": "right"
     },
     {
@@ -77,7 +77,7 @@
       "type": "image_text",
       "title": "Ticaret Bakanlığı'nın %70'e Varan Destekleri",
       "content": "<p>Türkiye'de yerleşik bir şekilde üretim yapan firmaların ihracata hazırlık, markalaşma ve pazarlama ihtiyaçları için %50-%70 oranlarında hibe sağlayan programların destek içeriklerini öğrenmek ve firmanıza uygunluklarını ücretsiz değerlendirmek için bizimle iletişime geçebilirsiniz.</p>",
-      "image": "/images/servisler/ticaret-bakanligi-destekleri-process.jpg",
+      "image": "/assets/images/services/ticaret-bakanligi-destekleri-process.jpg",
       "layout": "left"
     },
     {

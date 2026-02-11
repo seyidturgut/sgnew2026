@@ -8,9 +8,9 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Ar-Ge ve Fikri Mülkiyet", "link": "/servisler/ar-ge-ve-fikri-mulkiyet" },
-    { "name": "Ar-Ge Yönetimi", "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi" },
-    { "name": "Yatırım Teşvik Danışmanlığı", "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/yatirim-tesvik-danismanligi" }
+    { "name": "Ar-Ge ve Fikri Mülkiyet", "link": "/services/ar-ge-ve-fikri-mulkiyet" },
+    { "name": "Ar-Ge Yönetimi", "link": "/services/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi" },
+    { "name": "Yatırım Teşvik Danışmanlığı", "link": "/services/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/yatirim-tesvik-danismanligi" }
   ],
   "hero": {
     "title": "Yatırım Teşvik Danışmanlığı",

@@ -7,13 +7,13 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Mevzuat ve Uyum", "link": "/servisler/mevzuat-ve-uyum" },
-    { "name": "Şirket Kurma, TTK Uygulama ve Sicil İşleri Danışmanlığı", "link": "/servisler/mevzuat-ve-uyum/sirket-kurma-ttk-uygulama-ve-sicil-isleri-danismanligi" }
+    { "name": "Mevzuat ve Uyum", "link": "/services/mevzuat-ve-uyum" },
+    { "name": "Şirket Kurma, TTK Uygulama ve Sicil İşleri Danışmanlığı", "link": "/services/mevzuat-ve-uyum/sirket-kurma-ttk-uygulama-ve-sicil-isleri-danismanligi" }
   ],
   "hero": {
     "title": "Şirket Kurma, TTK Uygulama ve Sicil İşleri Danışmanlığı",
     "description": "Şirket kuruluşundan sicil işlemlerine kadar tüm süreçleri TTK’ya uygun ve güvenli şekilde yönetin.",
-    "image": "/images/servisler/sirket-kurma-hero.jpg",
+    "image": "/assets/images/services/sirket-kurma-hero.jpg",
     "buttons": [
       { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
       { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
@@ -24,14 +24,14 @@
       "type": "content_with_image",
       "title": "Şirket Kurma, TTK Uygulama ve Sicil İşleri Danışmanlığı Nedir?",
       "content": "<p>Anonim veya Limited Şirket Kurma, Türk Ticaret Kanunu (TTK) Uygulama ve Ticaret Sicil İşleri danışmanlığı; girişimcilerin ve işletmelerin sicil ihtiyaçlarını karşılayan kapsamlı bir hizmettir. Şirket kuruluşu, ticaret siciline kayıt, defterlerin tutulması, yönetim kurulu ve genel kurul kararlarının alınması, şirket yetkililerinin atanması, imza yetkililerinin belirlenmesi ve ilanı, sermaye artırımı/azaltımı, birleşme-bölünme-devralma süreçlerinin yönetilmesini kapsar.</p><p>Kurulum süreci; şirket türü seçimi, esas sözleşmenin hazırlanması, izinlerin alınması, unvan seçimi, sermaye miktarı, pay analizi, NACE kodlarının seçimi, faaliyet alanı, imtiyazlı paylar, pay devri ve yönetim yapısı gibi adımları içerir. Bu süreçlerde uzman danışmanlık, riskleri minimize eder ve işlerin sorunsuz ilerlemesini sağlar.</p>",
-      "image": "/images/servisler/sirket-kurma-intro.jpg",
+      "image": "/assets/images/services/sirket-kurma-intro.jpg",
       "image_position": "right"
     },
     {
       "type": "image_text",
       "title": "Kuruluş ve Sicil Süreçlerinde Güvenli Yönetim",
       "content": "<p>TTK’ya uyumlu ve doğru kurgulanmış şirket yapıları, hem yasal güvence sağlar hem de operasyonel sürdürülebilirliği güçlendirir.</p>",
-      "image": "/images/servisler/sirket-kurma-process.jpg",
+      "image": "/assets/images/services/sirket-kurma-process.jpg",
       "layout": "left"
     },
     {

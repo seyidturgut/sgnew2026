@@ -15,21 +15,21 @@
     },
     {
       "name": "Vergi & Finans",
-      "link": "/servisler/vergi-finans"
+      "link": "/services/vergi-finans"
     },
     {
       "name": "Kurumsal Finansman",
-      "link": "/servisler/vergi-finans/kurumsal-finansman"
+      "link": "/services/vergi-finans/kurumsal-finansman"
     },
     {
       "name": "İhale Bedeli Tespiti",
-      "link": "/servisler/vergi-finans/kurumsal-finansman/ihale-bedeli-tespiti"
+      "link": "/services/vergi-finans/kurumsal-finansman/ihale-bedeli-tespiti"
     }
   ],
   "hero": {
     "title": "İhale Bedeli Tespiti",
     "description": "Rekabetçi ama kârlı teklif bedelleri belirleyin; riskleri yönetin, kazanma olasılığınızı artırın.",
-    "image": "/images/servisler/ihale-bedeli-hero.jpg",
+    "image": "/assets/images/services/ihale-bedeli-hero.jpg",
     "buttons": [
       {
         "text": "Uzmanımızla Görüşün",
@@ -48,7 +48,7 @@
       "type": "content_with_image",
       "title": "İhale Bedeli Tespiti Nedir?",
       "content": "<p>İhaleler, şirketlerin yeni projelere ve büyük iş fırsatlarına erişimini sağlayan kritik süreçlerdir. Ancak doğru fiyatlandırma yapılmadan girilen bir ihale, ya şirketin kârlılığını riske atabilir ya da rekabet avantajını kaybettirebilir. Bu nedenle, teklif bedelinin titizlikle hesaplanması; şirketin maliyetlerini, rekabet koşullarını ve piyasa dinamiklerini dikkate alan profesyonel bir analiz gerektirir.</p><p>Sistem Global olarak, şirketlerin ihale süreçlerinde rekabetçi ve sürdürülebilir fiyatlandırma yapmasını sağlayarak, ihaleye giriş bedelinin en doğru şekilde belirlenmesine yardımcı oluyoruz.</p>",
-      "image": "/images/servisler/ihale-bedeli-intro.jpg",
+      "image": "/assets/images/services/ihale-bedeli-intro.jpg",
       "image_position": "right"
     },
     {

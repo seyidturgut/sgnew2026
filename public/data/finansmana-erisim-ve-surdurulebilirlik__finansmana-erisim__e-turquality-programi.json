@@ -16,21 +16,21 @@
     },
     {
       "name": "Finansmana Erişim ve Sürdürülebilirlik",
-      "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik"
+      "link": "/services/finansmana-erisim-ve-surdurulebilirlik"
     },
     {
       "name": "Finansmana Erişim",
-      "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim"
+      "link": "/services/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim"
     },
     {
       "name": "E-Turquality Programı",
-      "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim/e-turquality-programi"
+      "link": "/services/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim/e-turquality-programi"
     }
   ],
   "hero": {
     "title": "E-Turquality Programı",
     "description": "Bilişim sektörüne özel desteklerle globalleşme ve markalaşma sürecinizi hızlandırın.",
-    "image": "/images/servisler/e-turquality-overview.jpg",
+    "image": "/assets/images/services/e-turquality-overview.jpg",
     "buttons": [
       {
         "text": "Başvuru İçin Görüşün",
@@ -57,13 +57,13 @@
         "Bilişim alt sektörlerine özel teşvikler",
         "Başvurudan hibeye kadar uçtan uca süreç"
       ],
-      "image": "/images/servisler/e-turquality-overview.jpg"
+      "image": "/assets/images/services/e-turquality-overview.jpg"
     },
     {
       "type": "content_with_image",
       "title": "E-Turquality Programı Nedir?",
       "content": "<p>E-Turquality Programı (Bilişimin Yıldızları), ülkemizin bilişim ve alt sektörlerinin geliştirilmesi, inovasyonun teşvik edilmesi ve uluslararası pazarlarda rekabet edebilecek bölgesel ve küresel unicornların oluşturulmasına yönelik oluşturulmuş ve 20.04.2022 tarihinde yayımlanarak yürürlüğe girmiştir.</p>",
-      "image": "/images/servisler/e-turquality-overview.jpg",
+      "image": "/assets/images/services/e-turquality-overview.jpg",
       "image_position": "right"
     },
     {
@@ -145,7 +145,7 @@
       "type": "content_with_image",
       "title": "E-Turquality Programı'na Nasıl Başvururum?",
       "content": "<p>Sistem Global olarak firmanızın E-Turquality sürecinde yanınızda olmaktan mutluluk duyarız. Bakanlık tarafından belirlenen ön koşulları yerine getiriyorsanız, iletişim formunu doldurarak uzmanımız ile görüşebilirsiniz.</p>",
-      "image": "/images/servisler/e-turquality-application.jpg",
+      "image": "/assets/images/services/e-turquality-application.jpg",
       "image_position": "left"
     },
     {
@@ -387,7 +387,7 @@
       "type": "content_with_image",
       "title": "Sistem Global Yanınızda!",
       "content": "<p>Siz de şimdi iletişim formunu doldurarak uzmanımız ile iletişime geçebilir ve firmanız için en doğru teşvik programı ile finansmana erişebilirsiniz.</p>",
-      "image": "/images/servisler/e-turquality-sectors.jpg",
+      "image": "/assets/images/services/e-turquality-sectors.jpg",
       "image_position": "right"
     },
     {

@@ -4,7 +4,7 @@
   "category_name": "Vergi",
   "title": "KDV İade",
   "title_highlighted": "Hizmetleri",
-  "hero_image": "/images/kdv-iade/hero-tax.webp",
+  "hero_image": "/assets/images/kdv-iade/hero-tax.webp",
   "youtube_id": "",
   "breadcrumb": [
     {
@@ -17,15 +17,15 @@
     },
     {
       "name": "Vergi & Finans",
-      "link": "/servisler/vergi-finans"
+      "link": "/services/vergi-finans"
     },
     {
       "name": "Vergi",
-      "link": "/servisler/vergi-finans/vergi"
+      "link": "/services/vergi-finans/vergi"
     },
     {
       "name": "KDV İade Hizmetleri",
-      "link": "/servisler/vergi-finans/vergi/kdv-iade-hizmetleri"
+      "link": "/services/vergi-finans/vergi/kdv-iade-hizmetleri"
     }
   ],
   "content_json": {
@@ -153,7 +153,7 @@
         "type": "content_with_image",
         "title": "Başvuru İçin Gerekli Belgeler",
         "content": "\n        <p>KDV iade talebinde bulunabilmek için mevzuatta belirlenen belgelerin eksiksiz ve doğru bir şekilde hazırlanarak sunulması gereklidir.</p>\n        <div class=\"mt-4\"><p>KDV iade talebinde bulunabilmek için mevzuatta belirlenen belgelerin eksiksiz ve doğru bir şekilde hazırlanarak sunulması gereklidir. Bu kapsamda sunulması gereken temel belgeler;</p><li>KDV Beyannamesi</li><li>KDV iade listeleri</li><li>İhracat için gerekli olan gümrük beyannamesi</li><li>Tevkifatlı fatura örnekleri</li><li>Eğer varsa mahsup talep dilekçesi</li><p>KDV iade başvurusu yaparken işletmelerin faaliyet alanı gerekli evraklarda değişiklik gösterebilir. Bu yüzden KDV Kanunu ve ilgili mevzuatı takip etmeniz ve süreci doğru yönetmeniz indirimli KDV iadesi ve sürecin daha verimli ilerleyebilmesi için oldukça önemlidir.</p><p>11’İnci maddeye göre iade talebinde bulunabilmek için gerekli olan belgeler;</p><p>KDV Kanunu’nun 11’inci maddesine göre iade talebinde bulunabilmek için bazı belgeler bulunur ve bu belgelerde evrakların eksik olması veya doğru evrağın sunulmaması durumunda iade talebi süreci uzayabilir ve hatta reddedilebilir. Çünkü ihracat istisnası ve bu kapsamda yapılan teslimleri düzenleyen 11’indi maddeye göre KDV iadesi almak için ihracat işlemini belgeleyen gümrük beyannamesi, KDV iade listeleri, ilgili satış faturaları, iade talep dilekçesi ve varsa mahsup talebi ve dilekçesi olması gereklidir.</p><p>13’üncü maddeye göre iade İşlemi İçin gerekli olan belgeler;</p><p>Araç, yatırım ve taşıma süreçleri gibi özel durumları kapsayan 13’üncü madde, iade talebi için varsa yatırım teşvik belgesi, ilgili işlemin fatura ve sözleşmeleri, indirimli oran KDV iadesi için yüklenilen KDV listesi, iade talep dilekçesi ve ilgili dönemin beyannamesi gerekli görülmektedir.</p><p>29’uncu maddeye göre iade işleminde istenen belgeler;</p><p>Gerçekleşmeyen işlemleri ve kısmı tevkifat süreçlerini kapsayan 29’uncu maddeye göre iade talebinde bulunmak için istenilen belgeler oldukça önemlidir. Bu belgeler içerisinde tevkifatlı işlemler için istenilen karşılıklı mutabakat yazısı, tevkifatlı fatura iade örnekleri, KDV iade listeleri, KDV beyannamesi ve gerçekleşmeyen işlemler için iade süreci varsa bu duruma ilişkin belgeler talep edilmektedir.</p></div>\n        <div class=\"mt-4\">\n            <h4 class=\"text-lg font-bold\">Önemli Hatırlatma</h4>\n            <p>Belgelerin eksik veya hatalı olması sürecin uzamasına veya reddine neden olabilir. SG-YMM olarak tüm dosya hazırlık sürecinizi profesyonelce yönetiyoruz.</p>\n        </div>\n    ",
-        "image": "/images/kdv-iade/hero-tax.webp",
+        "image": "/assets/images/kdv-iade/hero-tax.webp",
         "image_position": "left"
       },
       {

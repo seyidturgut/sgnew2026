@@ -15,21 +15,21 @@
     },
     {
       "name": "Vergi & Finans",
-      "link": "/servisler/vergi-finans"
+      "link": "/services/vergi-finans"
     },
     {
       "name": "Kurumsal Finansman",
-      "link": "/servisler/vergi-finans/kurumsal-finansman"
+      "link": "/services/vergi-finans/kurumsal-finansman"
     },
     {
       "name": "Finansal Danışmanlıklar",
-      "link": "/servisler/vergi-finans/kurumsal-finansman/finansal-danismanliklar"
+      "link": "/services/vergi-finans/kurumsal-finansman/finansal-danismanliklar"
     }
   ],
   "hero": {
     "title": "Finansal Danışmanlıklar",
     "description": "Yatırım kararlarınızı veriyle güçlendirin; finansal modelleme ve due diligence süreçlerinde uzman destek alın.",
-    "image": "/images/servisler/finansal-danismanlik-hero.jpg",
+    "image": "/assets/images/services/finansal-danismanlik-hero.jpg",
     "buttons": [
       {
         "text": "Uzmanımızla Görüşün",
@@ -72,7 +72,7 @@
       "type": "content_with_image",
       "title": "Finansal Modelleme ve Yatırım Öncesi Danışmanlık",
       "content": "<p>Şirketlerin yatırım kararları öncesinde sağlam finansal temeller üzerine strateji oluşturabilmeleri için verilen danışmanlık hizmetidir. Bu hizmet kapsamında, finansal modelleme teknikleri kullanılarak şirketin nakit akışları, gelir projeksiyonları ve yatırım geri dönüş analizleri yapılır.</p>",
-      "image": "/images/servisler/finansal-danismanlik-intro.jpg",
+      "image": "/assets/images/services/finansal-danismanlik-intro.jpg",
       "image_position": "right"
     },
     {
@@ -132,7 +132,7 @@
       "type": "content_with_image",
       "title": "Finansal Due Diligence",
       "content": "<p>Finansal Due Diligence, bir şirketin satın alınması veya birleşme süreci öncesinde, alıcının hedef şirketin finansal sağlığını, risklerini ve gerçek değerini detaylı olarak analiz ettiği süreçtir. Bu hizmet, yatırım kararının finansal açıdan sağlam temellere dayanmasını ve potansiyel sürpriz maliyetlerin önlenmesini sağlar.</p>",
-      "image": "/images/servisler/finansal-danismanlik-intro.jpg",
+      "image": "/assets/images/services/finansal-danismanlik-intro.jpg",
       "image_position": "left"
     },
     {

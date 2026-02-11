@@ -51,13 +51,13 @@ const ServicePageLayout = ({
 
     // Category Fallback Images
     const categoryFallbacks = {
-        'vergi-finans': '/images/servisler/tax-general.webp',
-        'ar-ge-ve-fikri-mulkiyet': '/images/servisler/tech-general.webp',
-        'mevzuat-uyum': '/images/servisler/legal-general.webp',
-        'globallesme-ihracat': '/images/servisler/global-general.webp',
-        'finansmana-erisim-surdurulebilirlik': '/images/servisler/finance-general.webp',
-        'kurumsal-finans': '/images/servisler/finance-general.webp',
-        'dis-ticaret': '/images/servisler/global-general.webp'
+        'vergi-finans': '/assets/images/services/vergi-hero.webp',
+        'ar-ge-ve-fikri-mulkiyet': '/assets/images/services/tech-hero.webp',
+        'mevzuat-uyum': '/assets/images/services/legal-compliance-hero.webp',
+        'globallesme-ihracat': '/assets/images/services/global-trade.webp',
+        'finansmana-erisim-surdurulebilirlik': '/assets/images/services/finance-hero.webp',
+        'kurumsal-finans': '/assets/images/services/finance-hero.webp',
+        'dis-ticaret': '/assets/images/services/global-trade.webp'
     };
 
     const [bgImage, setBgImage] = React.useState(heroImage);
@@ -73,7 +73,7 @@ const ServicePageLayout = ({
         if (category && categoryFallbacks[category]) {
             setBgImage(categoryFallbacks[category]);
         } else {
-            setBgImage('/images/servisler/services-hero-business.webp');
+            setBgImage('/assets/images/services/services-hero-business.webp');
         }
     };
 

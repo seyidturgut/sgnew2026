@@ -7,13 +7,13 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Mevzuat ve Uyum", "link": "/servisler/mevzuat-ve-uyum" },
-    { "name": "Startup Destek ve Uyum Danışmanlığı", "link": "/servisler/mevzuat-ve-uyum/startup-destek-ve-uyum-danismanligi" }
+    { "name": "Mevzuat ve Uyum", "link": "/services/mevzuat-ve-uyum" },
+    { "name": "Startup Destek ve Uyum Danışmanlığı", "link": "/services/mevzuat-ve-uyum/startup-destek-ve-uyum-danismanligi" }
   ],
   "hero": {
     "title": "Startup Destek ve Uyum Danışmanlığı",
     "description": "Girişiminizi doğru yapılandırın, yatırım ve büyüme süreçlerinde hukuki ve stratejik destek alın.",
-    "image": "/images/servisler/startup-hero.jpg",
+    "image": "/assets/images/services/startup-hero.jpg",
     "buttons": [
       { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
       { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
@@ -24,7 +24,7 @@
       "type": "content_with_image",
       "title": "Startup Süreç Yönetimi Nedir?",
       "content": "<p>Yenilikçi iş fikirlerine dayalı olarak kurulan ve hızla büyümeyi hedefleyen girişimler (startuplar), dinamik ve değişken bir iş ortamında faaliyet gösterir. Bu süreçte, iş modelinin oluşturulmasından yatırımcılarla yapılan anlaşmalara, şirketin yapılandırılmasından fikri hakların korunmasına kadar birçok kritik aşama yer alır. Şirketlerin sürdürülebilir şekilde büyümesi için işleyişlerini belirli çerçevelere uygun olarak düzenlemeleri ve yatırım süreçlerini verimli şekilde yönetmeleri büyük önem taşır.</p>",
-      "image": "/images/servisler/startup-intro.jpg",
+      "image": "/assets/images/services/startup-intro.jpg",
       "image_position": "right"
     },
     {
@@ -41,7 +41,7 @@
       "type": "image_text",
       "title": "Yatırım ve Ölçekleme Hazırlığı",
       "content": "<p>Yatırım turu öncesi doğru yapılandırma ve sözleşme setleri, girişimin ölçeklenmesinde kritik rol oynar. Sürecin her adımında düzenleyici uyum sağlanır.</p>",
-      "image": "/images/servisler/startup-process.jpg",
+      "image": "/assets/images/services/startup-process.jpg",
       "layout": "left"
     },
     {

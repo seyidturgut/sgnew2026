@@ -7,14 +7,14 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
-    { "name": "Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
-    { "name": "SBTi (Science Based Targets initiative)", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/sbti-science-based-targets-initiative" }
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
+    { "name": "SBTi (Science Based Targets initiative)", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/sbti-science-based-targets-initiative" }
   ],
   "hero": {
     "title": "SBTi (Science Based Targets initiative)",
     "description": "Bilim temelli hedeflerle net sıfır yolculuğunuzu küresel standartlara uyumlu şekilde kurgulayın.",
-    "image": "/images/servisler/sbti-hero.jpg",
+    "image": "/assets/images/services/sbti-hero.jpg",
     "buttons": [
       { "text": "SBTi Yol Haritası", "link": "#services", "variant": "primary" },
       { "text": "Uzman Desteği Alın", "link": "#contact", "variant": "outline" }
@@ -33,13 +33,13 @@
         "Bağımsız doğrulama ile şeffaflık",
         "Net sıfır stratejisi için ölçülebilir yol haritası"
       ],
-      "image": "/images/servisler/sbti-hero.jpg"
+      "image": "/assets/images/services/sbti-hero.jpg"
     },
     {
       "type": "content_with_image",
       "title": "Bilim Temelli Hedeflerle Net Sıfır Yolculuğunuzu Güçlendirin",
       "content": "<p>İklim değişikliğiyle mücadelede bilimsel verilere dayalı karar alma süreçleri hiç olmadığı kadar kritik hale geldi. Science Based Targets initiative (SBTi), şirketlerin karbon azaltım hedeflerini küresel iklim bilimiyle uyumlu şekilde belirlemesini sağlayan uluslararası bir standartlama ve doğrulama mekanizmasıdır. Paris Anlaşması'nın 1,5°C hedefi doğrultusunda geliştirilen bu sistem, işletmelere hem kısa hem de uzun vadeli emisyon azaltım stratejilerini bilimsel bir çerçeveye oturtma olanağı sunar.</p><p>SBTi; firmanızın mevcut karbon ayak izinin detaylı bir şekilde hesaplanması, sektörel metodolojilere uygun hedeflerin oluşturulması ve bu hedeflerin bağımsız bir kurul tarafından doğrulanması süreçlerini içerir. Bu yaklaşım, işletmelerin düşük karbonlu ekonomiye geçiş sürecini hızlandırarak sürdürülebilirlik stratejilerini küresel standartlarla uyumlu hale getirir.</p>",
-      "image": "/images/servisler/sbti-intro.jpg",
+      "image": "/assets/images/services/sbti-intro.jpg",
       "image_position": "right"
     },
     {
@@ -82,14 +82,14 @@
       "type": "content_with_image",
       "title": "Kimler Bu Hizmetten Yararlanabilir?",
       "content": "<ul><li>Sera gazı emisyonlarını bilimsel çerçevede azaltmak isteyen tüm şirketler</li><li>Uluslararası pazarlara ihracat yapan işletmeler</li><li>Tedarik zinciri içerisinde SBTi beklentisiyle karşılaşan firmalar</li><li>Sürdürülebilirlik stratejisini güçlendirmek veya net sıfır taahhüdü vermek isteyen kurumlar</li><li>Sürdürülebilir finansmana erişim hedefi bulunan şirketler</li><li>Enerji yoğun sektörlerde faaliyet gösteren kuruluşlar</li></ul>",
-      "image": "/images/servisler/sbti-process.jpg",
+      "image": "/assets/images/services/sbti-process.jpg",
       "image_position": "left"
     },
     {
       "type": "image_text",
       "title": "SBTi ile Ölçülebilir Dönüşüm ve Güçlü Konumlanma",
       "content": "<p>Bilim temelli hedefler, sürdürülebilirlik stratejinizi yalnızca beyan düzeyinde değil; ölçülebilir performans göstergeleriyle yönetilebilir hale getirir. Bu yapı, uluslararası yatırımcılar, müşteriler ve tedarik zinciri paydaşları karşısında şirketinizin güvenilirliğini artırır.</p><p>Doğru kurgulanmış bir SBTi süreci, karbon azaltım performansını hızlandırırken uzun vadeli maliyet optimizasyonu, regülasyon uyumu ve küresel rekabet avantajı sağlar.</p>",
-      "image": "/images/servisler/sbti-strategy.jpg",
+      "image": "/assets/images/services/sbti-strategy.jpg",
       "layout": "right"
     },
     {

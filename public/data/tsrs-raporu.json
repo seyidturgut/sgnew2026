@@ -7,14 +7,14 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
-    { "name": "Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
-    { "name": "TSRS Raporu", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/tsrs-raporu" }
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
+    { "name": "TSRS Raporu", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/tsrs-raporu" }
   ],
   "hero": {
     "title": "TSRS Raporu",
     "description": "Yasal yükümlülüklere uyumlu, şeffaf ve güvenilir sürdürülebilirlik raporlaması ile ESG performansınızı doğru şekilde ortaya koyun.",
-    "image": "/images/servisler/tsrs-raporu-hero.jpg",
+    "image": "/assets/images/services/tsrs-raporu-hero.jpg",
     "buttons": [
       { "text": "TSRS Uyum Analizi", "link": "#services", "variant": "primary" },
       { "text": "Uzman Görüşü Alın", "link": "#contact", "variant": "outline" }
@@ -33,13 +33,13 @@
         "İklim riskleri ve emisyon görünürlüğü",
         "Güvence denetimine hazır veri yapısı"
       ],
-      "image": "/images/servisler/tsrs-raporu-hero.jpg"
+      "image": "/assets/images/services/tsrs-raporu-hero.jpg"
     },
     {
       "type": "content_with_image",
       "title": "Yasal Yükümlülüklere Uyumlu, Şeffaf ve Güvenilir Sürdürülebilirlik Raporlaması",
       "content": "<p>Türkiye'de sürdürülebilirlik raporlaması, 2025 yılı itibarıyla resmi bir zorunluluk hâline gelmiştir. Türkiye Sürdürülebilirlik Raporlama Standartları (TSRS), işletmelerin çevresel, sosyal ve yönetişim (ESG) performanslarını uluslararası çerçevelerle uyumlu, karşılaştırılabilir ve denetlenebilir bir formatta açıklamalarını sağlayan ulusal raporlama sistemidir.</p><p>TSRS; kurumların iklim risklerini, sürdürülebilirlik stratejilerini, sera gazı emisyonlarını, sosyal performans göstergelerini ve yönetişim yapılarını bütüncül bir bakışla ele alarak kamuya sunmasını zorunlu kılar. Böylece şirketler hem yasal düzenlemelere uyum sağlar hem de uzun vadeli değer yaratma süreçlerini bilimsel ve şeffaf şekilde ortaya koyar.</p><p>TSRS iki temel standarttan oluşur:</p><ul><li><strong>TSRS S1 - Genel Hükümler:</strong> Sürdürülebilirlik yönetimi, strateji, paydaş ilişkileri, risk ve fırsatlar, yönetişim yapısı, sosyal ve çevresel etkiler, performans göstergeleri.</li><li><strong>TSRS S2 - İklimle İlgili Açıklamalar:</strong> Emisyon envanteri, iklim riskleri, geçiş planları, azaltım stratejileri, senaryo analizleri ve iklimle ilgili yönetişim.</li></ul><p>Bu yapı, Türkiye'nin Avrupa Birliği ESRS standartlarına, IFRS S1-S2'ye ve küresel raporlama pratiklerine uyumunu sağlamaktadır.</p>",
-      "image": "/images/servisler/tsrs-raporu-intro.jpg",
+      "image": "/assets/images/services/tsrs-raporu-intro.jpg",
       "image_position": "right"
     },
     {
@@ -111,14 +111,14 @@
       "type": "image_text",
       "title": "TSRS'ye Uymamanın Riskleri ve Olası Yaptırımlar",
       "content": "<p>TSRS, 660 sayılı KHK'ya dayandığından yasal ve bağlayıcı bir düzenlemedir. Uymamanın sonuçları:</p><ul><li>TTK 562 ve KHK 26 kapsamında idari yaptırımlar</li><li>KGK tarafından uygunsuzluk tespiti ve doğrudan denetim</li><li>Raporun sunulmaması durumunda bağımsız denetimde olumsuz/şartlı görüş</li><li>Halka açık şirketlerde SPK ve Borsa İstanbul nezdinde itibar kaybı</li><li>Kamuya açık listelerde \"uyumsuzluk beyanı\" riskinin artması</li></ul><p>2025 itibarıyla TSRS kapsamındaki tüm şirketler, finansal raporlarıyla eş zamanlı olarak sürdürülebilirlik raporlarını yayımlamak zorundadır.</p>",
-      "image": "/images/servisler/tsrs-raporu-risk.jpg",
+      "image": "/assets/images/services/tsrs-raporu-risk.jpg",
       "layout": "left"
     },
     {
       "type": "content_with_image",
       "title": "Veri Odaklı TSRS Uyum Yönetimi",
       "content": "<p>TSRS raporlama süreci, sadece bir beyan değil; kurumun yönetişim, risk ve performans sistemlerinin birlikte çalıştığı stratejik bir dönüşüm sürecidir. Doğru kurgulanmış veri altyapısı ve güçlü raporlama metodolojisiyle, şirketinizin sürdürülebilirlik performansını ulusal ve uluslararası paydaşlara güvenilir şekilde sunabilirsiniz.</p>",
-      "image": "/images/servisler/tsrs-raporu-data.jpg",
+      "image": "/assets/images/services/tsrs-raporu-data.jpg",
       "image_position": "right"
     },
     {

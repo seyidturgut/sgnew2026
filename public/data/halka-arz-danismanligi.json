@@ -15,21 +15,21 @@
     },
     {
       "name": "Vergi & Finans",
-      "link": "/servisler/vergi-finans"
+      "link": "/services/vergi-finans"
     },
     {
       "name": "Kurumsal Finansman",
-      "link": "/servisler/vergi-finans/kurumsal-finansman"
+      "link": "/services/vergi-finans/kurumsal-finansman"
     },
     {
       "name": "Halka Arz Danışmanlığı",
-      "link": "/servisler/vergi-finans/kurumsal-finansman/halka-arz-danismanligi"
+      "link": "/services/vergi-finans/kurumsal-finansman/halka-arz-danismanligi"
     }
   ],
   "hero": {
     "title": "Halka Arz Danışmanlığı",
     "description": "Sermaye piyasalarına açılma sürecinizi uçtan uca yönetin; uygunluk, hazırlık ve yatırımcı iletişimini uzman ekibimizle güçlendirin.",
-    "image": "/images/servisler/halka-arz-hero.jpg",
+    "image": "/assets/images/services/halka-arz-hero.jpg",
     "buttons": [
       {
         "text": "Uzmanımızla Görüşün",
@@ -48,7 +48,7 @@
       "type": "content_with_image",
       "title": "Halka Arz Danışmanlığı Nedir?",
       "content": "<p>Halka arz danışmanlığı, şirketlerin sermaye piyasalarına açılarak yatırımcılardan fon sağlaması sürecinde verilen kapsamlı danışmanlık hizmetidir. Bu hizmet, şirketin mali, hukuki ve operasyonel altyapısının halka arz için hazırlanmasını, Sermaye Piyasası Kurulu (SPK) ve Borsa İstanbul (BIST) mevzuatına uygunluğun sağlanmasını ve sürecin etkin yönetimini kapsar.</p>",
-      "image": "/images/servisler/halka-arz-intro.jpg",
+      "image": "/assets/images/services/halka-arz-intro.jpg",
       "image_position": "right"
     },
     {

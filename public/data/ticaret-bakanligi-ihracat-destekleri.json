@@ -8,13 +8,13 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Globallesme ve İhracat", "link": "/servisler/globallesme-ve-ihracat" },
-    { "name": "Ticaret Bakanlığı İhracat Destekleri", "link": "/servisler/globallesme-ve-ihracat/ticaret-bakanligi-ihracat-destekleri" }
+    { "name": "Globallesme ve İhracat", "link": "/services/globallesme-ve-ihracat" },
+    { "name": "Ticaret Bakanlığı İhracat Destekleri", "link": "/services/globallesme-ve-ihracat/ticaret-bakanligi-ihracat-destekleri" }
   ],
   "hero": {
     "title": "Ticaret Bakanlığı İhracat Destekleri",
     "description": "İhracat harcamalarınızı %50-%70 oranında destekleyen programlarla yeni pazarlara güvenle açılın.",
-    "image": "/images/servisler/ticaret-bakanligi-hero.jpg",
+    "image": "/assets/images/services/ticaret-bakanligi-hero.jpg",
     "buttons": [
       { "text": "Uygunluğunuzu Değerlendirelim", "link": "#contact", "variant": "primary" },
       { "text": "Destekler", "link": "#services", "variant": "outline" }
@@ -33,7 +33,7 @@
         "Yurt Dışı Tanıtım ve Marka",
         "E-İhracat ve Dijital Pazarlama"
       ],
-      "image": "/images/servisler/ticaret-bakanligi-hero.jpg"
+      "image": "/assets/images/services/ticaret-bakanligi-hero.jpg"
     },
     {
       "type": "stats_highlight",
@@ -48,7 +48,7 @@
       "type": "content_with_image",
       "title": "Ticaret Bakanlığı İhracat Destekleri Nedir?",
       "content": "<p>İhracat yapan ya da ihracata başlamak isteyen firmaların, ihracat oranlarını artırmak için yaptıkları harcamaların desteklendiği bir programdır.</p>",
-      "image": "/images/servisler/ticaret-bakanligi-intro.jpg",
+      "image": "/assets/images/services/ticaret-bakanligi-intro.jpg",
       "image_position": "right"
     },
     {
@@ -77,7 +77,7 @@
       "type": "image_text",
       "title": "%70'a Varan Destek Oranları",
       "content": "<p>Türkiye’de yerleşik bir şekilde üretim yapan firmaların İhracata Hazırlık, Markalaşma ve Pazarlama ihtiyaçları için %50-%70 oranlarında hibe sağlayan bu programların destek içeriklerini öğrenmek ve firmanıza uygunluklarını ücretsiz değerlendirmek için sizi arayalım.</p>",
-      "image": "/images/servisler/ticaret-bakanligi-process.jpg",
+      "image": "/assets/images/services/ticaret-bakanligi-process.jpg",
       "layout": "left"
     },
     {

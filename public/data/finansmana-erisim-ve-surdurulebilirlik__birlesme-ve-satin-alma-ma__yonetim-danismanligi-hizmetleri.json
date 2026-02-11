@@ -14,21 +14,21 @@
     },
     {
       "name": "Finansmana Erişim ve Sürdürülebilirlik",
-      "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik"
+      "link": "/services/finansmana-erisim-ve-surdurulebilirlik"
     },
     {
       "name": "Birleşme ve Satın Alma (M&A)",
-      "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/birlesme-ve-satin-alma-ma"
+      "link": "/services/finansmana-erisim-ve-surdurulebilirlik/birlesme-ve-satin-alma-ma"
     },
     {
       "name": "Yönetim Danışmanlığı Hizmetleri",
-      "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/birlesme-ve-satin-alma-ma/yonetim-danismanligi-hizmetleri"
+      "link": "/services/finansmana-erisim-ve-surdurulebilirlik/birlesme-ve-satin-alma-ma/yonetim-danismanligi-hizmetleri"
     }
   ],
   "hero": {
     "title": "Stratejik Netlik. Operasyonel Disiplin ve Sürdürülebilir İş Sonuçları",
     "description": "Sistem Global, kurumsal liderlerle birlikte stratejik fırsatları sürdürülebilir rekabet avantajına dönüştürmek, performans potansiyelini açığa çıkarmak ve dayanıklı, geleceğe hazır organizasyonlar inşa etmek üzere çalışıyoruz.",
-    "image": "/images/servisler/yonetim-danismanligi-hero.webp",
+    "image": "/assets/images/services/yonetim-danismanligi-hero.webp",
     "buttons": [
       {
         "text": "İşleminizi Başlatın",
@@ -54,7 +54,7 @@
       "type": "content_with_image",
       "title": "Stratejiyi Ölçülebilir Değere Dönüştürüyoruz",
       "content": "\n                <p>Günümüz iş ortamında; büyüme hedefleri, operasyonel verimlilik, regülasyon gereklilikleri, dijital dönüşüm ve sürdürülebilirlik öncelikleri eş zamanlı olarak yönetilmek zorundadır. Bu nedenle yönetim danışmanlığı yalnızca stratejik içgörü sunmakla sınırlı kalmamalı; stratejiyi disiplinli uygulamaya ve ölçülebilir değer yaratımına dönüştürmelidir.</p>\n                <p>Yönetim Danışmanlığı Hizmetlerimiz; stratejik yönlendirme, finansal disiplin, operasyonel mükemmeliyet, dijital yetkinlik, yönetişim disiplini ve dönüşüm yönetimini bütüncül bir hizmet çerçevesinde entegre eder.</p>\n            ",
-      "image": "/images/servisler/yonetim-danismanligi-intro.webp",
+      "image": "/assets/images/services/yonetim-danismanligi-intro.webp",
       "image_position": "right"
     },
     {
@@ -221,7 +221,7 @@
       "type": "content_with_image",
       "title": "Neden Sistem Global?",
       "content": "\n                <p>Uluslararası yatırım bankaları ve üst düzey danışmanlık firmalarının uyguladığı analitik standartlara bağlıyız. Önerilerimiz sadece raporlarla sınırlı kalmaz; somut performans artışı yaratmak üzere sahada uygulanabilir kurgular içerir.</p>\n                <p>Çok disiplinli kadromuz; stratejik vizyonu finansal disiplinle birleştirerek kurumsal değerinizi maksimize eder.</p>\n            ",
-      "image": "/images/servisler/yonetim-danismanligi-why.webp",
+      "image": "/assets/images/services/yonetim-danismanligi-why.webp",
       "image_position": "left"
     },
     {

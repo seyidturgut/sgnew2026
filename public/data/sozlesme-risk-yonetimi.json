@@ -15,17 +15,17 @@
     },
     {
       "name": "Mevzuat ve Uyum",
-      "link": "/servisler/mevzuat-ve-uyum"
+      "link": "/services/mevzuat-ve-uyum"
     },
     {
       "name": "Sözleşme Risk Yönetimi",
-      "link": "/servisler/mevzuat-ve-uyum/sozlesme-risk-yonetimi"
+      "link": "/services/mevzuat-ve-uyum/sozlesme-risk-yonetimi"
     }
   ],
   "hero": {
     "title": "Sözleşme Risk Yönetimi",
     "description": "Sözleşmelerinizi mevzuata uygun, açık ve güvenli şekilde yöneterek riskleri minimize edin.",
-    "image": "/images/servisler/sozlesme-risk-hero.jpg",
+    "image": "/assets/images/services/sozlesme-risk-hero.jpg",
     "buttons": [
       {
         "text": "Uzmanımızla Görüşün",
@@ -44,7 +44,7 @@
       "type": "content_with_image",
       "title": "Sözleşme Risk Yönetimi",
       "content": "<p>Sözleşme Risk Yönetimi, bireyler, işletmeler ve kuruluşlar için her türlü sözleşmenin hazırlanması, incelenmesi, müzakere edilmesi ve uygulamaya dönük yönetilmesine yönelik profesyonel mevzuatsal destek sunan bir hizmettir. Sözleşmeler, iş dünyasında ve günlük yaşamda taraflar arasında yapılan anlaşmaların temelini oluşturur. Bir sözleşme, taraflar arasındaki hak ve yükümlülükleri açıkça tanımlayan, tarafların girdikleri ilişkiden olan beklentilerini ve taahhütlerini resmi bir çerçeveye oturtan önemli bir belgedir. Sözleşme Risk Yönetimi, tarafların taahhütlerine ve çıkarlarına uygun düzenlenmesini sağlar.</p><p>Sözleşmeler; ticari anlaşmalardan gayrimenkul sözleşmelerine, işçi-işveren sözleşmelerinden alım-satım, yapım-taahhüt, eser ve hizmet sağlayıcı anlaşmalarına kadar geniş bir yelpazeyi kapsar.</p><p>Her sözleşmenin konusu ve kapsamı dahilinde kendine özgü şartları ve yasal gereksinimleri vardır. Bu nedenle sözleşmelerin hazırlanması ve yönetilmesi, tarafların haklarını güvence altına almak ve riskleri en aza indirmek için dikkatlice yürütülmelidir. Sözleşme Risk Yönetimi hizmeti, tarafların anlaşmazlık yaşamadan güven içinde iş yapmalarını ve uzun vadeli iş ilişkileri kurmalarını sağlar.</p>",
-      "image": "/images/servisler/sozlesme-risk-intro.jpg",
+      "image": "/assets/images/services/sozlesme-risk-intro.jpg",
       "image_position": "right"
     },
     {

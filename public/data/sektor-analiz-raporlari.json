@@ -15,21 +15,21 @@
     },
     {
       "name": "Vergi & Finans",
-      "link": "/servisler/vergi-finans"
+      "link": "/services/vergi-finans"
     },
     {
       "name": "Kurumsal Finansman",
-      "link": "/servisler/vergi-finans/kurumsal-finansman"
+      "link": "/services/vergi-finans/kurumsal-finansman"
     },
     {
       "name": "Sektör Analiz Raporları",
-      "link": "/servisler/vergi-finans/kurumsal-finansman/sektor-analiz-raporlari"
+      "link": "/services/vergi-finans/kurumsal-finansman/sektor-analiz-raporlari"
     }
   ],
   "hero": {
     "title": "Sektör Analiz Raporları",
     "description": "Sektörünüzün ekonomik koşullarını, rekabet dinamiklerini ve büyüme potansiyelini derinlemesine analiz edin.",
-    "image": "/images/servisler/sektor-analiz-hero.jpg",
+    "image": "/assets/images/services/sektor-analiz-hero.jpg",
     "buttons": [
       {
         "text": "Uzmanımızla Görüşün",
@@ -48,7 +48,7 @@
       "type": "content_with_image",
       "title": "Şirketlere Özel Sektör Analiz Raporlarının Hazırlanması",
       "content": "<p>Sektör analizi, bir şirketin faaliyet gösterdiği sektörün ekonomik koşulları, rekabet dinamikleri ve gelecekteki büyüme potansiyelini değerlendiren sistematik bir süreçtir.</p><p>Sistem Global olarak, her sektörden firmalara sektör analizi hizmeti sunarak, işletmelerin pazar dinamiklerini anlamalarına ve stratejik karar almalarına yardımcı oluyoruz. Resmi kurumlar için hazırlanan belgelerde yer alması gereken sektör raporları için ek hizmetler sunuyoruz.</p>",
-      "image": "/images/servisler/sektor-analiz-intro.jpg",
+      "image": "/assets/images/services/sektor-analiz-intro.jpg",
       "image_position": "right"
     },
     {

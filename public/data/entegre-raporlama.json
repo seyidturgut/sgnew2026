@@ -7,14 +7,14 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
-    { "name": "Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
-    { "name": "Entegre Raporlama", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/entegre-raporlama" }
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
+    { "name": "Entegre Raporlama", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/entegre-raporlama" }
   ],
   "hero": {
     "title": "Entegre Raporlama",
     "description": "Finansal ve ESG performansınızı stratejik bir bütünlük içinde sunarak uzun vadeli değer yaratımınızı görünür kılın.",
-    "image": "/images/servisler/entegre-raporlama-hero.jpg",
+    "image": "/assets/images/services/entegre-raporlama-hero.jpg",
     "buttons": [
       { "text": "Raporlama Yol Haritası", "link": "#services", "variant": "primary" },
       { "text": "Uzman Desteği Alın", "link": "#contact", "variant": "outline" }
@@ -33,13 +33,13 @@
         "Paydaş güveni ve kurumsal şeffaflık artışı",
         "Uzun vadeli değer yaratımının netleşmesi"
       ],
-      "image": "/images/servisler/entegre-raporlama-hero.jpg"
+      "image": "/assets/images/services/entegre-raporlama-hero.jpg"
     },
     {
       "type": "content_with_image",
       "title": "Finansal ve ESG Performansınızı Stratejik Bir Bütünlük İçinde Sunun",
       "content": "<p>Entegre raporlama, şirketlerin yalnızca finansal göstergelerini değil; çevresel, sosyal ve yönetişim (ESG) performanslarını da bütüncül bir yapı içinde ele almasını sağlayan modern bir raporlama yaklaşımıdır. Bu yöntem, işletmenin kısa, orta ve uzun vadede değer yaratma kapasitesini tüm boyutlarıyla açıklığa kavuşturur ve paydaşlara güçlü bir şeffaflık sunar.</p><p>Geleneksel finansal raporlamanın ötesine geçen entegre raporlar; sürdürülebilirlik performansı, çevresel etkiler, iş modeli, riskler, fırsatlar ve stratejik yönelim gibi unsurları tek bir anlatıda bir araya getirir. Böylece şirketler, geleceğe yönelik hedeflerini, değer yaratma süreçlerini ve karşılaşabilecekleri riskleri daha net bir şekilde ifade etme imkânı bulur.</p><p>Entegre raporlama; şirketin iş modelini, yönetim kapasitesini, sürdürülebilirlik stratejilerini ve paydaş ilişkilerini bütünsel biçimde sunarak kurumların uzun vadeli başarıya giden yolculuklarını daha görünür hâle getirir.</p>",
-      "image": "/images/servisler/entegre-raporlama-intro.jpg",
+      "image": "/assets/images/services/entegre-raporlama-intro.jpg",
       "image_position": "right"
     },
     {
@@ -107,14 +107,14 @@
       "type": "content_with_image",
       "title": "Kimler Entegre Raporlama Yapabilir?",
       "content": "<ul><li>Holding ve grup şirketleri</li><li>Banka, sigorta ve finans kuruluşları</li><li>Enerji ve altyapı şirketleri</li><li>Üretim ve sanayi işletmeleri</li><li>Teknoloji, telekomünikasyon ve lojistik firmaları</li><li>Sürdürülebilirlik ve şeffaflık odaklı tüm kurumlar</li></ul>",
-      "image": "/images/servisler/entegre-raporlama-process.jpg",
+      "image": "/assets/images/services/entegre-raporlama-process.jpg",
       "image_position": "left"
     },
     {
       "type": "image_text",
       "title": "Uzun Vadeli Değer Yaratımını Görünür Hale Getirin",
       "content": "<p>Entegre raporlama, şirketin bugünkü performansını gelecek hedefleriyle birlikte sunar. Bu yaklaşım, yönetim kalitesi, kaynak kullanımı, sürdürülebilirlik etkisi ve finansal sonuçlar arasındaki ilişkiyi paydaşlar için daha anlaşılır hale getirir.</p><p>Doğru yapılandırılmış bir entegre rapor, yatırımcı güvenini artırır, kurumsal itibarı güçlendirir ve stratejik karar alma süreçlerine doğrudan katkı sağlar.</p>",
-      "image": "/images/servisler/entegre-raporlama-value.jpg",
+      "image": "/assets/images/services/entegre-raporlama-value.jpg",
       "layout": "right"
     },
     {

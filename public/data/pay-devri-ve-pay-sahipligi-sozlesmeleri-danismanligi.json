@@ -7,13 +7,13 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Mevzuat ve Uyum", "link": "/servisler/mevzuat-ve-uyum" },
-    { "name": "Pay Devri ve Pay Sahipliği Sözleşmeleri Danışmanlığı", "link": "/servisler/mevzuat-ve-uyum/pay-devri-ve-pay-sahipligi-sozlesmeleri-danismanligi" }
+    { "name": "Mevzuat ve Uyum", "link": "/services/mevzuat-ve-uyum" },
+    { "name": "Pay Devri ve Pay Sahipliği Sözleşmeleri Danışmanlığı", "link": "/services/mevzuat-ve-uyum/pay-devri-ve-pay-sahipligi-sozlesmeleri-danismanligi" }
   ],
   "hero": {
     "title": "Pay Devri ve Pay Sahipliği Sözleşmeleri Danışmanlığı",
     "description": "Pay devri süreçlerinizi hukuka uygun ve güvenli şekilde yönetin, ortaklık yapısında istikrar sağlayın.",
-    "image": "/images/servisler/pay-devri-hero.jpg",
+    "image": "/assets/images/services/pay-devri-hero.jpg",
     "buttons": [
       { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
       { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
@@ -24,14 +24,14 @@
       "type": "content_with_image",
       "title": "Pay Devri ve Pay Sahipliği Sözleşmeleri Danışmanlığı Nedir?",
       "content": "<p>Pay devri ve pay sahipliği sözleşmeleri danışmanlığı, anonim şirket veya limited şirketlerde payların devri ve pay sahipleri arasında yapılan anlaşmaların Türk Ticaret Kanunu çerçevesinde usulüne uygun şekilde yönetilmesini sağlayan kapsamlı bir hizmettir. Şirketlerdeki hisse paylarının devri, gerek mevcut ortaklar arasında gerekse üçüncü kişiler veya yatırımcılar ile yapılacak anlaşmalarla gerçekleşir. Bu süreç, şirketin yönetim yapısını, sermaye yapısını ve faaliyetlerini doğrudan etkileyebilir. Dolayısıyla pay devri ve pay sahipliği sözleşmeleri dikkatli planlanmalı ve yönetilmelidir.</p><p>Pay devri, mevcut bir pay sahibinin paylarını bir başka kişiye veya şirkete devretmesi sürecidir. Bu süreçte taraflar arasında hakların ve yükümlülüklerin net belirlenmesi, ihtilafların önüne geçilmesi açısından kritik öneme sahiptir. Pay sahipliği sözleşmeleri ise şirket ortakları arasında payların yönetimi, hak ve yükümlülükler, pay devri kısıtları, kar payı dağıtımı ve sermaye değişiklikleri gibi konuları belirleyen özel nitelikli sözleşmelerdir. Bu sözleşmeler, şirket yönetiminde denge düzen unsurudur.</p>",
-      "image": "/images/servisler/pay-devri-intro.jpg",
+      "image": "/assets/images/services/pay-devri-intro.jpg",
       "image_position": "right"
     },
     {
       "type": "image_text",
       "title": "Ortaklık Yapısında Güven ve İstikrar",
       "content": "<p>Pay devri süreçlerinde adil ve şeffaf sözleşmeler, ortaklar arasında güveni artırır ve şirketin uzun vadeli istikrarını güçlendirir.</p>",
-      "image": "/images/servisler/pay-devri-process.jpg",
+      "image": "/assets/images/services/pay-devri-process.jpg",
       "layout": "left"
     },
     {

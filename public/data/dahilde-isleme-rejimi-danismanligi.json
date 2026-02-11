@@ -8,14 +8,14 @@
   "breadcrumb": [
     { "name": "Anasayfa", "link": "/" },
     { "name": "Servisler", "link": "/servisler" },
-    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
-    { "name": "Finansmana Erişim", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim" },
-    { "name": "Dahilde İşleme Rejimi Danışmanlığı", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim/dahilde-isleme-rejimi-danismanligi" }
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/services/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "Finansmana Erişim", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim" },
+    { "name": "Dahilde İşleme Rejimi Danışmanlığı", "link": "/services/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim/dahilde-isleme-rejimi-danismanligi" }
   ],
   "hero": {
     "title": "Dahilde İşleme Rejimi Danışmanlığı",
     "description": "DİİB başvuru, sürdürme, revizyon ve kapatma süreçlerini mevzuata tam uyumla yönetin; ihracat tarafında maliyet avantajı sağlayın.",
-    "image": "/images/servisler/dahilde-isleme-hero.jpg",
+    "image": "/assets/images/services/dahilde-isleme-hero.jpg",
     "buttons": [
       { "text": "Uygunluğu Analiz Edelim", "link": "#contact", "variant": "primary" },
       { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
@@ -34,13 +34,13 @@
         "Revizyon ve kapatma süreç yönetimi",
         "YMM raporu dahil teknik destek"
       ],
-      "image": "/images/servisler/dahilde-isleme-hero.jpg"
+      "image": "/assets/images/services/dahilde-isleme-hero.jpg"
     },
     {
       "type": "content_with_image",
       "title": "Dahilde İşleme İzin Belgesi Nedir?",
       "content": "<p>Dahilde İşleme Rejimi (DİR), Türkiye'nin dış ticaret politikasına yönelik bir uygulama olup, ihracatçıların belirli mal ve hizmetleri yurt dışına göndermeden önce Türkiye'de işleyerek daha katma değerli hale getirmelerine olanak tanır. Bu rejim, özellikle ihracat sektörünü desteklemek ve Türk ekonomisinin dışa açılmasını sağlamak amacıyla geliştirilmiştir.</p><p>DİR, gümrük mevzuatına göre, ihracatçılara yurt dışına ihraç edilmek üzere temin edilen hammaddelerin veya yarı mamullerin Türkiye'de işlenmesi, işleme sürecinde kullanılan işçilik ve diğer hizmetlerin vergi muafiyetlerinden yararlanmasını sağlar. Bu şekilde, Türk üreticilerinin yurt dışında daha rekabetçi olabilmesi için gerekli olan maliyet avantajları sağlanmış olur.</p>",
-      "image": "/images/servisler/dahilde-isleme-process.jpg",
+      "image": "/assets/images/services/dahilde-isleme-process.jpg",
       "image_position": "right"
     },
     {
@@ -106,7 +106,7 @@
       "type": "content_with_image",
       "title": "Sistem Global Danışmanlık DİİB Hizmetleri",
       "content": "<p>Dahilde işleme izin belgesi kapsamında başvurusu yapılacak olan ürünlerin tespit edilmesi için kapasite raporu değerlendirilmesi yapılır. Firma talepleriyle kapasite raporunun örtüşüp örtüşmediği konusunda ön analiz yapılarak firmaya detaylar aktarılır.</p><p><strong>BAŞVURU HİZMETİ:</strong></p><ul><li>Sistem Global uzmanına verilecek yetki için dahilde işleme izin belgesi yetki evrakları (Destek Yönetim Sistemi (DYS)) hazırlanması,</li><li>DYS üzerinden yetkilendirmenin açılmasının sağlanması,</li><li>Firma taleplerine göre belge projesinin hazırlanması,</li><li>Hazırlanan projenin firma onayına/uygunluğuna sunulması,</li><li>Firmanın projeye onay vermesi akabinde projenin DYS üzerinden girişlerinin yapılması,</li><li>Onay alan belge bilgilerinin firma ile paylaşılması,</li><li>Belge alımı sonrası belgeye dair özel hususları ve dikkat edilecek unsurları Kullanma Kılavuzunun hazırlanarak firmanıza ve muhasebe yetkililerinize iletilmesi.</li></ul><p><strong>SÜRDÜRME/İZLEME HİZMETİ:</strong></p><ul><li>Dahilde işleme izin belgesi çıktıktan sonra firmanın talepleri doğrultusunda gerekli olması halinde revizyon başvurularının yapılması, belge durumunun belirli periyodlarda özel hesaplamalarla firma ile paylaşılması, mevzuat bilgilendirmeleri,</li><li>Belgenin durumuna bağlı olarak karşılaşılabilecek durumlar hakkında firmaya bilgi verilmesi,</li><li>Belgede yurt içi alım yapıldıysa, faturalarının DYS'ye manuel girişlerinin sağlanması.</li></ul><p><strong>DAHİLDE İŞLEME İZİN BELGESİ KAPATMA HİZMETİ:</strong></p><ul><li>Süresi dolan veya kapatma talebi alınan belgeler için belgenin kapatılmaya uygun olup olmadığının tespitinin yapılması,</li><li>Ekspertiz veya YMM Raporunun hazırlanması için firmaya bilgi verilmesi ve takibinin yapılması,</li><li>Mevzuat gereğince gerekli olan kapama dosyasının hazırlanması ve DYS üzerinden kapatma talebinin yapılması,</li><li>Belgenin kapatılması sonrası kapatma yazısının firmaya ulaştırılması.</li></ul><p><strong>YMM RAPORU HİZMETİ:</strong></p><ul><li>Dahilde işleme izin belgesi kapsamında yurt içi alım yapıldıysa kapatma dosyasına YMM Raporunun eklenmesi gerekmektedir. YMM Raporunun hazırlanması konusunda hizmetimiz yer almaktadır. <a href=\"https://www.sistemglobal.com.tr/iletisim-9131/\" target=\"_blank\" rel=\"noreferrer\">Detaylı bilgi için arayabilirsiniz.</a></li></ul>",
-      "image": "/images/servisler/dahilde-isleme-consulting.jpg",
+      "image": "/assets/images/services/dahilde-isleme-consulting.jpg",
       "image_position": "left"
     },
     {
@@ -181,7 +181,7 @@
       "type": "image_text",
       "title": "DİR Süreçlerinde Mevzuat Uyumlu ve Ölçülebilir Yönetim",
       "content": "<p>Belge başvurusundan kapanışa kadar tüm aşamalarda doğru dokümantasyon, düzenli takip ve mevzuata uyumlu yürütme, maliyet avantajını doğrudan etkiler.</p><p>Süreçlerin uzman ekip tarafından yönetilmesi; revizyon, raporlama ve kapatma adımlarında riskleri azaltır ve operasyonel verimliliği artırır.</p>",
-      "image": "/images/servisler/dahilde-isleme-legal.jpg",
+      "image": "/assets/images/services/dahilde-isleme-legal.jpg",
       "layout": "right"
     },
     {
