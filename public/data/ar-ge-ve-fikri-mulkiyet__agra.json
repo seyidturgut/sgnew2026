@@ -14,7 +14,7 @@
         "sections": [
             {
                 "type": "intro_text",
-                "content": "<p><strong>Çalışmalarımız devam ediyor.</strong></p><p>Bu ürünümüzle ilgili detaylı bilgiler çok yakında burada olacak. Sistem Global olarak dijital çözümlerimizi geliştirmeye ve size en iyi kullanıcı deneyimini sunmaya devam ediyoruz.</p>"
+                "content": "<div class=\"mb-8 p-6 bg-white rounded-2xl border border-gray-100 shadow-sm inline-block\"><img src=\"/images/dijital-urunler/argesa.webp\" alt=\"Agra Logo\" class=\"h-16 w-auto object-contain\" /></div><p><strong>Çalışmalarımız devam ediyor.</strong></p><p>Bu ürünümüzle ilgili detaylı bilgiler çok yakında burada olacak. Sistem Global olarak dijital çözümlerimizi geliştirmeye ve size en iyi kullanıcı deneyimini sunmaya devam ediyoruz.</p>"
             },
             {
                 "type": "cta_simple",
