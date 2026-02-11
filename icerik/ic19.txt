@@ -1,0 +1,43 @@
+﻿2.YAZILIM GELİŞTİRME HİZMETLERİ
+Sektör bağımsız; iş süreçlerini dijitalleştiren, ölçeklenebilir ve güvenli özel yazılım çözümleri geliştiriyoruz.
+
+>>> İhtiyaca özel kurgulanan bu çözümler, kurumların bugününü iyileştirirken yarının ihtiyaçlarına da uyum sağlar.
+Hizmetlerimiz; 
+1.Yazılım Geliştirme
+Müşterilerimizin iş süreçlerini iyileştirmek, verimliliği artırmak ve yenilikçi teknolojilerle entegre çözümler sağlamak için yazılım projelerini sıfırdan veya istediğiniz aşamadan devralarak tasarlayıp geliştiriyoruz.
+* İhtiyacı Anlama & Analiz
+* Planlama & Tasarım
+* Geliştirme & Kodlama
+* Test & Güvenlik
+* Yayın Alma & Destek
+2. Web ve Mobil Uygulama Geliştirme
+Kullanıcı deneyimini merkeze alan, performanslı ve modern web ve mobil uygulamalar geliştiriyoruz.
+* Web tabanlı uygulamalar
+* iOS & Android uyumlu mobil çözümler
+* Responsive ve kullanıcı dostu arayüzler
+* Yüksek trafikli sistemler için optimize yapı
+3. Yapay Zeka
+Veri odaklı karar alma süreçlerini destekleyen, operasyonel yükü azaltan yapay zeka çözümleri sunuyoruz. 
+Makine öğrenimi, doğal dil işleme (NLP), görüntü işleme gibi alanlarda geliştirdiğimiz akıllı algoritmalar ile müşterilerimizin dijital dönüşümüne katkı sağlıyoruz.
+* Yapay zeka destekli asistanlar
+* Akıllı raporlama ve analiz
+* Veri sınıflandırma ve tahminleme
+* Otomasyon ve karar destek sistemleri
+4. Özel Entegrasyonlar
+Farklı yazılımlar arasında güvenli ve sürdürülebilir entegrasyonlar geliştiriyoruz.
+* ERP, CRM ve üçüncü parti sistem entegrasyonları
+* API geliştirme ve entegrasyon
+* Kamu ve özel sistemlerle bağlantılar
+* Veri senkronizasyonu ve otomasyon
+
+
+5.Özel Hizmet Çözümleri
+Her kurumun ihtiyacı farklıdır. Bu nedenle, yazılımın ötesine geçen özel hizmet çözümleri sunuyoruz.
+* Dijital dönüşüm danışmanlığı
+* Süreç analizi ve iyileştirme
+* Teknik danışmanlık ve mimari destek
+* Uzun vadeli bakım ve geliştirme
+
+
+Sadece yazılım geliştirmiyoruz;
+ihtiyacı anlayan, doğru çözüme dönüştüren ve uzun vadede yanında duran bir iş ortağı oluyoruz.

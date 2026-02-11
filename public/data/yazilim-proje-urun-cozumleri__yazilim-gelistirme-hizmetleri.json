@@ -1,0 +1,98 @@
+{
+  "slug": "yazilim-gelistirme-hizmetleri",
+  "title": "Yazılım Geliştirme Hizmetleri",
+  "title_highlighted": "Dijital Dönüşümün Mimarları",
+  "category": "Yazılım: Proje ve Ürün Çözümleri",
+  "breadcrumb": [
+    {
+      "name": "Anasayfa",
+      "link": "/"
+    },
+    {
+      "name": "Servisler",
+      "link": "/servisler"
+    },
+    {
+      "name": "Yazılım: Proje ve Ürün Çözümleri",
+      "link": "/servisler/yazilim-proje-urun-cozumleri"
+    },
+    {
+      "name": "Yazılım Geliştirme Hizmetleri",
+      "link": "/servisler/yazilim-proje-urun-cozumleri/yazilim-gelistirme-hizmetleri"
+    }
+  ],
+  "hero": {
+    "title": "Geleceği Kodluyoruz",
+    "description": "Sektör bağımsız; iş süreçlerini dijitalleştiren, ölçeklenebilir ve güvenli özel yazılım çözümleri geliştiriyoruz.",
+    "image": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?auto=format&fit=crop&q=80",
+    "buttons": [
+      {
+        "text": "Bize Ulaşın",
+        "link": "/iletisim",
+        "variant": "primary"
+      },
+      {
+        "text": "Çözümlerimiz",
+        "link": "#services",
+        "variant": "outline"
+      }
+    ],
+    "marks": [
+      "Ölçeklenebilir Mimari",
+      "Güvenli Altyapı",
+      "Yapay Zeka Destekli",
+      "Uçtan Uca Çözüm"
+    ]
+  },
+  "layout_density": "compact",
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro_text",
+      "title": "Vizyonumuz",
+      "content": "\n                <p>İhtiyaca özel kurgulanan bu çözümler, kurumların bugününü iyileştirirken yarının ihtiyaçlarına da uyum sağlar.</p>\n                <p>Sadece yazılım geliştirmiyoruz; ihtiyacı anlayan, doğru çözüme dönüştüren ve uzun vadede yanında duran bir iş ortağı oluyoruz.</p>\n            "
+    },
+    {
+      "id": "services",
+      "type": "tabs_content",
+      "title": "Uzmanlık Alanlarımız",
+      "layout": "side_nav",
+      "description": "Her biri kendi alanında uzmanlaşmış ekiplerimizle uçtan uca dijital çözümler sunuyoruz.",
+      "items": [
+        {
+          "label": "Yazılım Geliştirme",
+          "title": "1. Yazılım Geliştirme",
+          "content": "\n                        <div class=\"space-y-6\">\n                            <h4 className=\"text-xl font-bold text-secondary\">Süreçlerinizi Dijitalleştirin</h4>\n                            <p>Müşterilerimizin iş süreçlerini iyileştirmek, verimliliği artırmak ve yenilikçi teknolojilerle entegre çözümler sağlamak için yazılım projelerini sıfırdan veya istediğiniz aşamadan devralarak tasarlayıp geliştiriyoruz.</p>\n                            <img src=\"https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80\" alt=\"Yazılım Geliştirme\" class=\"w-full h-48 object-cover rounded-xl shadow-sm mb-4\" />\n                            <div class=\"bg-gray-50 p-6 rounded-xl border border-gray-100\">\n                                <h5 class=\"font-bold text-secondary mb-4\">Süreç Adımları</h5>\n                                <ul class=\"space-y-3\">\n                                    <li class=\"flex items-center gap-3\"><span class=\"w-2 h-2 rounded-full bg-primary\"></span> İhtiyacı Anlama & Analiz</li>\n                                    <li class=\"flex items-center gap-3\"><span class=\"w-2 h-2 rounded-full bg-primary\"></span> Planlama & Tasarım</li>\n                                    <li class=\"flex items-center gap-3\"><span class=\"w-2 h-2 rounded-full bg-primary\"></span> Geliştirme & Kodlama</li>\n                                    <li class=\"flex items-center gap-3\"><span class=\"w-2 h-2 rounded-full bg-primary\"></span> Test & Güvenlik</li>\n                                    <li class=\"flex items-center gap-3\"><span class=\"w-2 h-2 rounded-full bg-primary\"></span> Yayın Alma & Destek</li>\n                                </ul>\n                            </div>\n                        </div>\n                    "
+        },
+        {
+          "label": "Web & Mobil",
+          "title": "2. Web ve Mobil Uygulama Geliştirme",
+          "content": "\n                        <div class=\"space-y-6\">\n                            <h4 className=\"text-xl font-bold text-secondary\">Her Platformda Kusursuz Deneyim</h4>\n                            <p>Kullanıcı deneyimini merkeze alan, performanslı ve modern web ve mobil uygulamalar geliştiriyoruz.</p>\n                            <div class=\"grid grid-cols-2 gap-4\">\n                                <img src=\"https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&q=80\" alt=\"Mobil Uygulama\" class=\"w-full h-32 object-cover rounded-lg\" />\n                                <img src=\"https://images.unsplash.com/photo-1547658719-da2b51169166?auto=format&fit=crop&q=80\" alt=\"Web Tasarım\" class=\"w-full h-32 object-cover rounded-lg\" />\n                            </div>\n                            <div class=\"bg-gray-50 p-6 rounded-xl border border-gray-100\">\n                                <h5 class=\"font-bold text-secondary mb-4\">Çözümler</h5>\n                                <ul class=\"space-y-3\">\n                                    <li class=\"flex items-center gap-3\"><span class=\"w-2 h-2 rounded-full bg-primary\"></span> Web tabanlı uygulamalar</li>\n                                    <li class=\"flex items-center gap-3\"><span class=\"w-2 h-2 rounded-full bg-primary\"></span> iOS & Android uyumlu mobil çözümler</li>\n                                    <li class=\"flex items-center gap-3\"><span class=\"w-2 h-2 rounded-full bg-primary\"></span> Responsive ve kullanıcı dostu arayüzler</li>\n                                    <li class=\"flex items-center gap-3\"><span class=\"w-2 h-2 rounded-full bg-primary\"></span> Yüksek trafikli sistemler için optimize yapı</li>\n                                </ul>\n                            </div>\n                        </div>\n                    "
+        },
+        {
+          "label": "Yapay Zeka",
+          "title": "3. Yapay Zeka Çözümleri",
+          "content": "\n                        <div class=\"space-y-6\">\n                            <h4 className=\"text-xl font-bold text-secondary\">Veriden Değere</h4>\n                            <p>Veri odaklı karar alma süreçlerini destekleyen, operasyonel yükü azaltan yapay zeka çözümleri sunuyoruz. Makine öğrenimi, doğal dil işleme (NLP), görüntü işleme gibi alanlarda geliştirdiğimiz akıllı algoritmalar ile müşterilerimizin dijital dönüşümüne katkı sağlıyoruz.</p>\n                            <img src=\"https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80\" alt=\"AI Solutions\" class=\"w-full h-48 object-cover rounded-xl shadow-sm mb-4\" />\n                            <div class=\"bg-gray-50 p-6 rounded-xl border border-gray-100\">\n                                <h5 class=\"font-bold text-secondary mb-4\">Yetkinlikler</h5>\n                                <ul class=\"space-y-3\">\n                                    <li class=\"flex items-center gap-3\"><span class=\"w-2 h-2 rounded-full bg-primary\"></span> Yapay zeka destekli asistanlar</li>\n                                    <li class=\"flex items-center gap-3\"><span class=\"w-2 h-2 rounded-full bg-primary\"></span> Akıllı raporlama ve analiz</li>\n                                    <li class=\"flex items-center gap-3\"><span class=\"w-2 h-2 rounded-full bg-primary\"></span> Veri sınıflandırma ve tahminleme</li>\n                                    <li class=\"flex items-center gap-3\"><span class=\"w-2 h-2 rounded-full bg-primary\"></span> Otomasyon ve karar destek sistemleri</li>\n                                </ul>\n                            </div>\n                        </div>\n                    "
+        },
+        {
+          "label": "Entegrasyonlar",
+          "title": "4. Özel Entegrasyonlar",
+          "content": "\n                        <div class=\"space-y-6\">\n                            <h4 className=\"text-xl font-bold text-secondary\">Sistemler Konuşsun, İşiniz Aksamasın</h4>\n                            <p>Farklı yazılımlar arasında güvenli ve sürdürülebilir entegrasyonlar geliştiriyoruz.</p>\n                            <div class=\"bg-gray-50 p-6 rounded-xl border border-gray-100\">\n                                <h5 class=\"font-bold text-secondary mb-4\">Entegrasyon Alanları</h5>\n                                <ul class=\"space-y-3\">\n                                    <li class=\"flex items-center gap-3\"><span class=\"w-2 h-2 rounded-full bg-primary\"></span> ERP, CRM ve üçüncü parti sistem entegrasyonları</li>\n                                    <li class=\"flex items-center gap-3\"><span class=\"w-2 h-2 rounded-full bg-primary\"></span> API geliştirme ve entegrasyon</li>\n                                    <li class=\"flex items-center gap-3\"><span class=\"w-2 h-2 rounded-full bg-primary\"></span> Kamu ve özel sistemlerle bağlantılar</li>\n                                    <li class=\"flex items-center gap-3\"><span class=\"w-2 h-2 rounded-full bg-primary\"></span> Veri senkronizasyonu ve otomasyon</li>\n                                </ul>\n                            </div>\n                        </div>\n                    "
+        },
+        {
+          "label": "Özel Hizmetler",
+          "title": "5. Özel Hizmet Çözümleri",
+          "content": "\n                        <div class=\"space-y-6\">\n                            <h4 className=\"text-xl font-bold text-secondary\">Size Özel Yaklaşımlar</h4>\n                            <p>Her kurumun ihtiyacı farklıdır. Bu nedenle, yazılımın ötesine geçen özel hizmet çözümleri sunuyoruz.</p>\n                            <div class=\"bg-gray-50 p-6 rounded-xl border border-gray-100\">\n                                <h5 class=\"font-bold text-secondary mb-4\">Hizmet Kapsamı</h5>\n                                <ul class=\"space-y-3\">\n                                    <li class=\"flex items-center gap-3\"><span class=\"w-2 h-2 rounded-full bg-primary\"></span> Dijital dönüşüm danışmanlığı</li>\n                                    <li class=\"flex items-center gap-3\"><span class=\"w-2 h-2 rounded-full bg-primary\"></span> Süreç analizi ve iyileştirme</li>\n                                    <li class=\"flex items-center gap-3\"><span class=\"w-2 h-2 rounded-full bg-primary\"></span> Teknik danışmanlık ve mimari destek</li>\n                                    <li class=\"flex items-center gap-3\"><span class=\"w-2 h-2 rounded-full bg-primary\"></span> Uzun vadeli bakım ve geliştirme</li>\n                                </ul>\n                            </div>\n                        </div>\n                    "
+        }
+      ]
+    },
+    {
+      "id": "cta",
+      "type": "cta_box",
+      "title": "Projenizi Hayata Geçirelim",
+      "description": "Fikrinizi ürüne, sürecinizi dijitale dönüştürmek için hazırız. Hemen tanışalım.",
+      "button_text": "Bize Ulaşın",
+      "url": "/iletisim"
+    }
+  ]
+}

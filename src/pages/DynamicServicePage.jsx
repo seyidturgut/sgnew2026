@@ -287,38 +287,49 @@ const DynamicServicePage = ({ forcedSlug, forcedSubcategory }) => {
     } : null);
 
     // Breadcrumb oluştur
-    const breadcrumb = [
-        { icon: 'Home', href: '/' }, // Home icon
-        { label: 'Servisler', href: '/servisler' }
-    ]
+    let breadcrumb = [];
 
-    // Kategori varsa ekle
-    if (activeCategory.slug) {
-        // Use mapped title if available, otherwise category object's title, otherwise fallback
-        const catTitle = categoryNameMap[activeCategory.slug] || activeCategory.title || pageData.category_name;
+    if (pageData.breadcrumb) {
+        // JSON'dan gelen breadcrumb'ı kullan (format dönüşümü gerekebilir)
+        breadcrumb = pageData.breadcrumb.map(item => ({
+            label: item.name,
+            href: item.link || undefined // Link yoksa undefined (son eleman için)
+        }));
+    } else {
+        // Dinamik oluştur
+        breadcrumb = [
+            { icon: 'Home', href: '/' }, // Home icon
+            { label: 'Servisler', href: '/servisler' }
+        ]
+
+        // Kategori varsa ekle
+        if (activeCategory.slug) {
+            // Use mapped title if available, otherwise category object's title, otherwise fallback
+            const catTitle = categoryNameMap[activeCategory.slug] || activeCategory.title || pageData.category_name;
+            breadcrumb.push({
+                label: catTitle,
+                href: `/servisler/${activeCategory.slug}`
+            })
+        }
+
+        // Alt kategori varsa ekle
+        if (activeSubcategory &&
+            activeSubcategory.slug !== 'uluslararasi-ticaret' &&
+            activeSubcategory.slug !== 'sirket-kurulusu-ve-yonetimi' &&
+            activeSubcategory.slug !== 'proje-ve-urun-cozumleri' &&
+            activeSubcategory.slug !== 'yasal-uyum-risk') {
+            const subTitle = subcategoryNameMap[activeSubcategory.slug] || activeSubcategory.title;
+            breadcrumb.push({
+                label: subTitle,
+                href: `/servisler/${activeCategory.slug}/${activeSubcategory.slug}`
+            })
+        }
+
+        // Sayfa başlığını ekle (son eleman, href yok)
         breadcrumb.push({
-            label: catTitle,
-            href: `/servisler/${activeCategory.slug}`
+            label: pageData.title // Sadece başlık, highlighted kısmı ekleme
         })
     }
-
-    // Alt kategori varsa ekle
-    if (activeSubcategory &&
-        activeSubcategory.slug !== 'uluslararasi-ticaret' &&
-        activeSubcategory.slug !== 'sirket-kurulusu-ve-yonetimi' &&
-        activeSubcategory.slug !== 'proje-ve-urun-cozumleri' &&
-        activeSubcategory.slug !== 'yasal-uyum-risk') {
-        const subTitle = subcategoryNameMap[activeSubcategory.slug] || activeSubcategory.title;
-        breadcrumb.push({
-            label: subTitle,
-            href: `/servisler/${activeCategory.slug}/${activeSubcategory.slug}`
-        })
-    }
-
-    // Sayfa başlığını ekle (son eleman, href yok)
-    breadcrumb.push({
-        label: pageData.title + (pageData.title_highlighted ? ' ' + pageData.title_highlighted : '')
-    })
 
     const renderContent = () => {
         const sections = pageData.content_json.sections || []
