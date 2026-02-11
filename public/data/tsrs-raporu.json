@@ -1,0 +1,132 @@
+{
+  "slug": "tsrs-raporu",
+  "title": "TSRS Raporu",
+  "title_highlighted": "(Türkiye Sürdürülebilirlik Raporlama Standartları)",
+  "layout_density": "compact",
+  "category": "Finansmana Erişim ve Sürdürülebilirlik",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
+    { "name": "TSRS Raporu", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/tsrs-raporu" }
+  ],
+  "hero": {
+    "title": "TSRS Raporu",
+    "description": "Yasal yükümlülüklere uyumlu, şeffaf ve güvenilir sürdürülebilirlik raporlaması ile ESG performansınızı doğru şekilde ortaya koyun.",
+    "image": "/images/servisler/tsrs-raporu-hero.jpg",
+    "buttons": [
+      { "text": "TSRS Uyum Analizi", "link": "#services", "variant": "primary" },
+      { "text": "Uzman Görüşü Alın", "link": "#contact", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "TSRS ile",
+      "title_highlight": "Zorunlu Uyum",
+      "description": "2025 itibarıyla zorunlu hale gelen TSRS kapsamında sürdürülebilirlik verilerinizi uluslararası standartlarla uyumlu ve denetlenebilir formatta raporlayın.",
+      "badge": "TSRS S1 + TSRS S2",
+      "features": [
+        "Yasal ve bağlayıcı raporlama altyapısı",
+        "ESRS / IFRS S1-S2 ile uyumlu yaklaşım",
+        "İklim riskleri ve emisyon görünürlüğü",
+        "Güvence denetimine hazır veri yapısı"
+      ],
+      "image": "/images/servisler/tsrs-raporu-hero.jpg"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Yasal Yükümlülüklere Uyumlu, Şeffaf ve Güvenilir Sürdürülebilirlik Raporlaması",
+      "content": "<p>Türkiye'de sürdürülebilirlik raporlaması, 2025 yılı itibarıyla resmi bir zorunluluk hâline gelmiştir. Türkiye Sürdürülebilirlik Raporlama Standartları (TSRS), işletmelerin çevresel, sosyal ve yönetişim (ESG) performanslarını uluslararası çerçevelerle uyumlu, karşılaştırılabilir ve denetlenebilir bir formatta açıklamalarını sağlayan ulusal raporlama sistemidir.</p><p>TSRS; kurumların iklim risklerini, sürdürülebilirlik stratejilerini, sera gazı emisyonlarını, sosyal performans göstergelerini ve yönetişim yapılarını bütüncül bir bakışla ele alarak kamuya sunmasını zorunlu kılar. Böylece şirketler hem yasal düzenlemelere uyum sağlar hem de uzun vadeli değer yaratma süreçlerini bilimsel ve şeffaf şekilde ortaya koyar.</p><p>TSRS iki temel standarttan oluşur:</p><ul><li><strong>TSRS S1 - Genel Hükümler:</strong> Sürdürülebilirlik yönetimi, strateji, paydaş ilişkileri, risk ve fırsatlar, yönetişim yapısı, sosyal ve çevresel etkiler, performans göstergeleri.</li><li><strong>TSRS S2 - İklimle İlgili Açıklamalar:</strong> Emisyon envanteri, iklim riskleri, geçiş planları, azaltım stratejileri, senaryo analizleri ve iklimle ilgili yönetişim.</li></ul><p>Bu yapı, Türkiye'nin Avrupa Birliği ESRS standartlarına, IFRS S1-S2'ye ve küresel raporlama pratiklerine uyumunu sağlamaktadır.</p>",
+      "image": "/images/servisler/tsrs-raporu-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "services_list",
+      "compact": true,
+      "title": "TSRS Raporunun İşletmenize Sağlayacağı Katma Değerler",
+      "services": [
+        { "title": "Yasal Uyumluluk", "desc": "2025 itibarıyla zorunlu hâle gelen TSRS 1 ve TSRS 2 standartlarına uygun raporlama yapılmasını sağlar." },
+        { "title": "Uluslararası Standartlarla Uyum", "desc": "ESRS, ISSB, GRI ve TCFD ile uyumlu raporlama altyapısı sayesinde global pazarda rekabet avantajı." },
+        { "title": "Yatırımcı Güveni", "desc": "Finansal kuruluşlar, fonlar ve yatırımcılar için güvenilir ve karşılaştırılabilir sürdürülebilirlik verisi sunar." },
+        { "title": "Kurumsal Risk Yönetimi", "desc": "İklim, operasyon, tedarik zinciri ve sosyal risklerin tanımlanmasını ve yönetilmesini destekler." },
+        { "title": "Süreç İyileştirme", "desc": "Ölçülebilir ESG göstergeleri sayesinde kurum içi performansın düzenli takibi." },
+        { "title": "İtibar ve Uyum Avantajı", "desc": "Borsa İstanbul, SPK ve uluslararası paydaşlar nezdinde kurumsal şeffaflık sağlar." }
+      ]
+    },
+    {
+      "type": "tabs_content",
+      "title": "Hizmet Kapsamımızda Neler Yapıyoruz?",
+      "layout": "top_center",
+      "items": [
+        {
+          "label": "1. Kapsam Analizi",
+          "title": "TSRS Kapsam Analizi ve Eşik Değer Değerlendirmesi",
+          "content": "<p>Şirketinizin TSRS'ye tabi olup olmadığını çalışan sayısı, aktif toplamı ve net satış hasılatı üzerinden değerlendiriyoruz.</p>"
+        },
+        {
+          "label": "2. Yönetişim",
+          "title": "Yönetişim, Strateji, Risk Yönetimi ve Performans Yapılandırması",
+          "content": "<p><strong>a. Yönetişim:</strong> Sürdürülebilirlik görev ve sorumluluklarını yönetim yapısına entegre ederek kurumsal yönetişim çerçevesi oluşturuyoruz.</p><p><strong>b. Strateji:</strong> Şirketinizin sürdürülebilirlikle ilgili risk ve fırsatlarını analiz ederek stratejik yol haritasını hazırlıyoruz.</p><p><strong>c. Risk Yönetimi:</strong> Sürdürülebilirlik risk ve fırsatlarını belirleyip önceliklendirerek bunların genel risk yönetimi süreçlerine entegrasyonunu sağlıyoruz.</p><p><strong>d. Ölçütler ve Hedefler:</strong> Şirketiniz için uygun sürdürülebilirlik göstergeleri ve hedefler oluşturup, performansın düzenli takibi için destek sağlıyoruz.</p>"
+        },
+        {
+          "label": "4. ESG Verileri",
+          "title": "ESG Veri Toplama, Analiz ve Emisyon Hesaplamaları",
+          "content": "<p>TSRS'nin gerektirdiği tüm çevresel, sosyal ve yönetişim verilerini toplayarak kapsamlı analizler ve sera gazı emisyon hesaplamaları yapıyoruz.</p>"
+        },
+        {
+          "label": "5. Raporlama",
+          "title": "TSRS Uyumlu Raporlama ve Uluslararası Standartlarla Entegrasyon",
+          "content": "<p>TSRS S1 ve S2'ye tamamen uygun rapor hazırlarken GRI, ISSB, SASB ve TCFD gibi standartlarla uyumu sağlıyoruz.</p>"
+        },
+        {
+          "label": "6. Assurance",
+          "title": "Güvence Denetimine Hazırlık (Assurance)",
+          "content": "<p>Raporun bağımsız denetim kuruluşları tarafından sorunsuz şekilde onaylanabilmesi için gerekli tüm veri doğrulama ve iz sürüm altyapısını kuruyoruz.</p>"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Kimler TSRS Raporu Hazırlamak Zorundadır?",
+      "content": "<p>2025 yılından itibaren aşağıdaki işletmeler TSRS 1 ve TSRS 2'ye uygun sürdürülebilirlik raporu yayımlamakla yükümlüdür:</p><p><strong>1. Banka ve Finans Sektörü (BDDK Düzenlemelerine Tabi Kuruluşlar)</strong></p><ul><li>Payları borsada işlem gören</li><li>Şube sayısı 11'i ve çalışan sayısı 250'yi aşan</li></ul><p>Bankalar ve finans kuruluşları TSRS kapsamındadır. TMSF kapsamındaki bankalar muaf tutulmuştur.</p><p><strong>2. Diğer Mali Kuruluşlar (BDDK denetimine tabi olmayan; yatırım ortaklıkları, portföy yönetimi vb.)</strong></p><ul><li>Payları borsada işlem gören</li><li>Şube sayısı 11'in üzerinde ve çalışan sayısı 250'yi aşan</li></ul><p>Mali kuruluşlar TSRS'ye göre raporlama yapmak zorundadır.</p><p><strong>3. Reel Sektör Şirketleri (Banka veya finans kuruluşu olmayan şirketler)</strong></p><p>Aşağıdaki üç kriterden en az ikisini art arda iki yıl sağlayan işletmeler TSRS kapsamında zorunludur:</p>"
+    },
+    {
+      "type": "data_table",
+      "title": "TSRS Kapsam Eşik Değerleri",
+      "subtitle": "En az 2 kriter, art arda 2 yıl",
+      "rows": [
+        { "label": "Çalışan Sayısı", "value": "250 kişi ve üzeri" },
+        { "label": "Aktif Toplamı", "value": "500 milyon TL ve üzeri" },
+        { "label": "Net Satış Hasılatı", "value": "1 milyar TL ve üzeri" }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Kapsam Dışındakiler ve Resmi Kontrol",
+      "content": "<p><strong>4. Kapsam Dışındakiler</strong></p><ul><li>Eşik değerleri karşılamayan</li><li>Borsada işlem görmeyen</li><li>Finansal düzenlemelere tabi olmayan</li></ul><p>kuruluşlar isteğe bağlı (gönüllü) olarak raporlama yapabilir.</p><p>Firmalar TSRS'ye tabi olup olmadıklarını KGK'nın resmi listesi üzerinden kontrol edebilir: <a href=\"https://www.kgk.gov.tr/kgk-s%C3%BAha\" target=\"_blank\" rel=\"noreferrer\">https://www.kgk.gov.tr/kgk-s%C3%BAha</a></p>"
+    },
+    {
+      "type": "image_text",
+      "title": "TSRS'ye Uymamanın Riskleri ve Olası Yaptırımlar",
+      "content": "<p>TSRS, 660 sayılı KHK'ya dayandığından yasal ve bağlayıcı bir düzenlemedir. Uymamanın sonuçları:</p><ul><li>TTK 562 ve KHK 26 kapsamında idari yaptırımlar</li><li>KGK tarafından uygunsuzluk tespiti ve doğrudan denetim</li><li>Raporun sunulmaması durumunda bağımsız denetimde olumsuz/şartlı görüş</li><li>Halka açık şirketlerde SPK ve Borsa İstanbul nezdinde itibar kaybı</li><li>Kamuya açık listelerde \"uyumsuzluk beyanı\" riskinin artması</li></ul><p>2025 itibarıyla TSRS kapsamındaki tüm şirketler, finansal raporlarıyla eş zamanlı olarak sürdürülebilirlik raporlarını yayımlamak zorundadır.</p>",
+      "image": "/images/servisler/tsrs-raporu-risk.jpg",
+      "layout": "left"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Veri Odaklı TSRS Uyum Yönetimi",
+      "content": "<p>TSRS raporlama süreci, sadece bir beyan değil; kurumun yönetişim, risk ve performans sistemlerinin birlikte çalıştığı stratejik bir dönüşüm sürecidir. Doğru kurgulanmış veri altyapısı ve güçlü raporlama metodolojisiyle, şirketinizin sürdürülebilirlik performansını ulusal ve uluslararası paydaşlara güvenilir şekilde sunabilirsiniz.</p>",
+      "image": "/images/servisler/tsrs-raporu-data.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "cta_box",
+      "title": "TSRS Uyum Sürecinizi Birlikte Planlayalım",
+      "description": "TSRS S1-S2 uyum analizi, raporlama, veri doğrulama ve assurance hazırlığını uçtan uca yönetelim.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

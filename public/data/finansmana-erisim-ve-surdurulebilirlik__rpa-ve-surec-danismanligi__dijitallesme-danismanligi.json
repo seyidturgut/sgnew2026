@@ -1,0 +1,123 @@
+{
+  "slug": "dijitallesme-danismanligi",
+  "title": "Dijitalleşme",
+  "title_highlighted": "Danışmanlığı",
+  "layout_density": "compact",
+  "category": "Finansmana Erişim ve Sürdürülebilirlik",
+  "youtube_id": "",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "RPA ve Süreç Danışmanlığı", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi" },
+    { "name": "Dijitalleşme Danışmanlığı", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/dijitallesme-danismanligi" }
+  ],
+  "hero": {
+    "title": "Dijitalleşme Danışmanlığı",
+    "description": "Süreçlerinizi dijital ortama taşırken en doğru kavramsal planı hazırlayan, devreye alan ve sürdürülebilirliği sağlayan profesyonel danışmanlık hizmeti.",
+    "image": "https://images.unsplash.com/photo-1518773553398-650c184e0bb3?auto=format&fit=crop&w=1800&q=80",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Adımları İnceleyin", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "Dijital dönüşümde",
+      "title_highlight": "planlı ilerleme",
+      "description": "Dijitalleşme Danışmanlığı, şirketlerin süreçlerini dijital ortama taşırken en iyi kavramsal planın hazırlanması, devreye alınması ve sürdürülebilirliğinin sağlanması amacıyla sağlanan profesyonel danışmanlık hizmetidir. Bu hizmet, şirketlerin dijital dönüşüm yolculuğunda stratejik ve operasyonel destek sunarak, dijitalleşmenin getirdiği avantajlardan en üst düzeyde faydalanmalarını hedefler.",
+      "badge": "1 Yıllık Danışmanlık Hizmeti",
+      "features": [
+        "Mevcut dijital süreçlerin analiz edilmesi",
+        "Dijital olgunluk seviyesinin çıkarılması",
+        "Proje önceliklendirme ve partner seçimi",
+        "Devreye alma ve canlı sonrası iyileştirme"
+      ],
+      "image": "https://images.unsplash.com/photo-1551281044-8f6d7f6bf6b8?auto=format&fit=crop&w=1600&q=80"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Kurumunuza Özel Dijitalleşme Yaklaşımı",
+      "content": "<p>Bizimle çalışmayı tercih etmeniz için birçok neden var:</p><p><strong>Çeyrek Asrı Aşan Tecrübe:</strong> 25 yılı aşkın süredir sektörde kazandığımız deneyim, şirketlerin dijital dönüşüm süreçlerinde karşılaştıkları zorlukları ve ihtiyaçları iyi anlamamızı sağlar.</p><p><strong>Alanında Uzman Kadro:</strong> Profesyonel ve deneyimli ekibimiz, dijitalleşme süreçlerini en iyi şekilde yönetmek için gerekli bilgi ve becerilere sahiptir.</p><p><strong>Sektörel Tecrübe:</strong> Makine ve imalat, hizmet, medya, petrol, doğalgaz, elektrik ve turizm gibi birçok sektörde geniş bilgi ve deneyime sahibiz.</p><p><strong>Dijitalleşme Yol Haritası Tecrübesi:</strong> Şirketlerin dijital dönüşüm süreçlerini planlama ve uygulama konusunda derin bir tecrübeye sahibiz.</p><p><strong>ERP Çözümlerine Hakimiyet:</strong> SAP, Canias, IFS, Netsis, ETA, Logo ve benzeri ERP çözümlerinde geniş bir hakimiyete sahibiz, bu da dijitalleşme sürecinizi daha etkin ve verimli yönetmemize olanak tanır.</p>",
+      "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?auto=format&fit=crop&w=1400&q=80",
+      "image_position": "right"
+    },
+    {
+      "type": "process_grid",
+      "title": "Hizmet Kapsamında Gerçekleştirdiğimiz Adımlar",
+      "description": "Dijitalleşme Danışmanlığı 1 yıllık bir danışmanlık hizmetidir.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Analiz ve Değerlendirme",
+          "desc": "Dijital süreçlerin analizi: Şirketinizin mevcut dijital süreçlerini analiz ederiz. Dijital olgunluk seviyesinin çıkarılması: Dijital olgunluk seviyenizi belirleyerek, ihtiyaçlarınızı ve iyileştirme alanlarını tespit ederiz."
+        },
+        {
+          "number": "02",
+          "title": "Proje Yönetimi ve Uygulama",
+          "desc": "Dijitalleşme projelerinin önceliklendirilmesi: En kritik alanlarda hızlı ve etkili sonuçlar için projeleri önceliklendiririz. Ürün araştırması ve uygun partner seçimi: Sizin için en uygun dijital çözümleri ve iş ortaklarını belirleriz. Partner sözleşme ve kapsam yönetimi: İş ortaklarıyla yapılacak sözleşmeleri ve proje kapsamlarını yönetiriz. Kavramsal hazırlama: Dijital dönüşüm projeleriniz için detaylı ve etkili kavramsal planlar hazırlarız. Devreye alma ve canlı sonrası iyileştirme planlama: Projelerinizi devreye alır ve sonrasında gerekli iyileştirme planlarını yaparız."
+        }
+      ]
+    },
+    {
+      "type": "icon_grid",
+      "title": "Kimler Bu Hizmete İhtiyaç Duyar?",
+      "items": [
+        {
+          "title": "Dijital Geçiş Yapacak Firmalar",
+          "desc": "Dijital bir yazılım veya ortama geçiş yapacak olan şirketler.",
+          "icon": "Cpu"
+        },
+        {
+          "title": "Sistem Denetimi İsteyen Kurumlar",
+          "desc": "Mevcut sistemini denetlettirmek isteyen firmalar.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "İyileştirme Odaklı KOBİ, OBİ ve BOBİ’ler",
+          "desc": "Mevcut sisteminde iyileştirme yapmak isteyen işletmeler.",
+          "icon": "TrendingUp"
+        }
+      ]
+    },
+    {
+      "type": "service_cards",
+      "title": "Hizmet Kapsamında Firmanızın Kazançları",
+      "cards": [
+        {
+          "title": "Daha Verimli ve Daha Az Yatırımla Devreye Alma",
+          "desc": "Dijital ürünlerin daha verimli ve daha az yatırımla devreye alınmasını sağlar; dijital dönüşüm süreçlerini daha maliyet etkin ve verimli yönetmenize yardımcı olur.",
+          "icon": "Target",
+          "color": "green"
+        },
+        {
+          "title": "Etkili ve Sorunsuz Dijital Sistem Geçişi",
+          "desc": "Dijital sistem geçişlerinizi sorunsuz ve etkili şekilde gerçekleştirerek iş süreçlerinizde kesintisiz geçiş sağlar.",
+          "icon": "Zap",
+          "color": "blue"
+        },
+        {
+          "title": "İç Operasyonda Zaman Verimliliği",
+          "desc": "Dijital süreçlerin optimize edilmesi, çalışanlarınızın zamanını daha verimli kullanmasını sağlar ve genel operasyonel verimliliği artırır.",
+          "icon": "PieChart",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "content_with_image",
+      "title": "Dijital Dönüşümde Rekabet Avantajı",
+      "content": "<p>Dijitalleşme Danışmanlığı ile firmanız, dijital dönüşüm yolculuğunda sağlam adımlarla ilerler.</p><p>Bizimle çalışarak, dijitalleşmenin getirdiği fırsatları en iyi şekilde değerlendirebilir ve rekabet avantajı elde edebilirsiniz.</p>",
+      "image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=1400&q=80",
+      "image_position": "left"
+    },
+    {
+      "type": "cta_box",
+      "title": "Dijitalleşme Yol Haritanızı Birlikte Oluşturalım",
+      "description": "Kurumunuza uygun planlama, doğru teknoloji seçimi ve etkili uygulama için uzman ekibimizle iletişime geçin.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

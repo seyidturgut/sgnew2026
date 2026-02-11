@@ -1,0 +1,108 @@
+{
+  "slug": "kosgeb-destekleri",
+  "title": "KOSGEB",
+  "title_highlighted": "Destekleri",
+  "layout_density": "compact",
+  "category": "Finansmana Erişim ve Sürdürülebilirlik",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "Finansmana Erişim", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim" },
+    { "name": "KOSGEB Destekleri", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim/kosgeb-destekleri" }
+  ],
+  "hero": {
+    "title": "KOSGEB Destekleri",
+    "description": "Girişimcilik ve KOBİ büyüme hedeflerinizi doğru destek modeli, doğru proje ve doğru zamanlama ile sürdürülebilir sonuca dönüştürün.",
+    "image": "/images/servisler/kosgeb-destekleri-hero.jpg",
+    "buttons": [
+      { "text": "Uygun Destekleri Keşfedin", "link": "#contact", "variant": "primary" },
+      { "text": "Hizmet Kapsamı", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "Sürdürülebilir Büyümenin Anahtarı",
+      "title_highlight": "KOSGEB Destekleri",
+      "description": "KOBİ'lerin rekabet gücünü artıran, dijitalleşme-yeşil dönüşüm-ihracat-istihdam odaklı yatırımları güçlendiren stratejik destek yapısı.",
+      "badge": "KOBİ Odaklı Destek",
+      "features": [
+        "Finansmana daha hızlı erişim",
+        "Daha güçlü yatırım kararları",
+        "Kontrollü ve sürdürülebilir büyüme",
+        "Stratejik dönüşüm yolculuğuna katkı"
+      ],
+      "image": "/images/servisler/kosgeb-destekleri-hero.jpg"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Sürdürülebilir Büyümenin Anahtarı: KOSGEB Destekleri",
+      "content": "<p>Türkiye'de girişimciliğin güçlendirilmesi, KOBİ'lerin rekabet gücünün artırılması ve sürdürülebilir ekonomik büyümenin sağlanması hedefi doğrultusunda KOSGEB destekleri kritik bir rol üstlenmektedir.</p><p>Üretim, dijitalleşme, yeşil dönüşüm, ihracat ve istihdam odaklı yatırımların teşvik edilmesi; firmaların yalnızca bugünü değil, geleceği de güvenle planlayabilmesini sağlar.</p><p>KOSGEB desteklerinden etkin şekilde yararlanan firmalar;</p><ul><li>Finansmana daha hızlı erişir,</li><li>Yatırım kararlarını daha güçlü alır,</li><li>Büyüme süreçlerini kontrollü ve sürdürülebilir biçimde yönetir.</li></ul>",
+      "image": "/images/servisler/kosgeb-destekleri-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "tabs_content",
+      "title": "Doğru Destek - Doğru Proje - Doğru Zamanlama",
+      "layout": "top_center",
+      "items": [
+        {
+          "label": "Neden Önemli?",
+          "title": "KOSGEB Destekleri Neden Stratejik?",
+          "content": "<p>KOSGEB destekleri yalnızca bir finansman aracı değil; doğru kurgulandığında şirketlerin stratejik dönüşüm yolculuğunun önemli bir parçasıdır.</p><p>Ancak her destek, her firma için aynı sonucu doğurmaz.</p>"
+        },
+        {
+          "label": "Başarı Anahtarı",
+          "title": "Başarının Anahtarı",
+          "content": "<ul><li>Firmanın mevcut yapısına uygun destek modelinin belirlenmesi,</li><li>Projelerin mevzuata tam uyumlu ve sürdürülebilir şekilde hazırlanması,</li><li>Uygulama ve raporlama süreçlerinin doğru yönetilmesidir.</li></ul>"
+        },
+        {
+          "label": "Sistem Global",
+          "title": "30 Yıla Yakın Deneyimle Yanınızdayız",
+          "content": "<p>Sistem Global Danışmanlık, KOSGEB destekleri kapsamında;</p><ul><li>Girişimci ve KOBİ'lerin ihtiyaçlarına özel destek haritalarının çıkarılması,</li><li>KOSGEB proje başvurularının hazırlanması,</li><li>Uygulama, izleme ve kapanış süreçlerinin yönetilmesi,</li><li>Desteklerin diğer vergi, yatırım ve ihracat teşvikleriyle entegre edilmesi</li></ul><p>konularında uçtan uca danışmanlık hizmeti sunmaktadır.</p><p>Amacımız; firmaların yalnızca destek almasını değil, aldığı desteği katma değere dönüştürmesini sağlamaktır.</p>"
+        }
+      ]
+    },
+    {
+      "type": "process_steps",
+      "title": "KOSGEB Desteklerinden En Etkin Şekilde Yararlanmak İçin",
+      "description": "Firmanız için uygun KOSGEB desteklerini keşfetmek, projelerinizi doğru kurgulamak ve sürdürülebilir büyüme yolculuğunuza güçlü bir adım atmak için yapılandırılmış bir yaklaşım öneriyoruz.",
+      "steps": [
+        {
+          "title": "Destek Uygunluk Analizi",
+          "desc": "Firmanızın mevcut yapısı, hedefleri ve yatırım planı doğrultusunda uygun KOSGEB destekleri belirlenir."
+        },
+        {
+          "title": "Proje Kurgusu ve Başvuru",
+          "desc": "Projeniz mevzuata uyumlu, ölçülebilir ve sürdürülebilir biçimde hazırlanır; başvuru dosyası tamamlanır."
+        },
+        {
+          "title": "Uygulama, İzleme ve Kapanış",
+          "desc": "Destek uygulama süreçleri düzenli takip edilir, raporlama ve kapanış adımları doğru şekilde yönetilir."
+        }
+      ]
+    },
+    {
+      "type": "image_text",
+      "title": "Uçtan Uca Danışmanlık ile Katma Değere Dönüşüm",
+      "content": "<p>Doğru destek seçimi, doğru proje kurgusu ve doğru zamanlama birleştiğinde KOSGEB destekleri firmaların finansmana erişimini hızlandırır ve büyüme performansını güçlendirir.</p><p>Uzman desteğiyle yönetilen süreç, hem mevzuat uyumunu hem de yatırım etkisini artırarak sürdürülebilir başarıya zemin hazırlar.</p>",
+      "image": "/images/servisler/kosgeb-destekleri-process.jpg",
+      "layout": "left"
+    },
+    {
+      "type": "content_with_image",
+      "title": "KOSGEB Desteklerinden En Etkin Şekilde Yararlanmak İçin",
+      "content": "<p>Firmanız için uygun KOSGEB desteklerini keşfetmek, projelerinizi doğru kurgulamak ve sürdürülebilir büyüme yolculuğunuza güçlü bir adım atmak için formu doldurun, uzman ekibimiz sizinle iletişime geçsin.</p>",
+      "image": "/images/servisler/kosgeb-destekleri-strategy.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "cta_box",
+      "title": "KOSGEB Sürecinizi Birlikte Yönetelim",
+      "description": "Destek uygunluk analizi, başvuru, uygulama ve kapanış süreçlerinde uçtan uca danışmanlıkla yanınızdayız.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

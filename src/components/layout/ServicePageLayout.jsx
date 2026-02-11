@@ -11,7 +11,8 @@ const ServicePageLayout = ({
     sidebarSubtitle = "Sorularınız için uzmanlarımız size ulaşsın.",
     heroImage = "/chark.webp",
     heroStyle = { backgroundPosition: 'center top', backgroundSize: 'cover' },
-    fullWidth = false
+    fullWidth = false,
+    category
 }) => {
 
     const FormSection = ({ isFull = false }) => (
@@ -48,6 +49,34 @@ const ServicePageLayout = ({
         </div>
     );
 
+    // Category Fallback Images
+    const categoryFallbacks = {
+        'vergi-finans': '/images/servisler/tax-general.webp',
+        'ar-ge-ve-fikri-mulkiyet': '/images/servisler/tech-general.webp',
+        'mevzuat-uyum': '/images/servisler/legal-general.webp',
+        'globallesme-ihracat': '/images/servisler/global-general.webp',
+        'finansmana-erisim-surdurulebilirlik': '/images/servisler/finance-general.webp',
+        'kurumsal-finans': '/images/servisler/finance-general.webp',
+        'dis-ticaret': '/images/servisler/global-general.webp'
+    };
+
+    const [bgImage, setBgImage] = React.useState(heroImage);
+
+    React.useEffect(() => {
+        setBgImage(heroImage);
+    }, [heroImage]);
+
+    const handleImageError = () => {
+        // Try to find a fallback based on category
+        // We need category slug. Assuming 'category' prop or derived from somewhere?
+        // Let's pass 'category' prop to this component.
+        if (category && categoryFallbacks[category]) {
+            setBgImage(categoryFallbacks[category]);
+        } else {
+            setBgImage('/images/servisler/services-hero-business.webp');
+        }
+    };
+
     return (
         <div className="bg-white pt-20">
             {/* Breadcrumb Section */}
@@ -75,14 +104,16 @@ const ServicePageLayout = ({
             </div>
 
             {/* Hero Header Area */}
-            <div
-                className="relative py-12 lg:py-24 border-b border-gray-100 overflow-hidden"
-                style={{
-                    backgroundImage: `url(${heroImage})`,
-                    ...heroStyle
-                }}
-            >
-                <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/40 to-transparent z-0"></div>
+            <div className="relative py-12 lg:py-24 border-b border-gray-100 overflow-hidden">
+                <div className="absolute inset-0 z-0">
+                    <img
+                        src={bgImage}
+                        alt="Background"
+                        className="w-full h-full object-cover"
+                        onError={handleImageError}
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/40 to-transparent"></div>
+                </div>
 
                 <div className="container mx-auto px-4 relative z-10">
                     <div className="flex flex-col lg:flex-row items-center justify-between gap-10 lg:gap-16">

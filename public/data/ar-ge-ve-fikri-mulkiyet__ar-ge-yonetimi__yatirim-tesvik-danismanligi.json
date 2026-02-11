@@ -1,0 +1,146 @@
+{
+  "slug": "yatirim-tesvik-danismanligi",
+  "title": "Yatırım Teşvik",
+  "title_highlighted": "Danışmanlığı",
+  "layout_density": "compact",
+  "category": "Ar-Ge ve Fikri Mülkiyet",
+  "youtube_id": "6BGK3-4_AlI",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Ar-Ge ve Fikri Mülkiyet", "link": "/servisler/ar-ge-ve-fikri-mulkiyet" },
+    { "name": "Ar-Ge Yönetimi", "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi" },
+    { "name": "Yatırım Teşvik Danışmanlığı", "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/yatirim-tesvik-danismanligi" }
+  ],
+  "hero": {
+    "title": "Yatırım Teşvik Danışmanlığı",
+    "description": "Yatırımınız için doğru teşvik modelini belirleyin, başvuru ve sürdürme süreçlerini mevzuata tam uyumla yönetin.",
+    "image": "https://images.unsplash.com/photo-1554224154-22dec7ec8818?auto=format&fit=crop&w=1800&q=80",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Teşvik Kapsamını İnceleyin", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "Yatırımlarda",
+      "title_highlight": "doğru teşvik kurgusu",
+      "description": "Kalkınma planlarında öngörülen hedefler doğrultusunda üretim, istihdam, arz güvenliği, dışa bağımlılığın azaltılması, uluslararası rekabet gücünün artırılması, yeşil-dijital dönüşümün hızlandırılması ve bölgesel gelişmişlik farklarının azaltılmasına yönelik yatırımlar desteklenmektedir.",
+      "badge": "2025/9903 Kararı Kapsamı",
+      "features": [
+        "Mevzuata uygun teşvik stratejisi",
+        "Yatırım öncesi uygunluk analizi",
+        "Belge alımı, revize ve kapatma süreç yönetimi",
+        "Vergi ve SGK desteklerinin doğru uygulanması"
+      ],
+      "image": "https://images.unsplash.com/photo-1551281044-8f6d7f6bf6b8?auto=format&fit=crop&w=1600&q=80"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Yatırım Teşvik Sisteminin Dayandığı Mevzuat",
+      "content": "<p>Yatırım Teşvik Mevzuatı; Bakanlar Kurulu Kararı ve bu kararın uygulanmasına ilişkin tebliğ hükümleri çerçevesinde desteklenmektedir.</p><p>2025/9903 sayılı “Yatırımlarda Devlet Yardımları Hakkında Karar” ile destek mekanizması yürütülmektedir. 31/12/2030 tarihine kadar yapılacak teşvik belgesi müracaatları yeni teşvik sistemi kapsamında değerlendirilecektir.</p>",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1400&q=80",
+      "image_position": "right"
+    },
+    {
+      "type": "service_cards",
+      "title": "Yeni Yatırım Teşvik Sistemine Göre Teşvik Çeşitleri",
+      "cards": [
+        {
+          "title": "Türkiye Yüzyılı Kalkınma Hamlesi",
+          "desc": "Program çağrıları kapsamında proje bazlı değerlendirme ile destek kararının komitelerce verildiği yapı.",
+          "icon": "TrendingUp",
+          "color": "blue"
+        },
+        {
+          "title": "Sektörel Teşvik Sistemi",
+          "desc": "Sektör ve yatırım niteliğine göre farklılaşan teşvik bileşenleri.",
+          "icon": "Factory",
+          "color": "green"
+        },
+        {
+          "title": "Bölgesel Teşvik Sistemi",
+          "desc": "Yatırım yeri ve ilçe bazlı alt bölge destek oranlarının farklılaştığı model.",
+          "icon": "Globe",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Türkiye Yüzyılı Kalkınma Hamlesi Programları",
+      "content": "<p>Yatırımlarda Devlet Yardımları Kararı kapsamında Türkiye Yüzyılı Kalkınma Hamlesi üç programdan oluşmaktadır. Programlar için çağrılar yayımlanmakta; kapsam dahilindeki yatırımlar proje bazında değerlendirilmekte ve destekleme kararı ilgili komitelerce verilmektedir.</p><p>Bu kapsamda hibe desteği olarak “makine desteği” adı altında nakit destek bulunmaktadır. Faiz desteği yerine makine desteğinden faydalanabilme imkanı sunulmuştur. Organize sanayi bölgelerinde yatırım yeri tahsisi imkanı da bulunmaktadır.</p><p><strong>Öncelikli ürün listesi:</strong> Teknoloji Hamlesi Programı kapsamında, Bakanlıkça dış ticaret verileri, talep gelişimi ve rekabet yoğunluğu gibi kriterlerle belirlenen orta-yüksek/yüksek teknolojili sektör ürünlerine yönelik yatırımlar desteklenebilmektedir. Liste her yıl güncellenerek portal üzerinden paylaşılmaktadır.</p>"
+    },
+    {
+      "type": "accordion_rich",
+      "title": "Belge Süreci ve Başvuru Esasları",
+      "items": [
+        {
+          "title": "Yatırım Teşvik Belgesi Asgari Yatırım Şartları",
+          "content": "<p>HEDEF/ÖNCELİKLİ TEŞVİK SİSTEMİ için asgari sabit yatırım tutarı 1. ve 2. bölgelerde 12.000.000 TL, diğer bölgelerde 6.000.000 TL’den başlamak üzere sektör ve il bazında belirlenmektedir.</p><p>STRATEJİK HAMLE PROGRAMI için asgari sabit yatırım tutarı yüksek teknolojili yatırımlarda 100 milyon TL, diğer konularda 200 milyon TL’dir.</p><p>PROJE BAZLI YATIRIM teşvik sistemi için 1 milyar TL; HIT-30 programında en az 2 milyar TL yatırım planı gereklidir.</p><p>Yatırım tamamlandığında teşvik belgesinin kapatılması için Bakanlığa müracaat edilmesi gerekir. Asgari yatırım harcamasının gerçekleşmiş olması ve taahhüt edilen mamul üretimine geçilmiş olması temel kriterlerdendir.</p>"
+        },
+        {
+          "title": "Belgenin Süresi, Kimler Alabilir, Ne Zaman Alınmalı?",
+          "content": "<p>Belge süresi yaklaşık 3 yıldır; ilave süre ihtiyacında belgenin yarısı kadar ek süre alınabilir. Mücbir sebep ve izin/rıhsat süreçlerindeki gecikmeler ilave süre gerekçesi olabilir.</p><p>Gerçek kişiler, şirketler, ortaklıklar, kooperatifler, birlikler, dernekler, vakıflar, kamu kurumları ve yabancı sermayeli yapılar dahil çok geniş bir yatırımcı kitlesi belge alabilir.</p><p>Yatırım harcamalarının teşvikten yararlanabilmesi için belge tarihi sonrasında faturalandırılması gerektiğinden, harcamalara başlamadan önce belge alınmalıdır.</p>"
+        },
+        {
+          "title": "Başvuru Nasıl Yapılır?",
+          "content": "<p>2 Temmuz 2018’den itibaren yeni yatırım teşvik belgesi müracaatları E-TUYS (Teşvik Uygulama ve Yabancı Sermaye Genel Müdürlüğü) üzerinden yürütülmektedir.</p><p>Yalnızca nitelikli elektronik sertifika sahibi ve Bakanlıkça yetkilendirilmiş kişiler işlem yapabilir. Bu nedenle ilk adım yetkilendirme sürecinin tamamlanmasıdır.</p>"
+        }
+      ]
+    },
+    {
+      "type": "icon_grid",
+      "title": "Yatırım Teşvik Belgesi Destekleri",
+      "items": [
+        { "title": "KDV İstisnası", "desc": "Yatırım mallarının temininde KDV avantajı.", "icon": "Coins" },
+        { "title": "Gümrük Vergisi Muafiyeti", "desc": "İthal yatırım mallarında gümrük vergisi muafiyeti.", "icon": "Ship" },
+        { "title": "Vergi İndirimi", "desc": "Yatırım döneminde vergi yükünün azaltılması.", "icon": "Scale" },
+        { "title": "Yatırım Yeri Tahsisi", "desc": "Uygun yatırımlar için yatırım yeri tahsis imkanı.", "icon": "Target" },
+        { "title": "Faiz / Kâr Payı Desteği", "desc": "Finansman maliyetini düşüren destek mekanizması.", "icon": "TrendingUp" },
+        { "title": "SGK İşveren Hissesi", "desc": "İşveren SGK yükünü azaltan destek.", "icon": "Users" },
+        { "title": "SGK İşçi Desteği", "desc": "İstihdam maliyetlerini destekleyen yapı.", "icon": "Briefcase" },
+        { "title": "Makine Desteği", "desc": "Program kapsamında makine alımlarına nakit destek.", "icon": "Factory" }
+      ]
+    },
+    {
+      "type": "rich_text",
+      "title": "Diğer Destekler ve Muafiyetler",
+      "html": "<p>2464 sayılı Belediye Gelirleri Kanunu kapsamında parselasyon, ifraz-tevhit, plan/proje tasdik, zemin açma-hafriyat, bina inşaat ve yapı kullanma izni gibi harçlara ilişkin istisnalar bulunmaktadır.</p><p>6728 sayılı Kanun kapsamında; yatırım mallarına ilişkin sözleşmeler, yatırım dönemindeki gayri maddi hak kiralama/satın alma işlemleri, danışmanlık ve teknik müşavirlik hizmetleri gibi işlemlerde damga vergisi ve harç istisnaları sağlanabilir.</p><p>Emlak Vergisi Kanunu kapsamındaki düzenleme ile yatırım teşvik belgesi kapsamında inşa edilen binalar, inşanın bitimini takip eden bütçe yılından itibaren 5 yıl emlak vergisinden muaf tutulabilir.</p><p><strong>Ekosistem Geliştirme Planı:</strong> KOBİ sınıfında yer almayan veya Yerel Kalkınma Hamlesi kapsamında desteklenen yatırımcının, Bakanlıkça onaylı ekosistem geliştirme planını yatırım döneminde gerçekleştirmesi gerekir. Bu kapsamda yatırım/harcama tutarı sabit yatırım tutarının en az %2’si olmalıdır.</p>"
+    },
+    {
+      "type": "accordion_rich",
+      "title": "Sistem Global ve Yatırım Teşvik Danışmanlığı Hizmetleri",
+      "items": [
+        {
+          "title": "Bilgilendirme Analiz Hizmeti",
+          "content": "<p>Yatırım konusu ve koşullarının analiz edilmesi, yararlanılabilecek destek başlıklarının değerlendirilmesi ve yatırım öncesi bilgilendirmelerin yapılması.</p><p>Mevzuat değişikliklerinde yatırımcının proaktif bilgilendirilmesi.</p>"
+        },
+        {
+          "title": "Başvuru Hizmeti",
+          "content": "<p>Yetki evraklarının hazırlanması (taahhütname, yetkilendirme formu, dilekçe), E-TUYS yetkilendirme açılışı ve girişlerin yapılması.</p><p>Yerli/ithal makine listelerinin değerlendirilmesi, fizibilite raporunun hazırlanması, teşvik formunun Bakanlığa iletilmesi, revizeler ve belge çıkış sürecinin takibi.</p><p>KDV muafiyet yazısı yönlendirmesi ve belge sonrası kullanım raporunun hazırlanması.</p>"
+        },
+        {
+          "title": "Sürdürme Hizmeti",
+          "content": "<p>Belge sonrası makine ekleme/çıkarma, süre revizesi, yatırım yeri değişikliği gibi değişikliklerin Bakanlık nezdinde yürütülmesi.</p><p>ETUYS barkod yönetimi, fatura kontrolleri, uygun olmayan faturaların düzeltilmesi, sisteme yükleme ve vergi iadesi süreçlerinin sorunsuz yürütülmesi.</p>"
+        },
+        {
+          "title": "Raporlama ve Tamamlama Vizesi",
+          "content": "<p>Süresi dolan veya kapatma talebi alınan belgelerin tamamlama vizesi için evrakların hazırlanması, başvuru, ekspertiz ve kapatma süreçlerinin takibi.</p><p>Eksik fatura girişleri ve yevmiye kayıtlarının tamamlanması, risklerin önceden bildirilmesi.</p>"
+        },
+        {
+          "title": "YMM Raporu ve Mali Danışmanlık",
+          "content": "<p>Bakanlığın talep ettiği içeriğe uygun YMM raporunun hazırlanması.</p><p>Belge sonrası kurumlar vergisi indirimi ve diğer destek unsurlarının yatırım/işletme döneminde doğru uygulanmasına yönelik mali danışmanlık.</p>"
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Yatırım Teşvik Sürecinizi Uçtan Uca Yönetin",
+      "description": "Doğru teşvik modeli, doğru başvuru ve doğru uygulama ile yatırım maliyetinizi düşürmek için uzman ekibimizle iletişime geçin.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

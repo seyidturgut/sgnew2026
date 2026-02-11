@@ -1,0 +1,137 @@
+{
+  "slug": "surdurulebilirlik-raporlamasi",
+  "title": "Sürdürülebilirlik",
+  "title_highlighted": "Raporlaması",
+  "layout_density": "compact",
+  "category": "Finansmana Erişim ve Sürdürülebilirlik",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
+    { "name": "Sürdürülebilirlik Raporlaması", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/surdurulebilirlik-raporlamasi" }
+  ],
+  "hero": {
+    "title": "Sürdürülebilirlik Raporlaması",
+    "description": "ESG performansınızı şeffaf, ölçülebilir ve uluslararası standartlarla uyumlu şekilde ortaya koyun.",
+    "image": "/images/servisler/surdurulebilirlik-raporlamasi-hero.jpg",
+    "buttons": [
+      { "text": "Raporlama Yol Haritası", "link": "#services", "variant": "primary" },
+      { "text": "Hemen Görüşelim", "link": "#contact", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "ESG Performansınızı",
+      "title_highlight": "Güçlendirin",
+      "description": "Şeffaf, doğrulanabilir ve uluslararası standartlara uyumlu sürdürülebilirlik raporlarıyla kurumsal güveni artırın.",
+      "badge": "GRI / ESRS / TSRS Uyumlu",
+      "features": [
+        "Şeffaf ve ölçülebilir ESG çıktıları",
+        "Yatırımcı ve finans kuruluşları için güven",
+        "Regülasyonlara hazırlık ve uyum",
+        "Uzun vadeli değer yaratımının kanıtlanması"
+      ],
+      "image": "/images/servisler/surdurulebilirlik-raporlamasi-hero.jpg"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Neden Sürdürülebilirlik Raporlaması?",
+      "content": "<p>Günümüzde şirketlerin başarısı yalnızca finansal sonuçlarla ölçülmüyor; çevresel etkiler, sosyal sorumluluklar ve yönetişim standartları da kurumsal değer yaratımının ayrılmaz bir parçası hâline geliyor. Sürdürülebilirlik raporlaması, işletmelerin çevresel, sosyal ve yönetişim (ESG) performanslarını sistematik, doğrulanabilir ve uluslararası standartlara uygun bir çerçevede kamuya açıklamalarını sağlayan stratejik bir raporlama yöntemidir.</p><p>Bu raporlar, bir şirketin sadece \"ne kadar kâr ettiği\" ile değil, \"bunu nasıl yaptığı ve kimleri nasıl etkilediği\" ile ilgilenir. Enerji kullanımından karbon emisyonlarına, çalışan haklarından etik yönetim ilkelerine kadar pek çok alanda kurumun tüm sürdürülebilirlik yaklaşımını ortaya koyar. Şeffaf bir sürdürülebilirlik raporu, paydaş güvenini pekiştirir, kurumsal risklerin yönetimini kolaylaştırır ve uzun vadeli değer yaratımının kanıtlanmasını sağlar.</p>",
+      "image": "/images/servisler/surdurulebilirlik-raporlamasi-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "services_list",
+      "compact": true,
+      "title": "Sürdürülebilirlik Raporlamasının Sağlayacağı Katma Değerler",
+      "services": [
+        { "title": "Uluslararası Standartlarla Uyum", "desc": "GRI ve ESRS gibi küresel çerçevelerle uyum sağlayarak güvenilirlik kazanırsınız." },
+        { "title": "Yatırımcı ve Finans Kuruluşlarının Güveni", "desc": "Sürdürülebilir finansman, yeşil kredi ve yatırım süreçlerinde avantaj elde edersiniz." },
+        { "title": "Regülasyonlara Uyumluluk", "desc": "Ulusal ve uluslararası (TSRS, AB CSRD/ESRS gibi) mevzuatlara hazırlık yaparsınız." },
+        { "title": "Kurumsal Risk Yönetimi", "desc": "İklim, enerji, su, tedarik zinciri ve insan kaynağı gibi kritik riskleri tanımlayıp yönetirsiniz." },
+        { "title": "Marka İtibarı", "desc": "Paydaşlar ve müşteriler nezdinde güvenilir, şeffaf ve sorumlu bir kurumsal profil oluşturursunuz." },
+        { "title": "İçsel Dönüşüm", "desc": "Performans göstergeleri ve hedefler sayesinde kurum içindeki sürdürülebilirlik olgunluğunu artırırsınız." }
+      ]
+    },
+    {
+      "type": "process_steps",
+      "title": "Hizmet Kapsamımızda Neler Yapıyoruz?",
+      "description": "Alanında uzman kadromuzla sürdürülebilirlik raporlaması sürecinizi uçtan uca yönetiyor, ulusal ve uluslararası standartlara tam uyumlu raporlar hazırlıyoruz.",
+      "steps": [
+        {
+          "title": "Mevcut Durum Analizi ve Paydaş Beklentilerinin Belirlenmesi",
+          "desc": "Kurumsal yapı, süreçler ve paydaş beklentileri analiz edilerek raporlama kapsamı netleştirilir."
+        },
+        {
+          "title": "ESG Verilerinin Toplanması ve Analizi",
+          "desc": "Çevresel, sosyal ve yönetişim verileri sistematik şekilde toplanır ve analiz edilir."
+        },
+        {
+          "title": "Uluslararası Standartlara Uyumlu Rapor Hazırlama",
+          "desc": "GRI, ESRS, TSRS gibi çerçevelere uyumlu, şeffaf ve doğrulanabilir rapor hazırlanır."
+        },
+        {
+          "title": "Entegre Raporlama (Opsiyonel)",
+          "desc": "Sürdürülebilirlik performansı finansal bilgilerle birlikte entegre rapor formatında sunulur."
+        },
+        {
+          "title": "Güvence Denetimine Hazırlık",
+          "desc": "Bağımsız güvence süreçleri için veri altyapısı, kontrol noktaları ve dokümantasyon hazırlanır."
+        }
+      ]
+    },
+    {
+      "type": "info_list",
+      "title": "Kimler Bu Hizmeti Alabilir?",
+      "items": [
+        {
+          "title": "Üretim ve Sanayi",
+          "desc": "Metal, kimya, tekstil, otomotiv, gıda vb. sektörlerde faaliyet gösteren kuruluşlar."
+        },
+        {
+          "title": "Enerji ve Altyapı",
+          "desc": "RES, GES, HES, dağıtım ve üretim şirketleri."
+        },
+        {
+          "title": "Finans ve Sigorta Kuruluşları",
+          "desc": "Finansal kurumlar için sürdürülebilirlik performansının şeffaflaştırılması."
+        },
+        {
+          "title": "Hizmet, Teknoloji ve Lojistik Şirketleri",
+          "desc": "ESG etkisini ölçmek, raporlamak ve paydaşlara düzenli olarak sunmak isteyen şirketler."
+        },
+        {
+          "title": "AB ile Ticaret Yapan Kurumlar",
+          "desc": "AB ile ticaret yapan veya AB'de bağlı ortaklığı/şubesi bulunan firmalar."
+        },
+        {
+          "title": "TSRS Kapsamındaki Kuruluşlar",
+          "desc": "TSRS kapsamında raporlama yükümlülüğü bulunan kuruluşlar (KAYİK'ler)."
+        }
+      ]
+    },
+    {
+      "type": "image_text",
+      "title": "Raporlama Yapmamanın Olası Riskleri",
+      "content": "<p><strong>Yasal risk:</strong> TSRS 1-2 kapsamında 2025 itibarıyla kapsamdaki şirketler için zorunluluk başlamaktadır.</p><p><strong>Finansal risk:</strong> Bankalar ve yatırımcılar, sürdürülebilirlik verisi olmayan şirketleri yüksek riskli olarak değerlendirmektedir.</p><p><strong>Tedarik zinciri kayıpları:</strong> Küresel alıcılar artık raporlamayı bir ön koşul olarak sunmaktadır.</p><p><strong>İtibar riski:</strong> Şeffaf olmayan firmalar kamuoyu ve paydaşlar nezdinde güven kaybedebilir.</p>",
+      "image": "/images/servisler/surdurulebilirlik-raporlamasi-risk.jpg",
+      "layout": "left"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Veriye Dayalı, Ölçülebilir ve Karşılaştırılabilir ESG Yönetimi",
+      "content": "<p>Sürdürülebilirlik raporlaması yalnızca bir uyum gerekliliği değil, stratejik karar alma süreçlerini besleyen güçlü bir yönetim aracıdır. Doğru veri kurgusu ve standartlara uyumlu raporlama sayesinde kurumlar; performansını dönemsel izleyebilir, risklerini erken tespit edebilir ve paydaşlarına net bir değer hikayesi sunabilir.</p>",
+      "image": "/images/servisler/surdurulebilirlik-raporlamasi-data.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "cta_box",
+      "title": "Sürdürülebilirlik Raporunuzu Birlikte Kurgulayalım",
+      "description": "Kurumunuza özel ESG raporlama yol haritasını uluslararası standartlarla uyumlu şekilde birlikte oluşturalım.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

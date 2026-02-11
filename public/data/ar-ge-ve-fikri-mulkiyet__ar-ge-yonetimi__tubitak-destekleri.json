@@ -1,0 +1,222 @@
+{
+  "slug": "tubitak-destekleri",
+  "title": "TÜBİTAK Fonlarına Erişim",
+  "title_highlighted": "Danışmanlığı",
+  "layout_density": "compact",
+  "category": "Ar-Ge ve Fikri Mülkiyet",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Ar-Ge ve Fikri Mülkiyet", "link": "/servisler/ar-ge-ve-fikri-mulkiyet" },
+    { "name": "Ar-Ge Yönetimi", "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi" },
+    { "name": "TÜBİTAK Fonlarına Erişim Danışmanlığı", "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/tubitak-destekleri" }
+  ],
+  "hero": {
+    "title": "TÜBİTAK Fonlarına Erişim Danışmanlığı",
+    "description": "Ulusal hibe ve teşvik programlarında doğru program seçimi, başvuru kurgusu, hakem süreci ve raporlamayı uçtan uca yönetin.",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1800&q=80",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Programları İnceleyin", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "Geleceğe yön veren projeler için",
+      "title_highlight": "uzman hibe yönetimi",
+      "description": "Sistem Global Danışmanlık olarak, Türkiye'nin geleceğine yatırım yapmak isteyen KOBİ başta olmak üzere her ölçekteki sanayi kuruluşunun Ar-Ge ve inovasyon projelerinde TÜBİTAK fonlarına erişim süreçlerini profesyonel olarak yönetiyoruz.",
+      "badge": "%75'i Aşkın Başarı Yaklaşımı",
+      "features": [
+        "20+ yıllık ulusal hibe ve teşvik başvuru deneyimi",
+        "Kuruma özel uygun program ve çağrı eşleştirme",
+        "Başvuru, hakem görüşmesi ve revizyon yönetimi",
+        "TEYDEB 1501 AGY300 teknik rapor ve gider formu desteği"
+      ],
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1600&q=80"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Sistem Global ile Desteklere Erişmeye Hazır Mısınız?",
+      "content": "<p>Sistem Global olarak, uzman ve tecrübeli ekibimizle Ar-Ge ve inovasyon ekosisteminin gelişimine katkı sağlıyoruz. Ulusal Hibe ve Teşvik Programlarına başvuruda 20 yılı aşan deneyimimizle, kurumunuzun iç dinamiklerini analiz ederek TÜBİTAK TEYDEB proje başvuru süreçlerinizi profesyonel biçimde yönetiyoruz.</p><p>Sizin için en uygun hibe programlarını belirliyor, projenizi özenle yapılandırıyor, başvurunuzu eksiksiz hazırlıyor ve süreci uçtan uca takip ediyoruz. Amacımız, programlardan en yüksek faydayı sağlayarak proje başarınızı artırmaktır.</p>",
+      "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=1400&q=80",
+      "image_position": "right"
+    },
+    {
+      "type": "tabs_content",
+      "title": "Neden Sistem Global?",
+      "layout": "top_center",
+      "items": [
+        {
+          "label": "Uzmanlık",
+          "title": "Uzmanlık Gerektiren Yaklaşım",
+          "content": "<p>Projeleri yalnızca form doldurma yaklaşımıyla değil; teknik, idari, finansal ve stratejik boyutları birlikte ele alarak yönetiyoruz.</p>"
+        },
+        {
+          "label": "%75+ Başarı",
+          "title": "%75’i Aşkın Başarı ile Profesyonel Hibe Yönetimi",
+          "content": "<p>TÜBİTAK TEYDEB süreçlerinde program eşleştirmeden hakem aşamasına kadar ölçülebilir başarı yaklaşımıyla ilerliyoruz.</p>"
+        },
+        {
+          "label": "27+ Yıl",
+          "title": "27+ Yıllık Tecrübe",
+          "content": "<p>Sektördeki değişikliklere hızlı uyum sağlayarak kurumlara güvenilir, sürdürülebilir ve sonuç odaklı danışmanlık modeli sunuyoruz.</p>"
+        },
+        {
+          "label": "Sektörel Güç",
+          "title": "Güçlü Referanslar ve Çok Sektörlü Yetkinlik",
+          "content": "<p>Bilişim, biyoteknoloji, kimya-plastik, makine-imalat, tekstil, elektrik-elektronik ve sağlık sektörlerinde farklı ölçeklerde kurumlara danışmanlık veriyoruz.</p>"
+        }
+      ]
+    },
+    {
+      "type": "process_grid",
+      "title": "TÜBİTAK Fonlarına Erişim Danışmanlığı Hizmet Yaklaşımımız",
+      "description": "Başvuru öncesinden proje kapanışına kadar tüm adımları planlı ve denetlenebilir biçimde yönetiyoruz.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Ön Değerlendirme",
+          "desc": "Projenizin ulusal/uluslararası fon ve destek mekanizmalarına uygunluğu, çağrı eşleşmesi ve başvuru potansiyeli detaylı analiz edilir."
+        },
+        {
+          "number": "02",
+          "title": "Finansal Destek İmkanlarının Tanımlanması",
+          "desc": "Destek oranları, üst limitler, desteklenebilir maliyet kalemleri, ortaklık koşulları ve başvuru esasları proje bazında netleştirilir."
+        },
+        {
+          "number": "03",
+          "title": "Proje Yapılandırma ve Kurgu Danışmanlığı",
+          "desc": "Proje, ilgili programın hedefleri ve değerlendirme kriterleriyle tam uyumlu olacak şekilde yeniden kurgulanır."
+        },
+        {
+          "number": "04",
+          "title": "Proje Yazımı ve Başvurusu",
+          "desc": "Başvuru dosyası teknik ve idari açıdan hazırlanır, son kontroller tamamlanır ve zamanında/eksiksiz başvuru yapılır."
+        },
+        {
+          "number": "05",
+          "title": "Hakem Görüşmeleri",
+          "desc": "Olası sorulara hazırlık, sunum planlaması ve ekip koordinasyonu ile hakem sürecinin güçlü yönetimi sağlanır."
+        },
+        {
+          "number": "06",
+          "title": "AGY300 ve Proje Raporlama Desteği",
+          "desc": "Proje süresince teknik/finansal raporlama, AGY300 teknik rapor ve gider formu süreçleri mevzuata uyumlu yürütülür."
+        }
+      ]
+    },
+    {
+      "type": "services_list",
+      "title": "Danışmanlık Verdiğimiz TÜBİTAK Programlarından Bazıları",
+      "compact": true,
+      "services": [
+        { "title": "1501 - Sanayi Ar-Ge Projeleri Destekleme Programı", "desc": "Yenilikçi Ar-Ge projelerinde %75'e varan destek ve kapsamlı gider kalemleriyle proje finansmanı." },
+        { "title": "1505 - Üniversite-Sanayi İşbirliği Destek Programı", "desc": "Üniversite/kamu bilgi birikiminin firmalara aktarımı ve ticarileştirme odaklı ortak proje modeli." },
+        { "title": "1507 - KOBİ Ar-Ge Başlangıç Destek Programı", "desc": "KOBİ’lerin Ar-Ge kültürünü güçlendiren ve başlangıç projelerini hızlandıran destek mekanizması." },
+        { "title": "1509 - TÜBİTAK Uluslararası Sanayi Ar-Ge Projeleri", "desc": "EUREKA, EUROSTARS ve AB çerçeve programları gibi uluslararası proje ağlarına erişim desteği." },
+        { "title": "1511 - Öncelikli Alanlar Ar-Ge ve Yenilik", "desc": "Orta-yüksek ve yüksek teknolojili alanlarda çağrı bazlı, stratejik proje desteği." },
+        { "title": "1512 - Teknogirişim Sermayesi Desteği (BiGG)", "desc": "Teknoloji tabanlı iş fikirlerinin girişime dönüşmesi için mentorluk ve sermaye destek süreci." },
+        { "title": "1515 - Öncül Ar-Ge Laboratuvarları Destekleme Programı", "desc": "Ar-Ge altyapısı güçlü kuruluşlarda laboratuvar kapasitesini artırmaya yönelik destek yapısı." },
+        { "title": "1601 - Yenilik Girişimcilik Kapasite Artırma Programı", "desc": "Mentorluk, kümelenme, iş birliği ağları ve teknoloji yönetimi altyapılarının geliştirilmesi." },
+        { "title": "1707 - Siparişe Dayalı Ar-Ge Projeleri için KOBİ Destekleme", "desc": "Müşteri ihtiyacına dayalı, ticarileşme odaklı Ar-Ge projelerinde KOBİ odaklı finansman modeli." },
+        { "title": "1831 - Yeşil İnovasyon Teknoloji Mentörlük Çağrısı", "desc": "KOBİ'lerin yeşil dönüşüm hazırlıklarında analiz, yol haritası ve teknik danışmanlık desteği." },
+        { "title": "1832 - Sanayide Yeşil Dönüşüm Çağrısı", "desc": "Ar-Ge sonrası prototiplerin ticarileşme öncesi yeşil dönüşüm faaliyetleri için finansman." },
+        { "title": "1833 - SAYEM Yeşil Dönüşüm Çağrısı", "desc": "Üniversite-kamu-özel sektör iş birliği ile yüksek katma değerli ürün/platform geliştirme çağrısı." }
+      ]
+    },
+    {
+      "type": "accordion_rich",
+      "title": "Program Detayları",
+      "items": [
+        {
+          "title": "1501 - Sanayi Ar-Ge Projeleri Destekleme Programı",
+          "content": "<p><strong>Programın Amacı:</strong> Yenilikçi projeleri desteklemek, Ar-Ge faaliyetlerini teşvik etmek ve Türk sanayisinin rekabet gücünü artırmaktır.</p><p><strong>Değerlendirme Kriterleri:</strong> Projenin endüstriyel Ar-Ge içeriği ve yenilikçi yönü, proje planı ve kuruluş altyapısının uygunluğu, çıktıların ekonomik/ulusal kazanıma dönüşebilirliği.</p><p><strong>Destek Kapsamı:</strong> Yeni ürün geliştirme, mevcut ürün iyileştirme, kalite/standart artırımı, maliyet düşürücü teknikler ve yeni üretim teknolojileri.</p><p><strong>Desteklenen Giderler:</strong> Personel, seyahat, alet-teçhizat-yazılım-yayın, Ar-Ge hizmet alımları, danışmanlık, malzeme/sarf, YMM proje harcama değerlendirme ve tasdik raporu giderleri.</p><p><strong>Özet:</strong> Çağrılı yapı, %75 destek oranı, azami 36 ay, bütçe sınırı olmadan başvuru imkanı.</p>"
+        },
+        {
+          "title": "1505 - Üniversite-Sanayi İşbirliği Destek Programı",
+          "content": "<p><strong>Programın Amacı:</strong> Üniversite/kamu araştırma birikiminin KOBİ ve sanayi ihtiyaçlarına göre ürüne/sürece dönüşerek ticarileşmesine katkı sağlamaktır.</p><p><strong>Başvuru Yapısı:</strong> Türkiye'de yerleşik sermaye şirketleri ile yükseköğretim kurumları, vakıf üniversiteleri, eğitim/araştırma hastaneleri ve kamu araştırma merkezleri ortak başvuru yapabilir.</p><p><strong>Destek Kapsamı:</strong> Yeni ürün üretimi, ürün kalitesi/standart yükseltme, maliyet düşürücü teknikler, yeni üretim teknolojileri, tasarım-doğrulama, prototip/pilot tesis/deneme üretimi, saha testleri.</p><p><strong>Özet:</strong> Proje bütçesi üst sınırı 1.000.000 TL, azami 24 ay; büyük ölçekli firmalara %60, KOBİ'lere %75 destek oranı.</p>"
+        },
+        {
+          "title": "1507 - KOBİ Ar-Ge Başlangıç Destek Programı",
+          "content": "<p><strong>Programın Amacı:</strong> KOBİ ölçeğindeki kuruluşların Ar-Ge yetkinliğini yükseltmek ve yenilikçi faaliyetleri artırmaktır.</p><p><strong>Değerlendirme Kriterleri:</strong> 1501 ile benzer şekilde Ar-Ge içeriği/yenilik düzeyi, plan ve altyapı uygunluğu, ekonomik kazanıma dönüşebilirlik.</p><p><strong>Destek Kapsamı:</strong> Yeni ürün, kalite/standart artışı, maliyet düşürücü teknikler, yeni üretim teknolojileri, prototip ve saha test faaliyetleri.</p><p><strong>Özet:</strong> Proje bütçesi üst sınırı 1.200.000 TL, destek oranı %75, azami süre 18 ay.</p><p><strong>Notlar:</strong> Başarıyla tamamlanan projelerde fikir sahibi araştırmacıya teşvik ödülü; belirli koşullarda toplam 5 proje başvuru hakkı.</p>"
+        },
+        {
+          "title": "1509 - Uluslararası Sanayi Ar-Ge Projeleri Destekleme Programı",
+          "content": "<p><strong>Programın Amacı:</strong> Firmaların EUREKA, EUROSTARS, Ortak Teknoloji Girişimleri, ERA-NET ve AB Çerçeve Programlarına katılımını artırmak; teknoloji transferini ve uluslararası Ar-Ge iş birliğini güçlendirmektir.</p><p><strong>Beklenen Etki:</strong> Kuruluşların teknik yeterlilik ve bilgi birikimini artırmak, özgün teknoloji geliştirme hızını ve uluslararası pazardaki konumunu güçlendirmek.</p><p><strong>Destek Kapsamı:</strong> Yeni ürün/üretim teknolojisi, kalite/standart artışı, yapılabilirlik etüdü, tasarım-doğrulama, prototip/pilot tesis, saha testleri, ekipman ve hizmet alım giderleri.</p><p><strong>Özet:</strong> Bütçe sınırı olmaksızın, uluslararası proje süresiyle uyumlu destek yapısı; KOBİ %75, büyük ölçekli firma %60 oranı.</p>"
+        },
+        {
+          "title": "1511 - Öncelikli Alanlar Araştırma Teknoloji Geliştirme ve Yenilik Programı",
+          "content": "<p><strong>Programın Amacı:</strong> Yüksek katma değer yaratabilecek öncelikli teknoloji alanlarında Ar-Ge ve yenilik projelerini desteklemektir.</p><p><strong>Öncelikli Alanlar:</strong> Otomotiv, BİT, makine imalat gibi güçlü alanlar ile enerji, gıda, su, savunma, uzay ve sağlık gibi geliştirilmesi hedeflenen alanlar.</p><p><strong>Destek Kapsamı:</strong> Personel, seyahat, ekipman-yazılım-yayın, malzeme/sarf, yurt içi-yurt dışı danışmanlık/hizmet alımı, YMM ve genel giderler.</p><p><strong>Özet:</strong> Çağrılı yapı, proje üst limiti 6.000.000 TL, azami 36 ay; KOBİ %75, büyük ölçekli %60 destek oranı.</p>"
+        },
+        {
+          "title": "1512 - Teknogirişim Sermayesi Desteği Programı (BiGG)",
+          "content": "<p><strong>Programın Amacı:</strong> Teknoloji ve yenilik odaklı girişim fikirlerinin yüksek katma değerli teşebbüslere dönüşmesini sağlamaktır.</p><p><strong>Tematik Alanlar:</strong> Akıllı ulaşım, akıllı üretim sistemleri, enerji ve temiz teknolojiler, iletişim-sayısal dönüşüm, sağlık ve iyi yaşam, sürdürülebilir tarım-beslenme.</p><p><strong>Süreç:</strong> İş fikri değerlendirme, iş planı değerlendirme ve ticarileşmeye dönük izleme/geliştirme aşamalarından oluşur.</p><p><strong>Özet:</strong> Üst limit 450.000 TL, azami 18 ay, çağrılı yapı; başvurular bireysel girişimci düzeyinde yapılır.</p>"
+        },
+        {
+          "title": "1515 - Öncül Ar-Ge Laboratuvarları Destekleme Programı",
+          "content": "<p><strong>Programın Amacı:</strong> Bilimsel/teknolojik bilgi üretim kapasitesini artırmak, Ar-Ge altyapısını güçlendirmek ve nitelikli çıktı üretimini desteklemektir.</p><p><strong>Destek Kapsamı:</strong> Personel giderleri, seyahat, alet-teçhizat-yazılım-yayın, Ar-Ge hizmet alımları, malzeme/sarf ve genel giderler.</p><p><strong>Özet:</strong> Program bütçe üst limiti 10.000.000 TL, destek oranı %75; destek süresi 5 yıl olup koşullara bağlı uzatma imkanı bulunur.</p>"
+        },
+        {
+          "title": "1601 - Yenilik Girişimcilik Alanlarında Kapasite Artırılmasına Yönelik Destek Programı",
+          "content": "<p><strong>Programın Amacı:</strong> Girişimcilik ve yenilik alanlarında ekosistem kapasitesini artıracak mekanizmaların geliştirilmesidir.</p><p><strong>Kapsam:</strong> Mentorluk, nitelikli personel istihdamı, iş birliği ağları, kümelenme faaliyetleri, proje-teknoloji yönetimi, proje/yatırım pazarlarının güçlendirilmesi.</p><p><strong>Başvuru:</strong> Çağrılı yapı ile PRODIS üzerinden çevrim içi yapılır.</p><p><strong>Özet:</strong> Üst limit 1.000.000 TL, azami süre 24 ay.</p><p><strong>PRODIS:</strong> <a href=\"https://eteydeb.tubitak.gov.tr\" target=\"_blank\" rel=\"noreferrer\">https://eteydeb.tubitak.gov.tr</a></p>"
+        },
+        {
+          "title": "1707 - Siparişe Dayalı Ar-Ge Projeleri için KOBİ Destekleme Programı",
+          "content": "<p><strong>Programın Amacı:</strong> Müşteri ihtiyacına dayalı Ar-Ge projeleriyle KOBİ'lerin çözüm üretme ve ticarileşme kapasitesini artırmaktır.</p><p><strong>Proje Yapısı:</strong> KOBİ tedarikçi kuruluş ile müşteri kuruluşun (KOBİ/büyük ölçekli) birlikte yürüttüğü siparişe dayalı model.</p><p><strong>Destek Kapsamı:</strong> Personel, seyahat, danışmanlık, hizmet alımları, ekipman-yazılım-yayın, malzeme/sarf, mali müşavirlik giderleri.</p><p><strong>Özet:</strong> Proje üst limiti 5.000.000 TL, azami 24 ay; KOBİ %75, büyük ölçekli %60 destek oranı.</p>"
+        },
+        {
+          "title": "1831 - Yeşil İnovasyon Teknoloji Mentörlük Çağrısı",
+          "content": "<p>KOBİ’lerin yeşil dönüşüm mevzuatlarına uyum kapsamında ihtiyaç duyduğu teknik yardım hizmetleri desteklenir.</p><p><strong>Desteklenen Hizmetler:</strong> Mevcut durum analizi, boşluk analizi, problem tespiti, çözüm geliştirme, yol haritası oluşturma ve uygulama rehberliği.</p><p><strong>Özet:</strong> Destek oranı %90’a kadar, azami süre 6 ay, üst limit 7.000 USD.</p>"
+        },
+        {
+          "title": "1832 - Sanayide Yeşil Dönüşüm Çağrısı",
+          "content": "<p>Daha önce Ar-Ge çalışmalarıyla prototipe ulaşmış ürünlerin ticarileşme öncesi yeşil dönüşüm faaliyetleri desteklenir.</p><p>Destekten yararlanan sermaye şirketlerine faizsiz geri ödemeli finansman sağlanır.</p><p><strong>Özet:</strong> Destek oranı büyük şirketlerde %70, KOBİ’lerde %80, deprem bölgesindeki KOBİ’lerde %90; proje süresi en fazla 24 aydır.</p>"
+        },
+        {
+          "title": "1833 - SAYEM Yeşil Dönüşüm Çağrısı",
+          "content": "<p>Özel sektör, üniversite ve kamu iş birliğiyle yenilik platformları oluşturarak yüksek katma değerli ürün/ürün grupları geliştirilmesini hedefler.</p><p>Üniversite ve kamu kurumları için hibe, sermaye şirketleri için faizsiz geri ödemeli finansman mekanizması uygulanır.</p><p><strong>Özet:</strong> Destek süresi en fazla 36 ay; ölçeğe göre değişen destek oranları ve performansa bağlı hibe dönüşümü imkanları bulunur.</p>"
+        }
+      ]
+    },
+    {
+      "type": "report_cards",
+      "title": "Yayınlarımız ve Bültenler",
+      "subtitle": "Güncel çağrı ve program duyuruları",
+      "reports": [
+        {
+          "title": "TÜBİTAK 1832 – Sanayide Yeşil Dönüşüm 2025-2. Çağrısı Açıldı",
+          "url": "https://www.sistemglobal.com.tr/bultenler/ar-ge/tubitak-1832-sanayide-yesil-donusum-2025-2-cagrisi-acildi/",
+          "meta": "Bülten"
+        },
+        {
+          "title": "KOBİ’ler İçin Ar-Ge’de Yeni Dönem Başlıyor: TÜBİTAK 1501 ve 1507 Çağrıları Açıldı",
+          "url": "https://www.sistemglobal.com.tr/bultenler/ar-ge/kobiler-icin-ar-gede-yeni-donem-basliyor-tubitak-1501-ve-1507-cagrilari-acildi/",
+          "meta": "Bülten"
+        },
+        {
+          "title": "1832-2025-1 Çağrısı – TÜBİTAK TEYDEB / Sanayide Yeşil Dönüşüm Desteği",
+          "url": "https://www.sistemglobal.com.tr/bultenler/ar-ge/1832-2025-1-cagrisi-tubitak-teydeb-sanayide-yesil-donusum-destegi/",
+          "meta": "Bülten"
+        },
+        {
+          "title": "TÜBİTAK 1832 ve 1833 Çağrıları Yeniden Açılıyor",
+          "url": "https://www.sistemglobal.com.tr/bultenler/ar-ge/tubitak-1832-ve-1833-cagrilari-yeniden-aciliyor/",
+          "meta": "Bülten"
+        },
+        {
+          "title": "TÜBİTAK’tan KOBİ’lerin Yeşil Dönüşümüne Destek",
+          "url": "https://www.sistemglobal.com.tr/bultenler/ar-ge/tubitaktan-kobilerin-yesil-donusumune-destek/",
+          "meta": "Bülten"
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "TÜBİTAK Başvurularınızı Güçlü Bir Kurguyla Yönetin",
+      "description": "Uygun program seçimi, başvuru dosyası, hakem süreci ve raporlama adımlarını tek çatı altında yönetmek için uzman ekibimizle iletişime geçin.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

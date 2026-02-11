@@ -1,0 +1,134 @@
+{
+  "slug": "tasarim-merkezi-danismanligi",
+  "title": "Tasarım Merkezi",
+  "title_highlighted": "Danışmanlığı",
+  "layout_density": "compact",
+  "category": "Ar-Ge ve Fikri Mülkiyet",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Ar-Ge ve Fikri Mülkiyet", "link": "/servisler/ar-ge-ve-fikri-mulkiyet" },
+    { "name": "Ar-Ge Yönetimi", "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi" },
+    { "name": "Tasarım Merkezi Danışmanlığı", "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/tasarim-merkezi-danismanligi" }
+  ],
+  "hero": {
+    "title": "Tasarım Merkezi Danışmanlığı",
+    "description": "5746 kapsamında tasarım merkezi başvuru, sürdürme ve teşvik yönetimini mevzuata tam uyumla yönetin.",
+    "image": "https://images.unsplash.com/photo-1497215842964-222b430dc094?auto=format&fit=crop&w=1800&q=80",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Hizmetleri İnceleyin", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "Tasarım merkeziniz için",
+      "title_highlight": "uçtan uca danışmanlık",
+      "description": "Tasarım projelerini veya sözleşme çerçevesinde siparişe dayalı tasarım faaliyetlerini yürüten şirketler için başvuru, uyum, teşvik ve raporlama süreçlerini bütünleşik bir yaklaşımla yönetiyoruz.",
+      "badge": "5746 ve Tasarım Merkezi Süreçleri",
+      "features": [
+        "Mali-teknik uygunluk ve fayda analizi",
+        "Başvuru dosyası hazırlama ve belge alım desteği",
+        "Tasarım projeleri değerlendirme ve yönlendirme",
+        "Teşviklerin en üst seviyede kullanımı"
+      ],
+      "image": "https://images.unsplash.com/photo-1558655146-364adaf1fcc9?auto=format&fit=crop&w=1600&q=80"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Tasarım Merkezi Nedir?",
+      "content": "<p>Tasarım projelerini veya sözleşme çerçevesinde siparişe dayalı olarak yürütülen tasarım faaliyetlerini gerçekleştirmek üzere kurulan ve dar mükellef kurumların Türkiye’deki işyerleri dahil, kanuni veya iş merkezi Türkiye’de bulunan sermaye şirketlerinin organizasyon yapısı içinde ayrı bir birim şeklinde örgütlenmiş, münhasıran yurtiçinde tasarım faaliyetlerinde bulunan ve en az 10 tam zaman eşdeğer tasarım personeli istihdam eden yapıya Tasarım Merkezi denir.</p><p>Türkiye'de tasarım faaliyeti yürüten şirketlerin, 5746 sayılı Kanun ve nakit destek programları kapsamında sağlanan teşvik ve desteklerden faydalanma imkanları bulunmaktadır.</p>",
+      "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1400&q=80",
+      "image_position": "right"
+    },
+    {
+      "type": "text",
+      "title": "Tasarım Merkezi Olma Şartları Nelerdir?",
+      "content": "<p>Tasarım merkezi yapısının şirket organizasyonu içinde ayrı bir birim olarak konumlandırılması, faaliyetlerin yurtiçinde yürütülmesi ve en az 10 tam zaman eşdeğer tasarım personeli istihdam edilmesi temel koşullar arasındadır.</p><p>Başvuru sürecinde mevcut proje yapısı, teknik yetkinlik, personel planı ve mevzuata uygunluk kriterleri birlikte değerlendirilmelidir.</p>"
+    },
+    {
+      "type": "service_cards",
+      "title": "Tasarım Merkezi Olmanın Sağladığı Avantajlar",
+      "cards": [
+        {
+          "title": "Tasarım İndirimi",
+          "desc": "Tasarım merkezlerinde yapılan tasarım harcamalarının tamamı (%100) kurumlar vergisi matrahından indirilebilir.",
+          "icon": "PieChart",
+          "color": "blue"
+        },
+        {
+          "title": "Gelir Vergisi İstisnası",
+          "desc": "Tasarım personeli ücretlerinde %80 - %90 - %95 oranlarında gelir vergisi istisnası uygulanabilir.",
+          "icon": "ShieldCheck",
+          "color": "green"
+        },
+        {
+          "title": "SGK İşveren Desteği",
+          "desc": "Tasarım personeli için %50 SGK işveren hissesi teşviki ile istihdam maliyetleri azaltılabilir.",
+          "icon": "Users",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "rich_text",
+      "title": "5746 Sayılı Kanun Perspektifi",
+      "html": "<p>2008 yılında yürürlüğe giren 5746 Sayılı Kanun; Ar-Ge, yenilik ve tasarım yoluyla ülke ekonomisinin uluslararası düzeyde rekabet edebilir bir yapıya kavuşturulması için teknolojik bilgi üretilmesini, üründe ve üretim süreçlerinde yenilik yapılmasını, ürün kalitesi ve standardının yükseltilmesini, verimliliğin artırılmasını, üretim maliyetlerinin düşürülmesini, teknolojik bilginin ticarileştirilmesini, rekabet öncesi işbirliklerinin geliştirilmesini, teknoloji yoğun üretim, girişimcilik ve bu alanlara yönelik yatırımlar ile doğrudan yabancı sermaye yatırımlarının ülkeye girişinin hızlandırılmasını, tasarım personeli ve nitelikli işgücü istihdamının artırılmasını desteklemeyi amaçlamaktadır.</p>"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Sistem Global ve Tasarım Merkezi Danışmanlık Hizmetleri",
+      "content": "<p>Tasarım merkezleri mevzuatının yayınlandığı günden bugüne birçok özel sektör tasarım merkezine hem mevzuat çalışmaları komisyonlarında hem de fiili uygulamalarda destek verdik. Hizmetlerimizin sunumunda, müşterilerimizin hemen her aşamadaki ihtiyaçlarını karşılayacak bir kurgu ile firmamızı yapılandırdık.</p><p>Kendi içimizde oluşturduğumuz mühendislerden oluşan teknik ekibimiz ile Ar-Ge/Tasarım mevzuatının mali uygulamaları konusunda uzman mali ekibimiz birlikte, bütünleşik hizmetleri kurum içi kadrolarımızla anahtar teslim şekilde sunmaktadır.</p>",
+      "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1400&q=80",
+      "image_position": "left"
+    },
+    {
+      "type": "services_list",
+      "title": "Sunulan Hizmetler",
+      "compact": true,
+      "services": [
+        { "title": "Tasarım Merkezi olmak için mali ve teknik uygunluk/fayda analizi raporu", "desc": "" },
+        { "title": "5746 sayılı Tasarım Merkezleri Kanunu çerçevesinde başvuru ve sürdürme işlemlerine ilişkin eylem planı oluşturulması", "desc": "" },
+        { "title": "Tasarım Merkezi başvuru dosyası hazırlama ve Tasarım Merkezi Belgesi alımına yönelik danışmanlık", "desc": "" },
+        { "title": "Firma bünyesindeki mevcut ve planlanan tasarım projelerinin Tasarım Merkezi Yönetmeliği kapsamında değerlendirilmesi ve yönlendirilmesi", "desc": "" },
+        { "title": "Tasarım sürecinin kurgulanması ve yönetimi", "desc": "" },
+        { "title": "Firmaların Tasarım Merkezi stratejilerinin oluşturulması ve yönetilmesi", "desc": "" },
+        { "title": "Ar-Ge/Tasarım merkezi yetkinlikleri, fikri hakları ve iş birliklerinin artırılmasına yönelik çalışmalar", "desc": "" },
+        { "title": "Tasarım merkezi projelerinin takibi, dışarıda geçen zaman ve tam zaman eşdeğer personel hesaplamaları", "desc": "" },
+        { "title": "Tasarım Merkezi faaliyet raporu dosya hazırlığı", "desc": "" },
+        { "title": "Tasarım merkezi teşviklerinden en üst seviyede fayda için danışmanlık", "desc": "" },
+        { "title": "T.C. Sanayi ve Teknoloji Bakanlığı'nın güncel Tasarım Merkezleri Yönetmeliğine tam uyum danışmanlığı", "desc": "" }
+      ]
+    },
+    {
+      "type": "report_cards",
+      "title": "Yayınlarımız ve Bültenler",
+      "subtitle": "İlgili içeriklerden seçkiler",
+      "reports": [
+        {
+          "title": "KOBİ’lere 20 Milyon TL’ye Kadar Geri Ödemesiz Faiz Desteği",
+          "url": "https://www.sistemglobal.com.tr/bultenler/ar-ge/kobilere-20-milyon-tlye-kadar-geri-odemesiz-faiz-destegi/",
+          "meta": "Bülten"
+        },
+        {
+          "title": "Çalışanlar için 2026 Bordro Parametreleri",
+          "url": "https://www.sistemglobal.com.tr/makaleler/calisanlar-icin-2026-bordro-parametreleri/",
+          "meta": "Makale"
+        },
+        {
+          "title": "Dijital Dönüşüm Nedir? Temel Unsurları Nelerdir?",
+          "url": "https://www.sistemglobal.com.tr/makaleler/dijital-donusum-nedir-temel-unsurlari-nelerdir/",
+          "meta": "Makale"
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Tasarım Merkezi Sürecinizi Birlikte Yönetin",
+      "description": "Başvuru, teşvik, raporlama ve mevzuat uyumunu tek çatı altında yönetmek için uzman ekibimizle iletişime geçin.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "slug": "birlesme-ve-satin-alma-ma",
+  "title": "Birleşme ve Satın Alma",
+  "title_highlighted": "(M&A)",
+  "category": "Finansmana Erişim ve Sürdürülebilirlik",
+  "breadcrumb": [
+    {
+      "name": "Anasayfa",
+      "link": "/"
+    },
+    {
+      "name": "Servisler",
+      "link": "/servisler"
+    },
+    {
+      "name": "Finansmana Erişim ve Sürdürülebilirlik",
+      "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik"
+    },
+    {
+      "name": "Birleşme ve Satın Alma (M&A)",
+      "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/birlesme-ve-satin-alma-ma"
+    }
+  ],
+  "hero": {
+    "title": "Stratejik Büyüme ve Başarılı Exit’ler İçin Karar Destek Platformu",
+    "description": "Sistem Global, stratejik ve finansal yatırımcılar ile yatırım fonları için birleşme ve satın alma süreçlerini uçtan uca yöneten, değer odaklı entegre danışmanlık hizmetleri sunar.",
+    "image": "/images/servisler/ma-hero.webp",
+    "buttons": [
+      {
+        "text": "İşleminizi Başlatın",
+        "link": "#contact",
+        "variant": "primary"
+      },
+      {
+        "text": "Yaklaşımımızı İnceleyin",
+        "link": "#approach",
+        "variant": "outline"
+      }
+    ],
+    "marks": [
+      "Investor-Ready Sunumlar",
+      "Lender-Grade Standartlar",
+      "Regülasyon ve Teşvik Uyumu",
+      "Savunulabilir Due Diligence"
+    ]
+  },
+  "sections": [
+    {
+      "id": "intro",
+      "type": "content_with_image",
+      "title": "Uluslararası Standartlarda M&A Danışmanlığı",
+      "content": "\n                <p>Sistem Global, finansal, ticari, vergisel ve operasyonel boyutları tek bir platformda birleştirerek süreci yalnızca yönetmekle kalmaz, değer yaratımını maksimize eden bir stratejik mimari kurgular.</p>\n                <p>Müşterilerimize uluslararası standartlarda ve yatırım bankası seviyesinde bir çalışma taahhüt ediyoruz. Teslim ettiğimiz çalışmalar; yatırım komitelerinde savunulabilen ve kapanış sonrası değeri optimize etmeye odaklanan üst düzey bir çerçeve sunar.</p>\n            ",
+      "image": "/images/servisler/ma-intro.webp",
+      "image_position": "right"
+    },
+    {
+      "id": "approach",
+      "type": "process_grid",
+      "title": "M&A Yaşam Döngüsü Yaklaşımımız",
+      "description": "İşlemi ilk fikir aşamasından kapanış sonrası entegrasyona kadar uçtan uca ele alıyoruz.",
+      "steps": [
+        {
+          "title": "Pre-Deal: Stratejik Hazırlık",
+          "desc": "Yatırım tezinin netleştirilmesi, değerleme çerçevesinin oluşturulması ve güçlü bir yatırım hikâyesi ile pazara çıkış.",
+          "icon": "Target"
+        },
+        {
+          "title": "Deal Execution: İşlem Tasarımı",
+          "desc": "Değerleme, due diligence, finansman kurgusu ve SPA müzakerelerinin disiplinli yönetimi.",
+          "icon": "Zap"
+        },
+        {
+          "title": "Post-Deal: Değer Gerçekleşmesi",
+          "desc": "Entegrasyon planlaması, sinerji takibi ve operasyonel uyum ile değerin realize edilmesi.",
+          "icon": "TrendingUp"
+        }
+      ]
+    },
+    {
+      "type": "service_cards",
+      "title": "Satıcı Tarafı (Sell-Side) Danışmanlığı",
+      "description": "Şirketinizi doğru yatırımcıyla buluşturuyor, en yüksek değer ve en avantajlı sözleşme koşullarını optimize ediyoruz.",
+      "cards": [
+        {
+          "title": "Exit Stratejisi & Equity Story",
+          "desc": "Yatırım tezini ve büyüme hikayesini rafine ederek stratejik konumlandırma yapıyoruz.",
+          "icon": "Lightbulb",
+          "color": "orange"
+        },
+        {
+          "title": "Yatırımcı Dokümantasyonu",
+          "desc": "Uluslararası standartlarda Teaser ve Bilgi Memorandumu (CIM/IM) hazırlıyoruz.",
+          "icon": "FileText",
+          "color": "blue"
+        },
+        {
+          "title": "VDR & Pazarlık Yönetimi",
+          "desc": "Veri odası kurulumu, teklif karşılaştırma matrisleri ve SPA müzakere desteği sağlıyoruz.",
+          "icon": "Lock",
+          "color": "indigo"
+        }
+      ]
+    },
+    {
+      "type": "service_cards",
+      "title": "Alıcı Tarafı (Buy-Side) Danışmanlığı",
+      "description": "Doğru hedef tespiti ve disiplinli değerleme ile yatırımınızın getiri profilini titizlikle test ediyoruz.",
+      "cards": [
+        {
+          "title": "Hedef Tarama & Uyum",
+          "desc": "Sektör taraması yaparak stratejik ve finansal uyum değerlendirmesi gerçekleştiriyoruz.",
+          "icon": "Search",
+          "color": "green"
+        },
+        {
+          "title": "Teklif Stratejisi",
+          "desc": "DCF ve çarpan analizleri ile niyet mektubu (LOI) aşamasında teklif stratejisi oluşturuyoruz.",
+          "icon": "CheckSquare",
+          "color": "purple"
+        },
+        {
+          "title": "Finansman & Sinerji",
+          "desc": "Sermaye yapısı optimizasyonu ve 100 günlük entegrasyon çerçevesi tasarlıyoruz.",
+          "icon": "Layers",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "icon_grid",
+      "title": "Entegre Due Diligence",
+      "items": [
+        {
+          "title": "Finansal DD",
+          "desc": "Sürdürülebilir kârlılık (Quality of Earnings) ve net borç normalizasyonu analizi.",
+          "icon": "LineChart"
+        },
+        {
+          "title": "Vergi DD",
+          "desc": "Tarihsel risklerin tespiti ve işlem yapısının vergisel optimizasyonu.",
+          "icon": "Calculator"
+        },
+        {
+          "title": "Ticari DD",
+          "desc": "Pazar büyüklüğü, rekabetçi konum ve gelir projeksiyonlarının doğrulanması.",
+          "icon": "Briefcase"
+        },
+        {
+          "title": "Regülasyon & Uyum",
+          "desc": "Rekabet Kurumu bildirimleri ve sektörel izin süreçlerinin koordinasyonu.",
+          "icon": "Gavel"
+        }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Stratejik Çözümlerimiz",
+      "benefits": [
+        {
+          "title": "Değerleme & Modelleme",
+          "desc": "DCF, emsal işlem ve LBO modelleri ile karar vericiler için analitik netlik sağlarız.",
+          "icon": "Activity"
+        },
+        {
+          "title": "Carve-Out (Ayrıştırma)",
+          "desc": "Devredilen iş biriminin bağımsız ve sürdürülebilir altyapısını kurgularız.",
+          "icon": "Scissors"
+        },
+        {
+          "title": "PMI (Post-Merger)",
+          "desc": "Sinerji taahhütlerini ölçülebilir KPI'lara bağlayarak değer gerçekleşmesini takip ederiz.",
+          "icon": "FastForward"
+        },
+        {
+          "title": "TMO (İşlem Yönetimi)",
+          "desc": "Çok paydaşlı işlemlerde hız, kontrol ve tam şeffaflık sağlayan yönetim ofisi.",
+          "icon": "ClipboardCheck"
+        }
+      ]
+    },
+    {
+      "type": "content_with_image",
+      "title": "Neden Sistem Global?",
+      "content": "\n                <p>Çok disiplinli yaklaşımımız; finansal, ticari ve teknik analizleri entegre bir karar destek dokümanında birleştirir. Uluslararası yatırım bankaları ve üst düzey danışmanlık firmalarının uyguladığı standartlara bağlıyız.</p>\n                <p>İster büyüme amaçlı satın alma, ister portföy optimizasyonu yapıyor olun; Sistem Global yatırım kararınızı uluslararası standartlarda sağlam bir zemine oturtur.</p>\n            ",
+      "image": "/images/servisler/ma-why.webp",
+      "image_position": "left"
+    },
+    {
+      "type": "cta_box",
+      "title": "İşleminizi Stratejik Bir Zemine Taşıyın",
+      "description": "Riskleri erken aşamada görünür kılmak, pazarlık gücü kazanmak ve kapanış sonrası değeri maksimize etmek için uzman ekibimizle görüşün.",
+      "button_text": "Uzman Görüşü Alın",
+      "secondary_button": "Detaylı Bilgi"
+    }
+  ]
+}

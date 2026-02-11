@@ -41,9 +41,8 @@ const Hero = () => {
                         {/* Heading */}
                         <div className="elementor-widget-heading">
                             <h1 className="font-serif text-[42px] leading-[1.1] lg:text-[72px] font-medium text-[#111111] tracking-tight">
-                                Yeni pazarlara <br />
-                                açılın, daha çok <br />
-                                <span className="font-medium">ihracat yapın</span>
+                                <span className="text-[#F37021]">Sistem Global ile</span> <br />
+                                işinizi Büyütme Zamanı!
                             </h1>
                         </div>
 
@@ -54,8 +53,12 @@ const Hero = () => {
 
                         {/* Button */}
                         <div className="pt-4">
-                            <a href="#" className="inline-flex items-center justify-center px-8 py-3.5 bg-[#F37021] text-white rounded-md hover:bg-[#e06010] transition-colors duration-300 font-medium text-sm shadow-md">
-                                <span className="">Size Ulaşalım</span>
+                            <a href="#contact" className="inline-block group transition-transform hover:scale-105 active:scale-95 duration-200">
+                                <img
+                                    src="/hero-button.webp"
+                                    alt="Size ulaşalım"
+                                    className="h-[44px] lg:h-[52px] w-auto drop-shadow-lg"
+                                />
                             </a>
                         </div>
                     </div>

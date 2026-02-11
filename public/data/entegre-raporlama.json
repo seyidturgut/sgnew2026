@@ -1,0 +1,128 @@
+{
+  "slug": "entegre-raporlama",
+  "title": "Entegre",
+  "title_highlighted": "Raporlama",
+  "layout_density": "compact",
+  "category": "Finansmana Erişim ve Sürdürülebilirlik",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
+    { "name": "Entegre Raporlama", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/entegre-raporlama" }
+  ],
+  "hero": {
+    "title": "Entegre Raporlama",
+    "description": "Finansal ve ESG performansınızı stratejik bir bütünlük içinde sunarak uzun vadeli değer yaratımınızı görünür kılın.",
+    "image": "/images/servisler/entegre-raporlama-hero.jpg",
+    "buttons": [
+      { "text": "Raporlama Yol Haritası", "link": "#services", "variant": "primary" },
+      { "text": "Uzman Desteği Alın", "link": "#contact", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "Finansal ve ESG",
+      "title_highlight": "Bütünlüğü",
+      "description": "Kısa, orta ve uzun vadede değer yaratma kapasitenizi; finansal veriler ile sürdürülebilirlik performansını birlikte ele alan tek anlatıda sunun.",
+      "badge": "IIRC <IR> Odaklı",
+      "features": [
+        "Finansal ve ESG çıktılarının tek raporda bütünleşmesi",
+        "Strateji, risk ve fırsat bağlantısının güçlenmesi",
+        "Paydaş güveni ve kurumsal şeffaflık artışı",
+        "Uzun vadeli değer yaratımının netleşmesi"
+      ],
+      "image": "/images/servisler/entegre-raporlama-hero.jpg"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Finansal ve ESG Performansınızı Stratejik Bir Bütünlük İçinde Sunun",
+      "content": "<p>Entegre raporlama, şirketlerin yalnızca finansal göstergelerini değil; çevresel, sosyal ve yönetişim (ESG) performanslarını da bütüncül bir yapı içinde ele almasını sağlayan modern bir raporlama yaklaşımıdır. Bu yöntem, işletmenin kısa, orta ve uzun vadede değer yaratma kapasitesini tüm boyutlarıyla açıklığa kavuşturur ve paydaşlara güçlü bir şeffaflık sunar.</p><p>Geleneksel finansal raporlamanın ötesine geçen entegre raporlar; sürdürülebilirlik performansı, çevresel etkiler, iş modeli, riskler, fırsatlar ve stratejik yönelim gibi unsurları tek bir anlatıda bir araya getirir. Böylece şirketler, geleceğe yönelik hedeflerini, değer yaratma süreçlerini ve karşılaşabilecekleri riskleri daha net bir şekilde ifade etme imkânı bulur.</p><p>Entegre raporlama; şirketin iş modelini, yönetim kapasitesini, sürdürülebilirlik stratejilerini ve paydaş ilişkilerini bütünsel biçimde sunarak kurumların uzun vadeli başarıya giden yolculuklarını daha görünür hâle getirir.</p>",
+      "image": "/images/servisler/entegre-raporlama-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "services_list",
+      "compact": true,
+      "title": "Entegre Raporlamanın Şirketinize Sağlayacağı Katma Değerler",
+      "services": [
+        { "title": "Finansal ve ESG Performansının Bütünsel Sunumu", "desc": "Şirketin gerçek değerini yalnızca finansal rakamlarla değil, sosyal ve çevresel etkilerle birlikte yansıtmanızı sağlar." },
+        { "title": "Kurumsal Şeffaflık ve Güven", "desc": "Paydaşlara açık, tutarlı ve güvenilir bilgi sunarak yatırımcı güvenini artırır." },
+        { "title": "Stratejik Karar Alma Desteği", "desc": "Risk, fırsat, kaynak kullanımı ve uzun vadeli hedefler arasında güçlü bir bağlantı kurarak yönetim süreçlerini güçlendirir." },
+        { "title": "Rekabet Avantajı", "desc": "Sürdürülebilirlik hedeflerini açık şekilde ortaya koyan şirketler, ulusal ve uluslararası pazarlarda daha güçlü bir konuma sahip olur." },
+        { "title": "Risk Yönetimi", "desc": "ESG risklerinin finansal etkileriyle birlikte değerlendirilmesini sağlayarak kurumsal risk yapısını olgunlaştırır." },
+        { "title": "Marka İtibarı", "desc": "Şirketin sorumlu, yenilikçi ve sürdürülebilirlik odaklı imajını destekler." }
+      ]
+    },
+    {
+      "type": "info_list",
+      "title": "Entegre Raporlamanın 7 Temel Prensibi",
+      "items": [
+        { "title": "Özlülük", "desc": "Raporda yalnızca en önemli ve değer yaratmaya etki eden bilgilerin yer almasını sağlar." },
+        { "title": "Önceliklendirme", "desc": "En kritik konuların rapor içinde diğer alanlardan daha çok vurgulanmasını ifade eder." },
+        { "title": "Bağlantısallık", "desc": "Strateji, riskler, kaynaklar ve performans arasındaki ilişkilerin açık biçimde gösterilmesini gerektirir." },
+        { "title": "Paydaş İlişkileri", "desc": "Paydaş beklentilerinin sürece nasıl dahil edildiğini ve kararları nasıl etkilediğini açıklar." },
+        { "title": "Tutarlılık ve Karşılaştırılabilirlik", "desc": "Yıllar boyunca aynı metodolojiyle raporlanarak karşılaştırma yapılmasını sağlar." },
+        { "title": "Güvenilirlik", "desc": "Sunulan bilgilerin doğruluğunu, kanıtlarını ve veri kalitesini güvence altına alır." },
+        { "title": "Stratejik Odak ve Gelecek Yönetimi", "desc": "Şirketin geleceğe yönelik planlarını, hedeflerini ve uzun vadeli değer yaratım yolunu ortaya koyar." }
+      ]
+    },
+    {
+      "type": "process_steps",
+      "title": "Hizmet Kapsamımızda Neler Yapıyoruz?",
+      "description": "Entegre raporlama sürecini, uluslararası kabul görmüş IIRC <IR> Çerçevesi, ISSB standartları ve Türkiye'deki düzenlemelere uyumlu şekilde sizin için uçtan uca yönetiyoruz.",
+      "steps": [
+        {
+          "title": "Ön Analiz ve Paydaş Beklentilerinin Belirlenmesi",
+          "desc": "Şirketinizin mevcut finansal ve ESG yapısını analiz ediyor, paydaşların beklentilerini ve önem arz eden başlıkları belirliyoruz."
+        },
+        {
+          "title": "Değer Yaratma Modelinin Oluşturulması",
+          "desc": "İş modelinizi, kaynaklarınızı, faaliyetlerinizi, çıktılarınızı ve yarattığınız değeri açıklayan özgün bir değer yaratma modeli kurguluyoruz."
+        },
+        {
+          "title": "Risk ve Fırsatların Analizi",
+          "desc": "Organizasyonunuzun kısa, orta ve uzun vadede değer yaratma kapasitesini etkileyen risk ve fırsatları tespit ediyor, entegre risk yönetimine uygun bir yapı hazırlıyoruz."
+        },
+        {
+          "title": "Entegre Raporlama İçeriğinin Tasarlanması",
+          "desc": "Şirketinizin ekonomik, çevresel ve sosyal etkilerini bütünsel bir bakış açısıyla ele alarak hangi başlıkların raporda yer alacağını belirliyoruz."
+        },
+        {
+          "title": "Departmanlarla Koordineli Veri Toplama Süreci",
+          "desc": "Finans, insan kaynakları, çevre, sürdürülebilirlik, satın alma, operasyon gibi ilgili tüm birimlerle kapsamlı bir veri toplama süreci yürütüyoruz."
+        },
+        {
+          "title": "Yönetişim, Strateji ve Gelecek Vizyonunun Yapılandırılması",
+          "desc": "Yönetim yapısını, stratejik hedefleri, iş modelini ve geleceğe yönelik planları tutarlı bir anlatıyla rapor içine entegre ediyoruz."
+        },
+        {
+          "title": "Uluslararası Standartlarla Uyumlu Raporlama",
+          "desc": "IIRC'nin 7 prensibini esas alarak raporu global standartlara uygun şekilde hazırlıyoruz."
+        }
+      ]
+    },
+    {
+      "type": "content_with_image",
+      "title": "Kimler Entegre Raporlama Yapabilir?",
+      "content": "<ul><li>Holding ve grup şirketleri</li><li>Banka, sigorta ve finans kuruluşları</li><li>Enerji ve altyapı şirketleri</li><li>Üretim ve sanayi işletmeleri</li><li>Teknoloji, telekomünikasyon ve lojistik firmaları</li><li>Sürdürülebilirlik ve şeffaflık odaklı tüm kurumlar</li></ul>",
+      "image": "/images/servisler/entegre-raporlama-process.jpg",
+      "image_position": "left"
+    },
+    {
+      "type": "image_text",
+      "title": "Uzun Vadeli Değer Yaratımını Görünür Hale Getirin",
+      "content": "<p>Entegre raporlama, şirketin bugünkü performansını gelecek hedefleriyle birlikte sunar. Bu yaklaşım, yönetim kalitesi, kaynak kullanımı, sürdürülebilirlik etkisi ve finansal sonuçlar arasındaki ilişkiyi paydaşlar için daha anlaşılır hale getirir.</p><p>Doğru yapılandırılmış bir entegre rapor, yatırımcı güvenini artırır, kurumsal itibarı güçlendirir ve stratejik karar alma süreçlerine doğrudan katkı sağlar.</p>",
+      "image": "/images/servisler/entegre-raporlama-value.jpg",
+      "layout": "right"
+    },
+    {
+      "type": "cta_box",
+      "title": "Entegre Raporlama Sürecinizi Birlikte Tasarlayalım",
+      "description": "Finansal ve ESG verilerinizi tek çerçevede birleştirerek paydaşlarınıza güçlü, şeffaf ve stratejik bir değer hikayesi sunalım.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

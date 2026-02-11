@@ -1,0 +1,195 @@
+{
+  "slug": "dahilde-isleme-rejimi-danismanligi",
+  "title": "Dahilde İşleme Rejimi",
+  "title_highlighted": "Danışmanlığı",
+  "layout_density": "compact",
+  "category": "Finansmana Erişim ve Sürdürülebilirlik",
+  "youtube_id": "7IDUfvKXEGY",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "Finansmana Erişim", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim" },
+    { "name": "Dahilde İşleme Rejimi Danışmanlığı", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim/dahilde-isleme-rejimi-danismanligi" }
+  ],
+  "hero": {
+    "title": "Dahilde İşleme Rejimi Danışmanlığı",
+    "description": "DİİB başvuru, sürdürme, revizyon ve kapatma süreçlerini mevzuata tam uyumla yönetin; ihracat tarafında maliyet avantajı sağlayın.",
+    "image": "/images/servisler/dahilde-isleme-hero.jpg",
+    "buttons": [
+      { "text": "Uygunluğu Analiz Edelim", "link": "#contact", "variant": "primary" },
+      { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "Dahilde İşleme",
+      "title_highlight": "Rejimi",
+      "description": "İhracatçı firmalar için DİR kapsamında vergi muafiyetleri, başvuru adımları, belge yönetimi ve kapanış süreçlerinde uçtan uca danışmanlık.",
+      "badge": "DİİB Süreç Yönetimi",
+      "features": [
+        "DYS üzerinden başvuru ve takip",
+        "Vergisel avantajların doğru kullanımı",
+        "Revizyon ve kapatma süreç yönetimi",
+        "YMM raporu dahil teknik destek"
+      ],
+      "image": "/images/servisler/dahilde-isleme-hero.jpg"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Dahilde İşleme İzin Belgesi Nedir?",
+      "content": "<p>Dahilde İşleme Rejimi (DİR), Türkiye'nin dış ticaret politikasına yönelik bir uygulama olup, ihracatçıların belirli mal ve hizmetleri yurt dışına göndermeden önce Türkiye'de işleyerek daha katma değerli hale getirmelerine olanak tanır. Bu rejim, özellikle ihracat sektörünü desteklemek ve Türk ekonomisinin dışa açılmasını sağlamak amacıyla geliştirilmiştir.</p><p>DİR, gümrük mevzuatına göre, ihracatçılara yurt dışına ihraç edilmek üzere temin edilen hammaddelerin veya yarı mamullerin Türkiye'de işlenmesi, işleme sürecinde kullanılan işçilik ve diğer hizmetlerin vergi muafiyetlerinden yararlanmasını sağlar. Bu şekilde, Türk üreticilerinin yurt dışında daha rekabetçi olabilmesi için gerekli olan maliyet avantajları sağlanmış olur.</p>",
+      "image": "/images/servisler/dahilde-isleme-process.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "text",
+      "title": "Dahilde İşleme İzni Süreci Nasıl İşler?",
+      "content": "<p>Dahilde İşleme İzni (Dİİ) süreci, ihracatçıların yurt dışından temin ettikleri hammaddeleri Türkiye'de işleyip, nihai ürün olarak ihraç etmelerini sağlayan bir sistemdir. İhracatçılar, bu izin için başvuru yapar ve Gümrük ve Ticaret Bakanlığı tarafından başvuruları incelenip onaylanır. İzin verildiğinde, belirli malzemeler gümrük vergisinden muaf tutulur ve ihracatçı, hammaddeleri işlemek üzere Türkiye'de kullanabilir.</p><p>İşleme süreci tamamlandığında, işlenen ürünler ihraç edilir ve gümrük işlemleri tamamlanarak nihai ürün yurtdışına gönderilir. Gümrük idaresi, işlemin yasal çerçeveye uygun yapıldığından emin olmak için denetimlerde bulunur. İhracatçılar, iznin verdiği avantajlarla daha düşük maliyetlerle üretim yapabilir ve dış ticaret süreçlerinde verimlilik elde edebilir.</p>"
+    },
+    {
+      "type": "text",
+      "title": "Dahilde İşlem Belgesi Nedir?",
+      "content": "<p>Dahilde İşleme İzin Belgesi (DİİB), ihracatçı firmaların, yurt dışından temin ettikleri hammaddeleri Türkiye'de işleyerek, işlenmiş ürünleri ihraç etmeleri için aldıkları resmi belgedir. Bu belge, ihracatçılara belirli malların gümrük vergisinden muaf tutulmasını sağlar. Yani, işlenmiş ürünlerin nihai ihraç edilmesi amacıyla, hammaddelerin ithalatı sırasında gümrük vergisi ve bazı diğer vergi yükümlülükleri uygulanmaz.</p><p>Dahilde İşlem Belgesi, işlenecek malların türü, miktarı, işleme yöntemleri ve nihai ürünlerin hangi ülkelere ihraç edileceği gibi detayları içerir. Bu belge, ihracatçıya, Türkiye'de üretim yaparken dışarıdan veya yurt içinden temin edilen hammaddelerin ekonomik olarak daha verimli bir şekilde işlenmesine olanak tanır ve rekabet gücünü artırır. Dahilde İşleme İzin Belgesi, belirli bir süre ve miktar için geçerlidir ve işleme süreci tamamlandıktan sonra, ilgili ürünler belirli denetimler ve gümrük işlemleriyle ihraç edilir.</p>"
+    },
+    {
+      "type": "info_list",
+      "title": "Dahilde İşleme İzin Belgesi ile Hangi Muafiyetler Elde Edilir?",
+      "items": [
+        { "title": "Üçüncü Ülke İthalatı Muafiyetleri", "desc": "Üçüncü ülkelerden yapılan ithalatta gümrük vergisi, KKDF, KDV ve diğer vergilerden muafiyet." },
+        { "title": "Vergi / Resim / Harç İstisnası", "desc": "DİR kapsamındaki işlemlerde vergi, resim ve harç istisnaları." },
+        { "title": "Yurt İçi Alımda KDV Muafiyeti", "desc": "Belge kapsamındaki yurt içi alımlarda KDV muafiyeti uygulanabilmesi." },
+        { "title": "İhracat Sayılan Satışlarda Avantaj", "desc": "İhracat sayılan satış ve teslimlerde gümrük vergisi muafiyetli ithalat imkanı." },
+        { "title": "Anti-Damping Muafiyeti", "desc": "Belirli koşullarda anti-damping vergisi muafiyeti." },
+        { "title": "Likidite Etkisi", "desc": "Vergisel yüklerin ötelenmesi/azalması ile işletmeye likidite katkısı." }
+      ]
+    },
+    {
+      "type": "tabs_content",
+      "title": "DİİB Yönetim Süreçleri",
+      "layout": "top_center",
+      "items": [
+        {
+          "label": "Kimler Alabilir?",
+          "title": "Kimler Dahilde İşleme İzin Belgesi Alabilir?",
+          "content": "<p>İmalatçı ve ihracatçı olan firmalar belge sahibi olabilir. Ancak imalatın bir kısmı yan sanayici firma vasıtasıyla yapılabilir veya ihracatlar bilfiil belge sahibi firma tarafından yapılamıyorsa aracı ihracatçı firma/firmalar ile yapılabilir.</p><p><em>* Sektöre göre değişkenlik gösterebilir.</em></p>"
+        },
+        {
+          "label": "Ne Zaman?",
+          "title": "Dahilde İşleme İzin Belgesi Ne Zaman Alınmalıdır?",
+          "content": "<p>Belgeniz bakanlık tarafından onay aldıktan sonra yapılan ithalat, ihracat veya yurt içi alım işlemleriniz belgeye yansıtılabilir. Belgeniz onay almadan geçmişte yapılan işlemler belgenize saydırılamaz. Bu nedenle ihracat veya hammadde alımlarınızdan önce belgenizi almanız önem teşkil etmektedir.</p>"
+        },
+        {
+          "label": "Süre",
+          "title": "Dahilde İşleme İzin Belgesi Süreleri",
+          "content": "<p>Mevzuat kapsamında sektöre göre orijinal belge süresi azami 12 aydır. Belge orijinal süresi yeterli olmadığı durumlarda mevzuat kapsamında belge koşullarının uygun olması halinde ek süre talebinde bulunulabilir.</p><p>Dahilde İşleme İzin Belgesi (D.İ.İ.B.) süresi, başvuruda belirtilen işleme sürecine ve ihraç edilecek ürünlerin türüne bağlı olarak değişir. Genellikle, bu süre 6 ay ile 24 ay arasında belirlenir ve başvuru sırasında hangi hammaddelerin işleneceği ve hangi koşullarda ihraç edileceği gibi faktörler dikkate alınarak belirlenir.</p><p>Süre bitiminde, işlenen ürünlerin ihraç edilmesi ve gümrük işlemlerinin tamamlanması gerekmektedir. İhracatçı, işleme süresi içinde gerçekleştirdiği üretim ve ihracat işlemleri hakkında gerekli raporları sunarak izni tamamlamalıdır. Süre bitmeden önce ek süre talep edilebilir, ancak bu talep, belirli şartların yerine getirilmesi koşuluyla değerlendirilir.</p>"
+        },
+        {
+          "label": "Başvuru",
+          "title": "Dahilde İşleme İzin Belgesine Nasıl Başvuru Yapılır?",
+          "content": "<p>Dahilde işleme izin belgesi başvuruları Ticaret Bakanlığı İhracat Genel Müdürlüğü'ne Destek Yönetim Sistemi (DYS) üzerinden yapılır. Dahilde işleme izin belgesi başvurusunda bulunacak firmaların öncelikle Destek Yönetim Sistemine (DYS) kaydolmaları gerekir.</p><p>Dahilde İşleme İzin Belgesi (DİİB) başvurusu, ihracatçı firmaların yurt dışından temin ettikleri hammaddeleri Türkiye'de işleyip nihai ürünler üretmeleri için yapılır. Başvuru, Ticaret Bakanlığı İhracat Genel Müdürlüğü'ne elektronik ortamda yapılır ve gerekli belgeler arasında dilekçe, DİİB Proje Formu, hammadde sarfiyat tablosu ve kapasite raporu bulunur. Başvurulan ürünün türüne göre, ek belgeler de gerekebilir.</p><p>Başvuru sürecinde, firmalar, kullanılacak hammaddelerin miktarını ve üretim süreçlerini detaylı şekilde belirtir. Başvuru kabul edilirse, firma, belirtilen koşullara göre hammaddeleri gümrük vergisinden muaf olarak temin edebilir ve Türkiye'de işleyip ihraç edebilir.</p>"
+        },
+        {
+          "label": "Alım Süreci",
+          "title": "Dahilde İşleme İzin Belgesi (D.İ.İ.B.) Alım Süreçleri",
+          "content": "<p>Dahilde İşleme İzin Belgesi (D.İ.İ.B.) alım süreci, ihracatçı firmaların yurt dışından temin ettikleri hammaddeleri Türkiye'de işleyerek nihai ürünler üretmeleri için uygulanan bir sistemdir. Başvuru süreci, Ticaret Bakanlığı İhracat Genel Müdürlüğü'ne Destek Yönetim Sistemi üzerinden elektronik ortamda yapılır. Başvuruda, gerekli belgeler arasında dilekçe, DİİB Proje Formu, hammadde sarfiyat tablosu ve kapasite raporu yer alır. Başvuru, başvurulan ürün ve firma türüne göre ek belgelerle desteklenebilir.</p><p>Başvuru onaylandığında, firmaya D.İ.İ.B. verilir ve firmalar, belirlenen hammaddeleri gümrük vergisi muafiyeti ile temin edebilir. İhracatçı, bu hammaddeleri Türkiye'de işleyerek nihai ürüne dönüştürebilir ve bu ürünleri yurt dışına ihraç edebilir. Süreç sonunda, işleme işleminin tamamlanıp gümrük işlemlerinin düzgün bir şekilde yapılması gerekir.</p>"
+        },
+        {
+          "label": "Kapatma",
+          "title": "Dahilde İşleme İzin Belgesi Kapatma",
+          "content": "<p>Dahilde İşleme İzin Belgesi (D.İ.İ.B.) kapanışı, işleme sürecinin tamamlanmasının ardından yapılır. İhracatçı, işleme izinli ürünleri belirtilen süre içinde ihraç ettikten sonra, belgeyi kapatmak için gümrük idaresine başvurur. Başvuru sırasında, işleme ve ihracat işlemlerine ilişkin detaylı raporlar sunulmalıdır. Ayrıca, işleme sırasında kullanılan hammaddelerin gümrük beyanları ve ihraç edilen ürünlerin belgeleri de ilgili makamlarla paylaşılır.</p><p>Belgenin kapanışı, izni veren gümrük idaresinin yaptığı denetimler sonrasında gerçekleştirilir. Eğer tüm işlemler yasal şartlara uygun şekilde tamamlanmışsa, D.İ.İ.B. kapanış işlemi onaylanır ve firmaya herhangi bir ek yükümlülük kalmaz. Ancak, eğer şartlar yerine getirilmemişse, gümrük idaresi durumu değerlendirip, gerekli düzeltmeleri talep edebilir.</p>"
+        }
+      ]
+    },
+    {
+      "type": "content_with_image",
+      "title": "Sistem Global Danışmanlık DİİB Hizmetleri",
+      "content": "<p>Dahilde işleme izin belgesi kapsamında başvurusu yapılacak olan ürünlerin tespit edilmesi için kapasite raporu değerlendirilmesi yapılır. Firma talepleriyle kapasite raporunun örtüşüp örtüşmediği konusunda ön analiz yapılarak firmaya detaylar aktarılır.</p><p><strong>BAŞVURU HİZMETİ:</strong></p><ul><li>Sistem Global uzmanına verilecek yetki için dahilde işleme izin belgesi yetki evrakları (Destek Yönetim Sistemi (DYS)) hazırlanması,</li><li>DYS üzerinden yetkilendirmenin açılmasının sağlanması,</li><li>Firma taleplerine göre belge projesinin hazırlanması,</li><li>Hazırlanan projenin firma onayına/uygunluğuna sunulması,</li><li>Firmanın projeye onay vermesi akabinde projenin DYS üzerinden girişlerinin yapılması,</li><li>Onay alan belge bilgilerinin firma ile paylaşılması,</li><li>Belge alımı sonrası belgeye dair özel hususları ve dikkat edilecek unsurları Kullanma Kılavuzunun hazırlanarak firmanıza ve muhasebe yetkililerinize iletilmesi.</li></ul><p><strong>SÜRDÜRME/İZLEME HİZMETİ:</strong></p><ul><li>Dahilde işleme izin belgesi çıktıktan sonra firmanın talepleri doğrultusunda gerekli olması halinde revizyon başvurularının yapılması, belge durumunun belirli periyodlarda özel hesaplamalarla firma ile paylaşılması, mevzuat bilgilendirmeleri,</li><li>Belgenin durumuna bağlı olarak karşılaşılabilecek durumlar hakkında firmaya bilgi verilmesi,</li><li>Belgede yurt içi alım yapıldıysa, faturalarının DYS'ye manuel girişlerinin sağlanması.</li></ul><p><strong>DAHİLDE İŞLEME İZİN BELGESİ KAPATMA HİZMETİ:</strong></p><ul><li>Süresi dolan veya kapatma talebi alınan belgeler için belgenin kapatılmaya uygun olup olmadığının tespitinin yapılması,</li><li>Ekspertiz veya YMM Raporunun hazırlanması için firmaya bilgi verilmesi ve takibinin yapılması,</li><li>Mevzuat gereğince gerekli olan kapama dosyasının hazırlanması ve DYS üzerinden kapatma talebinin yapılması,</li><li>Belgenin kapatılması sonrası kapatma yazısının firmaya ulaştırılması.</li></ul><p><strong>YMM RAPORU HİZMETİ:</strong></p><ul><li>Dahilde işleme izin belgesi kapsamında yurt içi alım yapıldıysa kapatma dosyasına YMM Raporunun eklenmesi gerekmektedir. YMM Raporunun hazırlanması konusunda hizmetimiz yer almaktadır. <a href=\"https://www.sistemglobal.com.tr/iletisim-9131/\" target=\"_blank\" rel=\"noreferrer\">Detaylı bilgi için arayabilirsiniz.</a></li></ul>",
+      "image": "/images/servisler/dahilde-isleme-consulting.jpg",
+      "image_position": "left"
+    },
+    {
+      "type": "text",
+      "title": "Dahilde İşleme İzin Belgesi Yasal Dayanakları Nelerdir?",
+      "content": "<ul><li>4458 sayılı Gümrük Kanunu</li><li>2005/8391 sayılı Dahilde İşleme Rejimi Kararı</li><li>İhracat 2006/12 sayılı Dahilde İşleme Rejimi Tebliği</li><li>2019/7 Ticaret Bakanlığı Destek Yönetim Sistemine İlişkin Uygulama Tebliği</li><li>İhracat 2005/2 sayılı İhracat Sayılan Satış ve Teslimler Hakkında Tebliğ</li><li><a href=\"https://ticaret.gov.tr/data/5b87048513b8761450e18dc5/2005-8391_Kararda_Dercedilmi%C5%9F-14092022.doc\" target=\"_blank\" rel=\"noreferrer\">2005-8391 DİR Kararı</a></li><li><a href=\"https://ticaret.gov.tr/data/5b87048513b8761450e18dc5/2006_12_D%C4%B0R%20TEBL%C4%B0%C4%9E%C4%B0%20280220223.docx\" target=\"_blank\" rel=\"noreferrer\">2006/12 Sayılı DİR Tebliği</a></li><li><a href=\"https://ticaret.gov.tr/data/5b87048513b8761450e18dc5/.Tar%C4%B1m%20%C3%9Cr%C3%BCnlerine%20%C4%B0li%C5%9Fkin%20Dahilde%20%C4%B0%C5%9Fleme%20Rejimi%20Genelgesi.%20(2016-1).docx\" target=\"_blank\" rel=\"noreferrer\">2016-1 Sayılı Tarım Ürünlerine İlişkin DİR Genelgesi</a></li><li><a href=\"https://ticaret.gov.tr/data/5b87048513b8761450e18dc5/2015-2_Sayili_Tekstil_Konfeksiyon_Deri_ve_Deri_Urunlerine_Iliskin_Dahilde_Isleme_Rejimi_Genelgesi.pdf\" target=\"_blank\" rel=\"noreferrer\">2015-2 Sayılı Tekstil, Konfeksiyon, Deri ve Deri Ürünleri DİR Genelgesi</a></li><li><a href=\"https://ticaret.gov.tr/data/5b87048513b8761450e18dc5/Kimya%20ve%20%20Toprak%20%C3%9Cr%C3%BCnlerine%20%C4%B0li%C5%9Fkin%20Dahilde%20%C4%B0%C5%9Fleme%20Rejimi%20Genelgesi.pdf\" target=\"_blank\" rel=\"noreferrer\">Kimya ve Toprak Ürünlerine İlişkin DİR Genelgesi</a></li><li><a href=\"https://ticaret.gov.tr/data/5b87048513b8761450e18dc5/Maden,%20Metal%20ve%20Orman%20%C3%9Cr%C3%BCnleri%20Sekt%C3%B6rleri%20Dahilde%20%C4%B0%C5%9Fleme%20Rejimi%20Genelgesi.pdf\" target=\"_blank\" rel=\"noreferrer\">Maden, Metal ve Orman Ürünleri Sektörleri DİR Genelgesi</a></li><li><a href=\"https://ticaret.gov.tr/data/5b87048513b8761450e18dc5/Makine,%20Otomotiv,%20Di%C4%9Fer%20Ula%C5%9F%C4%B1m%20Ara%C3%A7lar%C4%B1,%20Elektrik%20ve%20Elektronik%20Sekt%C3%B6r%C3%BC%20%C3%9Cr%C3%BCnlerine%20%C4%B0li%C5%9Fkin%20Dahilde%20%C4%B0%C5%9Fleme%20Rejimi%20Genelgesi.pdf\" target=\"_blank\" rel=\"noreferrer\">Makine, Otomotiv, Elektrik ve Elektronik Sektörü DİR Genelgesi</a></li><li><a href=\"https://ticaret.gov.tr/data/5b87048513b8761450e18dc5/2007-2_Otomasyon_Derecedilme_23.05.2016.docx\" target=\"_blank\" rel=\"noreferrer\">İhracat 2007-2 Sayılı DİR Otomasyon Tebliği</a></li><li><a href=\"https://ticaret.gov.tr/data/5b87048513b8761450e18dc5/%C4%B0hracat_2005-1_Sayili_Dir_Teb.doc\" target=\"_blank\" rel=\"noreferrer\">İhracat 2005/1 Sayılı DİR Tebliği ve Ekleri</a></li><li><a href=\"https://ticaret.gov.tr/data/5b87048513b8761450e18dc5/2005-2%20-%20dercedilmi%C5%9Fmetin%2002.03.2020.doc\" target=\"_blank\" rel=\"noreferrer\">İhracat Sayılan Satış ve Teslimler Hakkında Tebliğ (2005-2)</a></li><li><a href=\"https://ticaret.gov.tr/data/5b87048513b8761450e18dc5/2023-1%20say%C4%B1l%C4%B1%20Genelge.docx\" target=\"_blank\" rel=\"noreferrer\">Hak ve Yükümlülüklerin Devri Hakkında Genelge (2023/1)</a></li></ul>"
+    },
+    {
+      "type": "faq_section",
+      "title": "Dahilde İşleme Rejimi Hakkında Merak Edilenler",
+      "faqs": [
+        {
+          "q": "DİR'in amacı nedir?",
+          "a": "DİR (Dahilde İşleme Rejimi), Türkiye'de yerleşik firmaların, belirli şartlarla, yurtdışından ithal edilen malzemeleri işleyip, işlenmiş halde yeniden ihraç etmelerini sağlayan bir gümrük rejimidir. Bu rejimin amacı, Türkiye'nin ihracatını artırmak, yerli üretimin rekabet gücünü artırmak ve katma değerli ürünler üretmektir."
+        },
+        {
+          "q": "Dahilde işleme izin belgesi ve izni arasındaki fark nedir?",
+          "a": "Dahilde işleme izin belgesi, firmaların Dahilde İşleme Rejimi'nden faydalanabilmesi için gerekli olan resmi belgedir. Bu belge, firmalara ithalat yapma ve belirli gümrük avantajlarından yararlanma hakkı tanır. DİR izni ise, bu belgeyi alan firmaların ithalat yapmalarını sağlayan onaydır. Belge, genel yetkiyi tanırken, izin ise spesifik işlem hakları verir. Örneğin, montajlama, ambalajlama, tamirat gibi işlemler için izin kullanılır."
+        },
+        {
+          "q": "Dahilde işleme izin belgesi kapsamında ithalat nasıl yapılır?",
+          "a": "DİR kapsamında ithalat yapmak için, önce firmaların Gümrük ve Ticaret Bakanlığı'na başvurarak izin veya belge almaları gerekmektedir. Ardından, belirli bir işleme amacıyla ithalat yapılır. İthal edilen malzemeler, belirtilen sürede işlenip, tekrar ihraç edilmelidir."
+        },
+        {
+          "q": "Dahilde işleme izin belgesi süresi ne kadardır ve uzatılabilir mi?",
+          "a": "Dahilde işleme izin belgesi, sektöre göre 6 ay ila 24 ay arasında düzenlenir."
+        },
+        {
+          "q": "DİR kapsamında ithal edilen malların gümrük vergisi nasıl uygulanır?",
+          "a": "DİR kapsamında yapılan ithalatlarda, gümrük vergisi ödemesi genellikle ertelenir. Ancak, işleme süreci tamamlanmadığı veya belirlenen taahhütler yerine getirilmediği takdirde, gümrük vergisi uygulanabilir. Bu vergi, ithalat sırasında uygulanmaz ama ihraçta ödenebilir."
+        },
+        {
+          "q": "DİR kapsamında ithal edilen mallar üçüncü ülkelere satılabilir mi?",
+          "a": "DİR kapsamında ithal edilen malların, işlenip yeniden ihraç edilmesi gerekmektedir. Ancak, eğer mallar DİR şartları altında uygun şekilde işlenip ihraç edilirse, üçüncü ülkelere satılması mümkündür. İhraç edilen mallar, Türkiye'nin dış ticaretini artırmaya yöneliktir."
+        },
+        {
+          "q": "DİR'de telafi edici vergi uygulaması nedir?",
+          "a": "Telafi edici vergi, üçüncü ülke menşeli bir eşyanın Dahilde İşleme Rejimi (DİR) kapsamında ithal edilmesini takiben, üretim süreci sonunda bu eşyanın işlenmiş ürüne dönüşerek ATR Dolaşım Belgesi veya menşe ispat belgeleriyle birlikte Avrupa Birliği (AB) ülkelerine, Serbest Ticaret Anlaşması (STA) imzaladığımız ülkelere ya da Pan-Avrupa ve Pan-Avrupa-Akdeniz Menşe Kümülasyonu sistemine taraf ülkelere ihraç edilmesi durumunda, beyan esasına göre ihracat sırasında ödenmesi gereken vergidir."
+        },
+        {
+          "q": "İhracat taahhüdü nasıl yerine getirilir?",
+          "a": "İhracat taahhüdü, DİR kapsamında ithal edilen malların belirlenen süre içinde ihraç edilmesiyle yerine getirilir. Firma, bu taahhüdü yerine getirmediği takdirde, telafi edici vergi ve diğer yaptırımlarla karşılaşabilir."
+        },
+        {
+          "q": "DİR kapsamında ithal edilen mallar için KDV istisnası var mı?",
+          "a": "DİR kapsamında ithalat yapılan mallar için KDV istisnası uygulanabilir. Ancak, bu istisna yalnızca ithalatın DİR şartlarına uygun şekilde yapılması durumunda geçerlidir. İthal edilen malların işlenip yeniden ihraç edilmesi, KDV istisnasının şartıdır."
+        },
+        {
+          "q": "DİR'de cezai yaptırımlar ve sorumluluklar nelerdir?",
+          "a": "DİR kapsamında cezai yaptırımlar, rejim şartlarının yerine getirilmemesi durumunda uygulanır. Ayrıca, yasal sorumluluklar ve para cezaları da söz konusu olabilir."
+        }
+      ]
+    },
+    {
+      "type": "report_cards",
+      "title": "Ayrıca Bakınız",
+      "subtitle": "İlgili kaynaklara hızlı erişim",
+      "reports": [
+        {
+          "title": "DİİB Uygunluğunuzu Analiz Edin",
+          "url": "https://www.sistemglobal.com.tr/dahilde-isleme-izin-belgesi-diib-uygunluk-analizi/",
+          "meta": "Analiz"
+        },
+        {
+          "title": "Kota Gözetim Belgesi, Tarife Kontenjanı ve İthal Lisansı Nedir?",
+          "url": "https://www.sistemglobal.com.tr/bultenler/ar-ge/kota-gozetim-belgesi-tarife-kontenjani-ve-ithal-lisansi-nedir/",
+          "meta": "Yayın"
+        }
+      ]
+    },
+    {
+      "type": "image_text",
+      "title": "DİR Süreçlerinde Mevzuat Uyumlu ve Ölçülebilir Yönetim",
+      "content": "<p>Belge başvurusundan kapanışa kadar tüm aşamalarda doğru dokümantasyon, düzenli takip ve mevzuata uyumlu yürütme, maliyet avantajını doğrudan etkiler.</p><p>Süreçlerin uzman ekip tarafından yönetilmesi; revizyon, raporlama ve kapatma adımlarında riskleri azaltır ve operasyonel verimliliği artırır.</p>",
+      "image": "/images/servisler/dahilde-isleme-legal.jpg",
+      "layout": "right"
+    },
+    {
+      "type": "cta_box",
+      "title": "Dahilde İşleme Sürecinizi Birlikte Yönetelim",
+      "description": "DİİB başvuru, izleme, revizyon, YMM raporu ve kapatma süreçlerinde uçtan uca danışmanlık için bizimle iletişime geçin.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

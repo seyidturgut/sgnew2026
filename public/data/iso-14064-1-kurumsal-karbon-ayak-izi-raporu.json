@@ -1,0 +1,185 @@
+{
+  "slug": "iso-14064-1-kurumsal-karbon-ayak-izi-raporu",
+  "title": "ISO 14064-1",
+  "title_highlighted": "Kurumsal Karbon Ayak İzi Raporu",
+  "layout_density": "compact",
+  "category": "Finansmana Erişim ve Sürdürülebilirlik",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
+    { "name": "ISO 14064-1 Kurumsal Karbon Ayak İzi Raporu", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/iso-14064-1-kurumsal-karbon-ayak-izi-raporu" }
+  ],
+  "hero": {
+    "title": "ISO 14064-1 Kurumsal Karbon Ayak İzi Raporu",
+    "description": "Sera gazı emisyonlarınızı bilimsel çerçevede hesaplayın, yönetin ve azaltım stratejinizi veriye dayalı kurgulayın.",
+    "image": "/images/servisler/iso-14064-1-hero.jpg",
+    "buttons": [
+      { "text": "Karbon Envanteri Oluştur", "link": "#services", "variant": "primary" },
+      { "text": "Uzman Desteği Alın", "link": "#contact", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "Veriye Dayalı",
+      "title_highlight": "Karbon Yönetimi",
+      "description": "Kurumsal karbon ayak izinizi Kapsam 1, 2 ve 3 bazında hesaplayın; net sıfır, TSRS ve ESG hedefleri için güçlü veri altyapısı oluşturun.",
+      "badge": "ISO 14064-1 + GHG Protocol",
+      "features": [
+        "Ton CO2e bazlı karşılaştırılabilir emisyon envanteri",
+        "Kapsam 1, 2, 3 bütüncül analiz",
+        "CBAM ve tedarik zinciri taleplerine hazırlık",
+        "Azaltım fırsatlarını görünür kılan bilimsel yaklaşım"
+      ],
+      "image": "/images/servisler/iso-14064-1-hero.jpg"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Sera Gazı Emisyonlarınızı Bilimsel Bir Çerçeveyle Hesaplayın, Yönetin ve Azaltın",
+      "content": "<p>Kurumsal Karbon Ayak İzi, bir işletmenin bir yıl boyunca gerçekleştirdiği tüm faaliyetlerden kaynaklanan doğrudan ve dolaylı sera gazı emisyonlarının toplamını ifade eder ve birimi ton CO2 eşdeğeri olarak hesaplanır. Bu çalışma, şirketlerin çevresel etkilerini sayısal olarak ortaya koyması açısından en kritik sürdürülebilirlik araçlarından biridir.</p><p>ISO 14064-1 standardı ve Greenhouse Gas Protocol çerçevesi, karbon emisyonlarının hangi kaynaklardan geldiğini tutarlı, karşılaştırılabilir ve doğrulanabilir bir şekilde analiz etmeyi mümkün kılar. Farklı sera gazlarının küresel ısınma potansiyeleri (GWP) bilimsel olarak tanımlandığından, tüm etkiler CO2 eşdeğeri cinsinden tek bir ortak birime dönüştürülür ve böylece kurumlar arasında karşılaştırma yapılabilir hale gelir.</p><p>Günümüzde karbon yönetimi yalnızca çevresel bir sorumluluk değil; aynı zamanda tedarik zinciri talepleri, uluslararası regülasyonlar, Avrupa Yeşil Mutabakatı, CBAM ve finansal kriterlerle doğrudan ilişkili stratejik bir gerekliliktir. Pek çok sektör için artık yıllık karbon ayak izi hesaplaması, sürdürülebilirlik yol haritasının vazgeçilmez bir parçasıdır.</p>",
+      "image": "/images/servisler/iso-14064-1-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "services_list",
+      "compact": true,
+      "title": "Kurumsal Karbon Ayak İzi Neden Önemli?",
+      "services": [
+        { "title": "Sayısal Çevresel Görünürlük", "desc": "Çevresel konumunuzu ölçülebilir ve doğrulanabilir verilerle ortaya koyar." },
+        { "title": "Sürdürülebilirlik Süreçlerine Altyapı", "desc": "Net sıfır, SBTi, TSRS ve ESG gibi süreçlerin temel veri kaynağını sağlar." },
+        { "title": "Uluslararası Rekabete Uyum", "desc": "CBAM ve küresel tedarik zincirlerinde artan karbon şeffaflığı beklentilerine yanıt verir." },
+        { "title": "Verimlilik ve Maliyet Avantajı", "desc": "Enerji verimliliği ve maliyet düşürme fırsatlarını görünür kılar." },
+        { "title": "Stratejik Karar Desteği", "desc": "Risk yönetimi ve uzun vadeli iklim stratejileri için bilimsel bir zemin oluşturur." }
+      ]
+    },
+    {
+      "type": "tabs_content",
+      "title": "Karbon Ayak İzi Hesaplamasının Kapsamları Nelerdir?",
+      "layout": "top_center",
+      "items": [
+        {
+          "label": "Kapsam 1",
+          "title": "Kapsam 1 - Doğrudan Emisyonlar",
+          "content": "<p>Şirketin kontrolü altındaki faaliyetlerden kaynaklanan emisyonlardır. Yakıt tüketimi, tesis içi prosesler veya işletmeye ait araçlar bu kategoriye dahildir.</p>"
+        },
+        {
+          "label": "Kapsam 2",
+          "title": "Kapsam 2 - Enerji Kaynaklı Dolaylı Emisyonlar",
+          "content": "<p>Satın alınan elektrik, ısıtma veya soğutma gibi enerji tüketimlerinden doğan emisyonları ifade eder.</p>"
+        },
+        {
+          "label": "Kapsam 3",
+          "title": "Kapsam 3 - Diğer Dolaylı Emisyonlar",
+          "content": "<p>Tedarik zinciri, taşımacılık, ürün kullanımı, atık yönetimi, çalışan seyahatleri gibi şirketin doğrudan kontrol etmediği ancak faaliyetleriyle bağlantılı tüm emisyonları kapsar. Günümüzde kurumların en büyük karbon etkisi çoğunlukla bu kategoride ortaya çıkar.</p>"
+        }
+      ]
+    },
+    {
+      "type": "process_steps",
+      "title": "ISO 14064-1'e Uygun Bir Çalışma Nasıl Yürütülür?",
+      "description": "ISO 14064-1 uyumlu karbon ayak izi çalışmasını sistematik veri toplama, hesaplama ve analiz adımlarıyla uçtan uca yürütüyoruz.",
+      "steps": [
+        {
+          "title": "Sınırların Belirlenmesi",
+          "desc": "Kurumun organizasyon yapısını ve operasyon sınırlarını netleştirerek çalışmanın kapsamını belirliyoruz."
+        },
+        {
+          "title": "Veri Toplama",
+          "desc": "Enerji tüketim kayıtları, yakıt kullanımı, lojistik ve taşımacılık verileri, satın alma ve tedarikçi bilgileri, proses kaynaklı teknik veriler gibi tüm girdileri sistematik topluyoruz."
+        },
+        {
+          "title": "Emisyon Hesaplama ve Envanter Oluşturma",
+          "desc": "Toplanan bilgileri bilimsel emisyon faktörleriyle analiz ederek kurumun yıllık sera gazı envanterini oluşturuyoruz."
+        },
+        {
+          "title": "Raporlama ve Yol Haritası",
+          "desc": "Toplam karbon etkisini ortaya koyan sonuçları raporluyor; azaltım öncelikleri ve stratejik aksiyon planını tanımlıyoruz."
+        }
+      ]
+    },
+    {
+      "type": "process_steps",
+      "title": "ISO 14064-1 Uyumlu Karbon Ayak İzi Hesaplama Sürecimiz",
+      "description": "Kuruma özel veri toplama, hesaplama ve analiz adımlarıyla emisyonları görünür kılan sistematik bir süreç yürütüyoruz.",
+      "steps": [
+        {
+          "title": "1. Sistem Sınırlarının Belirlenmesi",
+          "desc": "Öncelikle şirketin operasyonel ve organizasyonel sınırları belirlenir; emisyonların hangi kapsamlar altında ele alınacağı netleştirilir."
+        },
+        {
+          "title": "2. Veri Toplama",
+          "desc": "Kuruma özel hazırlanmış veri şablonları ile enerji tüketimi, yakıt kullanımı, lojistik faaliyetleri, satın alma kayıtları, tedarikçi verileri ve ilgili operasyonel bilgiler toplanır."
+        },
+        {
+          "title": "3. Emisyon Hesaplamaları",
+          "desc": "Toplanan veriler, uluslararası tanınmış emisyon faktörleri ve bilimsel metodolojiler kullanılarak CO2 eşdeğeri formuna dönüştürülür. Bu aşamada sektörel ve bölgesel farklılıklar dikkate alınır."
+        },
+        {
+          "title": "4. Sonuçların Analizi ve Değerlendirme",
+          "desc": "Hesaplamalar sonrasında şirketin emisyon yoğun noktaları belirlenir; operasyonların hangi alanlarda karbon etkisi yarattığı detaylı şekilde analiz edilir."
+        }
+      ]
+    },
+    {
+      "type": "info_list",
+      "title": "Kimler Kurumsal Karbon Ayak İzi Hesaplamalıdır?",
+      "items": [
+        {
+          "title": "İhracat Yapan Şirketler",
+          "desc": "Uluslararası pazarlarda karbon şeffaflığı beklentilerine uyum sağlamak isteyen firmalar."
+        },
+        {
+          "title": "Sanayi ve Üretim Sektöründeki İşletmeler",
+          "desc": "Operasyonel emisyonlarını ölçmek ve azaltım planlarını yapılandırmak isteyen kuruluşlar."
+        },
+        {
+          "title": "Tedarik Zincirinin Parçası Olan Kuruluşlar",
+          "desc": "Müşteri ve ana sanayi şirketlerinin karbon veri taleplerine yanıt vermesi gereken işletmeler."
+        },
+        {
+          "title": "Sürdürülebilir Finansmana Erişmek İsteyen Şirketler",
+          "desc": "Yeşil finansman ve yatırım süreçlerinde doğrulanabilir emisyon verisi sunmak isteyen kurumlar."
+        },
+        {
+          "title": "TSRS, ESG veya SBTi Kapsamında Raporlama Yapan Kurumlar",
+          "desc": "Raporlama süreçleri için güvenilir karbon envanter altyapısı oluşturmak isteyen şirketler."
+        },
+        {
+          "title": "Yüksek Etkili Sektörler",
+          "desc": "Enerji, lojistik, inşaat ve altyapı gibi karbon etkisi yüksek sektörlerde faaliyet gösteren kuruluşlar."
+        },
+        {
+          "title": "Net Sıfır veya İklim Taahhüdü Olan Kuruluşlar",
+          "desc": "Bilim temelli azaltım hedeflerini ölçülebilir verilerle desteklemek isteyen şirketler."
+        },
+        {
+          "title": "Marka İtibarını Güçlendirmek İsteyen Tüm Şirketler",
+          "desc": "Paydaş güvenini artırmak için şeffaf ve karşılaştırılabilir karbon verisi sunmak isteyen kurumlar."
+        }
+      ]
+    },
+    {
+      "type": "content_with_image",
+      "title": "Neden Karbon Ayak İzi Çalışması Yapılmalı?",
+      "content": "<ul><li><strong>Stratejik iklim hedeflerinin temelini oluşturur:</strong> Net sıfır, SBTi veya TSRS gibi süreçlere giden yolun ilk adımıdır.</li><li><strong>Emisyon azaltım fırsatlarını görünür kılar:</strong> Enerji verimliliği ve operasyonel iyileştirme potansiyellerini somutlaştırır.</li><li><strong>Tedarik zinciri sürdürülebilirliğini güçlendirir:</strong> Kapsam 3 analizi ile kritik emisyon kaynakları belirlenir.</li><li><strong>Paydaş güvenini artırır:</strong> Şeffaf, doğrulanabilir ve karşılaştırılabilir emisyon verileri kurumun sürdürülebilirlik itibarını güçlendirir.</li><li><strong>Yasal ve gönüllü raporlama gerekliliklerine uyum sağlar:</strong> TSRS, CDP, TCFD ve uluslararası raporlama standartları için zorunlu altyapıyı oluşturur.</li></ul>",
+      "image": "/images/servisler/iso-14064-1-scope.jpg",
+      "image_position": "left"
+    },
+    {
+      "type": "image_text",
+      "title": "Karbon Verisini Stratejik Avantaja Dönüştürün",
+      "content": "<p>ISO 14064-1 uyumlu karbon envanteri, şirketinizin iklim performansını yönetilebilir ve karşılaştırılabilir hale getirir. Bu yaklaşım, hem iç operasyonlarda iyileştirme alanlarını netleştirir hem de yatırımcı, müşteri ve tedarik zinciri paydaşlarıyla daha güçlü bir güven ilişkisi kurar.</p><p>Doğru kurgulanmış karbon yönetimi, sadece uyumu değil; rekabet gücünü, maliyet verimliliğini ve uzun vadeli kurumsal dayanıklılığı da güçlendirir.</p>",
+      "image": "/images/servisler/iso-14064-1-strategy.jpg",
+      "layout": "right"
+    },
+    {
+      "type": "cta_box",
+      "title": "Kurumsal Karbon Ayak İzi Çalışmanızı Birlikte Başlatalım",
+      "description": "ISO 14064-1 ve GHG Protocol uyumlu envanter, raporlama ve azaltım yol haritasını şirketinize özel kurgulayalım.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

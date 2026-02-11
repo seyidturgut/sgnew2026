@@ -1,0 +1,141 @@
+{
+  "slug": "iso-14067-urun-karbon-ayak-izi",
+  "title": "ISO 14067",
+  "title_highlighted": "Ürün Karbon Ayak İzi",
+  "layout_density": "compact",
+  "category": "Finansmana Erişim ve Sürdürülebilirlik",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
+    { "name": "ISO 14067 - Ürün Karbon Ayak İzi", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/iso-14067-urun-karbon-ayak-izi" }
+  ],
+  "hero": {
+    "title": "ISO 14067 - Ürün Karbon Ayak İzi",
+    "description": "Ürün yaşam döngünüzün karbon etkisini bilimsel yöntemlerle görünür kılın ve düşük karbonlu ürün stratejinizi güçlendirin.",
+    "image": "/images/servisler/iso-14067-hero.jpg",
+    "buttons": [
+      { "text": "Ürün Karbon Analizi", "link": "#services", "variant": "primary" },
+      { "text": "Uzman Desteği Alın", "link": "#contact", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "Yaşam Döngüsü",
+      "title_highlight": "Karbon Etkisi",
+      "description": "Hammaddeden bertarafa kadar ürününüzün karbon etkisini ölçün; tasarım, üretim ve tedarik zinciri kararlarınızı veriye dayalı yönetin.",
+      "badge": "ISO 14067 Uyumlu",
+      "features": [
+        "Ürün bazında uçtan uca emisyon görünürlüğü",
+        "Karbon yoğun sıcak noktaların tespiti",
+        "Düşük karbonlu ürün geliştirme için teknik altyapı",
+        "ESG ve iklim hedeflerine ölçülebilir katkı"
+      ],
+      "image": "/images/servisler/iso-14067-hero.jpg"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Ürün Yaşam Döngünüzün Karbon Etkisini Bilimsel Bir Yaklaşımla Ortaya Koyun",
+      "content": "<p>ISO 14067, bir ürünün yaşam döngüsü boyunca oluşturduğu sera gazı emisyonlarını bilimsel yöntemlerle hesaplamak için kullanılan uluslararası bir standarttır. Bu yaklaşım, hammaddenin çıkarılmasından üretim süreçlerine, lojistikten ürün kullanımına ve bertaraf aşamasına kadar tüm adımlarda ortaya çıkan karbon etkisini bütünsel bir çerçevede analiz eder.</p><p>Bu sayede işletmeler, yalnızca üretim adımlarındaki karbon yoğunluğunu değil; tedarik zinciri, süreç tasarımı ve ürün ömrü boyunca oluşan çevresel etkileri de net bir biçimde ortaya koyabilir. Ürün karbon ayak izi, düşük karbonlu ürün geliştirme hedeflerinin ve iklim stratejilerinin temel bileşenlerinden biridir.</p>",
+      "image": "/images/servisler/iso-14067-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "services_list",
+      "compact": true,
+      "title": "Ürün Karbon Ayak İzi Çalışması Şirketinize Ne Kazandırır?",
+      "services": [
+        { "title": "Karbon Yoğun Süreçlerin Görünürlüğü", "desc": "Yaşam döngüsü boyunca karbon etkisinin hangi aşamalarda yoğunlaştığını bilimsel verilerle ortaya çıkarır." },
+        { "title": "Düşük Karbonlu Ürün Geliştirme", "desc": "Tasarım ve üretim süreçlerinde iyileştirme yapılması için gerekli teknik veriyi sağlar." },
+        { "title": "Enerji ve Kaynak Verimliliği", "desc": "Gereksiz kaynak kullanımının tespitiyle operasyonel maliyet avantajı sunar." },
+        { "title": "İklim Stratejisinin Güçlenmesi", "desc": "Emisyon azaltım planlarının somut ve doğrulanabilir verilerle kurgulanmasını sağlar." },
+        { "title": "Tedarik Zinciri Optimizasyonu", "desc": "Hammadde ve proses kaynaklı karbon etkileri görünür hale geldiği için satın alma stratejilerini güçlendirir." },
+        { "title": "Sürdürülebilirlik Performansı", "desc": "ESG değerlendirmeleri ve kurumsal sürdürülebilirlik hedefleri için güçlü bir kriter seti sunar." },
+        { "title": "Uluslararası Rekabet Avantajı", "desc": "Düşük karbonlu ürünlere olan talep arttıkça şirketin pazar konumunu güçlendirir." }
+      ]
+    },
+    {
+      "type": "tabs_content",
+      "title": "Hizmet Kapsamımızda Neler Yapıyoruz?",
+      "layout": "top_center",
+      "items": [
+        {
+          "label": "1. Sınırlar",
+          "title": "Ürün Sistem Sınırlarının Belirlenmesi",
+          "content": "<p>Ürünün yaşam döngüsü boyunca analiz kapsamına alınacak tüm aşamalar ve sistem sınırları netleştirilir.</p>"
+        },
+        {
+          "label": "2. Veri Toplama",
+          "title": "Veri Toplama Sürecinin Yönetilmesi",
+          "content": "<p>Hammadde, üretim, enerji, lojistik, kullanım ve bertaraf aşamalarına ilişkin veriler sistematik ve doğrulanabilir şekilde toplanır.</p>"
+        },
+        {
+          "label": "3. Hesaplama",
+          "title": "Emisyon Hesaplamalarının Yapılması",
+          "content": "<p>Toplanan veriler uluslararası kabul görmüş emisyon faktörleri ile analiz edilerek ürün karbon ayak izi hesaplanır.</p>"
+        },
+        {
+          "label": "4. Analiz",
+          "title": "Karbon Etkisi Analizi ve Sıcak Noktaların Tespiti",
+          "content": "<p>Karbon etkisinin yoğunlaştığı kritik süreçler belirlenir ve öncelikli iyileştirme alanları ortaya konur.</p>"
+        },
+        {
+          "label": "5. Azaltım",
+          "title": "Ürün Bazlı Azaltım Stratejilerinin Oluşturulması",
+          "content": "<p>Düşük karbonlu üretim ve ürün geliştirme için uygulanabilir teknik ve operasyonel azaltım aksiyonları planlanır.</p>"
+        },
+        {
+          "label": "6. Rapor",
+          "title": "ISO 14067 Uyumlu Son Raporun Hazırlanması",
+          "content": "<p>Çalışma çıktıları ISO 14067 standardına uygun rapor formatında hazırlanarak karar süreçlerine entegre edilir.</p>"
+        }
+      ]
+    },
+    {
+      "type": "info_list",
+      "title": "Kimler Ürün Karbon Ayak İzi Hesaplamalıdır?",
+      "items": [
+        {
+          "title": "Üretim ve Sanayi Şirketleri",
+          "desc": "Ürün bazlı emisyon etkisini görünür kılmak ve azaltım planı oluşturmak isteyen kuruluşlar."
+        },
+        {
+          "title": "İhracat Yapan İşletmeler",
+          "desc": "Uluslararası müşteri ve pazarların düşük karbon beklentilerine uyum sağlamak isteyen firmalar."
+        },
+        {
+          "title": "Tedarik Zinciri Yönetimi Güçlü Şirketler",
+          "desc": "Tedarikçi kaynaklı karbon etkilerini analiz edip optimize etmek isteyen kurumlar."
+        },
+        {
+          "title": "Düşük Karbonlu Ürün Stratejisi Benimseyen Firmalar",
+          "desc": "Ürün tasarımını sürdürülebilirlik odaklı dönüştürmek isteyen işletmeler."
+        },
+        {
+          "title": "ESG ve Sürdürülebilirlik Performansını Yükseltmek İsteyen Kurumlar",
+          "desc": "Kurumsal raporlama ve yatırımcı iletişiminde ürün bazlı karbon verisine ihtiyaç duyan şirketler."
+        },
+        {
+          "title": "Çevresel İyileştirme Hedefleyen Şirketler",
+          "desc": "Müşteri talebi veya marka imajı nedeniyle çevresel etkisini somut biçimde azaltmak isteyen kuruluşlar."
+        }
+      ]
+    },
+    {
+      "type": "image_text",
+      "title": "Ürün Bazında Karbon Verisi ile Rekabet Gücünüzü Artırın",
+      "content": "<p>ISO 14067 çalışmaları, ürünlerinizin çevresel etkisini ölçülebilir hale getirerek iyileştirme kararlarını teknik veriye dayandırır. Bu sayede kaynak verimliliği artar, emisyon yoğun süreçler optimize edilir ve ürün portföyünüz daha sürdürülebilir hale gelir.</p><p>Doğru kurgulanmış bir ürün karbon ayak izi yaklaşımı, hem regülasyonlara uyumu hızlandırır hem de uluslararası pazarlarda şirketinizin tercih edilirliğini güçlendirir.</p>",
+      "image": "/images/servisler/iso-14067-strategy.jpg",
+      "layout": "right"
+    },
+    {
+      "type": "cta_box",
+      "title": "ISO 14067 Ürün Karbon Ayak İzi Sürecinizi Birlikte Yönetelim",
+      "description": "Ürün bazlı emisyon hesaplama, sıcak nokta analizi ve azaltım stratejilerini şirketinize özel bir modelle hayata geçirelim.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

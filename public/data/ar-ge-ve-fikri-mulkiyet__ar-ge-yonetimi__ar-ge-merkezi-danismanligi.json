@@ -1,0 +1,144 @@
+{
+  "slug": "ar-ge-merkezi-danismanligi",
+  "title": "Ar-Ge Merkezi",
+  "title_highlighted": "Danışmanlığı",
+  "layout_density": "compact",
+  "category": "Ar-Ge ve Fikri Mülkiyet",
+  "youtube_id": "9YYqwDgeLWY",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Ar-Ge ve Fikri Mülkiyet", "link": "/servisler/ar-ge-ve-fikri-mulkiyet" },
+    { "name": "Ar-Ge Yönetimi", "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi" },
+    { "name": "Ar-Ge Merkezi Danışmanlığı", "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/ar-ge-merkezi-danismanligi" }
+  ],
+  "hero": {
+    "title": "Ar-Ge Merkezi Danışmanlığı",
+    "description": "Ar-Ge ve tasarım süreçlerinizi mevzuata uyumlu biçimde yapılandırın, teşviklerden maksimum fayda sağlayın.",
+    "image": "https://images.unsplash.com/photo-1489515217757-5fd1be406fef?auto=format&fit=crop&w=1800&q=80",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Süreçleri İnceleyin", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "Ar-Ge merkeziniz için",
+      "title_highlight": "uçtan uca danışmanlık",
+      "description": "Ar-Ge/Tasarım ve yenilik projelerini yürütmek üzere organizasyon yapısı içinde ayrı bir birim olarak kurgulanan merkezler için teknik, mali ve mevzuat odaklı bütünleşik danışmanlık sunuyoruz.",
+      "badge": "5746 ve Ar-Ge Merkezi Süreçleri",
+      "features": [
+        "Başvuru dosyası ve uygunluk/fayda analizi",
+        "Ar-Ge proje değerlendirme ve yönlendirme",
+        "Teşvik uygulama ve raporlama süreçleri",
+        "Bakanlık yönetmeliğine tam uyum"
+      ],
+      "image": "https://images.unsplash.com/photo-1581092921461-eab62e97a780?auto=format&fit=crop&w=1600&q=80"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Ar-Ge ve Tasarım Merkezi Nedir?",
+      "content": "<p>Ar-Ge/Tasarım ve yenilik projelerini veya sözleşme çerçevesinde siparişe dayalı olarak yürütülen Ar-Ge/Tasarım ve yenilik faaliyetlerini gerçekleştirmek üzere kurulan; dar mükellef kurumların Türkiye'deki iş yerleri dahil, kanuni veya iş merkezi Türkiye'de bulunan sermaye şirketlerinin organizasyon yapısı içerisinde ayrı bir birim şeklinde örgütlenmiş yapıları ifade eder.</p><p>Ar-Ge merkezi için münhasıran yurt içinde araştırma ve geliştirme faaliyetlerinde bulunan en az 15 (belirli sektörler için 30), tasarım merkezi için 10 tam zaman eşdeğer Ar-Ge/Tasarım personeli istihdam eden, yeterli Ar-Ge birimi ve yeteneği olan birimler bu kapsamda değerlendirilir.</p><p>Ar-Ge ve Tasarım danışmanlık hizmeti; şirketlerin araştırma ve geliştirme süreçlerini daha verimli hale getirmelerine, teknolojik gelişmelere uyum sağlamalarına ve rekabet avantajı elde etmelerine katkı sunar. Strateji oluşturma, yeni ürün geliştirme, mevcut ürün iyileştirme, proje yönetimi, pazar araştırması, ticarileşme stratejileri ve fikri mülkiyet yönetimi gibi başlıkları kapsar.</p>",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1400&q=80",
+      "image_position": "right"
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Ar-Ge ve Tasarım Merkezi Destekleri",
+      "benefits": [
+        {
+          "title": "Vergi İndirimleri",
+          "desc": "Ar-Ge merkezi belgesi almış şirketler için Ar-Ge projelerinin finansmanına katkı sağlayan vergi indirimlerinden yararlanma imkanı.",
+          "icon": "Coins"
+        },
+        {
+          "title": "Kredi ve Hibe Destekleri",
+          "desc": "Düşük faizli kredi imkanları ve hibe mekanizmaları ile projelerin finansal sürdürülebilirliğinin güçlendirilmesi.",
+          "icon": "TrendingUp"
+        },
+        {
+          "title": "İhracat ve İşbirliği Teşvikleri",
+          "desc": "Ulusal ve uluslararası pazarda rekabet gücünü artırmaya yönelik ihracat destekleri ve işbirliği fırsatları.",
+          "icon": "Globe"
+        },
+        {
+          "title": "Personel Teşvikleri",
+          "desc": "Gelir vergisi stopajı indirimi, sigorta primi işveren hissesi desteği ve damga vergisi istisnası gibi avantajlarla uzman istihdamının desteklenmesi.",
+          "icon": "Users"
+        }
+      ]
+    },
+    {
+      "type": "service_cards",
+      "title": "5746 Sayılı Kanun Kapsamında Teşvikler",
+      "cards": [
+        {
+          "title": "Ar-Ge İndirimi",
+          "desc": "Ar-Ge ve tasarım merkezlerinde gerçekleştirilen Ar-Ge, yenilik ve tasarım harcamalarının tamamı (%100) kurumlar vergisi matrahından indirilebilir.",
+          "icon": "PieChart",
+          "color": "blue"
+        },
+        {
+          "title": "Gelir Vergisi İstisnası",
+          "desc": "%80 - %90 - %95 oranlarında gelir vergisi istisnası uygulanabilir.",
+          "icon": "ShieldCheck",
+          "color": "green"
+        },
+        {
+          "title": "SGK ve Diğer İstisnalar",
+          "desc": "%50 SGK işveren hissesi teşviği, damga vergisi istisnası, gümrük vergisi muafiyeti ve yeni makine-teçhizat alımlarında KDV istisnası.",
+          "icon": "Scale",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "stats_highlight",
+      "stats": [
+        { "number": "1", "label": "Türkiye'nin İlk Ar-Ge Merkezi", "icon": "Award" },
+        { "number": "28", "label": "Yılı Aşkın Tecrübe", "icon": "Star" },
+        { "number": "93", "label": "Yüksek Başarı Oranı", "icon": "Target" },
+        { "number": "500", "label": "Ar-Ge Merkezi Kurulumu", "icon": "Factory" },
+        { "number": "1000", "label": "TÜBİTAK Projesi", "icon": "BookOpen" }
+      ]
+    },
+    {
+      "type": "content_with_image",
+      "title": "Ar-Ge ve Tasarım Merkezi Danışmanlığının Faydaları",
+      "content": "<p>Ar-Ge ve Tasarım Merkezi Danışmanlığı; işletmelere verimlilik artışı, yenilikçi proje yönetimi ve rekabetçi pazarlarda stratejik konumlanma açısından önemli faydalar sağlar.</p><p>Ar-Ge Merkezi Belgesi alım sürecinin doğru yönetilmesiyle devlet teşviklerinden yararlanma hakkı elde edilir; vergi indirimleri, kredi ve hibe programlarına erişim kolaylaşır.</p><p>Bu yapı, şirketlerin Ar-Ge ve tasarım faaliyetlerini resmi olarak güçlendirirken, sürdürülebilir inovasyon kapasitesi oluşturmasına katkı sunar.</p>",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1400&q=80",
+      "image_position": "left"
+    },
+    {
+      "type": "services_list",
+      "title": "Sistem Global ve Ar-Ge Merkezi Danışmanlık Hizmetleri",
+      "compact": true,
+      "services": [
+        { "title": "Ar-Ge Merkezi olmak için mali ve teknik uygunluk/fayda analizi raporu", "desc": "" },
+        { "title": "5746 sayılı Ar-Ge Kanunu çerçevesinde başvuru ve sürdürme işlemlerine ilişkin eylem planı oluşturulması", "desc": "" },
+        { "title": "Ar-Ge Merkezi başvuru dosyası hazırlama ve belge alımına yönelik danışmanlık", "desc": "" },
+        { "title": "Projelerin OSLO ve FRASCATI kılavuzları kapsamında değerlendirilmesi ve yönlendirilmesi", "desc": "" },
+        { "title": "Ar-Ge ve inovasyon sürecinin kurgulanması ve yönetimi", "desc": "" },
+        { "title": "Firmaların Ar-Ge ve inovasyon stratejilerinin oluşturulması ve yönetimi", "desc": "" },
+        { "title": "Ar-Ge merkezi yetkinlikleri, fikri hakları ve iş birliklerinin artırılmasına yönelik çalışmalar", "desc": "" },
+        { "title": "Ar-Ge merkezi projelerinin takibi, dışarıda geçen zaman ve tam zaman eşdeğer personel hesaplamaları", "desc": "" },
+        { "title": "Ar-Ge merkezi faaliyet raporu dosya hazırlığı ve portal girişi", "desc": "" },
+        { "title": "Ar-Ge merkezi teşviklerinden en üst seviyede fayda için teşvik uygulama danışmanlığı", "desc": "" },
+        { "title": "Sanayi ve Teknoloji Bakanlığı'nın güncel Ar-Ge Merkezleri Yönetmeliğine tam uyum danışmanlığı", "desc": "" }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "5746 Sayılı Kanun’dan Yararlanabilir miyim?",
+      "content": "<p>Ar-Ge Merkezi olabilmek için 5746 sayılı Kanun ve ilgili yönetmelik şartlarının sağlanması gerekir. Uygunluk analizi ile mevcut yapınızın kriterlere uyumu değerlendirilir ve yol haritası belirlenir.</p><p>Doğru kurgulanmış başvuru ve sürdürülebilirlik modeli ile teşviklerden mevzuata uygun, yüksek verimle yararlanmak mümkündür.</p>"
+    },
+    {
+      "type": "cta_box",
+      "title": "Ar-Ge Merkezi Sürecinizi Birlikte Yönetin",
+      "description": "Başvuru, teşvik, raporlama ve mevzuat uyumunu tek çatı altında yönetmek için uzman ekibimizle iletişime geçin.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

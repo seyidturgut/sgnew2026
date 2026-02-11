@@ -1,0 +1,103 @@
+{
+  "slug": "sbti-science-based-targets-initiative",
+  "title": "SBTi",
+  "title_highlighted": "(Science Based Targets initiative)",
+  "layout_density": "compact",
+  "category": "Finansmana Erişim ve Sürdürülebilirlik",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
+    { "name": "SBTi (Science Based Targets initiative)", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/sbti-science-based-targets-initiative" }
+  ],
+  "hero": {
+    "title": "SBTi (Science Based Targets initiative)",
+    "description": "Bilim temelli hedeflerle net sıfır yolculuğunuzu küresel standartlara uyumlu şekilde kurgulayın.",
+    "image": "/images/servisler/sbti-hero.jpg",
+    "buttons": [
+      { "text": "SBTi Yol Haritası", "link": "#services", "variant": "primary" },
+      { "text": "Uzman Desteği Alın", "link": "#contact", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "Bilim Temelli",
+      "title_highlight": "Net Sıfır",
+      "description": "Paris Anlaşması'nın 1,5°C hedefiyle uyumlu emisyon azaltım hedefleri belirleyin, doğrulayın ve kurumsal dayanıklılığınızı güçlendirin.",
+      "badge": "SBTi 1.5°C Uyumlu",
+      "features": [
+        "Bilimsel ve uluslararası kabul görmüş hedef yapısı",
+        "Kapsam 1, 2 ve 3 emisyonlarına bütüncül yaklaşım",
+        "Bağımsız doğrulama ile şeffaflık",
+        "Net sıfır stratejisi için ölçülebilir yol haritası"
+      ],
+      "image": "/images/servisler/sbti-hero.jpg"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Bilim Temelli Hedeflerle Net Sıfır Yolculuğunuzu Güçlendirin",
+      "content": "<p>İklim değişikliğiyle mücadelede bilimsel verilere dayalı karar alma süreçleri hiç olmadığı kadar kritik hale geldi. Science Based Targets initiative (SBTi), şirketlerin karbon azaltım hedeflerini küresel iklim bilimiyle uyumlu şekilde belirlemesini sağlayan uluslararası bir standartlama ve doğrulama mekanizmasıdır. Paris Anlaşması'nın 1,5°C hedefi doğrultusunda geliştirilen bu sistem, işletmelere hem kısa hem de uzun vadeli emisyon azaltım stratejilerini bilimsel bir çerçeveye oturtma olanağı sunar.</p><p>SBTi; firmanızın mevcut karbon ayak izinin detaylı bir şekilde hesaplanması, sektörel metodolojilere uygun hedeflerin oluşturulması ve bu hedeflerin bağımsız bir kurul tarafından doğrulanması süreçlerini içerir. Bu yaklaşım, işletmelerin düşük karbonlu ekonomiye geçiş sürecini hızlandırarak sürdürülebilirlik stratejilerini küresel standartlarla uyumlu hale getirir.</p>",
+      "image": "/images/servisler/sbti-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "services_list",
+      "compact": true,
+      "title": "SBTi'nin Şirketinize Sağlayacağı Katma Değerler",
+      "services": [
+        { "title": "Küresel Standartlara Uyum", "desc": "Bilimsel ve uluslararası kabul görmüş emisyon azaltım yöntemleriyle kurumsal sürdürülebilirlik yaklaşımınızı güçlendirir." },
+        { "title": "Regülasyonlara Hazırlık", "desc": "AB Yeşil Mutabakatı, CBAM ve ulusal karbon düzenlemelerine uyum kapasitenizi artırır." },
+        { "title": "Yatırımcı ve Finans Kuruluşlarının Güveni", "desc": "Şeffaf ve doğrulanmış hedefler, sürdürülebilir finansman kaynaklarına erişiminizi kolaylaştırır." },
+        { "title": "Rekabet Avantajı", "desc": "Tedarik zincirlerinde ve uluslararası pazarlarda SBTi onayı güçlü bir referans olarak değerlendirilir." },
+        { "title": "Risk Yönetimi", "desc": "İklim risklerinin tespiti ve mitigasyonunu sağlayarak uzun vadeli kurumsal dayanıklılığınızı artırır." },
+        { "title": "Operasyonel Verimlilik", "desc": "Enerji kullanımı, tedarik zinciri ve ürün tasarımı gibi alanlarda dönüşümü tetikleyerek maliyetleri düşürür." }
+      ]
+    },
+    {
+      "type": "process_steps",
+      "title": "Hizmet Kapsamımızda Neler Yapıyoruz?",
+      "description": "Alanında uzman kadromuzla SBTi doğrulama sürecinizi uçtan uca yönetiyor, global standartlara uygun şekilde tüm teknik gereklilikleri karşılamanızı sağlıyoruz.",
+      "steps": [
+        {
+          "title": "Mevcut Durum Analizi ve Sera Gazı Envanteri Hesaplaması",
+          "desc": "Kapsam 1, Kapsam 2 ve Kapsam 3 emisyonlarını uluslararası standartlara göre hesaplıyor; tedarik zinciri kaynaklı dolaylı emisyonları ayrıntılı analiz ediyor ve sektörel emisyon yoğunluğunu değerlendiriyoruz."
+        },
+        {
+          "title": "Bilim Temelli Hedeflerin Belirlenmesi",
+          "desc": "Sektöre özel SBTi metodolojileri doğrultusunda kısa ve uzun vadeli hedefleri oluşturuyor; net sıfır stratejisini tasarlıyor ve 1,5°C uyumlu azaltım yollarını modelliyoruz."
+        },
+        {
+          "title": "SBTi Başvuru ve Doğrulama Sürecinin Yönetimi",
+          "desc": "SBTi başvuru dosyalarını hazırlıyor, uyum gerekliliklerinin teknik detaylarını tamamlıyor ve SBTi değerlendirme sürecini adım adım takip ediyoruz."
+        },
+        {
+          "title": "Aksiyon Planı ve Yol Haritası Geliştirme",
+          "desc": "Hedeflere ulaşmayı sağlayacak operasyonel, finansal ve teknik adımları planlıyor; emisyon azaltım projelerini belirliyor ve yıllık izleme, raporlama, güncelleme mekanizmalarını kuruyoruz."
+        }
+      ]
+    },
+    {
+      "type": "content_with_image",
+      "title": "Kimler Bu Hizmetten Yararlanabilir?",
+      "content": "<ul><li>Sera gazı emisyonlarını bilimsel çerçevede azaltmak isteyen tüm şirketler</li><li>Uluslararası pazarlara ihracat yapan işletmeler</li><li>Tedarik zinciri içerisinde SBTi beklentisiyle karşılaşan firmalar</li><li>Sürdürülebilirlik stratejisini güçlendirmek veya net sıfır taahhüdü vermek isteyen kurumlar</li><li>Sürdürülebilir finansmana erişim hedefi bulunan şirketler</li><li>Enerji yoğun sektörlerde faaliyet gösteren kuruluşlar</li></ul>",
+      "image": "/images/servisler/sbti-process.jpg",
+      "image_position": "left"
+    },
+    {
+      "type": "image_text",
+      "title": "SBTi ile Ölçülebilir Dönüşüm ve Güçlü Konumlanma",
+      "content": "<p>Bilim temelli hedefler, sürdürülebilirlik stratejinizi yalnızca beyan düzeyinde değil; ölçülebilir performans göstergeleriyle yönetilebilir hale getirir. Bu yapı, uluslararası yatırımcılar, müşteriler ve tedarik zinciri paydaşları karşısında şirketinizin güvenilirliğini artırır.</p><p>Doğru kurgulanmış bir SBTi süreci, karbon azaltım performansını hızlandırırken uzun vadeli maliyet optimizasyonu, regülasyon uyumu ve küresel rekabet avantajı sağlar.</p>",
+      "image": "/images/servisler/sbti-strategy.jpg",
+      "layout": "right"
+    },
+    {
+      "type": "cta_box",
+      "title": "SBTi Uyum Sürecinizi Birlikte Planlayalım",
+      "description": "Emisyon envanteri, hedef belirleme, başvuru ve doğrulama adımlarını uçtan uca yöneterek net sıfır yolculuğunuzu hızlandıralım.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

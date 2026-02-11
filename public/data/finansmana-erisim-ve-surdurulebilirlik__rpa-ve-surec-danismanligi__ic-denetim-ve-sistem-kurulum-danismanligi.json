@@ -1,0 +1,172 @@
+{
+  "slug": "ic-denetim-ve-sistem-kurulum-danismanligi",
+  "title": "İç Denetim ve",
+  "title_highlighted": "Sistem Kurulum Danışmanlığı",
+  "layout_density": "compact",
+  "category": "Finansmana Erişim ve Sürdürülebilirlik",
+  "youtube_id": "",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "RPA ve Süreç Danışmanlığı", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi" },
+    { "name": "İç Denetim ve Sistem Kurulum Danışmanlığı", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/ic-denetim-ve-sistem-kurulum-danismanligi" }
+  ],
+  "hero": {
+    "title": "İç Denetim ve Sistem Kurulum Danışmanlığı",
+    "description": "İç denetim yönetmeliklerine uyumlu denetim, bulgu takibi ve kontrol yapılarının iyileştirilmesiyle kurumsal güvence sağlayın.",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1800&q=80",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Hizmet Adımlarını İnceleyin", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "İç denetimde",
+      "title_highlight": "güvenilir sistem",
+      "description": "Şirketlerin tüm organizasyonlarının iç denetim yönetmeliklerine uygun olarak denetlenmesi ve bulgu takibinin yapılması kapsamında; risk yönetimi, kontrol etkinliği ve sürekli iyileştirme odağında kapsamlı destek sunuyoruz.",
+      "badge": "1 Yıllık Danışmanlık Hizmeti",
+      "features": [
+        "İç denetim yönetmeliklerine uygun denetim yaklaşımı",
+        "Bulgu takibi ve üst yönetime raporlama disiplini",
+        "Risk yönetimi ve kontrol yapısı güçlendirme",
+        "Süreçlerin sürekli iyileştirilmesi için aksiyon planları"
+      ],
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=1600&q=80"
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Bizimle Çalışmayı Tercih Etmeniz İçin Nedenler",
+      "benefits": [
+        {
+          "title": "Çeyrek Asrı Aşan Tecrübe",
+          "desc": "25 yılı aşkın süredir sektörde edindiğimiz deneyimle, şirketlerin denetim ihtiyaçlarını ve karşılaştıkları zorlukları yakından biliyoruz.",
+          "icon": "Award"
+        },
+        {
+          "title": "Alanında Uzman Kadro",
+          "desc": "Profesyonel ve deneyimli ekibimiz, iç denetim süreçlerini en iyi şekilde yönetmek için gerekli bilgi ve becerilere sahiptir.",
+          "icon": "Users"
+        },
+        {
+          "title": "Sektörel Tecrübe",
+          "desc": "Makine ve imalat, hizmet, medya, petrol, doğalgaz, elektrik ve turizm gibi birçok sektörde geniş bilgi ve deneyime sahibiz.",
+          "icon": "Factory"
+        },
+        {
+          "title": "COSO Tecrübesi",
+          "desc": "İç kontrol sistemleri ve risk yönetimi alanında COSO çerçevesinde geniş tecrübemiz bulunmaktadır.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "ISO 31000 Risk Yönetim Sistemi Tecrübesi",
+          "desc": "Uluslararası standartlara uygun risk yönetim sistemi kurulumu ve denetiminde deneyim sahibiyiz.",
+          "icon": "Scale"
+        },
+        {
+          "title": "IIA Uluslararası Standartları Tecrübesi",
+          "desc": "IIA Uluslararası Standartlarına uygun uygulama ve raporlama süreçleri deneyimine sahibiz.",
+          "icon": "BookOpen"
+        }
+      ]
+    },
+    {
+      "type": "process_grid",
+      "title": "Hizmet Kapsamında Gerçekleştirdiğimiz Adımlar",
+      "description": "İç Denetim ve Sistem Kurulum Danışmanlığı 1 yıllık bir danışmanlık hizmetidir.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Dokümanların Hazırlanması",
+          "desc": "İç Kontrol Uygulama Dokümanlarının görev tanımlarının belirlenerek hazırlanması."
+        },
+        {
+          "number": "02",
+          "title": "Kurumsal Risk Analizi",
+          "desc": "Risklerin Belirlenmesi & Analizi: Riskleri türlerine göre belirler, kök neden analizleri gerçekleştirir, etki matrisinde kategorize eder ve risk yanıt stratejileri oluştururuz. Şirketinizin mevcut risklerini analiz eder ve risk yönetim stratejileri geliştiririz."
+        },
+        {
+          "number": "03",
+          "title": "İç Kontrol Yapısının Oluşturulması",
+          "desc": "İç kontrol sisteminizi kurar ve optimize ederiz."
+        },
+        {
+          "number": "04",
+          "title": "İç Kontrol Testlerinin Planlanması",
+          "desc": "Bulgu sorularının hazırlanması: Süreçlerdeki adım bazlı yapılan işlerin kontrolünün sağlanabilmesi için sorular hazırlanarak denetimde belirlenmiş sorular üzerinden ilerleriz. İç kontrol testlerini planlar ve uygularız."
+        },
+        {
+          "number": "05",
+          "title": "Periyodik İç Denetim ve Raporlama",
+          "desc": "Risk yanıt stratejilerine göre mitigasyon analizleri oluşturur, iç kontrol uygulamaları ekler, iç kontrol etkinlik değerlendirme için iç denetim yapısı oluştururuz. Belirlenen periyodlarda iç denetimleri gerçekleştirir ve bulguları üst yönetime raporlarız."
+        }
+      ]
+    },
+    {
+      "type": "icon_grid",
+      "title": "Kimler Bu Hizmete İhtiyaç Duyar?",
+      "items": [
+        {
+          "title": "Kurumsallaşma Sürecindeki Şirketler",
+          "desc": "Kurumsal yapı ve denetim sistemlerini olgunlaştırmak isteyen şirketler.",
+          "icon": "Briefcase"
+        },
+        {
+          "title": "Grup Şirketleri",
+          "desc": "Çoklu yapı içinde standartlaştırılmış denetim yaklaşımına ihtiyaç duyan organizasyonlar.",
+          "icon": "Users"
+        },
+        {
+          "title": "Halka Açık veya Arz Planlayan Şirketler",
+          "desc": "Yatırımcı güveni, şeffaf raporlama ve yönetişim uyumu hedefleyen şirketler.",
+          "icon": "TrendingUp"
+        },
+        {
+          "title": "Turquality Süreçlerine Dahil Olan Şirketler",
+          "desc": "Turquality süreçlerine dahil olacak veya olan KOBİ, OBİ ve BOBİ’ler.",
+          "icon": "Target"
+        }
+      ]
+    },
+    {
+      "type": "service_cards",
+      "title": "Hizmet Kapsamında Firmanızın Kazançları",
+      "cards": [
+        {
+          "title": "Dış Bir Gözle İnceleme",
+          "desc": "Tüm süreçlerin tarafsız bir bakış açısıyla incelenmesi, potansiyel hile ve suistimallerin tespit edilmesini sağlar.",
+          "icon": "Star",
+          "color": "blue"
+        },
+        {
+          "title": "Risk Yönetimi ve İç Kontrol",
+          "desc": "Şirketinizin risk yönetimi ve iç kontrol sistemlerinin etkinliğini artırır.",
+          "icon": "ShieldCheck",
+          "color": "green"
+        },
+        {
+          "title": "Sürekli İyileştirme",
+          "desc": "İç denetim bulgularının takibi ve raporlanması sayesinde, süreçlerinizin sürekli iyileştirilmesine katkı sağlar.",
+          "icon": "TrendingUp",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "content_with_image",
+      "title": "Kurumsal Yönetim Yapınızı Güçlendirin",
+      "content": "<p>İç Denetim ve Sistem Kurulum Danışmanlığı Hizmeti ile firmanız, süreçlerin etkinliğini ve güvenilirliğini artırırken, kurumsal yönetim yapınızı güçlendirir.</p><p>Bizimle çalışarak, iç denetim süreçlerinizde profesyonel ve uzman bir destek alabilir, iş süreçlerinizde güvenliği ve verimliliği artırabilirsiniz.</p>",
+      "image": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80",
+      "image_position": "left"
+    },
+    {
+      "type": "cta_box",
+      "title": "İç Denetim Yapınızı Birlikte Kuralım",
+      "description": "Kurumunuza özel iç denetim ve sistem kurulum danışmanlığı için uzman ekibimizle hemen iletişime geçin.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

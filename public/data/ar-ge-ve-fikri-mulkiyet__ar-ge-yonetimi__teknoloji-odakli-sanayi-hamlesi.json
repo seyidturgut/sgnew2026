@@ -1,0 +1,145 @@
+{
+  "slug": "teknoloji-odakli-sanayi-hamlesi",
+  "title": "Teknoloji Odaklı",
+  "title_highlighted": "Sanayi Hamlesi",
+  "layout_density": "compact",
+  "category": "Ar-Ge ve Fikri Mülkiyet",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Ar-Ge ve Fikri Mülkiyet", "link": "/servisler/ar-ge-ve-fikri-mulkiyet" },
+    { "name": "Ar-Ge Yönetimi", "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi" },
+    { "name": "Teknoloji Odaklı Sanayi Hamlesi", "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/teknoloji-odakli-sanayi-hamlesi" }
+  ],
+  "hero": {
+    "title": "Teknoloji Odaklı Sanayi Hamlesi",
+    "description": "HAMLE Programı kapsamında yüksek katma değerli üretim, Ar-Ge ve yatırım projeleriniz için başvuru ve uygulama süreçlerini stratejik olarak yönetin.",
+    "image": "https://images.unsplash.com/photo-1565514020179-026b92b84bb6?auto=format&fit=crop&w=1800&q=80",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Destekleri İnceleyin", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "HAMLE Programı ile",
+      "title_highlight": "teknoloji odaklı büyüme",
+      "description": "HAMLE Programı; Türkiye’nin sanayi sektöründe yüksek katma değerli üretimi teşvik etmek, ithalat bağımlılığını azaltmak, yerli üretimi güçlendirmek ve küresel rekabet gücünü artırmak amacıyla Sanayi ve Teknoloji Bakanlığı tarafından başlatılmış stratejik bir destek modelidir.",
+      "badge": "Ar-Ge + Yatırım + Üretim",
+      "features": [
+        "İleri teknolojiye dayalı üretim yatırımları",
+        "Ar-Ge ve teknoloji geliştirme projeleri",
+        "Yatırım süreçlerinde çoklu destek mekanizması",
+        "Başvurudan denetime uçtan uca danışmanlık"
+      ],
+      "image": "https://images.unsplash.com/photo-1581093804475-577d72e2d4f2?auto=format&fit=crop&w=1600&q=80"
+    },
+    {
+      "type": "content_with_image",
+      "title": "HAMLE Programı - Teknoloji Odaklı Sanayi Hamlesi Nedir?",
+      "content": "<p>HAMLE Programı, Türkiye’nin sanayi sektöründe yüksek katma değerli üretimi teşvik etmek ve yerli üretimi desteklemek amacıyla Sanayi ve Teknoloji Bakanlığı tarafından başlatılan stratejik bir programdır. Program; ithalat bağımlılığını azaltmak, yenilikçi ve ileri teknolojiye dayalı ürünlerin üretimini artırmak ve Türkiye’nin küresel rekabet gücünü yükseltmek için tasarlanmıştır.</p><p>Sanayinin farklı sektörlerinde faaliyet gösteren firmalara yönelik kapsamlı destekler sunan program; Ar-Ge, teknoloji geliştirme ve yatırım projeleri gibi kritik alanlarda önemli teşvikler sağlar.</p>",
+      "image": "https://images.unsplash.com/photo-1581092921461-eab62e97a780?auto=format&fit=crop&w=1400&q=80",
+      "image_position": "right"
+    },
+    {
+      "type": "tabs_content",
+      "title": "Sistem Global'in HAMLE Programı Başarıları",
+      "layout": "top_center",
+      "items": [
+        {
+          "label": "Proje Kabul Oranı",
+          "title": "Proje Kabul Oranı",
+          "content": "<p>HAMLE Programı’nda başvuru öncesi teknik/mali uygunluk analizi, çağrı eşleştirme ve değerlendirme kriterlerine uyumlu kurgu yaklaşımımızla kabul olasılığını artırmaya odaklanıyoruz.</p>"
+        },
+        {
+          "label": "Proje Dosyası",
+          "title": "Proje Dosyası Kalitesi",
+          "content": "<p>Başvuru dosyalarında GTİP uygunluğu, yatırım-üretim planı, Ar-Ge kapsamı, bütçe gerekçesi ve ticarileşme senaryosu bütünleşik olarak kurgulanır.</p>"
+        },
+        {
+          "label": "Bağımsız Değerlendirme",
+          "title": "Bağımsız Değerlendirme Hazırlığı",
+          "content": "<p>Bağımsız değerlendirme sürecinde olası teknik sorulara hazırlık, sunum/kanıt seti oluşturma ve ekip koordinasyonu ile başvurunun savunma kalitesi güçlendirilir.</p>"
+        },
+        {
+          "label": "Uygunluk",
+          "title": "Firmanız HAMLE Programı'na Uygun mu?",
+          "content": "<p>Program kapsamında proje hazırlamak için <a href=\"https://hamle.gov.tr/Home/UrunListesi\" target=\"_blank\" rel=\"noreferrer\">hamle.gov.tr ürün listesi</a> üzerinde yer alan GTİP kodlarına yönelik yeni yatırım veya kapasite artırımı planı bulunmalıdır. GTİP listesi dışındaki ürünlere yatırım yapılamaz.</p>"
+        }
+      ]
+    },
+    {
+      "type": "services_list",
+      "title": "HAMLE Programı - Açılan Çağrılar (Tarihsel Sıra ile)",
+      "compact": true,
+      "services": [
+        { "title": "Yükselen Yenilikçi Teknolojiler Çağrısı (2024)", "desc": "Açık" },
+        { "title": "Dijital Dönüşüm Çağrısı (2022)", "desc": "Kapalı" },
+        { "title": "Sağlık ve Kimya Ürünleri Çağrısı (2022)", "desc": "Kapalı" },
+        { "title": "Üretimde Yapısal Dönüşüm Çağrısı (2022)", "desc": "Kapalı" },
+        { "title": "Mobilite Çağrısı (2022)", "desc": "Kapalı" }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Yükselen Yenilikçi Teknolojiler Çağrısı Takvimi",
+      "content": "<p><strong>Ön Başvuru Bitiş Tarihi:</strong> 13 Eylül 2024 Cuma</p><p><strong>Kesin Başvuru Bitiş Tarihi:</strong> 31 Ekim 2024 Perşembe</p><p><strong>Ön Değerlendirme Komisyon İncelemesi Bitiş Tarihi:</strong> 29 Kasım 2024 Cuma</p><p><strong>Bağımsız Değerlendirme Raporunun Yüklenmesi İçin Son Tarih:</strong> 31 Aralık 2024 Salı</p>"
+    },
+    {
+      "type": "accordion_rich",
+      "title": "HAMLE Programı Başvuru Koşulları ve Destek Oranları",
+      "items": [
+        {
+          "title": "HAMLE Programı Başvuru Koşulları",
+          "content": "<p>HAMLE programı kapsamında proje hazırlamak için <a href=\"https://hamle.gov.tr/Home/UrunListesi\" target=\"_blank\" rel=\"noreferrer\">hamle.gov.tr/Home/UrunListesi</a> sayfasında verilen GTİP kodlarına yeni yatırım veya kapasite artırımı için yatırım yapmak zorunludur. Bu GTİP kodu dışındaki ürünlere yatırım yapılamaz.</p><p>Çağrı kapsamında başvurusu yapılan yatırım projelerinin büyüklüğü (Ar-Ge ve üretime yönelik yatırım harcamalarının toplam tutarı) <strong>30 Milyon TL’den az olamaz</strong>. Salt yazılım geliştirmeyi amaçlayan projeler için alt limit <strong>10 Milyon TL</strong>’dir.</p>"
+        },
+        {
+          "title": "TÜBİTAK Ar-Ge Desteği",
+          "content": "<p>Program kapsamında aşağıdaki Ar-Ge harcamalarının KOBİ’ler için %75’i, diğer firmalar için %60’ı karşılanabilir:</p><ul><li>Personel giderleri</li><li>Proje personeline ait seyahat giderleri</li><li>Alet, teçhizat, yazılım ve yayın giderleri</li><li>Malzeme ve sarf giderleri</li><li>Yurtiçi ve yurtdışı danışmanlık hizmeti ve diğer hizmet alım giderleri</li><li>Üniversiteler ve diğer Ar-Ge kurum ve kuruluşlarına yaptırılan Ar-Ge hizmet alım giderleri</li><li>Destek personeli elektrik, gaz, su, bakım-onarım, haberleşme gibi genel proje giderleri</li></ul>"
+        },
+        {
+          "title": "KOSGEB KOBİ Desteği",
+          "content": "<p>KOBİ’lere 10 Milyon TL’yi aşmayacak şekilde %80 geri ödemeli destek ve ayrıca 50.000 TL üst limitli geri ödemesiz bağımsız değerlendirme desteği verilir.</p><ul><li>Personel gideri desteği (%80 geri ödemeli)</li><li>Bağımsız değerlendirme desteği (50.000 TL üst limitli, geri ödemesiz)</li></ul>"
+        },
+        {
+          "title": "Proje Bazlı Destek",
+          "content": "<ul><li>KDV istisnası</li><li>Gümrük vergisi muafiyeti</li><li>Vergi indirimi veya istisnası</li><li>Sigorta primi işveren hissesi desteği: 10 yıl (brüt ücret)</li><li>Gelir vergisi stopajı desteği: 10 yıl (asgari ücret)</li><li>Faiz veya kar payı desteği: 10 yıla kadar limitsiz</li><li>Yatırım yeri tahsisi</li><li>KDV iadesi</li><li>Enerji desteği: 10 yıl (enerji giderinin yarısı)</li><li>Nitelikli personel desteği: 5 yıl (20 x brüt asgari ücret)</li><li>Sermaye katkısı</li><li>Kamu alım garantisi</li><li>Altyapı desteği</li><li>İzin, tahsis, ruhsat, lisans ve tescil kolaylığı veya istisnası</li></ul>"
+        },
+        {
+          "title": "Stratejik Yatırım Desteği",
+          "content": "<ul><li>KDV istisnası</li><li>Gümrük vergisi muafiyeti</li><li>Vergi indirimi (Yatırıma katkı oranı: %50, vergi indirim oranı: %90)</li><li>Sigorta primi işveren hissesi desteği: 6. bölgede 10 yıl, diğer bölgelerde 7 yıl</li><li>Sigorta primi işçi hissesi desteği: 10 yıl (yalnızca 6. bölgede)</li><li>Gelir vergisi stopajı desteği: 10 yıl (yalnızca 6. bölgede)</li><li>Faiz veya kar payı desteği: iç kredi 5 puan, döviz/dövize endeksli kredi 2 puan</li><li>Yatırım yeri tahsisi</li><li>KDV iadesi</li></ul>"
+        }
+      ]
+    },
+    {
+      "type": "report_cards",
+      "title": "Yayınlarımız ve Bültenler",
+      "subtitle": "İlgili içeriklerden seçkiler",
+      "reports": [
+        {
+          "title": "KOBİ’lere 20 Milyon TL’ye Kadar Geri Ödemesiz Faiz Desteği",
+          "url": "https://www.sistemglobal.com.tr/bultenler/ar-ge/kobilere-20-milyon-tlye-kadar-geri-odemesiz-faiz-destegi/",
+          "meta": "Bülten"
+        },
+        {
+          "title": "Çalışanlar için 2026 Bordro Parametreleri",
+          "url": "https://www.sistemglobal.com.tr/makaleler/calisanlar-icin-2026-bordro-parametreleri/",
+          "meta": "Makale"
+        },
+        {
+          "title": "Dijital Dönüşüm Nedir? Temel Unsurları Nelerdir?",
+          "url": "https://www.sistemglobal.com.tr/makaleler/dijital-donusum-nedir-temel-unsurlari-nelerdir/",
+          "meta": "Makale"
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "HAMLE Programı Başvurunuzu Birlikte Güçlendirelim",
+      "description": "Uygunluk analizi, başvuru dosyası, bağımsız değerlendirme hazırlığı ve destek modellemesini uzman ekibimizle uçtan uca yönetin.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

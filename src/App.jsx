@@ -3,7 +3,10 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Header from './components/layout/Header'
 import Footer from './components/layout/Footer'
 import HomePage from './pages/HomePage'
+import ServicesPage from './pages/ServicesPage'
+import SubCategoryPage from './pages/SubCategoryPage'
 import DynamicServicePage from './pages/DynamicServicePage'
+import ServiceDispatcher from './components/ServiceDispatcher'
 
 function App() {
     return (
@@ -12,14 +15,14 @@ function App() {
                 <Header />
                 <Routes>
                     <Route path="/" element={<HomePage />} />
-
-                    {/* TÜM SERVİSLER DİNAMİK OLARAK DB'DEN GELİR */}
-                    <Route path="/servisler/:category/:subcategory/:slug" element={<DynamicServicePage />} />
-                    <Route path="/servisler/:category/:slug" element={<DynamicServicePage />} />
-                    <Route path="/servisler/:slug" element={<DynamicServicePage />} />
+                    <Route path="/servisler" element={<ServicesPage />} />
+                    <Route path="/servisler/:category/:subcategory" element={<ServiceDispatcher />} />
+                    <Route path="/servisler/:category/:subcategory/:slug" element={<ServiceDispatcher />} />
+                    <Route path="/servisler/:category/:slug" element={<ServiceDispatcher />} />
+                    <Route path="/servisler/:slug" element={<ServiceDispatcher />} />
 
                     {/* Fallback for deep nesting if needed */}
-                    <Route path="/servisler/*" element={<DynamicServicePage />} />
+                    <Route path="/servisler/*" element={<ServiceDispatcher />} />
                 </Routes>
                 <Footer />
             </div>

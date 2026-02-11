@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { ChevronRight, ChevronLeft, ArrowRight } from 'lucide-react';
 
 const menuData = [
@@ -38,7 +38,33 @@ const menuData = [
     },
     {
         title: "Ar-Ge ve Fikri Mülkiyet",
-        submenu: []
+        description: "Ar-Ge yatırımlarını hızlandıran teşvik ve fon danışmanlığı ile fikri mülkiyet haklarınızı koruyan uzman çözümler.",
+        submenu: [
+            {
+                title: "Ar-Ge Yönetimi",
+                submenu: [
+                    { title: "Teknopark Danışmanlığı", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/teknopark-danismanligi" },
+                    { title: "Ar-Ge Merkezi Danışmanlığı", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/ar-ge-merkezi-danismanligi" },
+                    { title: "Yatırım Teşvik Danışmanlığı", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/yatirim-tesvik-danismanligi" },
+                    { title: "TÜBİTAK Fonlarına Erişim Danışmanlığı", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/tubitak-destekleri" },
+                    { title: "Dahilde İşleme Rejimi Danışmanlığı", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/dahilde-isleme-rejimi-danismanligi" },
+                    { title: "Tasarım Merkezi Danışmanlığı", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/tasarim-merkezi-danismanligi" },
+                    { title: "Uluslararası Projeler ve Kalkınma Danışmanlığı", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/uluslararasi-projeler-ve-kalkinma-danismanligi" },
+                    { title: "Teknoloji Odaklı Sanayi Hamlesi", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/teknoloji-odakli-sanayi-hamlesi" },
+                    { title: "Uluslararası Fon Programları", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/uluslararasi-fon-programlari" },
+                    { title: "Ticaret Bakanlığı İhracat Destekleri", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/ticaret-bakanligi-ihracat-destekleri" },
+                    { title: "E-Turquality Programı", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/e-turquality-programi" },
+                    { title: "KOSGEB Destekleri", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/kosgeb-destekleri" }
+                ]
+            },
+            {
+                title: "Fikri Mülkiyet",
+                submenu: [
+                    { title: "Marka, Tasarım, Patent Başvuruları", href: "/servisler/ar-ge-ve-fikri-mulkiyet/fikri-mulkiyet/marka-tasarim-patent-basvurulari" },
+                    { title: "Patent İhlal Analizleri", href: "/servisler/ar-ge-ve-fikri-mulkiyet/fikri-mulkiyet/patent-ihlal-analizleri" }
+                ]
+            }
+        ]
     },
     {
         title: "Mevzuat & Uyum",
@@ -90,32 +116,34 @@ const menuData = [
             {
                 title: "Sürdürülebilirlik",
                 submenu: [
-                    { title: "Sürdürülebilirlik Raporlaması", href: "#" },
-                    { title: "TSRS Raporu (Türkiye Sürdürülebilirlik Raporlama Standartları)", href: "#" },
-                    { title: "Entegre Raporlama", href: "#" },
-                    { title: "Refinitiv (LSEG)", href: "#" },
-                    { title: "SBTi (Science Based Targets initiative)", href: "#" },
-                    { title: "ISO 14064-1 Kurumsal Karbon Ayak İzi Raporu", href: "#" },
-                    { title: "ISO 14046 – Su Ayak İzi Raporu", href: "#" },
-                    { title: "ISO 14067 – Ürün Karbon Ayak İzi", href: "#" },
+                    { title: "Sürdürülebilirlik Raporlaması", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/surdurulebilirlik-raporlamasi" },
+                    { title: "TSRS Raporu (Türkiye Sürdürülebilirlik Raporlama Standartları)", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/tsrs-raporu" },
+                    { title: "Entegre Raporlama", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/entegre-raporlama" },
+                    { title: "Refinitiv (LSEG)", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/refinitiv-lseg" },
+                    { title: "SBTi (Science Based Targets initiative)", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/sbti-science-based-targets-initiative" },
+                    { title: "ISO 14064-1 Kurumsal Karbon Ayak İzi Raporu", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/iso-14064-1-kurumsal-karbon-ayak-izi-raporu" },
+                    { title: "ISO 14046 – Su Ayak İzi Raporu", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/iso-14046-su-ayak-izi-raporu" },
+                    { title: "ISO 14067 – Ürün Karbon Ayak İzi", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/iso-14067-urun-karbon-ayak-izi" },
                 ]
             },
             {
                 title: "Birleşme ve Satın Alma (M&A)",
                 submenu: [
-                    { title: "Birleşme ve Satın Alma (M&A)", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/birlesme-ve-satin-alma-ma" }
+                    { title: "Birleşme ve Satın Alma (M&A)", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/birlesme-ve-satin-alma-ma" },
+                    { title: "Yatırım Fizibilitesi Hizmetleri", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/birlesme-ve-satin-alma-ma/yatirim-fizibilitesi-hizmetleri" },
+                    { title: "Yönetim Danışmanlığı Hizmetleri", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/birlesme-ve-satin-alma-ma/yonetim-danismanligi-hizmetleri" }
                 ]
             },
             {
                 title: "RPA ve Süreç Danışmanlığı",
                 submenu: [
-                    { title: "Süreç İyileştirme Uygulamaları", href: "#" },
-                    { title: "İç Denetim ve Sistem Kurulum Danışmanlığı", href: "#" },
-                    { title: "Kurumsallaşma Hızlı Check Up", href: "#" },
-                    { title: "Dijitalleşme Danışmanlığı", href: "#" },
-                    { title: "Yıllık Lisans Kiralama ve Uyarlama Danışmanlığı", href: "#" },
-                    { title: "RPA Teknik İzleme", href: "#" },
-                    { title: "RPA Süreç Keşif Workshop", href: "#" },
+                    { title: "Süreç İyileştirme Uygulamaları", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/surec-iyilestirme-uygulamalari" },
+                    { title: "İç Denetim ve Sistem Kurulum Danışmanlığı", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/ic-denetim-ve-sistem-kurulum-danismanligi" },
+                    { title: "Kurumsallaşma Hızlı Check Up", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/kurumsallasma-hizli-check-up" },
+                    { title: "Dijitalleşme Danışmanlığı", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/dijitallesme-danismanligi" },
+                    { title: "Yıllık Lisans Kiralama ve Uyarlama Danışmanlığı", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/yillik-lisans-kiralama-ve-uyarlama-danismanligi" },
+                    { title: "RPA Teknik İzleme", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/rpa-teknik-izleme" },
+                    { title: "RPA Süreç Keşif Workshop", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/rpa-surec-kesif-workshop" },
                 ]
             }
         ]
@@ -159,6 +187,29 @@ const DropdownMenu = ({ isOpen, onClose }) => {
     const [activeSubcategory, setActiveSubcategory] = useState(null);
     const [spotlightItems, setSpotlightItems] = useState([]);
     const [spotlightIndex, setSpotlightIndex] = useState(0);
+    const menuRef = useRef(null);
+
+    // Handle click outside to close
+    useEffect(() => {
+        const handleClickOutside = (event) => {
+            // Check if clicking outside menu AND it's not the toggle button in Header
+            if (menuRef.current && !menuRef.current.contains(event.target)) {
+                // If it's a click on the "Servisler" button, the Header handles the toggle
+                // We only close if it's truly "outside" elsewhere
+                const isToggleButton = event.target.closest('button')?.textContent.includes('Servisler');
+                if (!isToggleButton && onClose) {
+                    onClose();
+                }
+            }
+        };
+
+        if (isOpen) {
+            document.addEventListener('mousedown', handleClickOutside);
+        }
+        return () => {
+            document.removeEventListener('mousedown', handleClickOutside);
+        };
+    }, [isOpen, onClose]);
 
     // Set default active category or reset when menu opens/closes
     useEffect(() => {
@@ -198,6 +249,7 @@ const DropdownMenu = ({ isOpen, onClose }) => {
 
     return (
         <div
+            ref={menuRef}
             className={`fixed inset-x-0 top-[80px] bg-white text-gray-800 z-40 shadow-2xl transition-all duration-300 ease-in-out border-b border-gray-100 ${isOpen ? 'opacity-100 visible translate-y-0' : 'opacity-0 invisible -translate-y-2'}`}
         >
             <div className="container mx-auto px-4 py-8">

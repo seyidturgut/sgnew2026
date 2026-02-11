@@ -1,0 +1,146 @@
+{
+  "slug": "kurumsallasma-hizli-check-up",
+  "title": "Kurumsallaşma",
+  "title_highlighted": "Hızlı Check Up",
+  "layout_density": "compact",
+  "category": "Finansmana Erişim ve Sürdürülebilirlik",
+  "youtube_id": "",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "RPA ve Süreç Danışmanlığı", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi" },
+    { "name": "Kurumsallaşma Hızlı Check Up", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/kurumsallasma-hizli-check-up" }
+  ],
+  "hero": {
+    "title": "Kurumsallaşma Hızlı Check-Up",
+    "description": "Yönetsel ve operasyonel süreçlerinizi analiz ederek iyileştirme yol haritasını oluşturan, raporlayan ve kurumsal yapınızı güçlendiren danışmanlık hizmeti.",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1800&q=80",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Hizmet Kapsamını İnceleyin", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "Kurumsallaşmada",
+      "title_highlight": "hızlı durum tespiti",
+      "description": "Kurumsallaşma Hızlı Check-Up; şirketlerin tüm yönetsel ve operasyonel süreçlerini analiz ederek iyileştirme yol haritasının oluşturulması ve raporlanması hizmetidir. Bu hizmet, işletmelerin güçlü ve zayıf yönlerini belirleyerek stratejik ve operasyonel düzeyde daha iyi bir konuma gelmelerini sağlamak, kurumsal yapısını güçlendirmek ve daha verimli bir şekilde çalışmasını sağlamak amacıyla sunulmaktadır.",
+      "badge": "Yaklaşık 2 Aylık Danışmanlık",
+      "features": [
+        "1 örnek şube ve 1 üretim/operasyon alanı incelemesi",
+        "1,5 adam gün fiziki inceleme + online görüşmeler",
+        "Detaylı analiz raporu ve yol haritası",
+        "Risk ve kazanım düzeyine göre önceliklendirme"
+      ],
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1600&q=80"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Kurumsallaşma Sürecinizde Yanınızdayız",
+      "content": "<p>Deneyimimiz, sektörel bilgi birikimimiz ve özelleştirilmiş hizmet anlayışımız ile şirketinizin kurumsallaşma sürecinde yanınızdayız. Bizimle çalışarak, şirketinizin büyüme ve gelişme yolculuğunda emin adımlarla ilerlemesini sağlayabilirsiniz.</p><p>Kurumsallaşma Hızlı Check-Up; şirketlerin yapılarına göre 1 örnek şubesinde ve 1 üretim/operasyon alanında 1,5 adam gün incelemelerin ve online görüşmelerin gerçekleştirilmesi sonrası raporlama ile yaklaşık 2 aylık bir danışmanlık hizmetidir.</p>",
+      "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1400&q=80",
+      "image_position": "right"
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Bizimle Çalışmayı Tercih Etmeniz İçin Nedenler",
+      "benefits": [
+        {
+          "title": "Çeyrek Asrı Aşan Tecrübe",
+          "desc": "Sektörde 25 yılı aşkın süredir edindiğimiz deneyim ile şirketlerin kurumsallaşma süreçlerini yakından tanıyoruz.",
+          "icon": "Award"
+        },
+        {
+          "title": "Uzman Kadro",
+          "desc": "Alanında uzman ve deneyimli profesyonellerden oluşan ekibimiz, en iyi çözümleri sunmak için hazır.",
+          "icon": "Users"
+        },
+        {
+          "title": "Sektörel Tecrübe",
+          "desc": "Makine ve imalat, hizmet, medya, petrol, doğalgaz, elektrik ve turizm sektörlerinde geniş bilgi ve deneyime sahibiz.",
+          "icon": "Factory"
+        },
+        {
+          "title": "Özelleştirilmiş Yaklaşım",
+          "desc": "Her şirketin ihtiyaçları farklıdır. Bu nedenle, hizmetlerimizi firmanızın özel gereksinimlerine göre şekillendiriyoruz.",
+          "icon": "Target"
+        }
+      ]
+    },
+    {
+      "type": "process_grid",
+      "title": "Hizmet Kapsamında Gerçekleştirdiğimiz Adımlar",
+      "description": "Analiz, raporlama ve yol haritası ile kurumunuza özel uygulama planı oluşturuyoruz.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Analiz Süreci",
+          "desc": "Online ve fiziki görüşmeler: Şirketinizin mevcut durumunu anlamak için yöneticiler ve çalışanlarla birebir görüşmeler yapıyoruz. Veri toplama: İş süreçlerinizi, organizasyon yapınızı ve performansınızı değerlendirmek için gerekli verileri topluyoruz."
+        },
+        {
+          "number": "02",
+          "title": "Raporlama ve Yol Haritası",
+          "desc": "Detaylı analiz raporu: Elde edilen veriler doğrultusunda kapsamlı bir analiz raporu hazırlıyoruz. Dünya çapında kabul görmüş EFQM, Investors in People, ISO Standartları, Great Place to Work, GRI ve CSRS Sürdürülebilirlik Çatısı vb. uygulamalardan elde edilen en iyi uygulamalar ışığında oluşturulmaktadır. İyileştirme önerileri: Kurumsallaşma sürecinde atılacak adımları ve öncelikleri belirten iyileştirme yol haritası sunuyoruz. Bu raporda her analiz alanına ilişkin detaylı iyileştirme önerileri, risk ve kazanım düzeylerine göre önceliklendirilmiş ve skorlanmış yapılacak işler listesi, iyileştirme faaliyetleri için tahmini bütçe öngörüleri yer almaktadır."
+        }
+      ]
+    },
+    {
+      "type": "icon_grid",
+      "title": "Kimler Bu Hizmete İhtiyaç Duyar?",
+      "items": [
+        {
+          "title": "Kurumsallaşma Sürecindeki Firmalar",
+          "desc": "Kurumsal yapılarını ölçülebilir bir sistemle güçlendirmek isteyen şirketler.",
+          "icon": "Briefcase"
+        },
+        {
+          "title": "Turquality Hazırlığındaki KOBİ ve OBİ’ler",
+          "desc": "Markalaşma ve kurumsal olgunluk hedefiyle süreçlerini standardize etmek isteyen işletmeler.",
+          "icon": "TrendingUp"
+        },
+        {
+          "title": "ISO Süreçlerine Hazırlanan Kurumlar",
+          "desc": "Yönetim sistemi standartlarına uyum altyapısını kurumsallaşma çatısı altında oluşturmak isteyen firmalar.",
+          "icon": "ShieldCheck"
+        }
+      ]
+    },
+    {
+      "type": "services_list",
+      "title": "Hizmet Kapsamında Firmanızın Kazançları",
+      "compact": true,
+      "services": [
+        { "title": "Kurumsallaşma Yatırımlarının Önceliklendirilmesi", "desc": "" },
+        { "title": "Kurumsallaşma Yolundaki Risklerin Belirlenmesi", "desc": "" },
+        { "title": "İyileştirme Fırsatlarının Belirlenmesi ve Önceliklendirilmesi", "desc": "" },
+        { "title": "Veri Odaklı Karar Alma Süreçlerinin Geliştirilmesi", "desc": "" },
+        { "title": "Çalışan Verimliliğinin Artırılması", "desc": "" },
+        { "title": "Müşteri Memnuniyetinin Artırılması", "desc": "" },
+        { "title": "Rekabet Gücünün Artırılması", "desc": "" },
+        { "title": "Uzun Vadeli Sürdürülebilirlik", "desc": "" },
+        { "title": "Uluslararası alanda kabul görmüş olan EFQM Kurumsallık modülü gerekliliklerinin sağlanması", "desc": "" },
+        { "title": "Markalaşma hedeflerine katkıda bulunan Turquality programına uygun kurumsallaşma modülünün uygulanması ve yapılandırılması", "desc": "" },
+        { "title": "UR-GE Desteği süreçlerinde kurumsallaşma aşamasının yapılandırılması, ihracat desteklerinden verimli şekilde yararlanılmasının sağlanması", "desc": "" },
+        { "title": "ISO 9001, ISO 14001, ISO 22301, ISO 27001 standartlarına uyumun kurumsallaşma çatısı ve yapısı altında oluşturulması", "desc": "" },
+        { "title": "GRI 200 Ekonomik, GRI 300 Çevresel, GRI 400 Sosyal sürdürülebilirlik standartlarına ve sürdürülebilirlik ilkesine uygun kurumsallaşma stratejisinin belirlenmesi", "desc": "" },
+        { "title": "Sadece iyileştirme fırsatlarını belirlemekle ve analizlerinizi tamamlamakla yetinmeyip aynı zamanda iyileştirme fırsatlarınızdan çıkacak olan projelerinizin hayata geçirilmesi", "desc": "" }
+      ]
+    },
+    {
+      "type": "content_with_image",
+      "title": "Geleceğe Güvenle Bakın",
+      "content": "<p>Kurumsallaşma Hızlı Check Up ile firmanız, rekabetçi piyasa koşullarında daha sağlam bir yer edinir ve geleceğe güvenle bakar.</p><p>Bizimle çalışarak, şirketinizin kurumsallaşma sürecinde profesyonel destek alabilir ve başarınızı katlayabilirsiniz.</p>",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1400&q=80",
+      "image_position": "left"
+    },
+    {
+      "type": "cta_box",
+      "title": "Kurumsallaşma Yol Haritanızı Birlikte Oluşturalım",
+      "description": "Hızlı Check-Up hizmetiyle güçlü ve gelişime açık alanlarınızı netleştirin, uygulanabilir adımlarla dönüşümü başlatın.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

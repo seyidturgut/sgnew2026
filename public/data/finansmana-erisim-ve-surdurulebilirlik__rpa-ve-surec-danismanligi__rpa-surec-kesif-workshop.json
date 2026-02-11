@@ -1,0 +1,72 @@
+{
+  "slug": "rpa-surec-kesif-workshop",
+  "title": "RPA Süreç",
+  "title_highlighted": "Keşif Workshop",
+  "layout_density": "compact",
+  "category": "Finansmana Erişim ve Sürdürülebilirlik",
+  "youtube_id": "",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "RPA ve Süreç Danışmanlığı", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi" },
+    { "name": "RPA Süreç Keşif Workshop", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/rpa-surec-kesif-workshop" }
+  ],
+  "hero": {
+    "title": "RPA Süreç Keşif Workshop",
+    "description": "Dijital işgücü dönüşümünde doğru başlangıç için otomasyona en uygun süreçleri tespit edin, önceliklendirilmiş yol haritası ve ROI görünürlüğü kazanın.",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1800&q=80",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Workshop Kapsamını İnceleyin", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "Dijital işgücünü",
+      "title_highlight": "doğru süreçlerle başlatalım",
+      "description": "Dijital işgücü dönüşümünde doğru başlangıç, işletmenizin otomasyona en uygun süreçlerinin doğru biçimde tespit edilmesiyle mümkündür. Sistem Global olarak sunduğumuz RPA Süreç Keşif Workshop Hizmeti, şirketinizin mevcut süreçlerini bütüncül bir yaklaşımla analiz ederek otomasyon fırsatlarını, önceliklendirilmiş RPA yol haritasını ve yatırım getirisini (ROI) ortaya koymayı amaçlar.",
+      "badge": "Süreç Keşif ve Önceliklendirme",
+      "features": [
+        "Operasyonel birimlerle birebir ve grup görüşmeleri",
+        "RPA uygunluk skorlaması",
+        "Verimlilik ve kazanım skor analizi",
+        "Üst yönetime sunulabilir yol haritası çıktısı"
+      ],
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1600&q=80"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Workshop Sürecinde Nasıl Çalışıyoruz?",
+      "content": "<p>Workshop sürecinde İnsan Kaynakları, Finans & Muhasebe, Satış & Pazarlama, Üretim ve Satın Alma gibi tüm kurumunuzdaki tüm operasyonel birimlerle birebir ve grup görüşmeleri yapılır.</p><p>Her bir süreç; kritiklik düzeyi, hata olasılığı, iş yükü, sistematiklik seviyesi gibi kriterler üzerinden değerlendirilerek RPA’ya uygunluk skoru hesaplanır. Bu analiz, sürecin otomasyona dönüştürülmesi halinde şirkete sağlayacağı verimlilik ve kazanım skorunun da somut verilere dayalı olarak belirlenmesini sağlar.</p>",
+      "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1400&q=80",
+      "image_position": "right"
+    },
+    {
+      "type": "services_list",
+      "title": "Çalışma Sonunda Hazırlanan Çıktılar",
+      "compact": true,
+      "services": [
+        { "title": "Önceliklendirilmiş RPA süreç listesi", "desc": "" },
+        { "title": "Yaklaşık kazanım ve verimlilik analizleri", "desc": "" },
+        { "title": "Süreç efor/uygulama zorluk puanları", "desc": "" },
+        { "title": "Dijital işgücü yol haritası", "desc": "" }
+      ]
+    },
+    {
+      "type": "content_with_image",
+      "title": "Yatırım Geri Dönüşünü ve Devreye Alma Sürecini Optimize Edin",
+      "content": "<p>Çalışma çıktıları hazırlanarak üst yönetime sunulur. Böylece işletmenizde hızlı kazanım sağlayacak süreçler net olarak belirlenir, RPA yatırımınızın geri dönüşü ve devreye alma süreci optimize edilir.</p><p>Sistem Global’in deneyimli Süreç & RPA ekipleri tarafından gerçekleştirilen bu çalışma, işletmenizin Robusta RPA ürünlerinden maksimum verim elde etmesini sağlar.</p>",
+      "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1400&q=80",
+      "image_position": "left"
+    },
+    {
+      "type": "cta_box",
+      "title": "RPA Yol Haritanızı Veriye Dayalı Olarak Belirleyin",
+      "description": "Süreç keşif workshop’u ile otomasyona en uygun alanları netleştirip hızlı kazanım sağlayacak adımları birlikte planlayalım.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

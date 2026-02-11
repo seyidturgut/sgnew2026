@@ -1,0 +1,95 @@
+{
+  "slug": "yillik-lisans-kiralama-ve-uyarlama-danismanligi",
+  "title": "Yıllık Lisans Kiralama ve",
+  "title_highlighted": "Uyarlama Danışmanlığı",
+  "layout_density": "compact",
+  "category": "Finansmana Erişim ve Sürdürülebilirlik",
+  "youtube_id": "",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "RPA ve Süreç Danışmanlığı", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi" },
+    { "name": "Yıllık Lisans Kiralama ve Uyarlama Danışmanlığı", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/yillik-lisans-kiralama-ve-uyarlama-danismanligi" }
+  ],
+  "hero": {
+    "title": "Yıllık Lisans Kiralama ve Uyarlama Danışmanlığı",
+    "description": "RPA süreçlerinizi canlıya alma, uyarlama, sürdürülebilirlik ve değişiklik yönetimi adımlarıyla uçtan uca yönetin.",
+    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=1800&q=80",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Uyarlama Adımlarını İnceleyin", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "RPA’da",
+      "title_highlight": "canlıya geçiş ve sürdürülebilirlik",
+      "description": "RPA uygulamasını farklılaşan yönetim metodolojimizle süreçlerinize entegre ediyor, uyarlama maliyetlerinizi ve hata yönetiminizi minimize ediyoruz. Sonuç: daha verimli, daha düşük maliyetli çözümler.",
+      "badge": "RPA Proje Uyarlama + Sistemsel Sürdürülebilirlik",
+      "features": [
+        "Kavramsal analizden canlıya geçişe uçtan uca kurulum",
+        "Uyarlama sırasında ekip içi öğrenme ve yetkinlik geliştirme",
+        "Dönemsel kontrol, ticket ve değişiklik yönetimi",
+        "İyileştirme önerileriyle sürekli gelişim"
+      ],
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1600&q=80"
+    },
+    {
+      "type": "content_with_image",
+      "title": "C. RPA Proje Uyarlama",
+      "content": "<p><strong><em>Projeyi Canlıya Alıyoruz!</em></strong></p><p><strong>1. Kavramsal Analiz:</strong> Süreçlerinizin her biri uygulama adımını kullandığınız yöntem ve araçlarla teknik kavramsal analiz dokümanına aşama aşama aktarıyoruz. Böylece süreç tasarımınızdaki değişiklikleri ilerleyen süreçte kendi başınıza yapabilmeniz için olanakları maksimize ediyoruz.</p><p><strong>2. Proje Planlama & Kurulum:</strong> Projenizi sizin adınıza planlayıp takibini gerçekleştiriyor, anlık durum bilgisine ManageMind adlı sistemimiz üzerinden sizlere kullanıcı oluşturarak takibini kolaylaştırıyoruz. Kurulum aşamasını tamamladıktan sonra testlerini gerçekleştirerek dijital işçinizi çalışan haline getiriyoruz.</p><p><strong>3. Uyarlamaya Geçiş:</strong> Robusta RPA ürünü üzerinde süreç akışını dizayn ediyoruz. Uyarlama esnasında sizlerin ekiplerinden kullanıcıları online tasarım stüdyo dizayn çalışmamıza davet ediyor, öğrenmelerini sağlıyoruz. Böylece proje bittiğinde şirketiniz içinde uygulama değişikliklerini yapabilen dizayn uzmanları yetiştirerek katkı sağlıyoruz.</p><p><strong>4. Statü Raporlaması:</strong> Projen hakkında haftalık olarak bilgilendiriyoruz.</p><p><strong>5. Test & Canlı & Eğitim:</strong> Sisteminizi test ediyor, canlıya taşıyarak kullanıcılarınıza eğitim veriyoruz.</p>",
+      "image": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=1400&q=80",
+      "image_position": "right"
+    },
+    {
+      "type": "process_grid",
+      "title": "D. Sistemsel Sürdürülebilirlik",
+      "description": "Teknolojide sürdürülebilir devir açalım.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Dönemsel Kontroller & Ticket Yönetimi",
+          "desc": "Sürecinizin güncelliğini test ederek kontroller sağlıyoruz. Ticket sistemi ile taleplerinizi yönetiyor, memnuniyetinizi önemsiyoruz."
+        },
+        {
+          "number": "02",
+          "title": "Değişiklik Yönetimi",
+          "desc": "Sistemsel/süreç akışlarında değişiklikler olması durumunda sürecinizi değişikliklere adapte ediyoruz, değişimi yönetiyoruz."
+        },
+        {
+          "number": "03",
+          "title": "Önerilerin Sunulması",
+          "desc": "İyileştirme önerilerimizi sizlerle paylaşıyor, sisteminizin iyileştirilmesini sağlıyoruz."
+        }
+      ]
+    },
+    {
+      "type": "content_with_image",
+      "title": "Sistem Global RPA’de Nasıl Avantaj Sağlıyoruz?",
+      "content": "<p><strong>RPA Uygulama Metot Farkımız ile Hızlı ve Kalıcı Kurulum Sağlıyoruz.</strong></p><p>Sistem Global profesyonel RPA ekibi ile birlikte doğru ve hızlı süreç analizi gerçekleştiriyoruz. RPA uygulanabilecek doğru süreç adımlarını tespit ediyor ve avantaj sağlayacak robot uygulama adımları öneriyoruz. Süreç detay analizi, kadran analizi ve touch point analizi ile süreçlerinizi derinlemesine inceleyerek doğru uygulama yapısı oluşturuyor, temelleri sağlam atıyoruz. Analiz ediyor, uyguluyor, canlıya alıyor ve size her şeyi öğretip teslim ediyoruz.</p>",
+      "image": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80",
+      "image_position": "left"
+    },
+    {
+      "type": "services_list",
+      "title": "Hizmet Avantajlarımız",
+      "compact": true,
+      "services": [
+        { "title": "Hızlı Dönüşüm, Büyük Maliyet Tasarrufu", "desc": "" },
+        { "title": "Daha Fazla Esneklik, Daha Az Hata Payı", "desc": "" },
+        { "title": "Geliştirilmiş Uyumluluk, Üretkenlik Artışı", "desc": "" },
+        { "title": "Personel Katma Değer Artışı, Daha Mutlu Çalışanlar", "desc": "" },
+        { "title": "Çalışan Gelişimi, Şirket Teknolojik Yetkinliği", "desc": "" }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Lisans, Uyarlama ve Sürdürülebilirliği Birlikte Yönetin",
+      "description": "RPA yatırımınızdan maksimum verim almak için yıllık lisans kiralama ve uyarlama danışmanlığında uzman ekibimizle ilerleyin.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

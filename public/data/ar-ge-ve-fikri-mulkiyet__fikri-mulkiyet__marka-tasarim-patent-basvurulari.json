@@ -1,0 +1,166 @@
+{
+  "slug": "marka-tasarim-patent-basvurulari",
+  "title": "Marka, Tasarım,",
+  "title_highlighted": "Patent Başvuruları",
+  "category": "Fikri Mülkiyet",
+  "youtube_id": "",
+  "breadcrumb": [
+    {
+      "name": "Anasayfa",
+      "link": "/"
+    },
+    {
+      "name": "Servisler",
+      "link": "/servisler"
+    },
+    {
+      "name": "Ar-Ge ve Fikri Mülkiyet",
+      "link": "/servisler/ar-ge-ve-fikri-mulkiyet"
+    },
+    {
+      "name": "Fikri Mülkiyet",
+      "link": "/servisler/ar-ge-ve-fikri-mulkiyet/fikri-mulkiyet"
+    },
+    {
+      "name": "Marka, Tasarım, Patent Başvuruları",
+      "link": "/servisler/ar-ge-ve-fikri-mulkiyet/fikri-mulkiyet/marka-tasarim-patent-basvurulari"
+    }
+  ],
+  "hero": {
+    "title": "Fikirlerinizi Küresel Değerlere Dönüştürün",
+    "description": "Marka, patent ve tasarım tescili süreçlerinde uçtan uca uzman danışmanlık. Fikri haklarınızı koruma altına alarak rekabet gücünüzü artırın.",
+    "image": "/images/marka-patent/hero.webp",
+    "buttons": [
+      {
+        "text": "Ücretsiz Ön Araştırma",
+        "link": "#contact",
+        "variant": "primary"
+      },
+      {
+        "text": "Hizmet Detayları",
+        "link": "#details",
+        "variant": "outline"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "details",
+      "type": "content_with_image",
+      "title": "Fikri Mülkiyet Haklarının Korunması",
+      "content": "\n                <p><strong>Marka:</strong> Bir teşebbüsün ürün veya hizmetlerini diğerlerinden ayıran her türlü işarettir. İbareler, logolar, sesler ve renkler marka olarak tescil edilebilir.</p>\n                <p><strong>Tasarım:</strong> Bir nesnenin estetik görünümünü (şekil, desen, çizgi) ifade eder. Yeni ve ayırt edici tasarımlar tescil edilerek koruma altına alınır.</p>\n                <p><strong>Patent:</strong> Yenilikçi buluşları 20 yıla kadar koruyan hukuki enstrümandır. Şirketlerin sürdürülebilirliği için patent süreci kritik önem taşır.</p>\n            ",
+      "image": "/images/marka-patent/intro.webp",
+      "image_position": "right"
+    },
+    {
+      "type": "icon_grid",
+      "title": "Tescil Süreçlerinin Sağladığı Avantajlar",
+      "items": [
+        {
+          "title": "Şirket Değerleme",
+          "desc": "Gayri maddi hakların (M&A) süreçlerinde şirket değerini artıran en önemli faktör olması.",
+          "icon": "TrendingUp"
+        },
+        {
+          "title": "Vergi İstisnaları",
+          "desc": "Patente dayalı gelirlerde %50 Kurumlar Vergisi ve KDV istisnası avantajı.",
+          "icon": "Percent"
+        },
+        {
+          "title": "Lisans Gelirleri",
+          "desc": "Doğru lisanslama stratejileri ile üretim yapmadan global gelir elde etme imkanı.",
+          "icon": "DollarSign"
+        },
+        {
+          "title": "Hukuki Koruma",
+          "desc": "Taklitlere karşı yasal engelleme hakkı ve pazarda tekelleşme sağlama gücü.",
+          "icon": "Shield"
+        }
+      ]
+    },
+    {
+      "type": "process_grid",
+      "title": "Patent Başvuru ve Tescil Yol Haritası",
+      "description": "Bir buluşun fikirden tescil belgesine uzanan yaklaşık 38 aylık titiz süreci.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Hazırlık & Başvuru",
+          "desc": "Dosyanın hazırlanması ve resmi başvurunun yapılması (~1. ay)."
+        },
+        {
+          "number": "02",
+          "title": "İnceleme & Araştırma",
+          "desc": "Şekli inceleme ve dünya çapında patent araştırması (~16. ay)."
+        },
+        {
+          "number": "03",
+          "title": "Yayın & Talep",
+          "desc": "Buluşun bültende yayını ve inceleme talebinin iletilmesi (~20. ay)."
+        },
+        {
+          "number": "04",
+          "title": "Tescil & Belge",
+          "desc": "İnceleme tamamlanması ve tescil belgesinin teslimi (~38. ay)."
+        }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Buluşunuz Varsa Ne Yapmalısınız?",
+      "benefits": [
+        {
+          "title": "Gizlilik",
+          "desc": "Sözleşme yapmadan fikrinizi kimseyle paylaşmayın.",
+          "icon": "Lock"
+        },
+        {
+          "title": "Yenilik Araştırması",
+          "desc": "Fikrin gerçekten yeni olup olmadığını patent araştırmasıyla tespit edin.",
+          "icon": "Search"
+        },
+        {
+          "title": "Hızlı Başvuru",
+          "desc": "Kamuya açıklanan buluşlar için en geç 1 yıl içinde başvuru yapın.",
+          "icon": "Zap"
+        },
+        {
+          "title": "Uzman Desteği",
+          "desc": "Hak kaybı yaşamamak için uzman patent vekillerinden destek alın.",
+          "icon": "UserCheck"
+        }
+      ]
+    },
+    {
+      "type": "service_cards",
+      "title": "Sistem Global'in Uzman Çözümleri",
+      "cards": [
+        {
+          "title": "Fikri Haklar Yönetimi",
+          "desc": "Tescil süreçlerinden portföy yönetimine kadar tam kapsamlı danışmanlık.",
+          "icon": "Briefcase",
+          "color": "blue"
+        },
+        {
+          "title": "KOSGEB Destekleri",
+          "desc": "KOBİ'ler için tescil hizmet bedellerinin devlet tarafından desteklenmesi.",
+          "icon": "Award",
+          "color": "green"
+        },
+        {
+          "title": "Global Patent Aktivitesi",
+          "desc": "Avrupa ve dünya patent liginde ilk 20'de yer alan güçlü ağ bağlantıları.",
+          "icon": "Globe",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Geleceğinizi Tescil Altına Alın",
+      "description": "Fikri mülkiyet haklarınız için uzman ekibimizle ücretsiz ön araştırma yapalım.",
+      "button_text": "Hemen Danışın",
+      "secondary_button": "Vergi İstisnalarını İnceleyin"
+    }
+  ]
+}

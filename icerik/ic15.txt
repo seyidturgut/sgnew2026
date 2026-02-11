@@ -1,0 +1,69 @@
+﻿Yatırım Fizibilitesi Hizmetleri
+Stratejik Sermaye Kararları İçin Üst Düzey Analitik Derinlik
+Sistem Global, farklı sektörlerde faaliyet gösteren kurumsal şirketlerin stratejik yatırım kararlarını güçlü analitik temellere dayandırabilmeleri için kapsamlı Yatırım Fizibilitesi analizleri sunar. Çalışmalarımız, uluslararası yatırım bankaları ve global danışmanlık şirketlerinin uyguladığı metodolojik standartlara uygun olarak hazırlanır; böylece fizibilite raporlarımız bankalarca finanse edilebilir (bankable), yatırımcıya hazır (investor-ready) ve uluslararası en iyi uygulamalarla tam uyumlu nitelik taşır.
+Uluslararası yatırım bankaları ve global danışmanlık şirketlerinin uyguladığı metodolojilerle hazırladığımız fizibilite çalışmaları aşağıdaki niteliklere sahiptir:
+✔ Bankalarca finanse edilebilir (Bankable)
+✔ Yatırımcıya hazır (Investor-Ready)
+✔ Veri temelli ve denetlenebilir
+✔ Uluslararası en iyi uygulamalarla uyumlu
+✔ Yatırım Teşvik Belgesi başvurularında kullanılabilecek teknik ve mali detaylar
+Her fizibilite çalışması üç temel eksende yapılandırılır: Finansal Fizibilite, Ticari (Pazar) Fizibilitesi ve Teknik Fizibilite. Bu entegre yapı sayesinde projenin risk-getiri profili, borçlanma kapasitesi, pazar sürdürülebilirliği ve operasyonel uygulanabilirliği bütüncül bir çerçevede değerlendirilir.
+
+
+I - Finansal Fizibilite
+Finansal Derinliği Net Yatırım Kararlarına Dönüştürüyoruz
+Finansal Fizibilite analizi, projenin ekonomik uygulanabilirliğini ve sermaye verimliliğini ölçülebilir hale getirir. Sistem Global, uluslararası kabul görmüş modelleme standartlarına uygun, tam entegre üçlü finansal modeller geliştirir ve projeyi yatırımcı ile kredi veren perspektifinden değerlendirir.
+Sistem Global olarak:
+✔ Küresel en iyi uygulamalarla uyumlu, yatırım seviyesinde entegre finansal modeller geliştiririz.
+✔ NPV, IRR, Geri Ödeme Süresi gibi yatırımcıların beklediği temel getiri metriklerini hesaplarız.
+✔ DSCR ve LLCR analizleri ile borç servis kapasitesini değerlendiririz.
+✔ Duyarlılık ve senaryo analizleri ile finansal dayanıklılığı stres testine tabi tutarız.
+Finansal Fizibilite hizmetimizin temel bileşenleri şunlardır:
+* Entegre Finansal Modelleme:
+Küresel en iyi uygulamalarla uyumlu, detaylı nakit akışı modelleri geliştiririz. Modellerimiz; sermaye harcamalarını (CAPEX) ve işletme giderlerini (OPEX) ayrıştırır, gelirleri hacim ve fiyat sürücülerinden hareketle aşağıdan yukarıya kurar ve işletme sermayesi ile vergi etkilerini modele entegre eder. Sonuç olarak, içsel olarak tutarlı, denetime uygun (audit-ready) ve yatırım düzeyinde bir finansal model oluşturulur.
+* ROI Metrikleri (NPV, IRR, Geri Ödeme Süresi):
+Uygun iskonto oranlarıyla NPV hesaplanır; hem proje hem özkaynak IRR analizleri yapılır. Geri ödeme süresi belirlenir ve sonuçlar yatırımcı eşik oranları (hurdle rate) ve sermaye maliyeti ile karşılaştırmalı olarak sunulur.
+* Borç Servisi ve Covenant Analizi:
+Kapsamlı bir borç finansman planı oluşturularak kredi vadesi boyunca DSCR ve LLCR hesaplanır. Nakit akışı tamponu analiz edilir ve covenant headroom testleri uygulanır. Bu analizler, projenin finanse edilebilirliğini (bankability) sayısal olarak ortaya koyar.
+* Duyarlılık ve Senaryo Testleri:
+Satış hacmi, fiyat, kur, maliyet gibi kritik değişkenlerde duyarlılık analizleri yapılır. Baz, aşağı yönlü ve yukarı yönlü senaryolarla finansal dayanıklılık ölçülür; breakeven noktaları ve olası kontenjan ihtiyacı belirlenir.
+
+
+II - Ticari Fizibilite
+Gelir Varsayımını Stratejik Pazar Gerçekliğiyle Temellendiririz
+Finansal projeksiyonların güvenilirliği, ticari temelin sağlamlığına bağlıdır. Sistem Global, ticari fizibiliteyi yatırım kararını doğrudan etkileyen stratejik bir risk ve fırsat analizi olarak ele alır. Ticari Fizibilite, projenin hedef pazardaki talep dinamiklerini, rekabet yapısını ve gelir üretme kapasitesini stratejik bir çerçevede analiz eder.
+   * Pazar Talep Analizi ve Pazar Büyüklüğü (Sizing):
+Top-down ve bottom-up yaklaşımlarla mevcut ve gelecekteki pazar büyüklüğü tahmin edilir. Talep sürücüleri, büyüme oranları ve müşteri segmentleri analiz edilerek gelir projeksiyonlarının gerçek pazar verilerine dayanması sağlanır.
+   * Sektör ve Makro Çevre Analizi:
+PESTEL analizi ile politik, ekonomik, sosyal, teknolojik, çevresel ve hukuki faktörler değerlendirilir. Porter’ın Beş Gücü çerçevesi ile rekabet yoğunluğu ve giriş bariyerleri analiz edilir.
+   * Rekabetçi Ortam ve Konumlandırma:
+Rakip analizleri, pazar payı karşılaştırmaları ve fiyatlama benchmark çalışmaları yapılır. Projenin değer önerisi ve sürdürülebilir rekabet avantajı ortaya konur.
+   * Gelir Modeli ve Ticari Dayanıklılık
+Satış hacmi, fiyatlama ve penetrasyon projeksiyonları finansal modelle entegre edilir. Gelir akışları baz, downside ve upside senaryolarla test edilir. Uzun vadeli sözleşmeler ve offtake anlaşmaları varsa gelir görünürlüğü analiz edilir.
+Sonuç olarak ticari fizibilite; gelir sürdürülebilirliğini, marj dayanıklılığını ve pazar risk profilini yatırımcı perspektifinden ortaya koyar.
+
+
+III - Teknik Fizibilite
+Mühendislik Gerçekliğini Finansal Modelle Uyumlu Hale Getiririz
+Teknik fizibilite, yatırımın uygulanabilirliğini ve operasyonel sürdürülebilirliğini doğrulayan kritik katmandır. Projenin mühendislik, tasarım ve operasyonel uygulanabilirliğini değerlendirerek finansal projeksiyonların gerçekçi temellere dayanmasını sağlar.
+      * Tasarım ve Teknoloji Değerlendirmesi
+Proses akışları, mühendislik tasarımları ve kapasite varsayımları analiz edilir. Teknoloji olgunluğu (TRL), geçmiş performans ve referans projeler incelenir. Technical due diligence ile buildability ve operability doğrulanır.
+      * CAPEX ve OPEX Validasyonu
+Sermaye ve işletme maliyetleri detaylı incelenir ve sektör benchmarkları ile çapraz kontrol edilir. Kontenjan kalemleri ve maliyet optimizasyonu fırsatları değerlendirilir.
+      * Uygulama Planı ve Operasyonel Fizibilite
+Proje zaman çizelgesi kritik yol analizi ile incelenir. Ramp-up süreci, kapasite kullanım oranları ve operasyonel sürdürülebilirlik test edilir.
+      * Teknik Risk ve Mitigasyon
+Risk register oluşturulur; mühendislik, inşaat, operasyon ve regülasyon riskleri analiz edilir. Somut azaltım stratejileri ve kontenjan planları geliştirilir.
+Bu yaklaşım, projenin residual teknik risk seviyesini yatırımcı ve kredi verenler açısından kabul edilebilir sınırlar içine indirir.
+Neden Sistem Global Yatırım Fizibilitesi Hizmetleri?
+Sistem Global’in çok disiplinli yaklaşımı; finansal, ticari ve teknik analizleri entegre bir karar destek dokümanında birleştirir. Titiz finansal modelleme ve stres testlerinden, stratejik analiz çerçevelerine kadar uluslararası yatırım bankaları ve üst düzey danışmanlık firmalarının uyguladığı standartlara bağlı kalırız.
+Teslim ettiğimiz her fizibilite çalışması:
+✔ Yatırımcıya hazır (Investor-Ready)
+✔ Kredi veren standardında (Lender-Grade)
+✔ Teşvik başvurularına uyumlu teknik içerik barındıran
+✔ Due diligence süreçlerinde güvenilir ve denetlenebilir
+İster proje finansmanı arıyor olun, ister yatırım kurulu onayı hedefliyor olun, ister Yatırım Teşvik Belgesi başvurusunda bulunuyor olun; Sistem Global, projenizin finansal, ticari ve teknik sağlamlığını stratejik bir zemine oturtur.
+Projenizi Stratejik Bir Zemine Taşıyın
+Finansman, yatırım veya teşvik sürecinize güçlü ve ikna edici bir stratejik altyapıyla başlayın.
+Riskleri erken aşamada görünür kılmak, getiriyi maksimize etmek ve karar vericiler nezdinde güven oluşturmak için Sistem Global ile çalışın.
+Projenizi yatırımcıya hazır, bankalarca finanse edilebilir ve uluslararası standartlarda konumlandırarak bir adım öne taşıyın.

@@ -1,0 +1,66 @@
+{
+  "slug": "rpa-teknik-izleme",
+  "title": "RPA Teknik",
+  "title_highlighted": "İzleme",
+  "layout_density": "compact",
+  "category": "Finansmana Erişim ve Sürdürülebilirlik",
+  "youtube_id": "",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "RPA ve Süreç Danışmanlığı", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi" },
+    { "name": "RPA Teknik İzleme", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/rpa-teknik-izleme" }
+  ],
+  "hero": {
+    "title": "RPA Teknik İzleme",
+    "description": "Robotlarınızın kesintisiz, güvenli ve yüksek performansla çalışmasını sağlayan kapsamlı yönetim ve iyileştirme hizmeti.",
+    "image": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?auto=format&fit=crop&w=1800&q=80",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Teknik Kapsamı İnceleyin", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "Robotlarınız",
+      "title_highlight": "en yüksek performansta çalışsın",
+      "description": "Sistem Global’in RPA Teknik İzleme Hizmeti, devreye alınan tüm robotik süreçlerin kesintisiz, güvenli ve yüksek performansla çalışmasını sağlamak üzere tasarlanmış kapsamlı bir yönetim ve iyileştirme hizmetidir.",
+      "badge": "7/24 Teknik İzleme",
+      "features": [
+        "Performans çıktılarının ve hata loglarının analizi",
+        "Sistemsel risk öngörüleri ve veri akışı doğruluğu takibi",
+        "Süreç tutarlılığı ve iyileştirme ihtiyaçlarının uygulanması",
+        "Kapasite, kuyruk, zamanlama ve kaynak optimizasyonu"
+      ],
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Kapsamlı Yönetim ve İyileştirme Yaklaşımı",
+      "content": "<p>Hizmet dönemi boyunca robotların performans çıktıları, hata logları, sistemsel risk öngörüleri, veri akışı doğruluğu ve süreç tutarlılığı detaylı olarak analiz edilir; tespit edilen tüm iyileştirme ihtiyaçları hızla uygulanır.</p><p>Aynı zamanda değişen mevzuat, ERP/SAP/GİB/SGK gibi bağlı dış sistemler, web servisleri ve diğer dijital uygulamaların gerektirdiği değişiklikler, süreç tasarımı içerisine entegre edilerek güncel ve sürdürülebilir otomasyon yapısı korunur.</p><p>7/24 prensibiyle çalışan robotların iş yükü ve kapasite yönetimi de hizmet kapsamındadır. Bir veya birden fazla süreci aynı anda yürüten robotların kapasite optimizasyonu, kuyruk yönetimi, zamanlama planlaması ve kaynak kullanım analizleri yapılarak en verimli otomasyon modeli oluşturulur.</p>",
+      "image": "https://images.unsplash.com/photo-1484417894907-623942c8ee29?auto=format&fit=crop&w=1400&q=80",
+      "image_position": "right"
+    },
+    {
+      "type": "services_list",
+      "title": "Teknik İzleme Hizmeti Kapsamı",
+      "compact": true,
+      "services": [
+        { "title": "Performans & hata analizi", "desc": "" },
+        { "title": "Süreç güncelleme ve mevzuat uyum yönetimi", "desc": "" },
+        { "title": "Kapasite planlama ve optimizasyon", "desc": "" },
+        { "title": "Yeniden tasarım gereksinimlerinin belirlenmesi", "desc": "" },
+        { "title": "Sürekli iyileştirme döngüsü adımlarıyla işletmenin RPA yatırımlarının kesintisiz ve maksimum verimle çalışmasının sağlanması", "desc": "" }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "RPA Operasyonlarınızı Kesintisiz Yönetin",
+      "description": "Teknik izleme, güncelleme ve optimizasyon hizmetiyle robotik süreçlerinizde süreklilik ve verimlilik sağlayın.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "slug": "yonetim-danismanligi-hizmetleri",
+  "title": "Yönetim Danışmanlığı",
+  "title_highlighted": "Hizmetleri",
+  "category": "Finansmana Erişim ve Sürdürülebilirlik",
+  "breadcrumb": [
+    {
+      "name": "Anasayfa",
+      "link": "/"
+    },
+    {
+      "name": "Servisler",
+      "link": "/servisler"
+    },
+    {
+      "name": "Finansmana Erişim ve Sürdürülebilirlik",
+      "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik"
+    },
+    {
+      "name": "Birleşme ve Satın Alma (M&A)",
+      "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/birlesme-ve-satin-alma-ma"
+    },
+    {
+      "name": "Yönetim Danışmanlığı Hizmetleri",
+      "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/birlesme-ve-satin-alma-ma/yonetim-danismanligi-hizmetleri"
+    }
+  ],
+  "hero": {
+    "title": "Stratejik Netlik. Operasyonel Disiplin ve Sürdürülebilir İş Sonuçları",
+    "description": "Sistem Global, kurumsal liderlerle birlikte stratejik fırsatları sürdürülebilir rekabet avantajına dönüştürmek, performans potansiyelini açığa çıkarmak ve dayanıklı, geleceğe hazır organizasyonlar inşa etmek üzere çalışıyoruz.",
+    "image": "/images/servisler/yonetim-danismanligi-hero.webp",
+    "buttons": [
+      {
+        "text": "İşleminizi Başlatın",
+        "link": "#contact",
+        "variant": "primary"
+      },
+      {
+        "text": "Yaklaşımımızı İnceleyin",
+        "link": "#approach",
+        "variant": "outline"
+      }
+    ],
+    "marks": [
+      "Strateji ve Finans Entegrasyonu",
+      "Uygulama Odaklı Danışmanlık",
+      "Kurumsal Seviye Analitik Titizlik",
+      "Sektörler Arası Perspektif"
+    ]
+  },
+  "sections": [
+    {
+      "id": "intro",
+      "type": "content_with_image",
+      "title": "Stratejiyi Ölçülebilir Değere Dönüştürüyoruz",
+      "content": "\n                <p>Günümüz iş ortamında; büyüme hedefleri, operasyonel verimlilik, regülasyon gereklilikleri, dijital dönüşüm ve sürdürülebilirlik öncelikleri eş zamanlı olarak yönetilmek zorundadır. Bu nedenle yönetim danışmanlığı yalnızca stratejik içgörü sunmakla sınırlı kalmamalı; stratejiyi disiplinli uygulamaya ve ölçülebilir değer yaratımına dönüştürmelidir.</p>\n                <p>Yönetim Danışmanlığı Hizmetlerimiz; stratejik yönlendirme, finansal disiplin, operasyonel mükemmeliyet, dijital yetkinlik, yönetişim disiplini ve dönüşüm yönetimini bütüncül bir hizmet çerçevesinde entegre eder.</p>\n            ",
+      "image": "/images/servisler/yonetim-danismanligi-intro.webp",
+      "image_position": "right"
+    },
+    {
+      "id": "principles",
+      "type": "icon_grid",
+      "title": "Danışmanlık İlkelerimiz",
+      "description": "Projelerimiz; analitik titizlik, disiplinli uygulama ve uzun vadeli etkiyi güvence altına alan beş temel ilkeye dayanır.",
+      "items": [
+        {
+          "title": "Veri Temelli Karar Destek",
+          "desc": "Finansal modelleme ve veri odaklı analizlerle şeffaf bir analitik temel oluşturur; yönetici kararlarının objektif kanıtlara dayanmasını sağlarız.",
+          "icon": "LineChart"
+        },
+        {
+          "title": "Uygulama Odaklı Tasarım",
+          "desc": "Stratejiyi; sıralı inisiyatiflere, net sorumluluk tanımlarına, ölçülebilir KPI’lara ve yapılandırılmış yol haritalarına dönüştürürüz.",
+          "icon": "Zap"
+        },
+        {
+          "title": "Yönetişim ve Risk Disiplini",
+          "desc": "PMO/TMO çerçeveleri ve değer izleme mekanizmaları kurgular; uygulama riskini azaltır ve hesap verebilirliği güçlendiririz.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "Entegre Kurumsal Perspektif",
+          "desc": "Strateji, finans, operasyon ve teknoloji; tek bir kurumsal sistemin birbirine bağlı bileşenleri olarak ele alınır.",
+          "icon": "Layers"
+        },
+        {
+          "title": "Yetkinlik Transferi",
+          "desc": "Bilgi transferi yapar, kurum içi yetkinlikleri güçlendirir ve iyileştirmeleri kurumsallaştırırız.",
+          "icon": "Users"
+        }
+      ]
+    },
+    {
+      "id": "services",
+      "type": "tabs_content",
+      "title": "Hizmet Alanlarımız",
+      "layout": "side_nav",
+      "items": [
+        {
+          "label": "Stratejik Planlama",
+          "title": "1. Stratejik Planlama ve Kurumsal Gelişim",
+          "content": "\n                        <div class=\"space-y-6\">\n                            <p>Üst yönetimi; kurumsal stratejik yönün belirlenmesi, stratejik önceliklerle belirlenmiş sermaye dağılım modelinin oluşturulması ve uzun vadeli hissedar değeri ile pazar konumunu güçlendirecek inisiyatiflerin tasarlanması konularında destekleriz.</p>\n                            <div class=\"grid grid-cols-1 md:grid-cols-2 gap-6\">\n                                <div>\n                                    <h5 class=\"font-bold text-secondary mb-2 uppercase text-xs tracking-wider\">Kapsam</h5>\n                                    <ul class=\"list-disc pl-5 space-y-1 text-sm text-gray-600\">\n                                        <li>Kurumsal ve iş birimi stratejisi</li>\n                                        <li>Büyüme stratejisi ve pazar genişleme</li>\n                                        <li>Portföy ve sermaye dağılım modeli</li>\n                                        <li>Senaryo planlama ve risk bazlı stratejik analiz</li>\n                                    </ul>\n                                </div>\n                                <div>\n                                    <h5 class=\"font-bold text-secondary mb-2 uppercase text-xs tracking-wider\">Kurumsal Değer</h5>\n                                    <ul class=\"list-disc pl-5 space-y-1 text-sm text-gray-600\">\n                                        <li>Kurum genelinde net stratejik hizalanma</li>\n                                        <li>Disiplinli yatırım önceliklendirmesi</li>\n                                        <li>Strateji ile finansal performans arasında güçlü bağ</li>\n                                    </ul>\n                                </div>\n                            </div>\n                        </div>\n                    "
+        },
+        {
+          "label": "Operasyonel Mükemmellik",
+          "title": "2. Operasyonel Mükemmellik ve Performans İyileştirme",
+          "content": "\n                        <div class=\"space-y-6\">\n                            <p>Üst yönetimle birlikte çalışarak uzun vadeli stratejik yönü belirler, sermaye tahsisini optimize eder ve giderek karmaşıklaşan pazarlarda sürdürülebilir rekabet avantajını güçlendiririz.</p>\n                            <div class=\"grid grid-cols-1 md:grid-cols-2 gap-6\">\n                                <div>\n                                    <h5 class=\"font-bold text-secondary mb-2 uppercase text-xs tracking-wider\">Kapsam</h5>\n                                    <ul class=\"list-disc pl-5 space-y-1 text-sm text-gray-600\">\n                                        <li>Kurum genelinde operasyonel teşhis</li>\n                                        <li>Tedarik zinciri ve satın alma optimizasyonu</li>\n                                        <li>Maliyet dönüşümü ve marj iyileştirme</li>\n                                        <li>İşletme sermayesi ve nakit akışı optimizasyonu</li>\n                                    </ul>\n                                </div>\n                                <div>\n                                    <h5 class=\"font-bold text-secondary mb-2 uppercase text-xs tracking-wider\">Kurumsal Değer</h5>\n                                    <ul class=\"list-disc pl-5 space-y-1 text-sm text-gray-600\">\n                                        <li>Sürdürülebilir maliyet verimliliği</li>\n                                        <li>Artan operasyonel şeffaflık</li>\n                                        <li>Güçlenen marj ve nakit performansı</li>\n                                    </ul>\n                                </div>\n                            </div>\n                        </div>\n                    "
+        },
+        {
+          "label": "Yönetişim & Organizasyon",
+          "title": "3. Organizasyon, Yönetişim ve İnsan Sermayesi",
+          "content": "\n                        <div class=\"space-y-6\">\n                            <p>Organizasyon tasarımı, yönetişim mimarisi ve liderlik yetkinliklerini uzun vadeli stratejik hedeflerle hizalayarak uygulama mükemmeliyeti ve sürdürülebilir kurumsal değer yaratımını destekleriz.</p>\n                            <div class=\"grid grid-cols-1 md:grid-cols-2 gap-6\">\n                                <div>\n                                    <h5 class=\"font-bold text-secondary mb-2 uppercase text-xs tracking-wider\">Kapsam</h5>\n                                    <ul class=\"list-disc pl-5 space-y-1 text-sm text-gray-600\">\n                                        <li>Organizasyon tasarımı ve yeniden yapılandırma</li>\n                                        <li>Yönetişim ve karar yetki çerçeveleri</li>\n                                        <li>Rol netliği ve hesap verebilirlik modelleri</li>\n                                        <li>Değişim yönetimi ve adaptasyon stratejisi</li>\n                                    </ul>\n                                </div>\n                                <div>\n                                    <h5 class=\"font-bold text-secondary mb-2 uppercase text-xs tracking-wider\">Kurumsal Değer</h5>\n                                    <ul class=\"list-disc pl-5 space-y-1 text-sm text-gray-600\">\n                                        <li>Daha hızlı karar alma</li>\n                                        <li>Azaltılmış organizasyonel karmaşıklık</li>\n                                        <li>Güçlendirilmiş uygulama kapasitesi</li>\n                                    </ul>\n                                </div>\n                            </div>\n                        </div>\n                    "
+        },
+        {
+          "label": "Dijital Strateji",
+          "title": "4. Dijital Strateji ve Teknoloji Yetkinliği",
+          "content": "\n                        <div class=\"space-y-6\">\n                            <p>Kurumların dijital vizyonunu; disiplinli, kurumsal ölçekli dönüşüm programlarına dönüştürerek sürdürülebilir değer yaratımı ve rekabet avantajı sağlar.</p>\n                            <div class=\"grid grid-cols-1 md:grid-cols-2 gap-6\">\n                                <div>\n                                    <h5 class=\"font-bold text-secondary mb-2 uppercase text-xs tracking-wider\">Kapsam</h5>\n                                    <ul class=\"list-disc pl-5 space-y-1 text-sm text-gray-600\">\n                                        <li>Dijital strateji ve dönüşüm yol haritası</li>\n                                        <li>Kurumsal mimari tasarımı</li>\n                                        <li>Veri ve analitik stratejisi</li>\n                                        <li>BT operasyon modeli tasarımı</li>\n                                    </ul>\n                                </div>\n                                <div>\n                                    <h5 class=\"font-bold text-secondary mb-2 uppercase text-xs tracking-wider\">Kurumsal Değer</h5>\n                                    <ul class=\"list-disc pl-5 space-y-1 text-sm text-gray-600\">\n                                        <li>Ölçülebilir dijital değer yaratımı</li>\n                                        <li>İş ve BT arasında güçlü hizalanma</li>\n                                        <li>Ölçeklenebilir teknoloji altyapısı</li>\n                                    </ul>\n                                </div>\n                            </div>\n                        </div>\n                    "
+        },
+        {
+          "label": "M&A Değer Üretimi",
+          "title": "5. Birleşme ve Satınalmalar (M&A) ve Değer Üretimi",
+          "content": "\n                        <div class=\"space-y-6\">\n                            <p>İşlem disiplinini güçlendiren, uygulama riskini azaltan ve sürdürülebilir değer gerçekleşmesini hızlandıran uçtan uca işlem danışmanlığı sunarız.</p>\n                            <div class=\"grid grid-cols-1 md:grid-cols-2 gap-6\">\n                                <div>\n                                    <h5 class=\"font-bold text-secondary mb-2 uppercase text-xs tracking-wider\">Kapsam</h5>\n                                    <ul class=\"list-disc pl-5 space-y-1 text-sm text-gray-600\">\n                                        <li>İşlem stratejisi ve yatırım tezi</li>\n                                        <li>Ticari, operasyonel ve finansal durum tespiti</li>\n                                        <li>Birleşme sonrası entegrasyon (PMI)</li>\n                                        <li>Carve-out ve ayrıştırma danışmanlığı</li>\n                                    </ul>\n                                </div>\n                                <div>\n                                    <h5 class=\"font-bold text-secondary mb-2 uppercase text-xs tracking-wider\">Kurumsal Değer</h5>\n                                    <ul class=\"list-disc pl-5 space-y-1 text-sm text-gray-600\">\n                                        <li>Artan işlem kalitesi ve disiplin</li>\n                                        <li>Azaltılmış entegrasyon riski</li>\n                                        <li>Sinerjilerin daha hızlı gerçekleşmesi</li>\n                                    </ul>\n                                </div>\n                            </div>\n                        </div>\n                    "
+        },
+        {
+          "label": "Dönüşüm Yönetimi",
+          "title": "6. Kurumsal Dönüşüm ve Program Yönetişimi",
+          "content": "\n                        <div class=\"space-y-6\">\n                            <p>Karmaşık ve çok fonksiyonlu dönüşüm programlarını harekete geçirir, yapılandırır ve yönetiriz.</p>\n                            <div class=\"grid grid-cols-1 md:grid-cols-2 gap-6\">\n                                <div>\n                                    <h5 class=\"font-bold text-secondary mb-2 uppercase text-xs tracking-wider\">Kapsam</h5>\n                                    <ul class=\"list-disc pl-5 space-y-1 text-sm text-gray-600\">\n                                        <li>Dönüşüm Ofisi (PMO/TMO) kurulumu</li>\n                                        <li>İnisiyatif önceliklendirme ve sıralama</li>\n                                        <li>Değer izleme ve fayda gerçekleşmesi</li>\n                                        <li>Fonksiyonlar arası koordinasyon</li>\n                                    </ul>\n                                </div>\n                                <div>\n                                    <h5 class=\"font-bold text-secondary mb-2 uppercase text-xs tracking-wider\">Kurumsal Değer</h5>\n                                    <ul class=\"list-disc pl-5 space-y-1 text-sm text-gray-600\">\n                                        <li>Artan dönüşüm başarı oranı</li>\n                                        <li>Hızlandırılmış değer yakalama</li>\n                                        <li>Güçlü paydaş hizalanması</li>\n                                    </ul>\n                                </div>\n                            </div>\n                        </div>\n                    "
+        },
+        {
+          "label": "Risk & Uyum",
+          "title": "7. Kurumsal Risk Yönetimi ve Uyum Danışmanlığı",
+          "content": "\n                        <div class=\"space-y-6\">\n                            <p>Yönetişim çerçevelerini güçlendirir, iç kontrol ortamlarını sağlamlaştırır ve kurumsal dayanıklılığı artırırız.</p>\n                            <div class=\"grid grid-cols-1 md:grid-cols-2 gap-6\">\n                                <div>\n                                    <h5 class=\"font-bold text-secondary mb-2 uppercase text-xs tracking-wider\">Kapsam</h5>\n                                    <ul class=\"list-disc pl-5 space-y-1 text-sm text-gray-600\">\n                                        <li>Kurumsal risk yönetimi çerçeveleri</li>\n                                        <li>İç kontrol sistemi tasarımı</li>\n                                        <li>Regülasyon uyum programları</li>\n                                        <li>Siber güvenlik ve veri yönetişimi</li>\n                                    </ul>\n                                </div>\n                                <div>\n                                    <h5 class=\"font-bold text-secondary mb-2 uppercase text-xs tracking-wider\">Kurumsal Değer</h5>\n                                    <ul class=\"list-disc pl-5 space-y-1 text-sm text-gray-600\">\n                                        <li>Azaltılmış regülasyon riski</li>\n                                        <li>Artan şeffaflık ve gözetim</li>\n                                        <li>Güçlü kurumsal dayanıklılık</li>\n                                    </ul>\n                                </div>\n                            </div>\n                        </div>\n                    "
+        }
+      ]
+    },
+    {
+      "id": "approach",
+      "type": "process_grid",
+      "title": "Hizmet Sunum Yaklaşımımız",
+      "description": "Sistem Global; veri temelli teşhis, çözüm tasarımı, uygulama yönetişimi ve yetkinlik transferini birleştiren yapılandırılmış, uçtan uca bir metodoloji uygular.",
+      "steps": [
+        {
+          "title": "Align",
+          "desc": "Hedeflerin, kapsamın ve KPI’ların netleştirilmesi.",
+          "icon": "Target"
+        },
+        {
+          "title": "Diagnose",
+          "desc": "Finansal ve operasyonel boyutlarda sağlam veri temeli oluşturulması.",
+          "icon": "Search"
+        },
+        {
+          "title": "Design",
+          "desc": "Hedef durum ve detaylı uygulama yol haritasının tanımlanması.",
+          "icon": "Zap"
+        },
+        {
+          "title": "Deliver",
+          "desc": "Yapılandırılmış yönetişim ile uygulamanın mobilize edilmesi.",
+          "icon": "TrendingUp"
+        },
+        {
+          "title": "Embed",
+          "desc": "İyileştirmelerin kurumsallaştırılması ve yetkinlik transferi.",
+          "icon": "ShieldCheck"
+        }
+      ]
+    },
+    {
+      "id": "models",
+      "type": "info_list",
+      "title": "Çalışma Modellerimiz",
+      "items": [
+        {
+          "title": "Stratejik Projeler",
+          "desc": "Belirli bir hedef odaklı stratejik danışmanlık projeleri."
+        },
+        {
+          "title": "Uygulama Desteği",
+          "desc": "Uçtan uca uygulama ve saha desteği sunan modeller."
+        },
+        {
+          "title": "Karma Ekipler",
+          "desc": "Müşteri ekipleriyle ortak teslim modelleri."
+        },
+        {
+          "title": "Retainer Yapıları",
+          "desc": "Uzun vadeli danışmanlık ve gözetim mandatları."
+        }
+      ]
+    },
+    {
+      "id": "standards",
+      "type": "benefits_grid",
+      "title": "Profesyonel Standartlarımız",
+      "benefits": [
+        {
+          "title": "Yönetişim Disiplini",
+          "desc": "Yapılandırılmış yürütme komitesi yönetişimi ve net hesap verebilirlik.",
+          "icon": "Briefcase"
+        },
+        {
+          "title": "Performans Takibi",
+          "desc": "KPI bazlı performans ve fayda gerçekleşme takibi.",
+          "icon": "LineChart"
+        },
+        {
+          "title": "Risk Yönetimi",
+          "desc": "Entegre risk ve bağımlılık yönetimi ile güvenli uygulama.",
+          "icon": "Shield"
+        },
+        {
+          "title": "Veri Gizliliği",
+          "desc": "Güvenli ve gizli veri işleme protokolleri ile tam uyum.",
+          "icon": "Lock"
+        }
+      ]
+    },
+    {
+      "id": "why",
+      "type": "content_with_image",
+      "title": "Neden Sistem Global?",
+      "content": "\n                <p>Uluslararası yatırım bankaları ve üst düzey danışmanlık firmalarının uyguladığı analitik standartlara bağlıyız. Önerilerimiz sadece raporlarla sınırlı kalmaz; somut performans artışı yaratmak üzere sahada uygulanabilir kurgular içerir.</p>\n                <p>Çok disiplinli kadromuz; stratejik vizyonu finansal disiplinle birleştirerek kurumsal değerinizi maksimize eder.</p>\n            ",
+      "image": "/images/servisler/yonetim-danismanligi-why.webp",
+      "image_position": "left"
+    },
+    {
+      "type": "cta_box",
+      "title": "Yönetim Kapasitenizi bir Üst Seviyeye Taşıyın",
+      "description": "Riskleri erken aşamada görünür kılmak, pazarlık gücü kazanmak ve kapanış sonrası değeri maksimize etmek için uzman ekibimizle görüşün.",
+      "button_text": "Uzman Görüşü Alın",
+      "secondary_button": "Detaylı Bilgi"
+    }
+  ]
+}

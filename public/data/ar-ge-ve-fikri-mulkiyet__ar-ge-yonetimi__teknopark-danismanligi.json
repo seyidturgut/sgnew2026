@@ -1,0 +1,192 @@
+{
+  "slug": "teknopark-danismanligi",
+  "title": "Teknopark",
+  "title_highlighted": "Danışmanlığı",
+  "layout_density": "compact",
+  "category": "Ar-Ge ve Fikri Mülkiyet",
+  "youtube_id": "kwHPZLDaJAQ",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Ar-Ge ve Fikri Mülkiyet", "link": "/servisler/ar-ge-ve-fikri-mulkiyet" },
+    { "name": "Ar-Ge Yönetimi", "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi" },
+    { "name": "Teknopark Danışmanlığı", "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/teknopark-danismanligi" }
+  ],
+  "hero": {
+    "title": "Teknopark Danışmanlığı",
+    "description": "Başvuru, Ar-Ge proje yönetimi, teşvik ve mevzuat süreçlerinde teknopark ekosistemine uçtan uca uyum sağlayın.",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1800&q=80",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Süreçleri İnceleyin", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "Teknoparkta",
+      "title_highlight": "doğru yapı, sürdürülebilir büyüme",
+      "description": "Teknopark danışmanlığı, teknoloji firmalarının ya da girişimcilerin teknoparklarda yer alarak sağladığı avantajlardan en verimli şekilde faydalanabilmesi için sunulan profesyonel destek hizmetidir. Süreç; teknoparka başvuru ve kabul süreçlerinden, Ar-Ge projelerinin planlanması ve yürütülmesine, vergi muafiyetleri ve teşviklerin doğru kullanımına kadar geniş bir alanı kapsar.",
+      "badge": "Başvuru + Teşvik + Uyum + Sürdürme",
+      "features": [
+        "Teknopark başvuru ve kabul süreç yönetimi",
+        "Ar-Ge proje planlama, yürütme ve raporlama",
+        "Vergi ve SGK teşviklerinin doğru kullanımı",
+        "Mevzuata uyum ve denetim hazırlığı"
+      ],
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1600&q=80"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Teknopark Danışmanlığı Nedir?",
+      "content": "<p>Teknopark danışmanlığı, teknoloji firmalarının ya da girişimcilerin teknoparklarda yer alarak sağladığı avantajlardan en verimli şekilde faydalanabilmesi için sunulan profesyonel destek hizmetidir. Bu danışmanlık hizmetinin süreci; Teknoparka başvuru ve kabul süreçlerinden, Ar-Ge projelerinin planlanması ve yürütülmesine, vergi muafiyetleri ve teşviklerin doğru kullanımı gibi kritik konulara kadar geniş bir alanı kapsar.</p><p>Ayrıca şirketlerin, teknopark bünyesinde mevzuata uygun şekilde faaliyet göstermesi, mali ve hukuki yükümlülüklerini yerine getirmesi için rehberlik sağlanır. Böylece firmalar hem inovatif projelerini geliştirme hem de devlet desteklerinden maksimum düzeyde faydalanma imkânına sahip olur.</p><p>Şirketlere büyük yarar sağlayan bu danışmanlık hizmeti; firmaların maliyetlerini düşürmesine ve inovasyon odaklı büyüme stratejileri geliştirmesine katkı sağlar. Gelir ve kurumlar vergisi muafiyeti, gelir vergisi stopaj teşviki ve SGK prim desteği gibi avantajların yanında, marka değeri ve rekabet gücünün artmasına da destek olur.</p>",
+      "image": "https://images.unsplash.com/photo-1497366412874-3415097a27e7?auto=format&fit=crop&w=1400&q=80",
+      "image_position": "right"
+    },
+    {
+      "type": "rich_text",
+      "title": "Teknopark / Teknokent Nedir?",
+      "html": "<p>Teknopark veya Teknokent olarak ifade edilen Teknoloji Geliştirme Bölgeleri; yüksek/ileri teknoloji kullanan ya da yeni teknolojiler üretmeye yönelik firmaların, belirli bir üniversite veya yüksek teknoloji enstitüsü ya da Ar-Ge merkez veya enstitüsünün olanaklarından yararlanarak teknoloji veya yazılım ürettikleri/geliştirdikleri, teknolojik bir buluşu ticari bir ürün, yöntem veya hizmet haline dönüştürmek için faaliyet gösterdikleri ve bu yolla bölgenin kalkınmasına katkıda bulundukları alanlardır.</p>"
+    },
+    {
+      "type": "tabs_content",
+      "title": "Teknopark Danışmanlığının Sağladığı Hizmet Alanları",
+      "layout": "top_center",
+      "items": [
+        {
+          "label": "Başvuru ve Kurulum",
+          "title": "Başvuru ve Kurulum Süreci",
+          "content": "<p>Teknoparkta yer almak isteyen firmalara başvuru belgelerinin hazırlanması, proje dosyalarının oluşturulması ve sürecin takibi konularında danışmanlık sağlanır.</p>"
+        },
+        {
+          "label": "Ar-Ge Yönetimi",
+          "title": "Ar-Ge ve Proje Yönetimi",
+          "content": "<p>Firmaların teknoparkta yürüteceği Ar-Ge projelerinin planlanması, yürütülmesi, raporlanması ve sonuçlandırılması aşamalarında profesyonel destek sunulur.</p>"
+        },
+        {
+          "label": "Vergi ve Teşvik",
+          "title": "Vergi ve Teşvik Danışmanlığı",
+          "content": "<p>Vergi muafiyetleri, SGK teşvikleri, gelir vergisi stopajı gibi avantajların yasal çerçevede sürdürülebilir şekilde kullanılmasına yardımcı olunur.</p>"
+        },
+        {
+          "label": "Mali-Hukuki Uyum",
+          "title": "Mali ve Hukuki Uyum Süreçleri",
+          "content": "<p>Mevzuata uygunluk, denetim hazırlığı, beyanname ve yıllık faaliyet raporlarının düzenlenmesi gibi alanlarda destek sağlanır.</p>"
+        },
+        {
+          "label": "Hibe Destekleri",
+          "title": "Hibe ve Destek Başvuruları",
+          "content": "<p>TÜBİTAK, KOSGEB, Ticaret Bakanlığı gibi kurumlar tarafından sağlanan Ar-Ge ve inovasyon desteklerine başvuru süreçleri yönetilir.</p>"
+        },
+        {
+          "label": "Personel ve SGK",
+          "title": "Personel ve SGK Süreçleri",
+          "content": "<p>Ar-Ge ve destek personelinin SGK bildirimi, teşvikten faydalanma koşulları ve personel uygunluğu süreçlerinde danışmanlık verilir.</p>"
+        },
+        {
+          "label": "İşbirliği",
+          "title": "İşbirliği ve Ticarileştirme",
+          "content": "<p>Üniversiteler, kamu kurumları ve diğer firmalarla işbirliği fırsatları geliştirilerek Ar-Ge çıktılarının ticarileştirilmesi için yönlendirme yapılır.</p>"
+        },
+        {
+          "label": "Raporlama",
+          "title": "Raporlama ve Denetim Hazırlığı",
+          "content": "<p>Teknopark yönetimi, vergi dairesi veya diğer resmi kurumlara sunulacak raporların hazırlanmasında destek verilerek denetim riskleri azaltılır.</p>"
+        }
+      ]
+    },
+    {
+      "type": "process_grid",
+      "title": "Teknopark Danışmanlığı Süreci ve Aşamaları",
+      "description": "Başvurudan denetime, kurulumdan sürekli gelişime kadar sistematik süreç yönetimi.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Ön Değerlendirme ve Strateji Geliştirme",
+          "desc": "Firmanın faaliyet alanı, Ar-Ge potansiyeli ve teknopark uyumluluğu değerlendirilir; yararlanılabilecek avantajlar belirlenerek yol haritası hazırlanır."
+        },
+        {
+          "number": "02",
+          "title": "Proje Hazırlama ve Başvuru Süreci",
+          "desc": "İş planı, proje dokümanları ve başvuru formları profesyonel hazırlanır; teknopark yönetimiyle süreç takibi sağlanır."
+        },
+        {
+          "number": "03",
+          "title": "Şirket Kuruluşu veya Taşınması",
+          "desc": "Onay sonrası teknopark içinde kuruluş veya mevcut şirketin taşınma süreçleri tamamlanır."
+        },
+        {
+          "number": "04",
+          "title": "Ar-Ge Faaliyetlerinin Yapılandırılması",
+          "desc": "Proje planlaması, ekip oluşturma ve altyapı hazırlığı ile Ar-Ge süreçleri mevzuata uygun yapılandırılır."
+        },
+        {
+          "number": "05",
+          "title": "Vergi ve Teşvik Takibi",
+          "desc": "Vergi muafiyetleri, SGK prim desteği ve stopaj teşviki gibi avantajların takibi ve yasal raporlamaları yapılır."
+        },
+        {
+          "number": "06",
+          "title": "Faaliyet Raporlamaları ve Beyanname Hazırlıkları",
+          "desc": "Yıllık faaliyet raporları, gelir-gider beyanları ve zorunlu bildirimler hazırlanıp ilgili kurumlara sunulur."
+        },
+        {
+          "number": "07",
+          "title": "Denetim ve Uyum Süreci",
+          "desc": "Teknopark yönetimi ve denetim kurumlarının kontrollerinde eksiksiz belge ve mevzuat uyumu sağlanır."
+        },
+        {
+          "number": "08",
+          "title": "Sürekli Danışmanlık ve Gelişim",
+          "desc": "Kurulum sonrasında Ar-Ge kapasitesini artıracak iş birlikleri, yeni destek programları ve büyüme stratejileri için sürekli destek sunulur."
+        }
+      ]
+    },
+    {
+      "type": "accordion_rich",
+      "title": "Teknopark Firmaları İçin Danışmanlık Hizmetleri",
+      "items": [
+        {
+          "title": "Teknoparklar İçin Teknik Danışmanlık Hizmetleri",
+          "content": "<p>Teknik danışmanlık kapsamında Ar-Ge projelerinin yazımı, proje takibi, personel seçimi ve dışarıda geçirilen sürelerin girişi gibi teknik alanlarda destek verilir.</p><p>Özellikle yeni girişimler ve KOBİ’ler için projelerin Ar-Ge niteliğinin değerlendirilmesi, belgelerin eksiksiz hazırlanması ve başvuruların doğru stratejiyle yapılması sağlanır.</p><p>Personel seçiminde SGK teşviklerinden yararlanılabilecek uygun profiller belirlenir; teknopark dışı görevlerin yasal kayıtları doğru şekilde takip edilerek teşvik sürekliliği korunur.</p>"
+        },
+        {
+          "title": "Teknopark Mali Danışmanlık",
+          "content": "<p>Teknopark bünyesinde faaliyet gösteren firmaların mali mevzuata uyumu, teşvik ve vergi avantajlarından eksiksiz yararlanması için uzmanlık hizmeti sunulur.</p><p>Aylık/yıllık beyannameler, muhasebe süreçleri, gelir ve kurumlar vergisi planlamaları, SGK teşviklerinden yararlanma, maliyet kontrolü, teşvik ve destek programı uygunluk analizleri yürütülür.</p><p>Ayrıca denetim süreçlerine hazırlık, nakit akışı yönetimi, risk analizi ve bütçe planlaması gibi stratejik başlıklarda danışmanlık sağlanır.</p>"
+        },
+        {
+          "title": "Teknopark Sürdürme Danışmanlığı ve Muafiyet Raporu",
+          "content": "<p>Uzun vadeli başarı ve operasyonel devamlılık için faaliyetlerin mevzuata uygun yürütülmesi, teşviklerin sürdürülebilir kullanımı, yıllık faaliyet raporları ve proje performans takibi yapılır.</p><p>Teknokent yönetimi tarafından talep edilen muafiyet raporu için analizler, proje çıktıları, personel detayları ve finansal tablolar değerlendirilerek uygun formatta raporlanır.</p><p>Bu sayede gelir vergisi stopaj teşviki, SGK işveren hissesi desteği, damga vergisi istisnası ve KDV muafiyeti gibi avantajlar kesintisiz sürdürülür.</p>"
+        },
+        {
+          "title": "Teknokent SGK Teşvikleri",
+          "content": "<p>4691 sayılı Kanun kapsamında teknoparklarda yürütülen Ar-Ge, yazılım ve tasarım faaliyetlerine yönelik vergi ve sosyal güvenlik avantajları bulunur.</p><p>5746 sayılı Kanun ile entegre uygulamalarda Ar-Ge ve tasarım personelinin SGK işveren hissesi devlet tarafından karşılanabilir; bu durum personel maliyetlerini düşürür ve istihdamı destekler.</p><p>Teşvikten yararlanmak için bordro ve bildirim süreçlerinin doğru kodlar ve mevzuatla uyumlu biçimde yürütülmesi kritik önemdedir.</p>"
+        }
+      ]
+    },
+    {
+      "type": "services_list",
+      "title": "Teknoloji Geliştirme Bölgeleri’ne Sunduğumuz Hizmetler",
+      "compact": true,
+      "services": [
+        { "title": "Mali ve Teknik Uygunluk/Fayda Analizi Raporu", "desc": "4691 nolu kanun kapsamında projelerin değerlendirilmesi ve mali teşvik analizleri." },
+        { "title": "Bölgeye Giriş için Proje Yazım ve Başvuru Süreci Danışmanlığı", "desc": "Proje ve personel seçimi, proje yazımı, başvuru ve takip süreç yönetimi." },
+        { "title": "Mali Sürdürme", "desc": "Teknoloji Geliştirme Bölgeleri vergi teşviklerinden en üst düzeyde yararlanma için uçtan uca mali danışmanlık." },
+        { "title": "Teknik Sürdürme Danışmanlığı", "desc": "Devam eden projelerin takibi, yönlendirmesi, yeni projelerin değerlendirilmesi ve teknopark yetkinliklerinin artırılması." },
+        { "title": "Yıllık Mali Uygulama ve Risk Değerlendirme Çalışması ve Raporlama", "desc": "Teknopark firmalarının yıllık mali uygulama/risk raporlarının hazırlanması." }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "4691 Sayılı Kanun’dan Yararlanabilir miyim?",
+      "content": "<p>Kanun kapsamındaki teşviklerden yararlanmak için Teknoloji Geliştirme Bölgelerinde yer almak gerekmektedir. Bunun için ilgili Teknokent Yönetici Şirketi tarafından bölgeye kabul edilmeniz gerekir.</p><p>Bölgeye kabul edilmek için faaliyetlerinizin Ar-Ge, yazılım ve tasarım çerçevesinde olması; bu kapsamda projelerinizin bulunması ve projeleri gerçekleştirmek için Ar-Ge, yazılım ve tasarım personeli istihdam edilmesi gerekmektedir.</p>"
+    },
+    {
+      "type": "cta_box",
+      "title": "Teknopark Sürecinizi Uçtan Uca Yönetin",
+      "description": "Başvuru, kurulum, teşvik, raporlama ve uyum adımlarını tek çatı altında güvenle ilerletmek için uzman ekibimizle iletişime geçin.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

@@ -3,26 +3,63 @@ import { useParams, Link } from 'react-router-dom'
 import ServicePageLayout from '../components/layout/ServicePageLayout'
 import ChatBubble from '../components/ChatBubble'
 import TrustBadges from '../components/TrustBadges'
+import { serviceMenu } from '../data/serviceMenu'
 
 import StatsSection from '../components/StatsSection'
 import {
     CheckCircle2, ArrowRight, Loader2, Star, Target, Award,
     Briefcase, Settings, Zap, ShieldCheck, PieChart, Factory,
-    Ship, Cpu, Coins, Globe, TrendingUp, Users, BookOpen, Scale, ChevronRight
+    Ship, Cpu, Coins, Globe, TrendingUp, Users, BookOpen, Scale, ChevronRight,
+    LineChart, Layers, Search, Shield
 } from 'lucide-react'
 
 // İkon Haritası - JSON'dan gelen string'i Lucide ikonuna çevirmek için
 const IconMap = {
     Star, Target, Award, Briefcase, Settings, Zap, ShieldCheck,
-    PieChart, Factory, Ship, Cpu, Coins, Globe, TrendingUp, Users, BookOpen, Scale, ArrowRight
+    PieChart, Factory, Ship, Cpu, Coins, Globe, TrendingUp, Users, BookOpen, Scale, ArrowRight,
+    LineChart, Layers, Search, Shield, CheckCircle2
 }
 
 const TabsContentSection = ({ section }) => {
     const [activeTab, setActiveTab] = useState(0)
     const items = section.items || []
     const activeItem = items[activeTab] || items[0]
+    const isTopCentered = section.layout === 'top_center'
 
     if (!items.length) return null
+
+    if (isTopCentered) {
+        return (
+            <div className="max-w-6xl mx-auto space-y-6">
+                <div className="space-y-3 text-center">
+                    <h3 className="text-2xl lg:text-3xl font-bold text-secondary tracking-tight">{section.title}</h3>
+                    <div className="h-1 w-20 bg-gradient-to-r from-primary to-transparent rounded-full mx-auto"></div>
+                </div>
+
+                <div className="rounded-2xl border border-gray-100 bg-white p-3 shadow-sm">
+                    <div className="flex flex-wrap items-center justify-center gap-2">
+                        {items.map((item, idx) => (
+                            <button
+                                key={idx}
+                                onClick={() => setActiveTab(idx)}
+                                className={`rounded-lg px-4 py-2.5 text-sm lg:text-[15px] font-semibold transition-all border ${idx === activeTab ? 'bg-secondary text-white border-secondary shadow-sm' : 'bg-gray-50 text-secondary border-transparent hover:bg-gray-100'}`}
+                            >
+                                {item.label}
+                            </button>
+                        ))}
+                    </div>
+                </div>
+
+                <div className="rounded-2xl border border-gray-100 bg-white p-5 lg:p-7 shadow-sm space-y-4">
+                    <h4 className="text-2xl lg:text-[30px] font-bold text-secondary leading-tight">{activeItem.title}</h4>
+                    <div
+                        className="prose prose-lg prose-p:text-gray-700 prose-p:leading-relaxed prose-a:text-primary prose-a:font-semibold hover:prose-a:text-primary/80 max-w-none"
+                        dangerouslySetInnerHTML={{ __html: activeItem.content || '' }}
+                    />
+                </div>
+            </div>
+        )
+    }
 
     return (
         <div className="max-w-7xl mx-auto space-y-5">
@@ -65,8 +102,15 @@ const TabsContentSection = ({ section }) => {
     )
 }
 
-const DynamicServicePage = () => {
-    const { category, subcategory, slug } = useParams()
+const DynamicServicePage = ({ forcedSlug, forcedSubcategory }) => {
+    const params = useParams()
+
+    // Allow props to override params (for ServiceDispatcher logic)
+    const category = params.category
+    // If forcedSubcategory is provided (even if null), use it. Otherwise use params.
+    const subcategory = forcedSubcategory !== undefined ? forcedSubcategory : params.subcategory
+    const slug = forcedSlug || params.slug || params.subcategory // Fallback for 2-level routes if not dispatched
+
     const [pageData, setPageData] = useState(null)
     const [loading, setLoading] = useState(true)
     const [error, setError] = useState(null)
@@ -75,11 +119,30 @@ const DynamicServicePage = () => {
         const fetchPageContent = async () => {
             setLoading(true)
             try {
-                // Önce local JSON dosyasını kontrol et (Database bağımsız geliştirme için)
-                const localResponse = await fetch(`/data/${slug}.json`)
+                // Önce route'a özel JSON dosyasını kontrol et, bulunamazsa slug bazlı dosyaya düş
+                const routeKey = [category, subcategory, slug].filter(Boolean).join('__')
+                const localCandidates = [
+                    `/data/${routeKey}.json`,
+                    category && slug ? `/data/${category}__${slug}.json` : null,
+                    `/data/${slug}.json`
+                ].filter(Boolean)
 
-                if (localResponse.ok) {
-                    const localData = await localResponse.json()
+                let localData = null
+                for (const candidate of localCandidates) {
+                    const localResponse = await fetch(candidate)
+                    if (localResponse.ok) {
+                        try {
+                            localData = await localResponse.json()
+                            break
+                        } catch (parseErr) {
+                            // Bazı ortamlarda olmayan JSON dosyaları 200 + HTML dönebilir.
+                            // Bu durumda bir sonraki adaya düş.
+                            console.warn(`Invalid JSON for candidate: ${candidate}`, parseErr)
+                        }
+                    }
+                }
+
+                if (localData) {
 
                     // Determine content_json (Handle both flat and wrapped structures)
                     // Flat: generated by generate_tp_json.py (has sections at root)
@@ -111,7 +174,7 @@ const DynamicServicePage = () => {
             }
         }
         fetchPageContent()
-    }, [slug])
+    }, [category, subcategory, slug])
 
     if (loading) {
         return (
@@ -141,15 +204,26 @@ const DynamicServicePage = () => {
     const categoryNameMap = {
         'vergi-finans': 'Vergi & Finans',
         'kurumsal-finans': 'Kurumsal Finans',
+        'ar-ge-ve-fikri-mulkiyet': 'Ar-Ge ve Fikri Mülkiyet',
         'dis-ticaret': 'Dış Ticaret',
         'hukuk': 'Hukuk',
         'yonetim-danismanligi': 'Yönetim Danışmanlığı',
-        'degerlemeler': 'Değerlemeler'
+        'degerlemeler': 'Değerlemeler',
+        'finansmana-erisim-ve-surdurulebilirlik': 'Finansmana Erişim ve Sürdürülebilirlik',
+        'globallesme-ihracat': 'Globalleşme & İhracat',
+        'globallesme-ve-ihracat': 'Globalleşme & İhracat',
+        'mevzuat-uyum': 'Mevzuat & Uyum',
+        'mevzuat-ve-uyum': 'Mevzuat & Uyum'
     }
 
     const subcategoryNameMap = {
         'vergi': 'Vergi',
         'kurumsal-finansman': 'Kurumsal Finansman',
+        'finansmana-erisim': 'Finansmana Erişim',
+        'surdurulebilirlik': 'Sürdürülebilirlik',
+        'rpa-ve-surec-danismanligi': 'RPA ve Süreç Danışmanlığı',
+        'ar-ge-yonetimi': 'Ar-Ge Yönetimi',
+        'fikri-mulkiyet': 'Fikri Mülkiyet',
         'ihracat': 'İhracat',
         'ithalat': 'İthalat',
         'sozlesme-yonetimi': 'Sözleşme Yönetimi',
@@ -157,8 +231,59 @@ const DynamicServicePage = () => {
         'ar-ge': 'Ar-Ge',
         'sirket-degerleme': 'Şirket Değerleme',
         'makina-ekipman': 'Makina Ekipman',
-        'eserler': 'Eserler'
+        'eserler': 'Eserler',
+        'birlesme-ve-satin-alma-ma': 'Birleşme ve Satın Alma (M&A)',
+        'uluslararasi-ticaret': 'Uluslararası Ticaret'
     }
+
+    const categoryFallbacks = {
+        'vergi-finans': '/images/servisler/tax-general.webp',
+        'ar-ge-ve-fikri-mulkiyet': '/images/servisler/tech-general.webp',
+        'mevzuat-uyum': '/images/servisler/legal-general.webp',
+        'mevzuat-ve-uyum': '/images/servisler/legal-general.webp',
+        'globallesme-ihracat': '/images/servisler/global-general.webp',
+        'globallesme-ve-ihracat': '/images/servisler/global-general.webp',
+        'finansmana-erisim-surdurulebilirlik': '/images/servisler/finance-general.webp',
+        'finansmana-erisim-ve-surdurulebilirlik': '/images/servisler/finance-general.webp',
+        'kurumsal-finans': '/images/servisler/finance-general.webp',
+        'dis-ticaret': '/images/servisler/global-general.webp'
+    };
+
+    const getFallbackImage = (cat) => categoryFallbacks[cat] || '/images/servisler/services-hero-business.webp';
+
+    // Helper to find service info in menu
+    const findServiceInMenu = (targetSlug) => {
+        if (!targetSlug) return null;
+        console.log("Searching for slug:", targetSlug);
+        for (const cat of serviceMenu) {
+            for (const sub of cat.subcategories || []) {
+                const found = sub.items?.find(item => {
+                    const itemSlug = item.href.split('/').pop();
+                    return itemSlug === targetSlug || item.href.endsWith('/' + targetSlug);
+                });
+
+                if (found) {
+                    console.log("Found service:", found.title, "in sub:", sub.title);
+                    return { category: cat, subcategory: sub, item: found };
+                }
+            }
+        }
+        console.warn("Service NOT found for:", targetSlug);
+        return null;
+    };
+
+    const serviceInfo = findServiceInMenu(slug);
+
+    // Use found info if available, otherwise fallback to params
+    const activeCategory = serviceInfo?.category || {
+        title: categoryNameMap[category] || pageData.category_name,
+        slug: category
+    };
+
+    const activeSubcategory = serviceInfo?.subcategory || (subcategory ? {
+        title: subcategoryNameMap[subcategory] || subcategory,
+        slug: subcategory
+    } : null);
 
     // Breadcrumb oluştur
     const breadcrumb = [
@@ -167,18 +292,24 @@ const DynamicServicePage = () => {
     ]
 
     // Kategori varsa ekle
-    if (category) {
+    if (activeCategory.slug) {
+        // Use mapped title if available, otherwise category object's title, otherwise fallback
+        const catTitle = categoryNameMap[activeCategory.slug] || activeCategory.title || pageData.category_name;
         breadcrumb.push({
-            label: categoryNameMap[category] || pageData.category_name,
-            href: `/servisler/${category}`
+            label: catTitle,
+            href: `/servisler/${activeCategory.slug}`
         })
     }
 
     // Alt kategori varsa ekle
-    if (subcategory) {
+    if (activeSubcategory &&
+        activeSubcategory.slug !== 'uluslararasi-ticaret' &&
+        activeSubcategory.slug !== 'sirket-kurulusu-ve-yonetimi' &&
+        activeSubcategory.slug !== 'yasal-uyum-risk') {
+        const subTitle = subcategoryNameMap[activeSubcategory.slug] || activeSubcategory.title;
         breadcrumb.push({
-            label: subcategoryNameMap[subcategory] || subcategory,
-            href: `/servisler/${category}/${subcategory}`
+            label: subTitle,
+            href: `/servisler/${activeCategory.slug}/${activeSubcategory.slug}`
         })
     }
 
@@ -259,15 +390,18 @@ const DynamicServicePage = () => {
                                         <p className="text-lg text-gray-600 font-light">{section.description}</p>
                                     </div>
                                     <div className="grid grid-cols-1 md:grid-cols-2 gap-12 max-w-6xl mx-auto">
-                                        {section.steps.map((step, i) => (
-                                            <div key={i} className="relative space-y-4 p-8 rounded-xl border border-gray-100 hover:border-primary/20 hover:shadow-lg transition-all duration-300 bg-white">
-                                                <div className="absolute -top-4 -left-4 w-12 h-12 bg-gradient-to-br from-primary to-orange-400 rounded-lg flex items-center justify-center text-white font-bold shadow-lg">
-                                                    {step.number}
+                                        {section.steps.map((step, i) => {
+                                            const StepIcon = IconMap[step.icon]
+                                            return (
+                                                <div key={i} className="relative space-y-4 p-8 rounded-xl border border-gray-100 hover:border-primary/20 hover:shadow-lg transition-all duration-300 bg-white">
+                                                    <div className="absolute -top-4 -left-4 w-12 h-12 bg-gradient-to-br from-primary to-orange-400 rounded-lg flex items-center justify-center text-white font-bold shadow-lg">
+                                                        {StepIcon ? <StepIcon size={24} /> : (step.number || i + 1)}
+                                                    </div>
+                                                    <h3 className="text-2xl font-medium text-secondary pt-4">{step.title}</h3>
+                                                    <p className="text-gray-600 leading-relaxed">{step.desc}</p>
                                                 </div>
-                                                <h3 className="text-2xl font-medium text-secondary pt-4">{step.title}</h3>
-                                                <p className="text-gray-600 leading-relaxed">{step.desc}</p>
-                                            </div>
-                                        ))}
+                                            )
+                                        })}
                                     </div>
                                 </div>
                             )
@@ -355,6 +489,10 @@ const DynamicServicePage = () => {
                                             src={section.image}
                                             alt={section.title}
                                             className="relative w-full h-auto rounded-xl shadow-2xl border-4 border-white"
+                                            onError={(e) => {
+                                                e.target.onerror = null;
+                                                e.target.src = getFallbackImage(category);
+                                            }}
                                         />
                                     </div>
                                 </div>
@@ -465,6 +603,10 @@ const DynamicServicePage = () => {
                                                 src={section.image}
                                                 alt={section.title}
                                                 className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-700"
+                                                onError={(e) => {
+                                                    e.target.onerror = null;
+                                                    e.target.src = getFallbackImage(category);
+                                                }}
                                             />
                                             <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
                                         </div>
@@ -702,7 +844,15 @@ const DynamicServicePage = () => {
                                             {pageData.youtube_id ? (
                                                 <iframe width="100%" height="100%" src={`https://www.youtube.com/embed/${pageData.youtube_id}`} frameBorder="0" allowFullScreen className="absolute inset-0 w-full h-full"></iframe>
                                             ) : (
-                                                <img src={section.image || pageData.hero_image} alt={pageData.title} className="w-full h-full object-cover" />
+                                                <img
+                                                    src={section.image || pageData.hero_image}
+                                                    alt={pageData.title}
+                                                    className="w-full h-full object-cover"
+                                                    onError={(e) => {
+                                                        e.target.onerror = null;
+                                                        e.target.src = getFallbackImage(category);
+                                                    }}
+                                                />
                                             )}
                                         </div>
                                     </div>
@@ -873,6 +1023,10 @@ const DynamicServicePage = () => {
                                                 src={section.image}
                                                 alt={section.title}
                                                 className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-700 decoration-clone"
+                                                onError={(e) => {
+                                                    e.target.onerror = null;
+                                                    e.target.src = getFallbackImage(category);
+                                                }}
                                             />
                                             <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 flex items-end p-8">
                                                 <span className="text-white font-bold text-xl translate-y-4 group-hover:translate-y-0 transition-transform duration-500">{section.title}</span>
@@ -908,6 +1062,8 @@ const DynamicServicePage = () => {
         )
     }
 
+
+
     return (
         <>
             <ChatBubble />
@@ -920,6 +1076,7 @@ const DynamicServicePage = () => {
                 content={renderContent()}
                 heroImage={pageData.hero_image}
                 fullWidth={true}
+                category={category}
             />
         </>
     )

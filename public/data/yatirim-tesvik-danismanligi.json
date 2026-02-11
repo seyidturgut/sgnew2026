@@ -1,0 +1,166 @@
+{
+  "slug": "yatirim-tesvik-danismanligi",
+  "title": "Yatirim Tesvik",
+  "title_highlighted": "Danismanligi",
+  "layout_density": "compact",
+  "category": "Finansmana Erisim ve Surdurulebilirlik",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Finansmana Erisim ve Surdurulebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "Finansmana Erisim", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim" },
+    { "name": "Yatirim Tesvik Danismanligi", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim/yatirim-tesvik-danismanligi" }
+  ],
+  "hero": {
+    "title": "Yatirim Tesvik Danismanligi",
+    "description": "Yatirim tesvik mevzuatina uygun, dogru kurgulanmis basvuru ve izleme surecleriyle desteklerden maksimum fayda elde edin.",
+    "image": "/images/servisler/yatirim-tesvik-hero.jpg",
+    "buttons": [
+      { "text": "Uygunluk Analizi", "link": "#contact", "variant": "primary" },
+      { "text": "Destekleri Incele", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "Yatirim Tesvik",
+      "title_highlight": "Sistemi",
+      "description": "Kalkinma hedefleri dogrultusunda uretim, istihdam, arz guvenligi, yesil-dijital donusum ve bolgesel gelismeyi destekleyen yatirimlar icin kapsamli tesvik mekanizmasi.",
+      "badge": "2025/9903 Karari",
+      "features": [
+        "Vergi yukunun azaltilmasi",
+        "Muafiyet ve indirim mekanizmalari",
+        "Bolgesel ve sektorel destekler",
+        "Basvuru, surec ve kapama yonetimi"
+      ],
+      "image": "/images/servisler/yatirim-tesvik-hero.jpg"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Yatirim Tesvik Danismanligi Nedir?",
+      "content": "<p>Kalkinma planlarinda ongorulen hedefler dogrultusunda; uretim ve istihdamin artirilmasi, kritik ihtiyaclarin karsilanmasi, disa bagimliligin azaltilmasi, uluslararasi rekabet gucunun artirilmasi, yesil ve dijital donusumun hizlandirilmasi ile bolgesel gelismislik farklarinin azaltilmasina yonelik yatirimlarin desteklenmesini kapsar.</p><p>Bu kapsamda yatirimci ve ureticilerin yatirimdan dogan yukumluluklerinin azaltilmasi ve muafiyetlerden yararlanmasi hedeflenir.</p>",
+      "image": "/images/servisler/yatirim-tesvik-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "tabs_content",
+      "title": "Mevzuat ve Sistem",
+      "layout": "top_center",
+      "items": [
+        {
+          "label": "Dayanak Mevzuat",
+          "title": "Yatirim Tesvik Sisteminin Dayandigi Mevzuat",
+          "content": "<p>Yatirim Tesvik Mevzuati; Bakanlar Kurulu Karari ve karar uygulama tebligleri cercevesinde desteklenir. 2025/9903 sayili 'Yatirimlarda Devlet Yardimlari Hakkinda Karar' kapsaminda uygulanir.</p><p>31/12/2030 tarihine kadar yapilacak tesvik belgesi muracaatlari yeni tesvik sistemi kapsaminda degerlendirilir.</p>"
+        },
+        {
+          "label": "Tesvik Cesitleri",
+          "title": "9903 Nolu Karara Gore Yatirim Tesvik Cesitleri",
+          "content": "<p>Yatirim tesvik sistemi 3 temel basliga ayrilir:</p><ul><li>Turkiye Yuzyili Kalkinma Hamlesi</li><li>Sektorel Tesvik Sistemi</li><li>Bolgesel Tesvik Sistemi</li></ul>"
+        },
+        {
+          "label": "Kalkinma Hamlesi",
+          "title": "Turkiye Yuzyili Kalkinma Hamlesi Programlari",
+          "content": "<p>Yatirimlarda Devlet Yardimlari Karari kapsaminda Turkiye Yuzyili Kalkinma Hamlesi uc programdan olusur. Programlara iliskin cagrilar yayinlanir; yatirimlar proje bazinda degerlendirilir ve destek karari ilgili komitelerce verilir.</p><ul><li>Kalkinma Hamlesi altindaki yatirimlar icin 'makine destegi' adi altinda nakit destek bulunur.</li><li>Organize sanayi bolgelerinde yatirim yeri tahsisi imkani bulunur.</li></ul>"
+        }
+      ]
+    },
+    {
+      "type": "image_text",
+      "title": "Oncelikli Urun Listesi ve Bolgesel Yaklasim",
+      "content": "<p>Teknoloji Hamlesi Programi kapsaminda oncelikli urun listesindeki urunlere veya teknolojilere yonelik yatirimlar desteklenebilir. Liste; dis ticaret verileri, talep gelisimi ve rekabet yogunlugu gibi kriterlerle belirlenir ve Bakanlik tarafindan yillik olarak guncellenir.</p><p>Sektorel ve bolgesel tesvik sisteminde il/ilce bazli alt bolge destek oranlari, ozellikle SGK desteklerinde farklilasabilir.</p>",
+      "image": "/images/servisler/yatirim-tesvik-map.jpg",
+      "layout": "left"
+    },
+    {
+      "type": "accordion_rich",
+      "title": "Basvuru, Kosullar ve Surec",
+      "items": [
+        {
+          "title": "Yatirim Tesvik Belgesi Asgari Yatirim Sartlari",
+          "content": "<p>Asgari sabit yatirim tutarlari uygulamaya gore degisir:</p><ul><li>Hedef/Oncelikli Tesvik Sistemi: 1. ve 2. bolgede 12.000.000 TL, diger bolgelerde 6.000.000 TL'den baslayacak sekilde sektor/il bazli.</li><li>Stratejik Hamle Programi: yuksek teknolojili yatirimlar icin 100 milyon TL, diger konular icin 200 milyon TL.</li><li>Teknoloji Hamle Programi ve Yerel Kalkinma Hamlesi: cagri kapsaminda belirlenir.</li><li>Proje Bazli Yatirim Tesvik Sistemi: 1 milyar TL.</li><li>HIT-30 kapsaminda en az 2 milyar TL yatirim plani.</li></ul><p>Yatirim tesvik belgesi kapsaminda destekten yararlanan yatirim harcamalari, diger kamu destekleri ve hibe destekleriyle birlikte kullanilamaz. Yatirim tamamlandiginda belge kapatma sureci icin Bakanliga muracaat gerekir.</p>"
+        },
+        {
+          "title": "Yatirim Tesvik Belgesinin Suresi",
+          "content": "<p>Belge suresi genel olarak yaklasik 3 yildir. Ilave sure ihtiyacinda, belge suresinin yarisi kadar ek sure verilebilir. Sektor ve yatirimin niteligine gore sure degisebilir.</p><p>Gerekli izin/ruhsat temininde gecikme, kamu kaynakli durmalar veya mucbir sebepler durumunda ilave sure tanimlanabilir.</p>"
+        },
+        {
+          "title": "Kimler Yatirim Tesvik Belgesi Alabilir?",
+          "content": "<p>Gercek kisiler, sermaye sirketleri, sahis sirketleri, adi ortakliklar/is ortakliklari, kooperatifler, birlikler, dernekler, vakiflar, kamu kurum ve kuruluslari, meslek kuruluslari, belediyeler ve belediye istirakleri ile yabanci sirketlerin Turkiye subeleri adina tesvik belgesi duzenlenebilir.</p><p>Dogrudan yabanci sermayeli yatirimlar ve yabanci sermayeli sirketler de Turkiye'de planladiklari yatirimlar icin belge alabilir.</p>"
+        },
+        {
+          "title": "Belge Ne Zaman Alinmali?",
+          "content": "<p>Yatirim yeri belirlendikten ve yatirim plani olusturulduktan sonra belge alimi hazirligina baslanmalidir.</p><p>Bir harcamanin tesvikten faydalanabilmesi icin belge tarihinden sonra faturalandirilmis olmasi kritik oldugundan, yatirim harcamalarina baslamadan once belge alinmalidir.</p>"
+        },
+        {
+          "title": "Yatirim Tesvik Belgesine Nasil Basvurulur?",
+          "content": "<p>2 Temmuz 2018'den itibaren yeni belge muracaatlari ve ilgili bildirimler, Tevfik Uygulama ve Yabanci Sermaye Genel Mudurlugu tarafindan yonetilen E-TUYS web tabanli uygulamasi uzerinden yapilir.</p><p>Yalnizca nitelikli elektronik sertifika sahibi ve Bakanlikca yetkilendirilmis kisiler E-TUYS uzerinden islem yuruteabilir; bu nedenle ilk adimda yetkilendirme sureci tamamlanmalidir.</p>"
+        }
+      ]
+    },
+    {
+      "type": "icon_grid",
+      "title": "Yatirim Tesvik Belgesi Destekleri",
+      "items": [
+        { "title": "KDV Istisnasi", "desc": "Yurt ici ve yurt disindan temin edilen yatirim mali makine-tecizat icin KDV odenmemesi.", "icon": "CheckCircle2" },
+        { "title": "Gumruk Vergisi Muafiyeti", "desc": "Yurt disindan temin edilen yatirim mali makine-tecizat icin gumruk vergisi oraninin %0 uygulanmasi.", "icon": "CheckCircle2" },
+        { "title": "Vergi Indirimi", "desc": "Gelir/kurumlar vergisinin, yatirim katki tutarina ulasilincaya kadar indirimli uygulanmasi.", "icon": "CheckCircle2" },
+        { "title": "Yatirim Yeri Tahsisi", "desc": "Ilgili usul ve esaslar cercevesinde yatirim yeri tahsis edilebilmesi.", "icon": "CheckCircle2" },
+        { "title": "Faiz veya Kar Payi Destegi", "desc": "Sabit yatirim tutarinin belirli orana kadar kullanilan kredi faiz/kar payinin bir kisminin karsilanmasi.", "icon": "CheckCircle2" },
+        { "title": "Sigorta Primi Isveren Hissesi", "desc": "Ilave istihdam icin isveren primi destegi (6. bolgede tamami, diger bolgelerde belirli oranlar).", "icon": "CheckCircle2" },
+        { "title": "Sigorta Primi Isci Destegi", "desc": "Ilave istihdamda isci hissesi priminin asgari ucrete tekabul eden kisminin karsilanmasi.", "icon": "CheckCircle2" },
+        { "title": "Makine Destegi", "desc": "Belirli sartlari saglayan makine-tecizat bedelinin belirli oraninin Bakanlikca odenmesi.", "icon": "CheckCircle2" }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Diger Destekler ve Muafiyetler",
+      "content": "<p>2464 sayili Belediye Gelirleri Kanunu kapsaminda; parselasyon, ifraz-tevhit, plan-proje tasdik, zemin acma-toprak hafriyat, bina insaat ve yapi kullanma izni harclarina iliskin istisnalar bulunur.</p><p>6728 sayili Kanun kapsaminda; damga vergisi ve harc istisnalari, tesvik kapsamindaki yatirim mallarina iliskin sozlesmeler, taahhutnameler, teknik musavirlik/danismanlik belgeleri ile yatirim donemindeki belirli gayri maddi hak islemlerinde uygulanir. Ayrica belirli kosullarda emlak vergisi muafiyeti de saglanabilir.</p>"
+    },
+    {
+      "type": "text",
+      "title": "Ekosistem Gelistirme Plani",
+      "content": "<p>KOBI sinifinda yer almayan yatirimci veya Yerel Kalkinma Hamlesi kapsaminda desteklenen yatirimci; yatirimin surdurulebilirligi, teknolojik/ sektorel gelisim, egitim-Ar-Ge ve yerel kalkinmaya katki amacli ekosistem gelistirme planini yatirim donemi icinde gerceklestirmekle yukumludur.</p><p>Bu kapsamdaki yatirim ve harcamalarin tutari, sabit yatirim tutarinin %2'sinden az olamaz.</p>"
+    },
+    {
+      "type": "tabs_content",
+      "title": "Sistem Global Hizmet Kapsami",
+      "layout": "top_center",
+      "items": [
+        {
+          "label": "Bilgilendirme",
+          "title": "Bilgilendirme ve Analiz Hizmeti",
+          "content": "<ul><li>Yatirim konusu ve kosullarinin analiz edilmesi; yararlanilabilecek/yararlanilamayacak destek basliklarinin degerlendirilmesi.</li><li>Yatirim oncesi bilgilendirme yapilmasi.</li><li>Mevzuat degisikliklerinde yatirimciya duzenli bilgilendirme saglanmasi.</li></ul>"
+        },
+        {
+          "label": "Basvuru",
+          "title": "Basvuru Hizmeti",
+          "content": "<ul><li>Yetki evraklarinin hazirlanmasi (taahhutname, yetkilendirme formu, dilekce).</li><li>E-TUYS yetkilendirme ve gerekli sistem girislerinin yapilmasi.</li><li>Uretilecek urun detaylarinin sisteme islenmesi.</li><li>Yerli/ithal makine listelerinin degerlendirilmesi ve optimize edilmesi.</li><li>Bakanlik gerekliliklerine uygun fizibilite raporunun hazirlanmasi.</li><li>Basvuru surecinin takibi, revizelerin yonetimi ve belgenin cikartilmasi.</li><li>Belge ozel sartlarinin aktarimi ve KDV muafiyet yazisi icin yonlendirme.</li></ul>"
+        },
+        {
+          "label": "Surdurme",
+          "title": "Surdurme Hizmeti",
+          "content": "<p>Belge alimi sonrasi taleplere gore belge revizyonlari (makine ekleme-cikarma, sure revizesi, yatirim yeri degisikligi vb.) bakanlik nezdinde yurutilur.</p><ul><li>Makine alimlari icin ETUYS barkod sureclerinin yonetimi.</li><li>Fatura uygunluk kontrolleri, duzeltme bildirimleri ve sistem yuklemeleri.</li><li>Vergi iadesi sureclerinin sorunsuz ilerlemesi icin belge takibi.</li></ul>"
+        },
+        {
+          "label": "Kapatma",
+          "title": "Raporlama, Tamamlama Vizesi ve YMM",
+          "content": "<ul><li>Suresi dolan veya kapatma talebi alinan belgelerde tamamlama vizesi evraklarinin hazirlanmasi.</li><li>Eksik fatura/yevmiye kayitlarinin tamamlanmasi, basvuru evraklarinin sunumu ve ekspertiz-kapatma takibi.</li><li>Gerekli durumlarda Bakanlik beklentilerine uygun YMM raporu hazirlanmasi.</li><li>Mali danismanlik ile destek unsurlarinin dogru uygulanmasi ve kurumlar vergisi indiriminin yatirim ve isletme donemlerinde dogru kullanimi.</li></ul>"
+        }
+      ]
+    },
+    {
+      "type": "image_text",
+      "title": "Yatirim Sureclerinde Operasyonel Takip",
+      "content": "<p>Belge alimindan kapamaya kadar tum surecte teknik, mali ve mevzuat adimlarinin tutarli bicimde yurutilmesi; tesviklerden fiili olarak faydalanabilmenin temel kosuludur.</p><p>Dogru planlanan bir surec, yatirim maliyetini azaltir, belge risklerini dusurur ve finansal etkileri olculebilir hale getirir.</p>",
+      "image": "/images/servisler/yatirim-tesvik-process.jpg",
+      "layout": "right"
+    },
+    {
+      "type": "cta_box",
+      "title": "Yatiriminiz Icin En Uygun Tesvik Stratejisini Birlikte Kuralim",
+      "description": "Uygunluk analizi, basvuru, surdurme ve kapatma sureclerini tek noktadan yoneterek tesviklerden maksimum fayda saglayin.",
+      "button_text": "Hemen Iletisime Gecin",
+      "secondary_button": "Detayli Bilgi Alin"
+    }
+  ]
+}

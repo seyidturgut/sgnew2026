@@ -1,0 +1,198 @@
+{
+  "slug": "uluslararasi-projeler-ve-kalkinma-danismanligi",
+  "title": "Uluslararası Projeler ve",
+  "title_highlighted": "Kalkınma Danışmanlığı",
+  "category": "Ar-Ge Yönetimi",
+  "youtube_id": "6CE9S-hPsJ4",
+  "breadcrumb": [
+    {
+      "name": "Anasayfa",
+      "link": "/"
+    },
+    {
+      "name": "Servisler",
+      "link": "/servisler"
+    },
+    {
+      "name": "Ar-Ge ve Fikri Mülkiyet",
+      "link": "/servisler/ar-ge-ve-fikri-mulkiyet"
+    },
+    {
+      "name": "Ar-Ge Yönetimi",
+      "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi"
+    },
+    {
+      "name": "Uluslararası Projeler ve Kalkınma Danışmanlığı",
+      "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/uluslararasi-projeler-ve-kalkinma-danismanligi"
+    }
+  ],
+  "hero": {
+    "title": "Küresel Kalkınma ve Teknik Destek Projelerinde Güçlü Rehberlik",
+    "description": "Avrupa Birliği, Dünya Bankası ve BM fonları ile finanse edilen projelerde Türkiye'nin yerli ve milli global danışmanlık gücü.",
+    "image": "/images/uluslararasi-projeler/hero.webp",
+    "buttons": [
+      {
+        "text": "İhale ve Proje Desteği Alın",
+        "link": "#contact",
+        "variant": "primary"
+      },
+      {
+        "text": "Hizmetlerimizi İnceleyin",
+        "link": "#services",
+        "variant": "outline"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "Uluslararası Teknik Destek ve Kalkınma İhaleleri",
+      "content": "\n                <p>Türkiye ve birçok ülkede teknik destek ve kalkınma projeleri; politik reformları desteklemek, ekonomik, sosyal ve bölgesel kalkınmayı sağlamak, sürdürülebilirliği güçlendirmek amacıyla hayati öneme sahiptir.</p>\n                <p><strong>Sistem Global</strong> olarak, 2019 yılında kurduğumuz özel ekibimizle, ülkemizin uluslararası ölçekte faaliyet gösteren tek yerli danışmanlık firması olma hedefiyle dev projelerin yükleniciliğini ve danışmanlığını üstleniyoruz.</p>\n            ",
+      "image": "/images/uluslararasi-projeler/team.webp",
+      "image_position": "right"
+    },
+    {
+      "type": "icon_grid",
+      "title": "İhale ve Proje Bazlı Uzmanlık Alanlarımız",
+      "items": [
+        {
+          "title": "Konsorsiyum Kurulumu",
+          "desc": "Global ortaklıklarda ihale ve proje bazlı güçlü konsorsiyumların yapılandırılması.",
+          "icon": "Users"
+        },
+        {
+          "title": "Teklif Hazırlama",
+          "desc": "Uluslararası standartlarda teknik ve finansal ihale dosyalarının titizlikle hazırlanması.",
+          "icon": "FileText"
+        },
+        {
+          "title": "Proje Kurgulama",
+          "desc": "Kalkınma hedefleriyle uyumlu, stratejik ve sürdürülebilir proje mimarisi oluşturma.",
+          "icon": "Layers"
+        },
+        {
+          "title": "Analiz ve Yönetim",
+          "desc": "Kapsamlı araştırma, saha analizi ve projenin uçtan uca yürütüm ve yönetimi.",
+          "icon": "BarChart"
+        }
+      ]
+    },
+    {
+      "type": "service_cards",
+      "title": "Danışmanlık Verdiğimiz Uluslararası Fon Sağlayıcılar",
+      "cards": [
+        {
+          "title": "Avrupa Birliği (EU/IPA)",
+          "desc": "IPA kapsamında Rekabetçi Sektörler, İnsan Kaynakları, Çevre ve İklim programları yönetimi.",
+          "icon": "Globe",
+          "color": "blue"
+        },
+        {
+          "title": "Dünya Bankası (World Bank)",
+          "desc": "Küresel kalkınma projeleri ve finansal destek mekanizmalarına yönelik stratejik danışmanlık.",
+          "icon": "Landmark",
+          "color": "green"
+        },
+        {
+          "title": "Birleşmiş Milletler (UN)",
+          "desc": "Sürdürülebilir kalkınma amaçları (SDG) çerçevesindeki projelere teknik ve yönetsel destek.",
+          "icon": "Anchor",
+          "color": "light-blue"
+        },
+        {
+          "title": "Kalkınma Bankaları (EBRD/WB)",
+          "desc": "EBRD ve diğer bölgesel bankaların hibe ve yatırım projelerine yönelik uzman rehberliği.",
+          "icon": "ShieldCheck",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Kalkınmaya Odaklanan Tematik Alanlar",
+      "benefits": [
+        {
+          "title": "Dijitalleşme ve İnovasyon",
+          "desc": "Kalkınma süreçlerinde teknolojik dönüşüm ve yenilikçi çözümlerin entegrasyonu.",
+          "icon": "Cpu"
+        },
+        {
+          "title": "Akıllı Şehirler ve Ulaşım",
+          "desc": "Modern şehircilik, akıllı mobilite ve verimli ulaşım altyapısı projeleri.",
+          "icon": "Zap"
+        },
+        {
+          "title": "Yeşil Mutabakat ve Çevre",
+          "desc": "Sürdürülebilirlik, iklim eylemi ve çevresel kalkınma stratejileri.",
+          "icon": "Leaf"
+        },
+        {
+          "title": "İstihdam ve Sosyal Uyum",
+          "desc": "İnsan kaynaklarının geliştirilmesi, göç yönetimi ve toplumsal refah projeleri.",
+          "icon": "Heart"
+        }
+      ]
+    },
+    {
+      "id": "success",
+      "type": "stats_grid",
+      "title": "Yürütmekte Olduğumuz Prestijli IPA Projeleri",
+      "stats": [
+        {
+          "label": "Kars Tarihi Kimliği",
+          "value": "1",
+          "suffix": "Proje"
+        },
+        {
+          "label": "KOBİ Yaşam Bilimleri",
+          "value": "İst.",
+          "suffix": ""
+        },
+        {
+          "label": "Smart Tech Merkezi",
+          "value": "Konya",
+          "suffix": ""
+        },
+        {
+          "label": "Sosyal Entegrasyon",
+          "value": "TRB1",
+          "suffix": ""
+        }
+      ]
+    },
+    {
+      "type": "process_grid",
+      "title": "Bölgesel ve Yerel Kalkınma Çözümleri",
+      "description": "Üniversiteler, Belediyeler ve OSB'ler için ulusal ve yerel hibe mekanizmalarından maksimum fayda sağlıyoruz.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Proje Geliştirme",
+          "desc": "Yerel ihtiyaçlara göre yatırım ve kapasite artırım projelerinin kurgulanması."
+        },
+        {
+          "number": "02",
+          "title": "Fizibilite Hazırlama",
+          "desc": "Yatırımların mali ve teknik uygunluğuna yönelik profesyonel raporlama."
+        },
+        {
+          "number": "03",
+          "title": "Kalkınma Ajansı Destekleri",
+          "desc": "Ulusal ajans çağrılarına yönelik tam kapsamlı başvuru ve dosya yönetimi."
+        },
+        {
+          "number": "04",
+          "title": "Eğitim ve Kapasite",
+          "desc": "Kurum çalışanlarına yönelik proje yazım ve yönetim eğitim programları."
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Geleceği Birlikte İnşa Edelim",
+      "description": "Uluslararası teknik destek ihaleleri ve kalkınma projelerinde uzman çözüm ortağınız olalım.",
+      "button_text": "İletişime Geçin",
+      "secondary_button": "Referanslarımız"
+    }
+  ]
+}

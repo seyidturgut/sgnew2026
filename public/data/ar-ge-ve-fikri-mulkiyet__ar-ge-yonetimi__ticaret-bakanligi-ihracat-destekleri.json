@@ -1,0 +1,164 @@
+{
+  "slug": "ticaret-bakanligi-ihracat-destekleri",
+  "title": "Ticaret Bakanlığı",
+  "title_highlighted": "İhracat Destekleri",
+  "layout_density": "compact",
+  "category": "Ar-Ge ve Fikri Mülkiyet",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Ar-Ge ve Fikri Mülkiyet", "link": "/servisler/ar-ge-ve-fikri-mulkiyet" },
+    { "name": "Ar-Ge Yönetimi", "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi" },
+    { "name": "Ticaret Bakanlığı İhracat Destekleri", "link": "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/ticaret-bakanligi-ihracat-destekleri" }
+  ],
+  "hero": {
+    "title": "Ticaret Bakanlığı İhracat Destekleri",
+    "description": "İhracat harcamalarınızı %50-%70 oranında destekleyen programlarla yeni pazarlara güvenle açılın.",
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=1800&q=80",
+    "buttons": [
+      { "text": "Uygunluğunuzu Değerlendirelim", "link": "#contact", "variant": "primary" },
+      { "text": "Destekler", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "İhracat",
+      "title_highlight": "Destekleri",
+      "description": "İhracata hazırlık, markalaşma ve pazarlama süreçlerinde devlet destekleriyle ölçeklenin.",
+      "badge": "%50-%70 Hibe",
+      "features": [
+        "Yurt Dışı Pazar Araştırması",
+        "Fuar ve Etkinlik Katılımları",
+        "Yurt Dışı Tanıtım ve Marka",
+        "E-İhracat ve Dijital Pazarlama"
+      ],
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1600&q=80"
+    },
+    {
+      "type": "stats_highlight",
+      "stats": [
+        { "number": "200+", "label": "Hibe ve Teşvik Erişimi", "icon": "Award" },
+        { "number": "100+", "label": "Globalleşen Müşteri", "icon": "Globe" },
+        { "number": "10", "label": "Global Ofis", "icon": "Briefcase" },
+        { "number": "%70", "label": "Maksimum Destek Oranı", "icon": "TrendingUp" }
+      ]
+    },
+    {
+      "type": "content_with_image",
+      "title": "Ticaret Bakanlığı İhracat Destekleri Nedir?",
+      "content": "<p>İhracat yapan ya da ihracata başlamak isteyen firmaların, ihracat oranlarını artırmak için yaptıkları harcamaların desteklendiği bir programdır.</p>",
+      "image": "https://images.unsplash.com/photo-1470790376778-a9fbc86d70e2?auto=format&fit=crop&w=1400&q=80",
+      "image_position": "right"
+    },
+    {
+      "type": "info_list",
+      "title": "Ticaret Bakanlığı İhracat Desteklerinden Kimler Faydalanabilir?",
+      "items": [
+        {
+          "title": "Üretim Firmaları",
+          "desc": "Türkiye'de üretim yapan ve ürünlerini yurt dışına satan veya satmak isteyen firmalar."
+        },
+        {
+          "title": "Ticaret Firmaları",
+          "desc": "Türkiye'de üretilen ürünlerin ticaretini yapan şirketler."
+        },
+        {
+          "title": "Hizmet Sektörü",
+          "desc": "Bilişim, yönetim danışmanlığı gibi hizmet sektöründe yer alan ve hizmetlerini yurt dışına sunan firmalar."
+        },
+        {
+          "title": "İhracata Yeni Başlayanlar",
+          "desc": "İlk kez ihracat yapacak firmalar için kapsamlı destekler."
+        }
+      ]
+    },
+    {
+      "type": "image_text",
+      "title": "%70'a Varan Destek Oranları",
+      "content": "<p>Türkiye’de yerleşik bir şekilde üretim yapan firmaların İhracata Hazırlık, Markalaşma ve Pazarlama ihtiyaçları için %50-%70 oranlarında hibe sağlayan bu programların destek içeriklerini öğrenmek ve firmanıza uygunluklarını ücretsiz değerlendirmek için sizi arayalım.</p>",
+      "image": "https://images.unsplash.com/photo-1529074963764-98f45c47344b?auto=format&fit=crop&w=1400&q=80",
+      "layout": "left"
+    },
+    {
+      "type": "text",
+      "title": "Ticaret Bakanlığı İhracat Desteklerinin Firmalara Sağladığı Avantajlar Nelerdir?",
+      "content": "<p>Yurt dışı pazarları tanımak, ürün ya da hizmet tanıtmak, fuar, vb. etkinliklere katılmak, network geliştirmek ve satış oranlarını artırmak için gerçekleştirilen faaliyetlerin harcamaları %50 ile %70 oranında desteklenmektedir. Firmalar Ticaret Bakanlığı İhracat Destekleri ile daha stratejik adımlar atarak yurt dışı pazarlara daha kolay açılır ve ilgili yurt dışı pazarlarda tutunmaları kolaylaşır.</p>"
+    },
+    {
+      "type": "text",
+      "title": "Sistem Global ve Ticaret Bakanlığı İhracat Destekleri",
+      "content": "<p>Sistem Global olarak, Ticaret Bakanlığı İhracat Destekleri konusunda deneyimli ve uzman ekibi ile birlikte destek kapsamına alınacak faaliyetin Ticaret Bakanlığı tarafındaki ön onay sürecinden başlayarak hak edilen hibe bedelinin firmaya ulaşmasına kadar geçen tüm süreçte sizlerin yanındayız. Firmaların Ticaret Bakanlığı İhracat Desteklerine başvuru için mevcut durumlarının uygunluğunu analiz ederek hangi faaliyetlerini hangi adımlarda gerçekleştirirse Ticaret Bakanlığı İhracat Desteklerinden faydalanabileceği konusunda yol gösteriyoruz. Destek sürecinin başlamasının ardından gereken tüm rutin uygulamalarda yol arkadaşlığını sürdürüyoruz. Çalışmalarımız Ticaret Bakanlığı İhracat Destekleri 2022 güncel mevzuatı kapsamına uygun olarak sunulmaktadır.</p>"
+    },
+    {
+      "type": "text",
+      "title": "Ticaret Bakanlığı İhracat Destekleri Nelerdir?",
+      "content": "<p>Ticaret Bakanlığı, ihracatçı firmaların uluslararası pazarlarda rekabet gücünü artırmak ve ihracatı teşvik etmek amacıyla çeşitli destek programları sunmaktadır. Bu destekler, firmaların yurt dışına açılmasını kolaylaştıran finansal teşvikler, pazarlama faaliyetlerine katkılar ve operasyonel giderleri azaltan desteklerden oluşmaktadır. Yurt dışı pazarlara girişten markalaşmaya, fuar katılımlarından e-ticarete kadar geniş bir yelpazede sunulan bu teşvikler, ihracatçılara maliyet avantajı sağlayarak küresel rekabet güçlerini artırmalarına yardımcı olmaktadır.</p>"
+    },
+    {
+      "type": "text",
+      "title": "Sanayi Bakanlığı İhracat Destekleri",
+      "content": "<p>Sanayi ve Teknoloji Bakanlığı, Türkiye'deki sanayi işletmelerinin küresel pazarlarda rekabet gücünü artırmak için çeşitli ihracat destekleri sunmaktadır. Bu destekler, özellikle üretim kapasitesini artırmaya yönelik Ar-Ge ve inovasyon teşviklerini, teknoloji transferini ve üretimde verimliliği artırmaya yönelik programları kapsamaktadır. Özellikle sanayi işletmelerine yönelik sağlanan finansal destekler, yüksek katma değerli üretimi teşvik ederek ihracat potansiyelini artırmayı hedeflemektedir.</p><p>Sanayi Bakanlığı'nın sunduğu desteklerden yararlanan firmalar, uluslararası standartlara uygun üretim yapma şansı elde ederken, ihracat süreçlerinde devletin sağladığı avantajlardan faydalanabilmektedir. Bu destekler, hem yeni ihracatçılar hem de mevcut ihracat hacmini büyütmek isteyen firmalar için önemli bir fırsat sunmaktadır. Özellikle teknolojik dönüşüme yatırım yapan firmalar için büyük ölçekli destekler sağlanmaktadır.</p>"
+    },
+    {
+      "type": "services_list",
+      "title": "İmalat Sanayine Uygun Ticaret Bakanlığı İhracat Destekleri",
+      "compact": true,
+      "services": [
+        { "title": "Yurt Dışı Pazar Araştırması Desteği", "desc": "" },
+        { "title": "Pazara Giriş Projesi Desteği", "desc": "" },
+        { "title": "Pazara Giriş Belgeleri Desteği", "desc": "" },
+        { "title": "Yurt İçi ve Yurt Dışı Fuar Katılım Desteği", "desc": "" },
+        { "title": "Yurt Dışı Birim Kiralanması Desteği", "desc": "" },
+        { "title": "Yurt Dışı Marka Tescili Desteği", "desc": "" },
+        { "title": "Ticaret Bakanlığı Yurt Dışı Tanıtım Desteği", "desc": "" },
+        { "title": "Markalaşma & Turquality", "desc": "" }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Bilişim Sektörü Odağında İhracat Destekleri",
+      "content": "<p>Bilişim sektörü odaklı ihracat destekleri, özellikle yüksek katma değerli ürünler üreten ve küresel pazarda rekabet eden firmalar için büyük avantajlar sunmaktadır. Türkiye'de inovasyon ve dijitalleşme çalışmalarına verilen Ticaret Bakanlığı destekleri, teknoloji tabanlı ihracat yapan firmalara önemli fırsatlar sağlamaktadır. Bu destekler sayesinde firmalar, uluslararası pazarlara daha kolay erişim sağlayarak, dijital ürün ve hizmetlerini global çapta tanıtabilmektedir. Teknoloji odaklı teşvikler, yazılım, yapay zeka, savunma sanayi, biyoteknoloji gibi alanlarda faaliyet gösteren firmalar için büyük avantajlar sunmaktadır. Böylece Türkiye, küresel teknoloji ihracatında daha güçlü bir konuma gelerek, inovasyon odaklı büyümesini sürdürebilmektedir.</p>"
+    },
+    {
+      "type": "services_list",
+      "title": "Bilişim Sektörüne Uygun Ticaret Bakanlığı İhracat Destekleri",
+      "compact": true,
+      "services": [
+        { "title": "Yurt Dışı Ürün/Hizmet/Marka/Patent/Fikri Mülkiyet Hakkı Tescil ve Koruma Desteği", "desc": "" },
+        { "title": "Rapor ve Veri Analizi Desteği", "desc": "" },
+        { "title": "Belgelendirme Desteği", "desc": "" },
+        { "title": "Yurt Dışı Arama Desteği", "desc": "" },
+        { "title": "Hizmet Pazarlamaya Yönelik E-ticaret Site ve Platformlar ile Uluslararası Kuruluşlara Bireysel Üyelik Desteği", "desc": "" },
+        { "title": "Yazılım, Mobil Uygulama, Dijital Oyun Geliştirme Desteği", "desc": "" },
+        { "title": "Kiralama Desteği", "desc": "" },
+        { "title": "Pazara Giriş Desteği", "desc": "" },
+        { "title": "Reklam, Tanıtım ve Pazarlama Desteği", "desc": "" },
+        { "title": "Ürün Yerleştirme Desteği", "desc": "" },
+        { "title": "Komisyon Desteği", "desc": "" },
+        { "title": "Yurt Dışı Fuar/Kongre/Konferans/Seminer Bireysel Katılım Desteği", "desc": "" },
+        { "title": "Yurt Dışı Fuar/Kongre/Konferans/Seminer Milli Katılım Desteği", "desc": "" },
+        { "title": "Yurt İçi Fuar/Kongre/Konferans/Seminer Bireysel Katılımları", "desc": "" },
+        { "title": "Yurt Dışı Birim Desteği", "desc": "" },
+        { "title": "E-Turquality (Bilişimin Yıldızları) Programı", "desc": "" }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Neden Ticaret Bakanlığı Teşviklerinden Yararlanmalısınız?",
+      "content": "<p>Ticaret Bakanlığı, ihracatçı firmaların uluslararası pazarlarda rekabet gücünü artırmak amacıyla çeşitli teşvik programları sunmaktadır. Bu teşvikler, ihracat yapan veya yapmayı planlayan firmaların finansal yüklerini hafifletirken, markalaşma, pazar araştırması ve tanıtım gibi stratejik alanlarda destek sağlamaktadır. Özellikle yurt dışı fuar katılımları, pazara giriş belgeleri ve dijital tanıtım faaliyetleri gibi konular devlet destekleriyle çok daha kolay hale gelmektedir.</p><p>Bu teşviklerden yararlanmak, işletmelere yeni pazarlara açılma imkânı sunarken aynı zamanda ihracat süreçlerinde maliyet avantajı sağlar. Küresel rekabet ortamında güçlü bir yer edinmek isteyen firmalar için devlet teşvikleri, önemli bir itici güç oluşturmaktadır. Doğru teşvik programlarından faydalanarak, sürdürülebilir büyüme sağlamak ve ihracat gelirlerini artırmak mümkün hale gelmektedir.</p>"
+    },
+    {
+      "type": "text",
+      "title": "Türkiye'de Ticaret Bakanlığı İhracat Destekleri Nasıl İşliyor?",
+      "content": "<p>Türkiye’de ihracatı artırmaya yönelik devlet destekleri, Ekonomi Bakanlığı tarafından belirlenen teşvik programları çerçevesinde yürütülmektedir. Bu destekler, firmaların uluslararası pazarda daha rekabetçi hale gelmesini sağlamak için finansal hibeler, kredi imkânları ve vergi avantajları gibi farklı alanlarda sunulmaktadır. İhracata yönelik devlet destekleri, özellikle KOBİ'ler ve yeni ihracata başlayan firmalar için büyük kolaylıklar sağlamaktadır.</p><p>Ekonomi Bakanlığı’nın sunduğu destekler arasında yurtdışı pazar araştırması, marka tescili, fuar katılım teşvikleri ve döviz kazandırıcı hizmetler yer almaktadır. Firmalar, bu teşviklerden yararlanabilmek için belirli kriterleri sağlamak ve başvuru süreçlerini eksiksiz tamamlamak zorundadır. Doğru şekilde planlanan ihracat destekleri, firmaların yurt dışında kalıcı ve güçlü bir yer edinmelerine yardımcı olmaktadır.</p>"
+    },
+    {
+      "type": "cta_box",
+      "title": "Desteklerden Maksimum Fayda Sağlayın",
+      "description": "Uygunluğunuzu birlikte değerlendirelim ve başvuru süreçlerini birlikte yönetelim.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

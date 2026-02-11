@@ -44,7 +44,10 @@ const Header = () => {
             </div>
 
             {/* Full Screen Menu Portal */}
-            <DropdownMenu isOpen={isServicesOpen} />
+            <DropdownMenu
+                isOpen={isServicesOpen}
+                onClose={() => setIsServicesOpen(false)}
+            />
         </header>
     )
 }

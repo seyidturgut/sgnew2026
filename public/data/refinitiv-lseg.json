@@ -1,0 +1,99 @@
+{
+  "slug": "refinitiv-lseg",
+  "title": "Refinitiv",
+  "title_highlighted": "(LSEG)",
+  "layout_density": "compact",
+  "category": "Finansmana Erişim ve Sürdürülebilirlik",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik" },
+    { "name": "Refinitiv (LSEG)", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/refinitiv-lseg" }
+  ],
+  "hero": {
+    "title": "Refinitiv (LSEG)",
+    "description": "Küresel yatırımcıların en güvendiği ESG skorlamasıyla sürdürülebilirlik performansınızı güçlendirin.",
+    "image": "/images/servisler/refinitiv-lseg-hero.jpg",
+    "buttons": [
+      { "text": "ESG Skorunuzu Güçlendirin", "link": "#services", "variant": "primary" },
+      { "text": "Uzman Desteği Alın", "link": "#contact", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "Refinitiv ile",
+      "title_highlight": "Küresel Güven",
+      "description": "LSEG çatısı altındaki Refinitiv ESG değerlendirmesi ile şirketinizin sürdürülebilirlik performansını uluslararası yatırımcılar nezdinde görünür ve karşılaştırılabilir hale getirin.",
+      "badge": "Global ESG Benchmark",
+      "features": [
+        "Objektif ve çok boyutlu ESG değerlendirmesi",
+        "Yatırımcı güveni ve uluslararası görünürlük",
+        "Finansal risk/fırsat analizine katkı",
+        "Sürdürülebilir finansmana erişimde avantaj"
+      ],
+      "image": "/images/servisler/refinitiv-lseg-hero.jpg"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Küresel Yatırımcıların En Güvendiği ESG Skorlamasıyla Sürdürülebilirlik Performansınızı Güçlendirin",
+      "content": "<p>Refinitiv, dünya genelinde şirketlerin sürdürülebilirlik performansını objektif kriterlere göre ölçen en kapsamlı ESG veri platformlarından biridir. LSEG (London Stock Exchange Group) tarafından satın alınmasıyla birlikte platform, finansal piyasalar ile sürdürülebilirlik performansının entegrasyonunu daha güçlü bir yapıya kavuşturmuştur. Bu sayede Refinitiv, hem yatırımcılar hem de şirketler açısından güvenilir ESG skorlarının referans noktası hâline gelmiştir.</p><p>Refinitiv'in metodolojisi; çevresel etkilerden çalışan politikalarına, yönetişim kalitesinden etik uygulamalara kadar geniş bir göstergeler setiyle şirketleri çok boyutlu biçimde analiz eder. Bu analizler, işletmelerin sürdürülebilirlik seviyelerini ortaya koymakla kalmaz; aynı zamanda finansal riskleri, fırsatları ve uzun vadeli büyüme potansiyelini de görünür hâle getirir.</p>",
+      "image": "/images/servisler/refinitiv-lseg-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "services_list",
+      "compact": true,
+      "title": "Refinitiv (LSEG) Değerlendirmesi Neden Önemlidir?",
+      "services": [
+        { "title": "Yatırımcı Güveni ve Uluslararası Görünürlük", "desc": "Saygın bir platform tarafından değerlendirilen ESG verileri, uluslararası yatırımcıların şirkete duyduğu güveni artırır." },
+        { "title": "Sürdürülebilir Finansman Kaynaklarına Erişim", "desc": "Refinitiv'de yüksek bir skor, yeşil fonlara, sürdürülebilirlik bağlantılı kredilere ve yatırım araçlarına erişimi kolaylaştırır." },
+        { "title": "Piyasa Değerinin Desteklenmesi", "desc": "Risklerin azaltılması ve şeffaflığın güçlenmesi, uzun vadeli finansal istikrarı artırır." },
+        { "title": "Rekabet Avantajı", "desc": "Sürdürülebilirlik odaklı pazarlarda rakiplerinizin bir adım önüne geçerek tercih edilirliğinizi yükseltirsiniz." },
+        { "title": "Kurumsal İtibar", "desc": "ESG performansının uluslararası standartlarla ölçülmesi, paydaş güvenini ve marka değerini artırır." },
+        { "title": "Stratejik Yönetim", "desc": "Zayıf ve güçlü yönlerin görünür hâle gelmesi, sürdürülebilirlik stratejisinin iyileştirilmesine katkı sağlar." }
+      ]
+    },
+    {
+      "type": "process_steps",
+      "title": "Refinitiv Hizmet Modelimiz",
+      "description": "Şirketinizin Refinitiv değerlendirmesinde güçlü bir performans sergilemesi için süreci uçtan uca yönetiyoruz.",
+      "steps": [
+        {
+          "title": "Durum Analizi ve ESG Verilerinin Haritalandırılması",
+          "desc": "Mevcut uygulamalarınızı, dokümantasyonunuzu ve ESG verilerinizi LSEG metodolojisine göre inceliyor; eksik ve geliştirilmesi gereken alanları tespit ediyoruz."
+        },
+        {
+          "title": "Gelişim Alanlarının Belirlenmesi ve Doküman Oluşturma",
+          "desc": "Boşluk analizi sonucunda ihtiyaç duyulan politika, prosedür, beyan ve raporlama içeriklerini hazırlıyor veya mevcut yapıları iyileştiriyoruz."
+        },
+        {
+          "title": "Sürdürülebilirlik Stratejisinin Güçlendirilmesi",
+          "desc": "ESG skorunuzu doğrudan etkileyen alanlarda (karbon yönetimi, sosyal uygulamalar, yönetişim yapıları vb.) stratejik öneriler geliştiriyor ve uzun vadeli yol haritası oluşturuyoruz."
+        }
+      ]
+    },
+    {
+      "type": "content_with_image",
+      "title": "Kimler Bu Hizmetten Yararlanabilir?",
+      "content": "<ul><li>Borsa İstanbul'da işlem gören şirketler</li><li>Uluslararası fonlardan yatırım çekmek isteyen kurumlar</li><li>Sürdürülebilirlik performansını global ölçekte görünür kılmak isteyen tüm şirketler</li><li>Yeşil finansman araçlarına başvurmayı planlayan işletmeler</li><li>ESG performansını iyileştirmek isteyen tüm sektörler</li><li>Kurumsal yapısını güçlendirme hedefi olan büyük ölçekli şirketler</li></ul>",
+      "image": "/images/servisler/refinitiv-lseg-strategy.jpg",
+      "image_position": "left"
+    },
+    {
+      "type": "image_text",
+      "title": "Refinitiv Skorunuzu Stratejik Avantaja Dönüştürün",
+      "content": "<p>Doğru veri yönetimi, güçlü dokümantasyon ve stratejik iyileştirme adımlarıyla Refinitiv değerlendirmesinde daha güçlü bir konuma ulaşabilirsiniz.</p><p>Bu süreç, yalnızca ESG skorunu yükseltmekle kalmaz; yatırımcı iletişimini güçlendirir, finansmana erişimi kolaylaştırır ve şirketinizin uzun vadeli değer hikayesini somutlaştırır.</p>",
+      "image": "/images/servisler/refinitiv-lseg-data.jpg",
+      "layout": "right"
+    },
+    {
+      "type": "cta_box",
+      "title": "Refinitiv (LSEG) Sürecinizi Birlikte Yönetin",
+      "description": "ESG veri altyapısı, skor iyileştirme ve uluslararası görünürlük hedefleriniz için uçtan uca danışmanlık sağlayalım.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

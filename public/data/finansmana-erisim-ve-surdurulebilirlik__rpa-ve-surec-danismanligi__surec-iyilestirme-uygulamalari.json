@@ -1,0 +1,145 @@
+{
+  "slug": "surec-iyilestirme-uygulamalari",
+  "title": "Süreç İyileştirme",
+  "title_highlighted": "Uygulamaları",
+  "layout_density": "compact",
+  "category": "Finansmana Erişim ve Sürdürülebilirlik",
+  "youtube_id": "",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Finansmana Erişim ve Sürdürülebilirlik", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik" },
+    { "name": "RPA ve Süreç Danışmanlığı", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi" },
+    { "name": "Süreç İyileştirme Uygulamaları", "link": "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/surec-iyilestirme-uygulamalari" }
+  ],
+  "hero": {
+    "title": "Süreç İyileştirme Uygulamaları",
+    "description": "Karmaşıklaşan iş modellerinde verimsizlik alanlarını görünür kılın, süreçlerinizi ölçülebilir ve sürdürülebilir hale getirin.",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1800&q=80",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Analizleri İnceleyin", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "Süreçlerde",
+      "title_highlight": "ölçülebilir gelişim",
+      "description": "Süreç iyileştirme yaklaşımımız; mevcut işleyişin objektif analizi, gelişim alanlarının net tespiti ve uygulanabilir aksiyon planlarının kurgulanmasına odaklanır.",
+      "badge": "RPA ve Süreç Danışmanlığı",
+      "features": [
+        "Mevcut süreç mimarisinin detaylı incelenmesi",
+        "İyileştirme alanlarının somut tespiti",
+        "Raporlanabilir proje alanlarının çıkarılması",
+        "BT altyapısı uygunluk değerlendirmesi"
+      ],
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1600&q=80"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Süreç İyileştirme Uygulamaları Nedir?",
+      "content": "<p>Çok boyutlu ve birbiriyle bağlantılı sistematik zorluklarla dolu iş dünyası, kapsamlı bir iş bölümüyle tanımlanmıştır. Yapılan birçok araştırmanın sonucunda hızla değişen iş dünyasının sürdürülebilir verimlilik ve başarının en büyük düşmanının ise giderek karmaşık hale gelen iş modelleri olduğu görülmektedir. İş süreçlerindeki verimsizliklerin değerlendirilmesi, şirketlerin büyümesinin sağlanabilmesi için önemli bir adımdır.</p>",
+      "image": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=1400&q=80",
+      "image_position": "right"
+    },
+    {
+      "type": "services_list",
+      "title": "Sistem Global ve Süreç İyileştirme Uygulamaları",
+      "compact": true,
+      "services": [
+        { "title": "Kuruluşun genel süreç yapısını inceliyoruz.", "desc": "" },
+        { "title": "Mevcut iyileştirme alanlarına ilişkin genel tespitlerini yapıyoruz.", "desc": "" },
+        { "title": "Potansiyel iyileştirme proje alanlarını raporluyoruz.", "desc": "" },
+        { "title": "Sistem ve Bilgi Teknolojileri altyapısının şirketinizin ihtiyaçlarına uygunluğunu değerlendiriyoruz.", "desc": "" },
+        { "title": "Süreç işleyişinde gelişime açık alanların belirlenmesi ve aksiyon planlarının oluşturulmasında geri bildirimler veriyoruz.", "desc": "" }
+      ]
+    },
+    {
+      "type": "service_cards",
+      "title": "Sunduğumuz Analizler",
+      "cards": [
+        {
+          "title": "Detay Süreç Analizi & Raporlama",
+          "desc": "Süreçlerinizi Standart Hale Getirin.",
+          "icon": "PieChart",
+          "color": "blue"
+        },
+        {
+          "title": "Temel Risk Analizi",
+          "desc": "Risklerinizi Kontrol Altına Alın.",
+          "icon": "ShieldCheck",
+          "color": "red"
+        },
+        {
+          "title": "Dijital Olgunluk Analizi",
+          "desc": "Dijitalleşme Seviyenizi Tespit Edin.",
+          "icon": "Cpu",
+          "color": "indigo"
+        },
+        {
+          "title": "Süreç İyileştirme Analizi",
+          "desc": "Sürekli İyileşmeyi Hedefleyin.",
+          "icon": "TrendingUp",
+          "color": "green"
+        },
+        {
+          "title": "Dökümantasyon Yönetimi",
+          "desc": "Dökümanlarınızı Yönetin.",
+          "icon": "BookOpen",
+          "color": "purple"
+        },
+        {
+          "title": "Süreç Performans Yönetimi",
+          "desc": "Performansınızı Ölçün.",
+          "icon": "Target",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "report_cards",
+      "title": "Yayınlarımız ve Bültenler",
+      "subtitle": "Sayfadaki güncel içerikler",
+      "reports": [
+        {
+          "title": "Çalışanlar için 2026 Bordro Parametreleri",
+          "url": "https://www.sistemglobal.com.tr/makaleler/calisanlar-icin-2026-bordro-parametreleri/",
+          "meta": "Yayın"
+        },
+        {
+          "title": "Vergi Levhası Nasıl Alınır?",
+          "url": "https://www.sistemglobal.com.tr/makaleler/vergi-levhasi-nasil-alinir/",
+          "meta": "Yayın"
+        },
+        {
+          "title": "Dijital Dönüşüm Nedir? Temel Unsurları Nelerdir?",
+          "url": "https://www.sistemglobal.com.tr/makaleler/dijital-donusum-nedir-temel-unsurlari-nelerdir/",
+          "meta": "Yayın"
+        },
+        {
+          "title": "SGK TECİL İŞLEMLERİNDE ÖNEMLİ DEĞİŞİKLİKLER YAPILDI!",
+          "url": "https://www.sistemglobal.com.tr/bultenler/isletme-cozumleri-bultenler/sgk-tecil-islemlerinde-onemli-degisiklikler-yapildi/",
+          "meta": "Bülten"
+        },
+        {
+          "title": "AVRUPA’DA %10 SABİT VERGİ AVANTAJIYLA TANIŞIN!",
+          "url": "https://www.sistemglobal.com.tr/bultenler/globallesme-bultenler/avrupada-10-sabit-vergi-avantajiyla-tanisin/",
+          "meta": "Bülten"
+        },
+        {
+          "title": "KOBİ’LERE 20 MİLYON TL’YE KADAR GERİ ÖDEMESİZ FAİZ DESTEĞİ!",
+          "url": "https://www.sistemglobal.com.tr/bultenler/ar-ge/kobilere-20-milyon-tlye-kadar-geri-odemesiz-faiz-destegi/",
+          "meta": "Bülten"
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Süreçlerinizi Birlikte Güçlendirelim",
+      "description": "Detaylı bilgi almak için formu doldurun, ekibimiz size ulaşsın ve kurumunuza özel süreç iyileştirme yol haritasını birlikte oluşturalım.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

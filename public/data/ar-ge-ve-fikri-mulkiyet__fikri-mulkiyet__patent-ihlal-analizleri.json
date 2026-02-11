@@ -1,0 +1,149 @@
+{
+  "slug": "patent-ihlal-analizleri",
+  "title": "Patent İhlal",
+  "title_highlighted": "Analizleri",
+  "category": "Fikri Mülkiyet",
+  "youtube_id": "",
+  "breadcrumb": [
+    {
+      "name": "Anasayfa",
+      "link": "/"
+    },
+    {
+      "name": "Servisler",
+      "link": "/servisler"
+    },
+    {
+      "name": "Ar-Ge ve Fikri Mülkiyet",
+      "link": "/servisler/ar-ge-ve-fikri-mulkiyet"
+    },
+    {
+      "name": "Fikri Mülkiyet",
+      "link": "/servisler/ar-ge-ve-fikri-mulkiyet/fikri-mulkiyet"
+    },
+    {
+      "name": "Patent İhlal Analizleri",
+      "link": "/servisler/ar-ge-ve-fikri-mulkiyet/fikri-mulkiyet/patent-ihlal-analizleri"
+    }
+  ],
+  "hero": {
+    "title": "Ticari Risklerinizi Minimize Edin, Fikri Haklarınızı Koruyun",
+    "description": "Ürünlerinizin başkasına ait patentleri ihlal edip etmediğini uzman patent vekillerimizle analiz ediyor, sizi ağır tazminat ve dava risklerinden koruyoruz.",
+    "image": "/images/patent-ihlal/hero.webp",
+    "buttons": [
+      {
+        "text": "İhlal Analizi Talebi",
+        "link": "#contact",
+        "variant": "primary"
+      },
+      {
+        "text": "Riskleri İnceleyin",
+        "link": "#risks",
+        "variant": "outline"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "risks",
+      "type": "content_with_image",
+      "title": "Patent İhlali ve Ticari Boyutu",
+      "content": "\n                <p>Patentli bir ürünü izin almadan üretmek, satmak veya ithal etmek, patent hakkına tecavüz (patent ihlali) sayılır (551 sayılı KHK, Md. 136). Yenilikçi ürünler geliştirirken farkında olmadan başkasına ait bir patentin çekirdek unsurlarını ihlal ediyor olabilirsiniz.</p>\n                <p>Patent ihlal davası, şirketin üretiminin durdurulmasından ciddi maddi tazminatlara kadar çok ağır sonuçlar doğurabilir. <strong>Sistem Global</strong> olarak, teknik ve hukuki uzmanlığımızla bu riskleri önceden tespit ediyoruz.</p>\n            ",
+      "image": "/images/patent-ihlal/team.webp",
+      "image_position": "right"
+    },
+    {
+      "type": "icon_grid",
+      "title": "Hangi Fiiller Patent İhlali Sayılır?",
+      "items": [
+        {
+          "title": "İzinsiz Üretim",
+          "desc": "Patentli bir ürünü veya üretim yöntemini izinsiz kullanmak.",
+          "icon": "Settings"
+        },
+        {
+          "title": "Ticari Faaliyet",
+          "desc": "Taklit ürünleri satmak, dağıtmak, ithal etmek veya ticari amaçla depolamak.",
+          "icon": "ShoppingCart"
+        },
+        {
+          "title": "İştirak ve Teşvik",
+          "desc": "İhlale yol açan fiillere katılmak veya bu fiilleri kolaylaştırmak.",
+          "icon": "Users"
+        },
+        {
+          "title": "Bilgi Karartma",
+          "desc": "Taklit ürünlerin nereden temin edildiğini bildirmemek.",
+          "icon": "Info"
+        },
+        {
+          "title": "Sözleşme İhlali",
+          "desc": "Lisans sözleşmesinin sınırlarını haksız yere genişletmek.",
+          "icon": "FileText"
+        },
+        {
+          "title": "Yöntem Kullanımı",
+          "desc": "Patentli bir metotla üretilen ürünleri piyasaya sürmek.",
+          "icon": "Cpu"
+        }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Patent İhlal Analizi Neden Hayatidir?",
+      "benefits": [
+        {
+          "title": "Dava Risklerini Önler",
+          "desc": "Milyonlarca dolarlık tazminat ve itibar kaybına yol açabilecek davalardan korur.",
+          "icon": "Gavel"
+        },
+        {
+          "title": "Ticari Süreklilik",
+          "desc": "Üretimin ve satışın durdurulması gibi kritik operasyonel engelleri önler.",
+          "icon": "BarChart"
+        },
+        {
+          "title": "Stratejik Güvenlik",
+          "desc": "Yeni pazarlara girmeden önce fikri mülkiyet açısından 'temiz bir sayfa' sağlar.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "Uzman Raporlama",
+          "desc": "Güncel hukuki içtihat ve eşdeğerler doktrini gözetilerek hazırlanan raporlar.",
+          "icon": "ClipboardCheck"
+        }
+      ]
+    },
+    {
+      "type": "service_cards",
+      "title": "Analiz Metodolojimiz",
+      "cards": [
+        {
+          "title": "Lafzi Analiz",
+          "desc": "Patent istemleri ile ürün arasındaki kelimesi kelimesine doğrudan örtüşmenin tespiti.",
+          "icon": "Search",
+          "color": "blue"
+        },
+        {
+          "title": "Eşdeğerler Doktrini",
+          "desc": "Lafzi olarak aynı olmasa da aynı fonksiyonu gören unsurların hukuksal değerlendirmesi.",
+          "icon": "Layers",
+          "color": "indigo"
+        },
+        {
+          "title": "Hedefe Dönük Rapor",
+          "desc": "Patent vekillerimiz tarafından hazırlanan, mahkemelerde kanıt olarak kullanılabilecek nitelikte raporlar.",
+          "icon": "FileCheck",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Ticari Güvenliğinizi Şansa Bırakmayın",
+      "description": "Yeni bir ürün veya yöntem piyasaya sürmeden önce, uzman patent vekillerimizle risklerinizi analiz edelim.",
+      "button_text": "Uzman Görüşü Alın",
+      "secondary_button": "İletişime Geçin"
+    }
+  ]
+}
