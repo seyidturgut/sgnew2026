@@ -1,0 +1,96 @@
+{
+  "slug": "rekabet-uyum-ve-strateji-danismanligi",
+  "title": "Rekabet Uyum",
+  "title_highlighted": "ve Strateji",
+  "category": "Mevzuat ve Uyum",
+  "youtube_id": "",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Mevzuat ve Uyum", "link": "/servisler/mevzuat-ve-uyum" },
+    { "name": "Rekabet Uyum ve Strateji Danışmanlığı", "link": "/servisler/mevzuat-ve-uyum/rekabet-uyum-ve-strateji-danismanligi" }
+  ],
+  "hero": {
+    "title": "Rekabet Uyum ve Strateji Danışmanlığı",
+    "description": "Rekabet kurallarına uyum sağlayın, riskleri azaltın ve stratejik avantaj kazanın.",
+    "image": "/images/servisler/rekabet-hero.jpg",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "Rekabet Uyum ve Strateji Danışmanlığı",
+      "content": "<p>Rekabet kuralları, piyasalarda sağlıklı ve adil bir işleyişin sürdürülebilmesi, tekelleşmenin önlenmesi ve haksız rekabetin engellenmesi amacıyla belirlenen düzenlemeleri kapsar. Şirketlerin bu kurallara uygun hareket etmesi, iş süreçlerinde sürdürülebilirliği sağlamalarına ve rekabet ortamında güvenilir şekilde faaliyet göstermelerine katkıda bulunur.</p><p>Rekabet Uyum ve Strateji Danışmanlığı, işletmelerin rekabet kurallarına uyumlu hareket etmesini sağlamak, ihlallerden kaynaklanabilecek cezaları ve riskleri en aza indirmek için kritik öneme sahiptir.</p>",
+      "image": "/images/servisler/rekabet-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "image_text",
+      "title": "Rekabet Stratejisi ve Uyum Planı",
+      "content": "<p>Rekabet uyumu, sadece riskleri azaltmakla kalmaz; sürdürülebilir büyüme ve kurumsal itibarı da güçlendirir. Stratejik planlama ile süreçlerinizi güvence altına alın.</p>",
+      "image": "/images/servisler/rekabet-process.jpg",
+      "layout": "left"
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Rekabet Uyum Danışmanlığının Kazandırdıkları",
+      "benefits": [
+        { "title": "Uyum ve Yasal Güvence", "desc": "Faaliyetlerin piyasa kurallarına uygun yürütülmesi, yaptırımları önler.", "icon": "ShieldCheck" },
+        { "title": "İhlallerin Önlenmesi", "desc": "Haksız rekabet ve piyasa bozucu uygulamalar önceden tespit edilir.", "icon": "Target" },
+        { "title": "Rekabet Kurulu Desteği", "desc": "İnceleme ve soruşturmalarda profesyonel destek sağlanır.", "icon": "Briefcase" },
+        { "title": "Eğitim ve Farkındalık", "desc": "Çalışanların rekabet kuralları konusunda bilinçlenmesi sağlanır.", "icon": "BookOpen" }
+      ]
+    },
+    {
+      "type": "services_list",
+      "title": "Danışmanlık Kapsamında Sunulan Hizmetler",
+      "services": [
+        { "title": "Rekabet Analizi", "desc": "Şirket süreçlerinin rekabet ortamına uygun değerlendirilmesi." },
+        { "title": "Yasal Uyum Programları", "desc": "Süreçlerin düzenlemelere uygun hale getirilmesi, farkındalık eğitimleri." },
+        { "title": "İç Denetimler", "desc": "İş süreçleri ve sözleşmelerin rekabet açısından incelenmesi." },
+        { "title": "Eğitim Programları", "desc": "Çalışanların rekabet kuralları konusunda bilinçlendirilmesi." },
+        { "title": "Politika ve Prosedürler", "desc": "Rekabet hukuku uyum politikalarının ve prosedürlerinin oluşturulması." },
+        { "title": "M&A (Yoğunlaşma) Kontrolü", "desc": "Birleşme/devralma bildirimleri ve rekabet risk danışmanlığı." },
+        { "title": "Başvuru Gerekliliği", "desc": "Rekabet Kurumu'na bildirim gerekliliğinin tespiti." },
+        { "title": "Başvuru Dosyası", "desc": "Gerekli bilgi ve belgelerin toplanması, dosyanın hazırlanması." },
+        { "title": "Onay Süreci Yönetimi", "desc": "Rekabet Kurumu sorularına yanıt ve savunma stratejisi." },
+        { "title": "Risk Değerlendirmesi", "desc": "Rekabet hukuku risklerinin tespiti ve değerlendirilmesi." },
+        { "title": "İhlal Risklerinin Azaltılması", "desc": "Birleşme/devralma sonrası ihlal risklerinin azaltılması." },
+        { "title": "Hâkim Durum Riskleri", "desc": "Hakim durumun kötüye kullanılması risklerine karşı danışmanlık." },
+        { "title": "Dijital Pazarlarda Uyum", "desc": "Dijital pazarların dinamiklerine uygun rekabet uyumu." },
+        { "title": "Dağıtım ve Tedarik Zinciri", "desc": "Münhasır/seçici dağıtım, franchise, bayilik sözleşmelerinin uyumu." },
+        { "title": "Bireysel Muafiyet ve Menfi Tespit", "desc": "Gerekli başvuruların yapılması ve yönetilmesi." },
+        { "title": "Yerinde İnceleme Hazırlığı", "desc": "Kurumsal hazırlık eğitimleri ve inceleme sırasında destek." },
+        { "title": "Uzlaşma ve Taahhüt", "desc": "Uzlaşma ve taahhüt başvurularının hazırlanması." }
+      ]
+    },
+    {
+      "type": "info_list",
+      "title": "Kimler Hizmet Alabilir?",
+      "items": [
+        { "title": "Büyük ve Orta Ölçekli Şirketler", "desc": "Rekabetin yoğun olduğu sektörlerde faaliyet gösteren firmalar." },
+        { "title": "Denetime Tabi Şirketler", "desc": "Rekabet Kurulu'nun denetimine tabi olan işletmeler." },
+        { "title": "Rekabet Riski Taşıyanlar", "desc": "Ticari faaliyetlerinde rekabet hukuku riskleri bulunan işletmeler." }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Hizmetlerimizdeki Farklılıklar",
+      "benefits": [
+        { "title": "Uzman Kadro", "desc": "Rekabet hukuku konusunda deneyimli uzman ekibimizle hizmet sunuyoruz.", "icon": "Award" },
+        { "title": "Kişiselleştirilmiş Çözümler", "desc": "Her müşteriye özel, stratejik uyum çözümleri geliştiriyoruz.", "icon": "Target" },
+        { "title": "Proaktif Yaklaşım", "desc": "Olası ihlalleri önceden tespit ederek riskleri azaltıyoruz.", "icon": "ShieldCheck" }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Rekabet Uyumunuzu Güvence Altına Alın",
+      "description": "Uyum, denetim ve strateji süreçlerinde uzman destek alın.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

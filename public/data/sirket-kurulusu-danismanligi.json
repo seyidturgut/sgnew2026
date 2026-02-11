@@ -1,0 +1,140 @@
+{
+  "slug": "sirket-kurulusu-danismanligi",
+  "title": "Şirket",
+  "title_highlighted": "Kuruluşu Danışmanlığı",
+  "category": "İşletme Çözümleri",
+  "youtube_id": "",
+  "breadcrumb": [
+    {
+      "name": "Anasayfa",
+      "link": "/"
+    },
+    {
+      "name": "Servisler",
+      "link": "/servisler"
+    },
+    {
+      "name": "İşletme Çözümleri",
+      "link": "/servisler/isletme-cozumleri"
+    },
+    {
+      "name": "Şirket Kuruluşu Danışmanlığı",
+      "link": "/servisler/isletme-cozumleri/sirket-kurulusu-danismanligi"
+    }
+  ],
+  "hero": {
+    "title": "Şirket Kuruluşu Danışmanlığı",
+    "description": "İhtiyacınıza en uygun şirket türünü belirleyin; kuruluş evrakları, tescil süreçleri ve resmi işlemleri uzman ekibimizle güvenle tamamlayın.",
+    "image": "/images/servisler/sirket-kurulusu-hero.jpg",
+    "buttons": [
+      {
+        "text": "Uzmanımızla Görüşün",
+        "link": "#contact",
+        "variant": "primary"
+      },
+      {
+        "text": "Süreç Detayları",
+        "link": "#services",
+        "variant": "outline"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "Şirket Kuruluşu Danışmanlığı Nedir?",
+      "content": "<p>Gerçek veya tüzel kişi kurucuların ihtiyaçlarına en uygun şirket türünün belirlenmesi; şirket esas sözleşmesi başta olmak üzere ilgili ticaret odasının talep ettiği evrak setinin hazırlanması, noter ve ticaret sicil müdürlüğü işlemleri dahil tescil sürecinin tamamına danışmanlık sağlanmasıdır.</p><p>Bu hizmetten şirket kurmak isteyen girişimciler ve tüzel kişiler faydalanabilir.</p>",
+      "image": "/images/servisler/sirket-kurulusu-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "icon_grid",
+      "title": "Kimler İçin Uygun?",
+      "items": [
+        {
+          "title": "Girişimciler",
+          "desc": "İlk kez şirket kuracak girişimciler için tüm resmi süreçleri uçtan uca yönetiriz.",
+          "icon": "Users"
+        },
+        {
+          "title": "Tüzel Kişiler",
+          "desc": "Yeni iştirak veya grup şirketi kuran kurumlar için doğru yapılandırmayı kurgularız.",
+          "icon": "Briefcase"
+        },
+        {
+          "title": "Hızlı Büyüyen Ekipler",
+          "desc": "Operasyonlarını büyütürken şirketleşme sürecini hızla ve güvenle tamamlamak isteyenler.",
+          "icon": "TrendingUp"
+        },
+        {
+          "title": "Uluslararası İş Ortaklıkları",
+          "desc": "Yabancı ortaklı yapılanmalar ve özel mevzuat gerektiren kuruluşlar için destek.",
+          "icon": "Globe"
+        }
+      ]
+    },
+    {
+      "type": "service_cards",
+      "title": "Şirket Türleri",
+      "cards": [
+        {
+          "title": "Anonim Şirket (A.Ş.)",
+          "desc": "Sermaye yapısı ve kurumsal yönetim ihtiyaçları için esnek ve güçlü bir model.",
+          "icon": "Scale",
+          "color": "blue"
+        },
+        {
+          "title": "Limited Şirket (Ltd. Şti.)",
+          "desc": "Ortak sayısı ve sermaye ihtiyacına göre pratik ve yaygın kuruluş seçeneği.",
+          "icon": "Briefcase",
+          "color": "green"
+        },
+        {
+          "title": "Komandit / Kolektif",
+          "desc": "Ortaklık yapısına göre farklı sorumluluk kurguları sunan şirket türleri.",
+          "icon": "Users",
+          "color": "orange"
+        },
+        {
+          "title": "Ortak Girişim ve Diğerleri",
+          "desc": "Adi ortaklık, konsorsiyum ve özel mevzuata tabi şirketler için doğru yapılandırma.",
+          "icon": "Globe",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Hizmetin Kapsamı",
+      "benefits": [
+        {
+          "title": "Doğru Şirket Türünün Seçimi",
+          "desc": "İhtiyaç ve amaca en uygun şirket türünün belirlenmesi için doğru yönlendirme.",
+          "icon": "Target"
+        },
+        {
+          "title": "Esas Sözleşme ve Evraklar",
+          "desc": "Sürecin profesyonel kurgulanması ve şirket esas sözleşmesinin hazırlanması.",
+          "icon": "BookOpen"
+        },
+        {
+          "title": "Vekaletname ile Yönetim",
+          "desc": "Kuruluşun vekaletname ile kolaylıkla yürütülmesi ve düzenli bilgilendirme.",
+          "icon": "Settings"
+        },
+        {
+          "title": "Anahtar Teslim Kuruluş",
+          "desc": "Tescil dahil tüm işlemlerin tamamlanmasıyla şirket kuruluşunun bitirilmesi.",
+          "icon": "ShieldCheck"
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Şirketinizi Doğru Yapı ile Kurun",
+      "description": "Kuruluş sürecini uzmanlarımızla yönetin, zaman ve maliyet avantajı elde edin.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

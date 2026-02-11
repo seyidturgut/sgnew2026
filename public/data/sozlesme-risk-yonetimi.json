@@ -1,0 +1,200 @@
+{
+  "slug": "sozlesme-risk-yonetimi",
+  "title": "Sözleşme",
+  "title_highlighted": "Risk Yönetimi",
+  "category": "Mevzuat ve Uyum",
+  "youtube_id": "",
+  "breadcrumb": [
+    {
+      "name": "Anasayfa",
+      "link": "/"
+    },
+    {
+      "name": "Servisler",
+      "link": "/servisler"
+    },
+    {
+      "name": "Mevzuat ve Uyum",
+      "link": "/servisler/mevzuat-ve-uyum"
+    },
+    {
+      "name": "Sözleşme Risk Yönetimi",
+      "link": "/servisler/mevzuat-ve-uyum/sozlesme-risk-yonetimi"
+    }
+  ],
+  "hero": {
+    "title": "Sözleşme Risk Yönetimi",
+    "description": "Sözleşmelerinizi mevzuata uygun, açık ve güvenli şekilde yöneterek riskleri minimize edin.",
+    "image": "/images/servisler/sozlesme-risk-hero.jpg",
+    "buttons": [
+      {
+        "text": "Uzmanımızla Görüşün",
+        "link": "#contact",
+        "variant": "primary"
+      },
+      {
+        "text": "Hizmet Kapsamı",
+        "link": "#services",
+        "variant": "outline"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "Sözleşme Risk Yönetimi",
+      "content": "<p>Sözleşme Risk Yönetimi, bireyler, işletmeler ve kuruluşlar için her türlü sözleşmenin hazırlanması, incelenmesi, müzakere edilmesi ve uygulamaya dönük yönetilmesine yönelik profesyonel mevzuatsal destek sunan bir hizmettir. Sözleşmeler, iş dünyasında ve günlük yaşamda taraflar arasında yapılan anlaşmaların temelini oluşturur. Bir sözleşme, taraflar arasındaki hak ve yükümlülükleri açıkça tanımlayan, tarafların girdikleri ilişkiden olan beklentilerini ve taahhütlerini resmi bir çerçeveye oturtan önemli bir belgedir. Sözleşme Risk Yönetimi, tarafların taahhütlerine ve çıkarlarına uygun düzenlenmesini sağlar.</p><p>Sözleşmeler; ticari anlaşmalardan gayrimenkul sözleşmelerine, işçi-işveren sözleşmelerinden alım-satım, yapım-taahhüt, eser ve hizmet sağlayıcı anlaşmalarına kadar geniş bir yelpazeyi kapsar.</p><p>Her sözleşmenin konusu ve kapsamı dahilinde kendine özgü şartları ve yasal gereksinimleri vardır. Bu nedenle sözleşmelerin hazırlanması ve yönetilmesi, tarafların haklarını güvence altına almak ve riskleri en aza indirmek için dikkatlice yürütülmelidir. Sözleşme Risk Yönetimi hizmeti, tarafların anlaşmazlık yaşamadan güven içinde iş yapmalarını ve uzun vadeli iş ilişkileri kurmalarını sağlar.</p>",
+      "image": "/images/servisler/sozlesme-risk-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "process_grid",
+      "title": "Temel Süreçler",
+      "description": "Sözleşme yaşam döngüsünün her adımında riskleri kontrol altına alın.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Sözleşme Hazırlığı ve Tasarımı",
+          "desc": "İhtiyaçlar ve yasal zorunluluklar doğrultusunda açık ve dengeli sözleşme taslakları hazırlanır."
+        },
+        {
+          "number": "02",
+          "title": "Sözleşme İncelemesi",
+          "desc": "Mevcut sözleşmeler incelenir, uyum ve risk analizleri yapılır, gerekli düzenlemeler belirlenir."
+        },
+        {
+          "number": "03",
+          "title": "Sözleşme Müzakeresi",
+          "desc": "Tarafların çıkarlarını koruyan, adil ve sürdürülebilir şartlar için müzakere desteği sağlanır."
+        },
+        {
+          "number": "04",
+          "title": "Sözleşme Yönetimi ve Uygulama",
+          "desc": "Sözleşmenin yürürlüğe girmesi ve uygulamanın sözleşmeye uygunluğu takip edilir."
+        },
+        {
+          "number": "05",
+          "title": "Mevzuatsal Uyum ve Risk Yönetimi",
+          "desc": "Güncel mevzuata uyum sağlanır, riskler tespit edilerek önleyici tedbirler geliştirilir."
+        }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Sözleşme Risk Yönetiminin Kazandırdıkları",
+      "benefits": [
+        {
+          "title": "Yasal Güvence",
+          "desc": "Sözleşmelerin mevzuata uyumlu hazırlanması, tarafların haklarını korur.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "Risk Yönetimi",
+          "desc": "Olası riskler tespit edilerek önlemler geliştirilir.",
+          "icon": "Target"
+        },
+        {
+          "title": "Müzakere Gücü",
+          "desc": "Profesyonel destekle sözleşmesel dengenin korunması ve en iyi şartların sağlanması.",
+          "icon": "TrendingUp"
+        },
+        {
+          "title": "Anlaşmazlıkların Önlenmesi",
+          "desc": "Açık ve net sözleşmelerle uyuşmazlıkların önüne geçilir.",
+          "icon": "CheckCircle2"
+        },
+        {
+          "title": "Özel Çözümler",
+          "desc": "Tarafların gereksinimlerine uygun, hedeflenen faydayı sağlayan sözleşmeler hazırlanır.",
+          "icon": "Briefcase"
+        }
+      ]
+    },
+    {
+      "type": "services_list",
+      "title": "Kapsamda Sunulan Hizmetler",
+      "services": [
+        {
+          "title": "Sözleşme Hazırlığı",
+          "desc": "Ticari, finansal, kiralama, alım-satım, hizmet, yapım-taahhüt, eser ve iş sözleşmeleri hazırlanır."
+        },
+        {
+          "title": "Sözleşme İncelemesi",
+          "desc": "Mevcut sözleşmeler incelenir, riskler tespit edilir ve gerekli revizyonlar yapılır."
+        },
+        {
+          "title": "Müzakere Desteği",
+          "desc": "Sözleşme şartlarının müzakere edilmesi sürecinde taraflara profesyonel destek sağlanır."
+        },
+        {
+          "title": "Sözleşme Güncellemeleri",
+          "desc": "Mevzuat ve iş koşullarındaki değişikliklere göre sözleşmeler güncellenir ve tadil metinleri hazırlanır."
+        }
+      ]
+    },
+    {
+      "type": "info_list",
+      "title": "Kimler Hizmet Alabilir?",
+      "items": [
+        {
+          "title": "Her Ölçekten İşletmeler",
+          "desc": "KOBİ'ler ve büyük şirketler dahil tüm işletmeler."
+        },
+        {
+          "title": "Girişimciler",
+          "desc": "Ticari faaliyetlerinde sözleşmelerin güvenliğini ve yasal uyumunu sağlamak isteyenler."
+        },
+        {
+          "title": "Hizmet Sağlayıcılar",
+          "desc": "Taşeronlar, tedarikçiler ve hizmet sağlayıcı kuruluşlar."
+        },
+        {
+          "title": "Bireyler",
+          "desc": "Kira, iş veya diğer hukuki anlaşmalar yapan bireyler."
+        },
+        {
+          "title": "Müzakere Desteği Arayanlar",
+          "desc": "Sözleşme müzakerelerinde profesyonel destek arayan kişi ve kuruluşlar."
+        }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Hizmetlerimizdeki Farklılıklar",
+      "benefits": [
+        {
+          "title": "Deneyimli Uzmanlar",
+          "desc": "Sözleşme hukuku alanında deneyimli uzman ekibimizle süreçlerinizi güvence altına alıyoruz.",
+          "icon": "Award"
+        },
+        {
+          "title": "Kapsamlı İnceleme",
+          "desc": "Sözleşmelerinizin tüm yönlerini detaylı inceleyerek en uygun çözümleri sunuyoruz.",
+          "icon": "Search"
+        },
+        {
+          "title": "Kişiselleştirilmiş Hizmet",
+          "desc": "İhtiyaçlarınıza özel, tamamen kişiselleştirilmiş sözleşme hizmetleri sunuyoruz.",
+          "icon": "Users"
+        },
+        {
+          "title": "Proaktif Yaklaşım",
+          "desc": "Olası sorunları önceden tespit ederek önleyici tedbirler alıyoruz.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "Hızlı ve Etkin Çözümler",
+          "desc": "Süreçleri hızlı ve etkin şekilde yöneterek zaman ve maliyet tasarrufu sağlıyoruz.",
+          "icon": "Zap"
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Sözleşmelerinizi Güvence Altına Alın",
+      "description": "Sözleşme risklerinizi uzman kadromuzla yönetin, güvenli ve sürdürülebilir iş ilişkileri kurun.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

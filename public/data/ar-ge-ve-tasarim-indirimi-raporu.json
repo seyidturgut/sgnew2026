@@ -1,0 +1,144 @@
+{
+  "slug": "ar-ge-ve-tasarim-indirimi-raporu",
+  "title": "Ar-Ge ve Tasarım",
+  "title_highlighted": "İndirimi Raporu",
+  "category": "Vergi",
+  "youtube_id": "",
+  "breadcrumb": [
+    {
+      "name": "Anasayfa",
+      "link": "/"
+    },
+    {
+      "name": "Servisler",
+      "link": "/servisler"
+    },
+    {
+      "name": "Vergi & Finans",
+      "link": "/servisler/vergi-finans"
+    },
+    {
+      "name": "Vergi",
+      "link": "/servisler/vergi-finans/vergi"
+    },
+    {
+      "name": "Ar-Ge ve Tasarım İndirimi Raporu",
+      "link": "/servisler/vergi-finans/vergi/ar-ge-ve-tasarim-indirimi-raporu"
+    }
+  ],
+  "hero": {
+    "title": "Ar-Ge ve Tasarım İndirimi Raporu",
+    "description": "Teknoloji ve inovasyon yatırımlarınızı %100 vergi indirimine dönüştüren uzman danışmanlık çözümleri.",
+    "image": "/images/arge/hero.webp",
+    "buttons": [
+      {
+        "text": "Ücretsiz Ön Analiz",
+        "link": "#contact",
+        "variant": "primary"
+      },
+      {
+        "text": "Teşvikleri İnceleyin",
+        "link": "#services",
+        "variant": "outline"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "Ar-Ge ve Tasarım Harcamalarınızda %100 Vergi Avantajı",
+      "content": "\n                <p>İşletmelerin teknoloji kaynaklı sistem oluşturması ve küresel rekabet gücünü artırması için devlet zaman zaman bazı teşvikler verir. Bu teşviklerin amacı ülkedeki girişimcilerin ve yatırımcıların inovasyon ile teknoloji dönüşümünü gerçekleştirmesine imkan sunmaktır. Bu bağlamda arge ve tasarım indirimi, araştırma geliştirme faaliyetleri ile tasarım çalışmalarına ilişkin yapılan harcamaların %100’ünün kurum kazancından indirilmesidir diyebiliriz. Böylelikle şirketler aşağıdaki şartları yerine getirdiği takdirde Ar-Ge/Tasarım Merkezi’nin kurumlar vergisi yönünden matrahtan indirim hakkı ile Ar-Ge/Tasarım çalışanlarının ücretlerinden doğan gelir vergisi, damga vergisi teşviki ile sgk işveren payı indirimi gibi avantajlardan yararlanabilirler. Ayrıca işletmenin yaptığı Ar-Ge ve tasarım harcamaları amortisman yolu ile ikinci kez gider yazılacağından bu noktada kurumlar vergisi matrahından double indirim sağlayarak ödeyeceği kurumlar vergisi önemli ölçüde azalmaktadır.</p>\n                <p>Ar-Ge veya Tasarım Merkezi olan firmaların yazdırması zorunlu olan ve yıllık olarak düzenlenen bu rapor ile tüm haklarınızı güvence altına alıyoruz. Harcamalarınızın amortisman yoluyla ikinci kez gider yazılmasını sağlayarak çifte vergi avantajı elde etmenize destek oluyoruz.</p>\n            ",
+      "image": "/images/arge/intro.webp",
+      "image_position": "right"
+    },
+    {
+      "type": "icon_grid",
+      "title": "Kimler Yararlanabilir?",
+      "items": [
+        {
+          "title": "Ar-Ge Merkezleri",
+          "desc": "En az 15 tam zamanlı personel ile sürekli inovasyon yapan kurumsal yapılar.",
+          "icon": "Target"
+        },
+        {
+          "title": "Tasarım Merkezleri",
+          "desc": "En az 10 tam zamanlı tasarım personeli ile estetik ve fonksiyon geliştiren merkezler.",
+          "icon": "Cpu"
+        },
+        {
+          "title": "Proje Bazlı İşletmeler",
+          "desc": "TÜBİTAK, KOSGEB veya Teknopark projeleri yürüten KOBİ ve büyük ölçekli firmalar.",
+          "icon": "Briefcase"
+        }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Ne Kazandırır?",
+      "benefits": [
+        {
+          "title": "Maksimum Vergi İndirimi",
+          "desc": "Ar-Ge/Tasarım harcamalarının %100'ünün kurum kazancından düşülmesi.",
+          "icon": "TrendingUp"
+        },
+        {
+          "title": "Personel Teşvikleri",
+          "desc": "Çalışan ücretlerinde damga vergisi, gelir vergisi ve SGK işveren hissesi desteği.",
+          "icon": "Users"
+        },
+        {
+          "title": "Double Matrah İndirimi",
+          "desc": "Harcamaların hem doğrudan hem de amortisman yoluyla iki kez gider yazılması.",
+          "icon": "BarChart"
+        },
+        {
+          "title": "Mevzuat Uyumu",
+          "desc": "Sanayi ve Teknoloji Bakanlığı ile Hazine ve Maliye Bakanlığı denetimlerine tam uyum.",
+          "icon": "Shield"
+        },
+        {
+          "title": "Süresiz Devir Hakkı",
+          "desc": "Kazanç yetersizliği durumunda indirim hakkının sonraki yıllara faiziyle devredilmesi.",
+          "icon": "CheckCircle"
+        }
+      ]
+    },
+    {
+      "type": "service_cards",
+      "title": "SG Öne Çıkanlar",
+      "cards": [
+        {
+          "title": "Eksiksiz Raporlama",
+          "desc": "Zorunlu olan Ar-Ge ve Tasarım İndirimi Raporlarının hatasız ve hızlı hazırlanması.",
+          "icon": "Search",
+          "color": "blue"
+        },
+        {
+          "title": "Proaktif Danışmanlık",
+          "desc": "Harcamaların kapsam dışı kalmaması için süreçlerin en başından doğru kurgulanması.",
+          "icon": "Compass",
+          "color": "green"
+        },
+        {
+          "title": "Hibe ve Fon İlişkisi",
+          "desc": "TÜBİTAK ve KOSGEB fonları ile vergi teşviklerinin entegre yönetimi.",
+          "icon": "Percent",
+          "color": "purple"
+        },
+        {
+          "title": "Dijital Takip",
+          "desc": "ARTES otomasyon sistemi süreçlerinin profesyonel ekiplerle uçtan uca yönetimi.",
+          "icon": "RefreshCw",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Teşviklerinizi Nakit Akışına Dönüştürelim",
+      "description": "Şirketinizin Ar-Ge ve Tasarım potansiyelini analiz etmek ve maksimum indirimden yararlanmak için uzmanlarımıza danışın.",
+      "button_text": "Ücretsiz Analiz İsteyin",
+      "secondary_button": "Hizmetlerimiz"
+    }
+  ]
+}

@@ -17,6 +17,54 @@ const IconMap = {
     PieChart, Factory, Ship, Cpu, Coins, Globe, TrendingUp, Users, BookOpen, Scale, ArrowRight
 }
 
+const TabsContentSection = ({ section }) => {
+    const [activeTab, setActiveTab] = useState(0)
+    const items = section.items || []
+    const activeItem = items[activeTab] || items[0]
+
+    if (!items.length) return null
+
+    return (
+        <div className="max-w-7xl mx-auto space-y-5">
+            <div className="space-y-3">
+                <h3 className="text-2xl lg:text-3xl font-bold text-secondary tracking-tight">{section.title}</h3>
+                <div className="h-1 w-20 bg-gradient-to-r from-primary to-transparent rounded-full"></div>
+            </div>
+
+            <div className="grid grid-cols-1 lg:grid-cols-12 gap-5 lg:gap-7">
+                <div className="lg:col-span-3">
+                    <div className="lg:sticky lg:top-20 rounded-2xl border border-gray-100 bg-white p-2 shadow-sm">
+                        <div className="max-h-[520px] overflow-y-auto pr-1 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-1 gap-1.5">
+                            {items.map((item, idx) => (
+                                <button
+                                    key={idx}
+                                    onClick={() => setActiveTab(idx)}
+                                    className={`w-full text-left rounded-lg px-3 py-2.5 text-[15px] font-semibold transition-all border ${idx === activeTab ? 'bg-secondary text-white border-secondary shadow-sm' : 'bg-gray-50 text-secondary border-transparent hover:bg-gray-100'}`}
+                                >
+                                    <span className="inline-flex items-center gap-2">
+                                        <span className={`h-1.5 w-1.5 rounded-full ${idx === activeTab ? 'bg-primary' : 'bg-gray-300'}`}></span>
+                                        {item.label}
+                                    </span>
+                                </button>
+                            ))}
+                        </div>
+                    </div>
+                </div>
+
+                <div className="lg:col-span-9">
+                    <div className="rounded-2xl border border-gray-100 bg-white p-5 lg:p-7 shadow-sm space-y-4">
+                        <h4 className="text-2xl lg:text-[30px] font-bold text-secondary leading-tight">{activeItem.title}</h4>
+                        <div
+                            className="prose prose-lg prose-p:text-gray-700 prose-p:leading-relaxed prose-a:text-primary prose-a:font-semibold hover:prose-a:text-primary/80 max-w-none"
+                            dangerouslySetInnerHTML={{ __html: activeItem.content || '' }}
+                        />
+                    </div>
+                </div>
+            </div>
+        </div>
+    )
+}
+
 const DynamicServicePage = () => {
     const { category, subcategory, slug } = useParams()
     const [pageData, setPageData] = useState(null)
@@ -141,9 +189,10 @@ const DynamicServicePage = () => {
 
     const renderContent = () => {
         const sections = pageData.content_json.sections || []
+        const isCompactPage = pageData.layout_density === 'compact'
 
         return (
-            <div className="space-y-24 pb-20">
+            <div className={isCompactPage ? "space-y-14 pb-14" : "space-y-24 pb-20"}>
                 {sections.map((section, index) => {
                     const IconComponent = IconMap[section.icon] || Star
 
@@ -243,19 +292,19 @@ const DynamicServicePage = () => {
 
                         case 'services_list':
                             return (
-                                <div key={index} className="space-y-12 max-w-6xl mx-auto bg-gradient-to-br from-blue-50/50 via-white to-orange-50/30 rounded-3xl p-12 lg:p-16">
+                                <div key={index} className={`max-w-6xl mx-auto bg-gradient-to-br from-blue-50/50 via-white to-orange-50/30 rounded-3xl ${section.compact ? 'space-y-8 p-8 lg:p-10' : 'space-y-12 p-12 lg:p-16'}`}>
                                     <div className="text-center space-y-4">
-                                        <h2 className="text-4xl font-light text-secondary">{section.title}</h2>
+                                        <h2 className={`${section.compact ? 'text-3xl' : 'text-4xl'} font-light text-secondary`}>{section.title}</h2>
                                         <div className="h-1 w-20 bg-gradient-to-r from-primary to-orange-400 mx-auto rounded-full"></div>
                                     </div>
-                                    <div className="grid grid-cols-1 md:grid-cols-2 gap-x-16 gap-y-10">
+                                    <div className={`grid grid-cols-1 md:grid-cols-2 ${section.compact ? 'gap-x-10 gap-y-6' : 'gap-x-16 gap-y-10'}`}>
                                         {section.services.map((service, i) => (
-                                            <div key={i} className="space-y-3 group">
+                                            <div key={i} className={`${section.compact ? 'space-y-1.5' : 'space-y-3'} group`}>
                                                 <div className="flex items-start gap-3">
                                                     <div className="w-2 h-2 bg-primary rounded-full mt-2 shrink-0 group-hover:scale-150 transition-transform"></div>
                                                     <div className="space-y-2">
-                                                        <h3 className="text-xl font-medium text-secondary">{service.title}</h3>
-                                                        <p className="text-gray-600 leading-relaxed">{service.desc}</p>
+                                                        <h3 className={`${section.compact ? 'text-lg' : 'text-xl'} font-medium text-secondary`}>{service.title}</h3>
+                                                        {service.desc && <p className="text-gray-600 leading-relaxed">{service.desc}</p>}
                                                     </div>
                                                 </div>
                                             </div>
@@ -594,6 +643,30 @@ const DynamicServicePage = () => {
                                 </div>
                             )
 
+                        case 'accordion_rich':
+                            return (
+                                <div key={index} className="space-y-8">
+                                    <div className="space-y-4">
+                                        <h3 className="text-3xl lg:text-4xl font-bold text-secondary">{section.title}</h3>
+                                        <div className="h-1 w-24 bg-primary rounded-full"></div>
+                                    </div>
+                                    <div className="space-y-3">
+                                        {(section.items || []).map((item, i) => (
+                                            <details key={i} className="group bg-white rounded-2xl border border-gray-100 hover:border-primary/20 transition-all">
+                                                <summary className="cursor-pointer px-5 py-4 font-bold text-secondary flex items-center justify-between gap-4">
+                                                    <span>{item.title}</span>
+                                                    <ArrowRight className="group-open:rotate-90 transition-transform text-primary shrink-0" size={20} />
+                                                </summary>
+                                                <div
+                                                    className="px-5 pb-5 prose prose-lg prose-p:text-gray-600 prose-p:leading-relaxed prose-ul:space-y-2 max-w-none"
+                                                    dangerouslySetInnerHTML={{ __html: item.content || '' }}
+                                                />
+                                            </details>
+                                        ))}
+                                    </div>
+                                </div>
+                            )
+
                         case 'hero_intro':
                             return (
                                 <div key={index} className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
@@ -657,6 +730,9 @@ const DynamicServicePage = () => {
                                 </div>
                             )
 
+                        case 'tabs_content':
+                            return <TabsContentSection key={index} section={section} />
+
                         case 'process_steps':
                             return (
                                 <div key={index} className="space-y-16">
@@ -701,6 +777,42 @@ const DynamicServicePage = () => {
                                 <div key={index} className="bg-gray-50 rounded-[3rem] p-10 lg:p-16 space-y-8">
                                     <h3 className="text-2xl lg:text-3xl font-bold text-secondary">{section.title}</h3>
                                     <div className="text-gray-700 leading-relaxed text-lg font-light space-y-4 prose prose-primary max-w-none" dangerouslySetInnerHTML={{ __html: section.html }} />
+                                </div>
+                            )
+
+                        case 'report_cards':
+                            return (
+                                <div key={index} className="space-y-12">
+                                    <div className="text-center space-y-4">
+                                        <h3 className="text-3xl lg:text-4xl font-bold text-secondary">{section.title}</h3>
+                                        {section.subtitle && <p className="text-gray-600">{section.subtitle}</p>}
+                                        <div className="h-1 w-20 bg-gradient-to-r from-primary to-orange-400 mx-auto rounded-full"></div>
+                                    </div>
+                                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+                                        {section.reports.map((report, i) => (
+                                            <a
+                                                key={i}
+                                                href={report.url}
+                                                className="group flex items-center justify-between gap-4 rounded-2xl border border-gray-100 bg-white p-5 shadow-sm transition-all hover:-translate-y-1 hover:shadow-lg hover:border-primary/20"
+                                                target={report.url?.startsWith('http') ? '_blank' : undefined}
+                                                rel={report.url?.startsWith('http') ? 'noreferrer' : undefined}
+                                            >
+                                                <div className="flex items-center gap-4">
+                                                    <div className="flex h-11 w-11 items-center justify-center rounded-xl bg-primary/10 text-primary">
+                                                        <svg className="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                                                            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
+                                                            <path d="M14 2v6h6" />
+                                                        </svg>
+                                                    </div>
+                                                    <div className="space-y-1">
+                                                        <div className="text-sm font-semibold text-secondary">{report.title}</div>
+                                                        {report.meta && <div className="text-xs text-gray-500">{report.meta}</div>}
+                                                    </div>
+                                                </div>
+                                                <ArrowRight className="h-4 w-4 text-primary/60 group-hover:text-primary transition-colors" />
+                                            </a>
+                                        ))}
+                                    </div>
                                 </div>
                             )
 

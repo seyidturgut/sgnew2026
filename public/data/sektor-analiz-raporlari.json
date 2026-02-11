@@ -1,0 +1,176 @@
+{
+  "slug": "sektor-analiz-raporlari",
+  "title": "Sektör",
+  "title_highlighted": "Analiz Raporları",
+  "category": "Kurumsal Finansman",
+  "youtube_id": "",
+  "breadcrumb": [
+    {
+      "name": "Anasayfa",
+      "link": "/"
+    },
+    {
+      "name": "Servisler",
+      "link": "/servisler"
+    },
+    {
+      "name": "Vergi & Finans",
+      "link": "/servisler/vergi-finans"
+    },
+    {
+      "name": "Kurumsal Finansman",
+      "link": "/servisler/vergi-finans/kurumsal-finansman"
+    },
+    {
+      "name": "Sektör Analiz Raporları",
+      "link": "/servisler/vergi-finans/kurumsal-finansman/sektor-analiz-raporlari"
+    }
+  ],
+  "hero": {
+    "title": "Sektör Analiz Raporları",
+    "description": "Sektörünüzün ekonomik koşullarını, rekabet dinamiklerini ve büyüme potansiyelini derinlemesine analiz edin.",
+    "image": "/images/servisler/sektor-analiz-hero.jpg",
+    "buttons": [
+      {
+        "text": "Uzmanımızla Görüşün",
+        "link": "#contact",
+        "variant": "primary"
+      },
+      {
+        "text": "Süreç Detayları",
+        "link": "#services",
+        "variant": "outline"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "Şirketlere Özel Sektör Analiz Raporlarının Hazırlanması",
+      "content": "<p>Sektör analizi, bir şirketin faaliyet gösterdiği sektörün ekonomik koşulları, rekabet dinamikleri ve gelecekteki büyüme potansiyelini değerlendiren sistematik bir süreçtir.</p><p>Sistem Global olarak, her sektörden firmalara sektör analizi hizmeti sunarak, işletmelerin pazar dinamiklerini anlamalarına ve stratejik karar almalarına yardımcı oluyoruz. Resmi kurumlar için hazırlanan belgelerde yer alması gereken sektör raporları için ek hizmetler sunuyoruz.</p>",
+      "image": "/images/servisler/sektor-analiz-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "icon_grid",
+      "title": "Hangi Durumlarda Gereklidir?",
+      "items": [
+        {
+          "title": "Yatırım ve Büyüme Stratejileri",
+          "desc": "Yeni pazarlara giriş veya ölçekleme hedeflerinde risk ve fırsatları ortaya koyar.",
+          "icon": "TrendingUp"
+        },
+        {
+          "title": "Resmi Başvurular ve Destekler",
+          "desc": "Halka arz izahnameleri, teşvik ve destek başvurularında doğrulanabilir raporlar sağlar.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "Rekabet Analizi",
+          "desc": "Rakip konumlandırması, güçlü-zayıf yönler ve pazar payı analizi için kritiktir.",
+          "icon": "Target"
+        },
+        {
+          "title": "Birleşme ve Satın Alma (M&A)",
+          "desc": "Hedef sektörün büyüme potansiyeli ve dinamikleri detaylandırılır.",
+          "icon": "Briefcase"
+        },
+        {
+          "title": "Stratejik Planlama",
+          "desc": "Kurumsal raporlama, yönetim sunumları ve 5 yıllık büyüme planlarında veri kaynağıdır.",
+          "icon": "PieChart"
+        }
+      ]
+    },
+    {
+      "type": "process_grid",
+      "title": "Nasıl Yapılır?",
+      "description": "Veri temelli analiz, mevzuat uyumu ve stratejik önerilerle uçtan uca raporlama.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Sektör Tanımlama ve Kapsam",
+          "desc": "Firma faaliyet alanına göre sektör(ler) netleştirilir; NACE/ISIC eşleştirmeleri yapılır."
+        },
+        {
+          "number": "02",
+          "title": "Makroekonomik ve Yasal Çerçeve",
+          "desc": "Ekonomik büyüklük, trendler, istihdam ve ilgili mevzuat/regülasyonlar analiz edilir."
+        },
+        {
+          "number": "03",
+          "title": "Pazar Yapısı ve Rekabet",
+          "desc": "Temel oyuncular, pazar payları, müşteri eğilimleri ve fiyatlama stratejileri değerlendirilir."
+        },
+        {
+          "number": "04",
+          "title": "Trendler ve Teknolojik Gelişmeler",
+          "desc": "Dijital dönüşüm, sürdürülebilirlik uygulamaları ve Ar-Ge yatırımları incelenir."
+        },
+        {
+          "number": "05",
+          "title": "SWOT ve Stratejik Öneriler",
+          "desc": "Güçlü/zayıf yönler, fırsatlar/tehditler ve aksiyon önerileri sunulur."
+        },
+        {
+          "number": "06",
+          "title": "Raporlama ve Teslimat",
+          "desc": "Grafiksel sunumlar ve yönetici özetleriyle rapor teslim edilir; talebe göre ek versiyonlar hazırlanır."
+        }
+      ]
+    },
+    {
+      "type": "info_list",
+      "title": "Süre ve Teslim",
+      "items": [
+        {
+          "title": "Ortalama Süre",
+          "desc": "Süreç, sektörün karmaşıklığına ve veri erişimine bağlı olarak 2 ila 4 hafta içinde tamamlanır."
+        },
+        {
+          "title": "Ek Versiyonlar",
+          "desc": "Talep halinde İngilizce dilinde, kamu kurumları veya yatırımcı sunum formatında versiyonlar hazırlanır."
+        }
+      ]
+    },
+    {
+      "type": "report_cards",
+      "title": "Sektörel Raporlar",
+      "subtitle": "PDF raporlarımıza hızlıca erişin",
+      "reports": [
+        {
+          "title": "Finansal Teknolojiler Sektör Raporu",
+          "url": "#",
+          "meta": "PDF"
+        },
+        {
+          "title": "Bankacılık Sektör Raporu",
+          "url": "#",
+          "meta": "PDF"
+        },
+        {
+          "title": "Oyun Sektör Raporu",
+          "url": "#",
+          "meta": "PDF"
+        },
+        {
+          "title": "Dijital Ekonomide Karbon Ayak İzi",
+          "url": "#",
+          "meta": "PDF"
+        },
+        {
+          "title": "Sağlık Teknolojileri Sektör Raporu",
+          "url": "#",
+          "meta": "PDF"
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Sektörünüzü Derinlemesine Analiz Edin",
+      "description": "Veriye dayalı stratejik kararlar alın. Kamu ve özel sektör ihtiyaçlarına uygun sektör analizi hizmetleriyle yanınızdayız.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

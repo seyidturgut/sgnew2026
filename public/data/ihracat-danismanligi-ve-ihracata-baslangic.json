@@ -1,0 +1,77 @@
+{
+  "slug": "ihracat-danismanligi-ve-ihracata-baslangic",
+  "title": "İhracat Danışmanlığı",
+  "title_highlighted": "ve İhracata Başlangıç",
+  "category": "Globallesme ve İhracat",
+  "youtube_id": "em4NHl-qjK4",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Globallesme ve İhracat", "link": "/servisler/globallesme-ve-ihracat" },
+    { "name": "İhracat Danışmanlığı ve İhracata Başlangıç", "link": "/servisler/globallesme-ve-ihracat/ihracat-danismanligi-ve-ihracata-baslangic" }
+  ],
+  "hero": {
+    "title": "İhracat Danışmanlığı ve İhracata Başlangıç",
+    "description": "İhracata hızlı ve sürdürülebilir biçimde başlamak için 6 aylık uçtan uca danışmanlık programı.",
+    "image": "/images/servisler/ihracat-hero.jpg",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "İhracata",
+      "title_highlight": "Başlangıç",
+      "description": "İhracat kapasitenizi artıracak strateji, pazar ve müşteri erişimini tek programda birleştirin.",
+      "badge": "6 Aylık Program",
+      "features": [
+        "Mevcut Durum Analizi",
+        "Hedef Pazar Tespiti",
+        "Kurumsal Tanıtım Materyalleri",
+        "Ticaret Bakanlığı Destekleri"
+      ],
+      "image": "/images/servisler/ihracat-hero.jpg"
+    },
+    {
+      "type": "content_with_image",
+      "title": "İhracata Başlangıç Danışmanlığı Nedir?",
+      "content": "<p>İhracata Başlangıç Danışmanlığı, henüz ihracat yapmamış şirketlerin gelişim alanlarını belirleyerek ihracat kapasitelerini arttırmak ve ihracat yapmalarını sağlamak amacıyla geliştirilmiş 6 aylık bir ihracat danışmanlığı hizmetidir.</p><p>Firmaların mevcut durumunu analiz edip gelişim alanlarının belirlenmesinden başlayarak Hedef Pazar Tespiti, Yabancı Pazar Analizi, potansiyel müşteriye erişim, ihracat odaklı ve çok dilli kurumsal tanıtım materyallerinin oluşturulması ve Ticaret Bakanlığı İhracat Destekleri başvuru süreçlerinin yürütülmesi gibi ihracata başlamak isteyen bir şirketin tüm ihtiyaçlarına uçtan uca dokunan bir çalışmadır.</p>",
+      "image": "/images/servisler/ihracat-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "image_text",
+      "title": "İhracata Başlangıç Danışmanlığı ile Elde Edilecek Kazanımlar",
+      "content": "<p>İhracat yaparak gelir ve karlılığı arttırmak, pazar bağımlılığını azaltıp sürdürülebilir bir büyüklüğe erişmek günümüz küresel dünyasında tüm şirketler için olmazsa olmazdır. İhracata Başlangıç Danışmanlığı; henüz ihracat yapmayan şirketlerin, zaman, insan kaynağı ve finansal maliyetlerini minimize ederek mümkün olan en kısa zamanda ihracat yapabilir duruma gelmelerini sağlar. Firmanın analiz edilmesi ile belirlenecek gelişim alanları iyileştirilerek firmanın doğru pazarlardaki potansiyel müşterilerine hızla erişmesini ve nihai olarak ihracat gerçekleştirmesini sağlar.</p><p>Sıkı takip, yüksek iletişim, haftalık ve aylık toplantı ve raporlamalar ile firmaların ihracat kapasitelerini hızla geliştirip ihracata başlamalarını amaçlar.</p>",
+      "image": "/images/servisler/ihracat-process.jpg",
+      "layout": "left"
+    },
+    {
+      "type": "text",
+      "title": "Sistem Global ve İhracata Başlangıç Danışmanlığı",
+      "content": "<p>Sistem Global, çeyrek asrı aşan tecrübesi, 5 farklı ülkede bulunan ofisleri, deneyimli ekibi ve Amerika’dan Asya-Pasifik’e uzanan network ağıyla, ihracata başlamak isteyen firmaların minimum zaman, insan kaynağı ve finansal maliyetle ihracat alt yapısını oluşturarak firmaların ihracat yapabilir hale gelmesini sağlar.</p><p>İhracata Başlangıç Danışmanlığı 6 aylık bir danışmanlık hizmetidir.</p>"
+    },
+    {
+      "type": "process_steps",
+      "title": "İhracata Başlangıç Yol Haritası",
+      "description": "Program boyunca her adım ölçülebilir hedeflerle takip edilir.",
+      "steps": [
+        { "title": "Mevcut Durum Analizi", "desc": "Firmanın ihracata hazırlık seviyesi ölçülür ve gelişim alanları belirlenir." },
+        { "title": "Hedef Pazar Tespiti", "desc": "Ürün ve sektör bazlı en uygun pazarlar seçilir." },
+        { "title": "Kurumsal Tanıtım Materyalleri", "desc": "İhracat odaklı, çok dilli tanıtım içerikleri hazırlanır." },
+        { "title": "Potansiyel Müşteriye Erişim", "desc": "Uygun alıcılarla ilk temaslar kurulup satış süreçleri desteklenir." },
+        { "title": "Ticaret Bakanlığı Destekleri", "desc": "İhracat destekleri için başvuru ve takip süreçleri yönetilir." },
+        { "title": "Aylık Takip Toplantıları", "desc": "Süreç raporlanır ve aksiyon planları güncellenir." }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "İhracata Bugün Başlayın",
+      "description": "İhracat yolculuğunuz için doğru stratejiyi birlikte kuralım.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

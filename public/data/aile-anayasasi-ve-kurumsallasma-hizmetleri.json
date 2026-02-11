@@ -1,0 +1,72 @@
+{
+  "slug": "aile-anayasasi-ve-kurumsallasma-hizmetleri",
+  "title": "Aile Anayasası",
+  "title_highlighted": "ve Kurumsallaşma",
+  "category": "Mevzuat ve Uyum",
+  "youtube_id": "",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Mevzuat ve Uyum", "link": "/servisler/mevzuat-ve-uyum" },
+    { "name": "Aile Anayasası ve Kurumsallaşma Hizmetleri", "link": "/servisler/mevzuat-ve-uyum/aile-anayasasi-ve-kurumsallasma-hizmetleri" }
+  ],
+  "hero": {
+    "title": "Aile Anayasası ve Kurumsallaşma Hizmetleri",
+    "description": "Aile şirketlerinde sürdürülebilirlik, şeffaf yönetim ve kuşaklar arası uyum için kurumsal yapı oluşturun.",
+    "image": "/images/servisler/aile-anayasasi-hero.jpg",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "Aile Anayasası ve Kurumsallaşma Hizmetleri",
+      "content": "<p>Aile şirketlerinin uzun vadeli sürdürülebilirliğini sağlamak amacıyla kullanılan stratejik bir araçtır. Bu belge ile aile üyeleri arasındaki ilişkileri ve aile işletmesinin yönetimini düzenlemek için oluşturulan kurallar, ilkeler ve yönergeler bütünü belirlenir ve aile işletmelerinin geleneksel değerlerini, etik ilkelerini ve iş yapma biçimlerini koruyarak yeni nesillere aktarılması hedeflenir.</p><p>Aile Anayasası; kuşaklar arası iletişimi ve iş birliğini güçlendirir, aile ve şirket kültürünü uyumlu hale getirir, kayırmacılığın önüne geçerek liyakat esaslı bir yapı oluşturur. Böylece şirketin sürdürülebilirliği ve uzun vadeli başarısı güvence altına alınır.</p><p>Danışmanlığımızda, aile şirketlerinin yapısal dengelerini ve kurumsal kimliklerini dikkate alarak her aileye özgü çözümler sunar; şeffaf ve adil süreç yönetimiyle uzun vadeli ve sürdürülebilir sonuçlar üretiriz.</p>",
+      "image": "/images/servisler/aile-anayasasi-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Aile Anayasası Danışmanlığının Kazandırdıkları",
+      "benefits": [
+        { "title": "Aile Bütünlüğü", "desc": "Aile üyeleri arasındaki ilişkiler ve iş yapma şekilleri netleşir, uzun vadeli uyum sağlanır.", "icon": "Users" },
+        { "title": "Gelecek Nesillere Hazırlık", "desc": "Devir süreçleri sağlıklı yapılandırılır, kuşaklar arası geçiş güvence altına alınır.", "icon": "TrendingUp" },
+        { "title": "Yönetim ve Karar Alma", "desc": "Yönetim yapısı ve karar alma süreçleri açık ve şeffaf şekilde tanımlanır.", "icon": "Briefcase" },
+        { "title": "Çatışma Yönetimi", "desc": "Aile içi anlaşmazlıklar önlenir, uyuşmazlıklar etkin şekilde yönetilir.", "icon": "ShieldCheck" },
+        { "title": "Sürdürülebilirlik", "desc": "Aile işletmesinin uzun vadeli büyümesi ve devamlılığı için sağlam temel oluşturulur.", "icon": "Target" }
+      ]
+    },
+    {
+      "type": "image_text",
+      "title": "Kurumsallaşma Yol Haritası",
+      "content": "<p>Aile değerleri ile şirket değerlerinin aynı platformda buluşması, uzun vadeli başarı için kritik bir adımdır. Kurumsallaşma yol haritası, rollerin netleşmesini, karar mekanizmalarının sağlıklı işlemesini ve şirketin profesyonel yönetimle büyümesini sağlar.</p>",
+      "image": "/images/servisler/aile-anayasasi-process.jpg",
+      "layout": "left"
+    },
+    {
+      "type": "process_grid",
+      "title": "Danışmanlık Sürecimizin Adımları",
+      "description": "Aile şirketiniz için şeffaf ve uzlaşı odaklı bir anayasa süreci yürütürüz.",
+      "steps": [
+        { "number": "01", "title": "Aile değerlerinin belirlenmesi", "desc": "Aile değerleri ve ilkeleri netleştirilir." },
+        { "number": "02", "title": "Amaçların ayrıştırılması", "desc": "Aile ve işletme amaçları ayrıştırılır." },
+        { "number": "03", "title": "Aile Konseyi", "desc": "Aile Konseyi oluşturulur ve çalışma ilkeleri belirlenir." },
+        { "number": "04", "title": "Misyon & Vizyon", "desc": "Aile misyonu, vizyonu, hedefleri ve değerleri oluşturulur." },
+        { "number": "05", "title": "Kapsam ve değişiklik koşulları", "desc": "Anayasanın kapsamı ve değiştirme koşulları belirlenir." },
+        { "number": "06", "title": "Miras ve hissedar hakları", "desc": "Miras devri ve hissedar hakları tanımlanır." },
+        { "number": "07", "title": "Çatışma çözüm mekanizmaları", "desc": "Uyuşmazlıkların çözümü için mekanizmalar geliştirilir." },
+        { "number": "08", "title": "Taslak ve görüş alma", "desc": "Anayasa taslağı hazırlanır ve aile fertlerinin görüşüne sunulur." },
+        { "number": "09", "title": "Mutabakat ve final", "desc": "Mutabakat sağlanır ve anayasanın son hali oluşturulur." }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Aile Şirketinizin Geleceğini Güvenceye Alın",
+      "description": "Güçlü bir aile anayasasıyla işletmenizi gelecek nesillere sorunsuz aktarın.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

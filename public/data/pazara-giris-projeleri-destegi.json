@@ -1,0 +1,106 @@
+{
+  "slug": "pazara-giris-projeleri-destegi",
+  "title": "Pazara Giriş",
+  "title_highlighted": "Projeleri Desteği",
+  "category": "İhracat ve Uluslararası Büyüme",
+  "youtube_id": "",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Globallesme ve İhracat", "link": "/servisler/globallesme-ve-ihracat" },
+    { "name": "Pazara Giriş Projeleri Desteği", "link": "/servisler/globallesme-ve-ihracat/pazara-giris-projeleri-destegi" }
+  ],
+  "hero": {
+    "title": "Pazara Giriş Projeleri Desteği",
+    "description": "Yeni pazarlara açılmak isteyen firmalar için strateji, planlama ve destek süreçlerini birlikte kurgulayın.",
+    "image": "/images/servisler/pazara-giris-hero.jpg",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "Pazara Giriş Projeleri Desteği Nedir?",
+      "content": "<p>İhracatını sürdürülebilir hale getirmek, yeni pazarlara ve yeni müşterilere ulaşmak isteyen firmaların yeni hedef pazarlar, pazara giriş, pazarlama ve markalaşma stratejileri ile bunlara dair 3 yıllık ihracat planı ve bütçelerini içeren danışmanlık ve rapor hizmeti giderleri, Ticaret Bakanlığı desteklerinden biridir.</p><p>Ticaret Bakanlığı, “Pazara Giriş Projeleri Hazırlama Desteği” kapsamında 761.017 TL’ye kadar %50 oranında hibe sağlamaktadır.</p><p>Sistem Global, Ticaret Bakanlığı'nın bu alandaki akredite kuruluşlarından biridir.</p>",
+      "image": "/images/servisler/pazara-giris-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "image_text",
+      "title": "Stratejik Planlama ile Doğru Pazar Seçimi",
+      "content": "<p>Hedef pazar analizleri ve rekabet değerlendirmeleri ile ihracat planınızı somutlaştırın. Pazara giriş stratejileri ve markalaşma planı başarıyı artırır.</p>",
+      "image": "/images/servisler/pazara-giris-process.jpg",
+      "layout": "left"
+    },
+    {
+      "type": "text",
+      "title": "Pazara Giriş Projesi Hazırlama Desteği",
+      "content": "<p>Pazara Giriş Projesi Hazırlama Desteği, işletmelerin yeni pazarlara girebilmesi için stratejik planları ve projeleri hazırlamasına yönelik bir destek programıdır. Hedef pazar araştırmaları, müşteri analizi, rekabet değerlendirmesi ve pazarlama stratejilerini kapsar.</p><p>Bu destek, firmaların uluslararası pazarlarda daha etkili rekabet edebilmesini sağlar ve özellikle KOBİ’ler için önemli bir fırsat sunar.</p>",
+      "bg_color": "bg-gray-50"
+    },
+    {
+      "type": "services_list",
+      "title": "Destek Kapsamı",
+      "services": [
+        { "title": "Pazara Giriş Stratejisi", "desc": "Hedef pazarlar için strateji oluşturulur." },
+        { "title": "E-ihracat Stratejisi", "desc": "Dijital kanallar üzerinden ihracat planı hazırlanır." },
+        { "title": "Rekabet Analizi", "desc": "Hedef pazardaki rakipler değerlendirilir." },
+        { "title": "Markalaşma ve Pazarlama", "desc": "Pazarlama planı ve marka konumlandırması yapılır." },
+        { "title": "3 Yıllık İhracat Uygulama Planı", "desc": "Bütçe ve devlet yardımlarını içeren plan oluşturulur." }
+      ]
+    },
+    {
+      "type": "info_list",
+      "title": "Desteğe İlişkin Notlar",
+      "items": [
+        { "title": "Pazar Araştırma Desteği", "desc": "Yurt dışı pazar araştırması gezileri, onaylı ihracat planındaki hedef pazarlar için geçerlidir." },
+        { "title": "Ön Koşul", "desc": "İhracat planı, yurt dışı seyahat desteği için ön koşuldur." }
+      ]
+    },
+    {
+      "type": "info_list",
+      "title": "Ön İnceleme Değerlendirme Kriterleri",
+      "items": [
+        { "title": "Üretim Yetkinliği", "desc": "Mevcut üretim kapasitesi ve geliştirme potansiyeli." },
+        { "title": "Pazarlama ve Satış", "desc": "Satış gücü ve pazarlama altyapısı." },
+        { "title": "Bilgi Sistemleri", "desc": "Bilgi sistemleri yönetimi ve dijital altyapı." },
+        { "title": "Finansal Performans", "desc": "Finansal yapı ve performans göstergeleri." },
+        { "title": "Organizasyon ve İK", "desc": "Organizasyon yapısı ve insan kaynağı yeterliliği." },
+        { "title": "Üst Yönetim Sahiplenmesi", "desc": "Üst yönetimin projeyi sahiplenme düzeyi." }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Pazara Giriş Proje Desteğinin Avantajları",
+      "benefits": [
+        { "title": "Doğru Hedef Pazar", "desc": "Hedef pazarlar hakkında derin analiz yapılır.", "icon": "Target" },
+        { "title": "Rekabet Gücü", "desc": "Stratejik planlama ile rekabet avantajı kazanılır.", "icon": "TrendingUp" },
+        { "title": "Bürokratik Kolaylık", "desc": "Uluslararası ticaret süreçleri daha etkin yönetilir.", "icon": "ShieldCheck" },
+        { "title": "Daha Az Risk", "desc": "KOBİ’ler için düşük riskle pazara giriş fırsatı sunar.", "icon": "Award" }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Sistem Global ve Pazara Giriş Projeleri Desteği Programı",
+      "content": "<p>Sistem Global; 30 yıllık tecrübesi, 10 farklı ülkede bulunan ofisleri, deneyimli ekibi ve Amerika’dan Asya-Pasifik’e uzanan network ağıyla globalde de yanınızda.</p><p>Pazara Giriş Projeleri, firmaların yeni pazarlara girmelerini sağlayan ve büyümelerini destekleyen önemli adımlardır. Firmalar hibeye hak kazanmak için bu projeleri yetkin bir danışmanlık firması ile gerçekleştirmek zorundadır.</p>",
+      "bg_color": "bg-white"
+    },
+    {
+      "type": "services_list",
+      "title": "Programda Öne Çıkanlar",
+      "services": [
+        { "title": "Deneyimli ve Uzman Ekip", "desc": "Ticaret Bakanlığı desteklerinde deneyimli ekip ile süreç yönetimi." },
+        { "title": "Uçtan Uca Yönetim", "desc": "Ön onay aşamasından hibe ödemesi alımına kadar destek." }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Pazarınızı Güçlü Bir Stratejiyle Açın",
+      "description": "Yeni pazarlara girişte doğru planlama ve destekle başarıyı artırın.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

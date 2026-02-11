@@ -1,0 +1,87 @@
+{
+  "slug": "genel-kurul-danismanligi",
+  "title": "Genel Kurul",
+  "title_highlighted": "Danışmanlığı",
+  "category": "Mevzuat ve Uyum",
+  "youtube_id": "",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Mevzuat ve Uyum", "link": "/servisler/mevzuat-ve-uyum" },
+    { "name": "Genel Kurul Danışmanlığı", "link": "/servisler/mevzuat-ve-uyum/genel-kurul-danismanligi" }
+  ],
+  "hero": {
+    "title": "Genel Kurul Danışmanlığı",
+    "description": "Genel kurul süreçlerinizi mevzuata uygun, şeffaf ve verimli şekilde yönetin.",
+    "image": "/images/servisler/genel-kurul-hero.jpg",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "Genel Kurul Danışmanlığı Nedir?",
+      "content": "<p>Genel Kurul, bir şirketin en üst karar alma mekanizması olarak şirketin geleceğine yönelik kritik kararların alındığı toplantılardır. Hissedarların bir araya gelerek şirket yönetimi, finansal durumlar ve stratejik hedefler hakkında görüş bildirdiği bu toplantılar, şirketin resmi yükümlülüklerini yerine getirmesi açısından büyük önem taşır.</p><p>Genel Kurul süreçlerinin etkin ve düzenli şekilde yürütülmesi için profesyonel destek almak, toplantıların mevzuata uygun olarak organize edilmesini, kararların resmi çerçevede kaydedilmesini ve süreçlerin en verimli şekilde yönetilmesini sağlar.</p><p>Bu hizmet kapsamında, toplantının öncesinden itibaren tüm aşamalar planlanarak hissedarların haklarını en iyi şekilde kullanabilmesi için gerekli süreç yönetimi desteği sunulmaktadır.</p>",
+      "image": "/images/servisler/genel-kurul-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "image_text",
+      "title": "Kurumsal Yönetişim ve Şeffaflık",
+      "content": "<p>Genel kurul toplantıları, şirketin kurumsal yönetim standartlarını yükselten en kritik platformdur. Düzenli ve mevzuata uygun bir süreç, yatırımcı güvenini artırır ve kararların geçerliliğini güçlendirir.</p>",
+      "image": "/images/servisler/genel-kurul-process.jpg",
+      "layout": "left"
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Genel Kurul Danışmanlığının Kazandırdıkları",
+      "benefits": [
+        { "title": "Hazırlık ve Planlama", "desc": "Toplantı tarihi, gündem, çağrılar ve vekaletname süreçleri eksiksiz yönetilir.", "icon": "Settings" },
+        { "title": "Mevzuata Uygunluk", "desc": "Yasal düzenlemelere uygun belgeler hazırlanır, kararların resmi geçerliliği sağlanır.", "icon": "ShieldCheck" },
+        { "title": "Dokümantasyon", "desc": "Kararlar kayıt altına alınır, tutanaklar düzenlenir ve resmi bildirimler yapılır.", "icon": "BookOpen" },
+        { "title": "Hissedar Hakları", "desc": "Hissedarların haklarını etkin kullanabilmesi için bilgilendirme yapılır.", "icon": "Users" }
+      ]
+    },
+    {
+      "type": "services_list",
+      "title": "Danışmanlık Kapsamında Sunulan Hizmetler",
+      "services": [
+        { "title": "Toplantı Öncesi Hazırlık", "desc": "Gündem belirleme, çağrı ilanları, toplantı evrakları ve sunumlarının hazırlanması." },
+        { "title": "Süreç Yönetimi Desteği", "desc": "Toplantı sırasında kararların mevzuata ve şirket prosedürlerine uygunluğu değerlendirilir." },
+        { "title": "Toplantı Organizasyonu", "desc": "Resmi gerekliliklere uygun toplantı yönetimi, oy kullanma süreçleri ve tutanak hazırlığı." },
+        { "title": "Tutanak ve Belgelerin Düzenlenmesi", "desc": "Toplantı sonrası karar tutanaklarının hazırlanması, onaylanması ve mercilere sunulması." },
+        { "title": "Olağanüstü Durum Desteği", "desc": "Olağanüstü genel kurul ve acil durumlarda hızlı süreç yönetimi." }
+      ]
+    },
+    {
+      "type": "info_list",
+      "title": "Kimler Genel Kurul Danışmanlığı Hizmeti Alabilir?",
+      "items": [
+        { "title": "Sermaye Şirketleri", "desc": "Anonim ve limited şirketler başta olmak üzere tüm sermaye şirketleri." },
+        { "title": "Hissedarlar ve Yatırımcılar", "desc": "Hissedar ilişkilerini doğru yönetmek isteyen yatırımcılar." },
+        { "title": "Yönetim Kurulları", "desc": "Yönetim kurulları ve üst yönetim ekipleri." },
+        { "title": "Uyum Odaklı İşletmeler", "desc": "Genel kurul süreçlerini mevzuata uygun yönetmek isteyen işletmeler." },
+        { "title": "Olağan/Olağanüstü Toplantılar", "desc": "Genel kurul toplantılarında profesyonel destek almak isteyen kuruluşlar." }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Hizmetlerimizdeki Farklılıklar",
+      "benefits": [
+        { "title": "Deneyimli Kadro", "desc": "Şirket yönetimi ve genel kurul süreçlerinde uzman danışmanlarla hizmet veriyoruz.", "icon": "Award" },
+        { "title": "Kapsamlı Destek", "desc": "Hazırlıktan kararların uygulanmasına kadar her aşamada rehberlik sağlıyoruz.", "icon": "Briefcase" },
+        { "title": "Resmi Geçerlilik", "desc": "Kararların prosedürlere uygun oluşturulmasını sağlayarak uyumsuzluk riskini azaltıyoruz.", "icon": "ShieldCheck" },
+        { "title": "Sürekli Destek", "desc": "Hissedar ilişkileri, yönetim kurulu toplantıları ve diğer süreçlerde destek sunuyoruz.", "icon": "TrendingUp" }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Genel Kurul Süreçlerinizi Güvence Altına Alın",
+      "description": "Şeffaf, mevzuata uygun ve verimli genel kurul süreçleri için uzman desteği alın.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

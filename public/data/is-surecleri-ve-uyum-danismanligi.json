@@ -1,0 +1,63 @@
+{
+  "slug": "is-surecleri-ve-uyum-danismanligi",
+  "title": "İş Süreçleri",
+  "title_highlighted": "ve Uyum",
+  "category": "Mevzuat ve Uyum",
+  "youtube_id": "",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Mevzuat ve Uyum", "link": "/servisler/mevzuat-ve-uyum" },
+    { "name": "İş Süreçleri ve Uyum Danışmanlığı", "link": "/servisler/mevzuat-ve-uyum/is-surecleri-ve-uyum-danismanligi" }
+  ],
+  "hero": {
+    "title": "İş Süreçleri ve Uyum Danışmanlığı",
+    "description": "İşveren-çalışan ilişkilerini mevzuata uygun yönetin, süreçlerinizi güvence altına alın.",
+    "image": "/images/servisler/is-surecleri-hero.jpg",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "İş Süreçleri ve Yasal Uyum Nedir?",
+      "content": "<p>İş süreçleri ve yasal uyum; işveren ile çalışanlar arasındaki ilişkilerin düzenlenmesini sağlayan bir alandır. Bu alan, iş sözleşmelerinin hazırlanmasından iş ilişkisinin sonlanmasına kadar pek çok süreci kapsar. Ayrıca, işçi haklarının korunması, tazminat süreçleri gibi önemli konuları içerir. İş süreçlerinde yasal uyumun amacı; iş yerlerinde adil bir ortam sağlamak ve tüm tarafların haklarının güvence altına alınmasını sağlamaktır.</p><p>İş yerlerinde uyulması gereken düzenlemelere ve prosedürlere uygun hareket etmek işverenler için büyük önem taşır. Bu nedenle, iş süreçleri konusunda uzman desteği almak, iş yerindeki olası sorunları önlemeye yardımcı olur.</p>",
+      "image": "/images/servisler/is-surecleri-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "image_text",
+      "title": "Uyumlu İş Süreçleriyle Güvenli Yapı",
+      "content": "<p>İş süreçlerinin mevzuata uygun yürütülmesi, hem çalışan haklarını korur hem de işverenin risklerini minimize eder. Uyumlu süreçler, operasyonel verimliliği artırır.</p>",
+      "image": "/images/servisler/is-surecleri-process.jpg",
+      "layout": "left"
+    },
+    {
+      "type": "info_list",
+      "title": "Kimler Hizmet Alabilir?",
+      "items": [
+        { "title": "KOBİ ve Büyük Şirketler", "desc": "Küçük ve orta ölçekli işletmeler ile büyük şirketler." },
+        { "title": "İnsan Kaynakları", "desc": "İK departmanları ve yöneticiler." },
+        { "title": "Çalışanlar", "desc": "Haklarını korumak isteyen çalışanlar." },
+        { "title": "İşverenler", "desc": "İş yerinde düzenlemelere uyum sağlamak isteyen işverenler." }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Hizmetlerimizdeki Farklılıklar",
+      "benefits": [
+        { "title": "Uzman Kadro", "desc": "İş süreçleri ve yasal uyumda deneyimli uzman ekibimizle süreçleri yönetiyoruz.", "icon": "Award" },
+        { "title": "Güncel Bilgi", "desc": "Mevzuat değişikliklerini takip ederek iş yerinizi uyumlu hale getiriyoruz.", "icon": "BookOpen" }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "İş Süreçlerinizi Güvence Altına Alın",
+      "description": "Mevzuata uyumlu ve sürdürülebilir iş süreçleri için uzman desteği alın.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

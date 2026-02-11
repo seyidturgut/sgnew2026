@@ -1,0 +1,144 @@
+{
+  "slug": "halka-arz-danismanligi",
+  "title": "Halka Arz",
+  "title_highlighted": "Danışmanlığı",
+  "category": "Kurumsal Finansman",
+  "youtube_id": "",
+  "breadcrumb": [
+    {
+      "name": "Anasayfa",
+      "link": "/"
+    },
+    {
+      "name": "Servisler",
+      "link": "/servisler"
+    },
+    {
+      "name": "Vergi & Finans",
+      "link": "/servisler/vergi-finans"
+    },
+    {
+      "name": "Kurumsal Finansman",
+      "link": "/servisler/vergi-finans/kurumsal-finansman"
+    },
+    {
+      "name": "Halka Arz Danışmanlığı",
+      "link": "/servisler/vergi-finans/kurumsal-finansman/halka-arz-danismanligi"
+    }
+  ],
+  "hero": {
+    "title": "Halka Arz Danışmanlığı",
+    "description": "Sermaye piyasalarına açılma sürecinizi uçtan uca yönetin; uygunluk, hazırlık ve yatırımcı iletişimini uzman ekibimizle güçlendirin.",
+    "image": "/images/servisler/halka-arz-hero.jpg",
+    "buttons": [
+      {
+        "text": "Uzmanımızla Görüşün",
+        "link": "#contact",
+        "variant": "primary"
+      },
+      {
+        "text": "Süreç Detayları",
+        "link": "#services",
+        "variant": "outline"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "Halka Arz Danışmanlığı Nedir?",
+      "content": "<p>Halka arz danışmanlığı, şirketlerin sermaye piyasalarına açılarak yatırımcılardan fon sağlaması sürecinde verilen kapsamlı danışmanlık hizmetidir. Bu hizmet, şirketin mali, hukuki ve operasyonel altyapısının halka arz için hazırlanmasını, Sermaye Piyasası Kurulu (SPK) ve Borsa İstanbul (BIST) mevzuatına uygunluğun sağlanmasını ve sürecin etkin yönetimini kapsar.</p>",
+      "image": "/images/servisler/halka-arz-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "service_cards",
+      "title": "Hizmet Kapsamı",
+      "cards": [
+        {
+          "title": "Halka Arza Hazırlık Danışmanlığı",
+          "desc": "Halka arz öncesi uygunluk analizi, altyapı hazırlığı ve düzenleyici gerekliliklerin planlanması.",
+          "icon": "ClipboardList",
+          "color": "blue"
+        },
+        {
+          "title": "Girişim Sermayesi Pazarına Giriş Danışmanlığı",
+          "desc": "GSP süreçlerine uygun yapılandırma, dokümantasyon ve yatırımcı iletişimi desteği.",
+          "icon": "TrendingUp",
+          "color": "green"
+        },
+        {
+          "title": "Kitlesel Fonlama Başvuru Danışmanlığı",
+          "desc": "Kampanya kurgusu, başvuru dosyası ve mevzuata uyumlu süreç yönetimi.",
+          "icon": "Users",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "icon_grid",
+      "title": "Hangi Durumlarda Gereklidir?",
+      "items": [
+        {
+          "title": "Büyüme İçin Dış Kaynak",
+          "desc": "Şirketin büyüme hedeflerini gerçekleştirmek için dış kaynak ihtiyacı doğduğunda.",
+          "icon": "TrendingUp"
+        },
+        {
+          "title": "Likidite ve Yatırımcı Tabanı",
+          "desc": "Yatırımcı tabanını genişletme ve likidite sağlama hedeflendiğinde.",
+          "icon": "Coins"
+        },
+        {
+          "title": "Değerleme ve Marka Gücü",
+          "desc": "Şirket değerlemesinin artırılması ve marka bilinirliğinin güçlendirilmesi istendiğinde.",
+          "icon": "Award"
+        },
+        {
+          "title": "Kurumsal Yönetim ve Şeffaflık",
+          "desc": "Kurumsal yönetim ilkelerine geçiş ve şeffaflık için hazırlık sürecinde.",
+          "icon": "ShieldCheck"
+        }
+      ]
+    },
+    {
+      "type": "process_grid",
+      "title": "Nasıl Yapılır?",
+      "description": "Halka arz sürecini adım adım planlar, uyum ve iletişimi tek merkezden yönetiriz.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Ön Değerlendirme ve Strateji",
+          "desc": "Şirketin halka arz için uygunluğu analiz edilir ve yol haritası oluşturulur."
+        },
+        {
+          "number": "02",
+          "title": "Finansal ve Operasyonel Hazırlık",
+          "desc": "Mali tablolar revize edilir, SPK standartlarına uygunluk sağlanır ve süreçler gözden geçirilir."
+        },
+        {
+          "number": "03",
+          "title": "Yasal Uyum ve Dokümantasyon",
+          "desc": "İzahname, bağımsız denetim raporları ve diğer yasal belgeler hazırlanır."
+        },
+        {
+          "number": "04",
+          "title": "Yatırımcı İletişimi ve Roadshow",
+          "desc": "Yatırımcılara yönelik tanıtım faaliyetleri ve toplantılar organize edilir."
+        },
+        {
+          "number": "05",
+          "title": "Süreç Takibi ve Koordinasyon",
+          "desc": "SPK ve BIST süreçleri takip edilir; tüm taraflar arasında koordinasyon sağlanır."
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Halka Arz Sürecinizi Güvence Altına Alın",
+      "description": "Doğru hazırlık ve etkili iletişimle sermaye piyasalarında güçlü bir başlangıç yapın.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

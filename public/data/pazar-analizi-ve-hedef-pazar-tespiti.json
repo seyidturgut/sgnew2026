@@ -1,0 +1,95 @@
+{
+  "slug": "pazar-analizi-ve-hedef-pazar-tespiti",
+  "title": "Pazar Analizi",
+  "title_highlighted": "ve Hedef Pazar",
+  "category": "Globallesme ve İhracat",
+  "youtube_id": "jTOU40ZGvHA",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Globallesme ve İhracat", "link": "/servisler/globallesme-ve-ihracat" },
+    { "name": "Pazar Analizi ve Hedef Pazar Tespiti", "link": "/servisler/globallesme-ve-ihracat/pazar-analizi-ve-hedef-pazar-tespiti" }
+  ],
+  "hero": {
+    "title": "Pazar Analizi ve Hedef Pazar Tespiti",
+    "description": "Doğru ürün-doğru pazar eşleşmesiyle ihracat stratejinizi güçlendirin.",
+    "image": "/images/servisler/pazar-analizi-hero.jpg",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "Pazar Analizi ve Hedef",
+      "title_highlight": "Pazar Tespiti",
+      "description": "Doğru ürün-doğru pazar eşleşmesiyle ihracat stratejinizi güçlendirin.",
+      "badge": "İhracat Stratejisi",
+      "features": [
+        "Veri Odaklı Pazar Okuması",
+        "Risk, Engel ve Fırsat Analizi",
+        "Ülke Bazlı Regülasyon Değerlendirmesi",
+        "Hedef Pazar Önceliklendirme"
+      ],
+      "image": "/images/servisler/pazar-analizi-hero.jpg"
+    },
+    {
+      "type": "content_with_image",
+      "title": "Pazar Analizi ve Hedef Pazar Tespiti Nedir?",
+      "content": "<p>Pazar analizi ve hedef pazar tespiti, doğru ürün-doğru pazar eşleştirmesini gerçekleştirmek için en önemli adımdır. Gerek şirketleşme gerek ihracat amacıyla hareket eden şirketlerin bir pazara girmeden önce oluşturacakları tüm strateji, pazar analizi ve hedef pazar tespitinin sonuçları ile ilişkili olmalıdır.</p><p>Potansiyel risk, engel ve fırsatları öngörebilmek; pazarın dinamiklerini ve trendlerini ölçmek; sürdürülebilir bir ihracat ve uluslararası büyüme yolculuğu gerçekleştirmek isteyen tüm şirketlerin belirli dönemlerde bu çalışmayı gerçekleştirmesi önerilmektedir.</p>",
+      "image": "/images/servisler/pazar-analizi-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "image_text",
+      "title": "Hedef Pazar Seçimi ile Rekabet Avantajı",
+      "content": "<p>Doğru hedef pazar, ihracat performansınızı belirler. Veri odaklı analizlerle rekabet gücünüzü artırın ve stratejinizi sağlam temele oturtun.</p>",
+      "image": "/images/servisler/pazar-analizi-process.jpg",
+      "layout": "left"
+    },
+    {
+      "type": "info_list",
+      "title": "Kimler Pazar Analizi Yaptırmalıdır?",
+      "content": "<p>Pazar Analizi ve Hedef Pazar Tespiti, aşağıdaki işlemleri yapmak isteyen firmaların mutlaka yapması gereken bir çalışmadır.</p>",
+      "items": [
+        { "title": "İhracata Başlamak", "desc": "Ürünleri için en yüksek potansiyele sahip pazarları belirlemek isteyenler." },
+        { "title": "Mevcut Pazarı Büyütmek", "desc": "Konjonktürü anlamak ve pazardaki payı artırmak isteyenler." },
+        { "title": "Yeni Pazarlara Erişim", "desc": "Mevcut pazarlara ek olarak yeni pazarlara açılmak isteyenler." },
+        { "title": "Yurt Dışı Yapılanma", "desc": "Şube, depo veya şirket kurulum planlayanlar." }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Sistem Global ve Pazar Analizi Hedef Pazar Tespiti",
+      "content": "<p>Sistem Global; çeyrek asrı aşan tecrübesi, 5 farklı ülkede bulunan ofisleri, deneyimli ekibi ve Amerika’dan Asya-Pasifik’e uzanan network ağıyla firmanıza özel ve ürün bazlı olarak Pazar Analizi ve Hedef Pazar Tespiti çalışmasını gerçekleştirir.</p>"
+    },
+    {
+      "type": "services_list",
+      "title": "Firma ve Ürün Bazlı Çalışma Kapsamı",
+      "services": [
+        { "title": "Sektörün Uluslararası Durumu", "desc": "Sektörün global görünümü değerlendirilir." },
+        { "title": "Uluslararası Ticaret Verileri", "desc": "Dış ticaret verileri analiz edilir." },
+        { "title": "İyi Uygulama Örnekleri", "desc": "Başarılı uygulamalardan örnekler sunulur." },
+        { "title": "Uluslararası Rakipler", "desc": "Rekabet durumu değerlendirilir." },
+        { "title": "Ülke Bazlı Vergi ve Teşvikler", "desc": "Vergi, teşvik, kota ve teknik engeller analiz edilir." },
+        { "title": "Sertifika ve Lisans Gereksinimleri", "desc": "Gerekli belge ve sertifikalar belirlenir." },
+        { "title": "Hukuki ve Regülatif Durum", "desc": "Ülke bazlı hukuki çerçeve analiz edilir." },
+        { "title": "İş Yapma Süreçleri", "desc": "Ülke bazlı iş yapma ve iş kurma süreçleri değerlendirilir." }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Hedef Pazarların Belirlenmesi",
+      "content": "<p>Başlıklarına yer verilerek Pazar Analizi ve Hedef Pazar Tespiti tamamlanır. Sektör ve ürün bazlı oluşturulan metodoloji ile edinilen bilgiler değerlendirilerek birincil, ikincil ve üçüncül hedef pazarlar belirlenir.</p>",
+      "bg_color": "bg-gray-50"
+    },
+    {
+      "type": "cta_box",
+      "title": "Doğru Pazar, Doğru Strateji",
+      "description": "Hedef pazarlarınızı bilimsel analizlerle belirleyin, ihracat yolculuğunuzu güçlendirin. Detaylı bilgi almak için formu doldurun, size ulaşalım.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

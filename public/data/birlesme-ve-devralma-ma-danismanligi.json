@@ -1,0 +1,96 @@
+{
+  "slug": "birlesme-ve-devralma-ma-danismanligi",
+  "title": "Birleşme ve",
+  "title_highlighted": "Devralma (M&A)",
+  "category": "Mevzuat ve Uyum",
+  "youtube_id": "",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Mevzuat ve Uyum", "link": "/servisler/mevzuat-ve-uyum" },
+    { "name": "Birleşme ve Devralma (M&A) Danışmanlığı", "link": "/servisler/mevzuat-ve-uyum/birlesme-ve-devralma-ma-danismanligi" }
+  ],
+  "hero": {
+    "title": "Birleşme ve Devralma (M&A) Danışmanlığı",
+    "description": "Büyüme ve yeniden yapılanma süreçlerinizde stratejik, finansal ve mevzuatsal destek alın.",
+    "image": "/images/servisler/ma-hero.jpg",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "Birleşme ve Devralma (M&A) Nedir?",
+      "content": "<p>Birleşme ve Devralma (M&A), şirketlerin büyüme stratejilerinde sıklıkla tercih ettiği bir iş modelidir. Birleşme, iki veya daha fazla şirketin varlıklarını birleştirerek tek bir şirket halinde faaliyet göstermesi anlamına gelir. Bu birleşme, şirketlerin ortak hedefler doğrultusunda sinerji yaratmasını, pazar paylarını genişletmesini ve rekabet avantajı elde etmesini sağlar. Devralma ise bir şirketin başka bir şirketin hisselerini veya varlıklarını satın almasıyla gerçekleşir. Bu süreçte, hedef şirketin kontrolü devralan şirkete geçer ve stratejik hedefler doğrultusunda yönetim değişikliği, yeniden yapılandırma ve entegrasyon gibi adımlar atılır.</p><p>Birleşme ve devralma süreçleri, büyüme potansiyelini artırmak, operasyonel verimlilik sağlamak, yeni pazarlara girmek veya rekabet gücünü artırmak gibi amaçlarla gerçekleştirilebilir. Ayrıca, finansal sıkıntıdaki şirketlerin kurtarılması veya stratejik olarak yeniden yapılandırılması için de etkili bir yöntemdir.</p><p>M&A süreçleri karmaşık ve riskli olabilir. Bu nedenle titiz planlama, detaylı durum tespiti (due diligence), mevzuatsal ve finansal danışmanlık ve etkili müzakere süreçleri gerektirir. Her adımda olası riskler ortaya konmalı ve minimize edilmelidir.</p><p>M&A yalnızca büyük şirketleri kapsamaz; KOBİ’ler için de büyüme ve genişleme stratejisi olarak değerlendirilebilir.</p>",
+      "image": "/images/servisler/ma-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "image_text",
+      "title": "Stratejik Değer ve Sinerji",
+      "content": "<p>Doğru hedef seçimi ve etkili entegrasyon planı, birleşme ve devralma işlemlerinde değer yaratımının temelidir. Sinerji fırsatları ve operasyonel verimlilik ilk günden planlanmalıdır.</p>",
+      "image": "/images/servisler/ma-process.jpg",
+      "layout": "left"
+    },
+    {
+      "type": "process_grid",
+      "title": "Birleşme ve Devralma Süreçleri",
+      "description": "M&A işlemleri, birkaç aşamadan oluşur ve dikkatli planlama gerektirir.",
+      "steps": [
+        { "number": "01", "title": "Stratejik Planlama", "desc": "Pazarda büyüme, rekabet avantajı veya sinerji hedefleri belirlenir." },
+        { "number": "02", "title": "Hedef Şirketin Belirlenmesi", "desc": "Potansiyel hedefler piyasa araştırmaları ve finansal analizlerle seçilir." },
+        { "number": "03", "title": "Durum Tespiti (Due Diligence)", "desc": "Finansal, vergisel, mevzuatsal ve operasyonel yapı detaylı incelenir." },
+        { "number": "04", "title": "Müzakere ve Sözleşme", "desc": "Fiyat, şartlar ve yükümlülükler üzerinde anlaşma sağlanır ve belgeler hazırlanır." },
+        { "number": "05", "title": "Birleşme veya Devralma", "desc": "Gerekli resmi belgelerle işlem tamamlanır." },
+        { "number": "06", "title": "Entegrasyon Süreci", "desc": "Operasyonel, kültürel ve yönetimsel entegrasyon planlanır ve uygulanır." }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "M&A Danışmanlığının Kazandırdıkları",
+      "benefits": [
+        { "title": "Stratejik Rehberlik", "desc": "Hedeflerin değerlendirilmesi ve uygun stratejilerin geliştirilmesi.", "icon": "Target" },
+        { "title": "Yasal Uyum ve Risk Yönetimi", "desc": "Yasal uyumun sağlanması, risklerin tespiti ve minimize edilmesi.", "icon": "ShieldCheck" },
+        { "title": "Finansal Değerlendirme", "desc": "Hedef şirketlerin finansal ve operasyonel analizleri.", "icon": "PieChart" },
+        { "title": "Müzakere Desteği", "desc": "Taraflar arasında etkin müzakere ve anlaşma yönetimi.", "icon": "Briefcase" }
+      ]
+    },
+    {
+      "type": "services_list",
+      "title": "Danışmanlık Kapsamında Sunulan Hizmetler",
+      "services": [
+        { "title": "Hedef Şirketin Değerlendirilmesi", "desc": "Potansiyel hedeflerin analizi ve seçimi." },
+        { "title": "Durum Tespiti (Due Diligence)", "desc": "Finansal, mevzuatsal, vergisel ve operasyonel inceleme." },
+        { "title": "Sözleşmelerin Hazırlanması", "desc": "Birleşme/devralma işlemleri için gerekli belgelerin hazırlanması." },
+        { "title": "Satın Alma Sonrası Entegrasyon", "desc": "Operasyonel ve kültürel entegrasyonun yönetimi." }
+      ]
+    },
+    {
+      "type": "info_list",
+      "title": "Kimler M&A Danışmanlığı Hizmeti Alabilir?",
+      "items": [
+        { "title": "Büyüme Odaklı İşletmeler", "desc": "Yeni pazarlara girmek veya ölçeklemek isteyen her ölçekten şirketler." },
+        { "title": "Yeniden Yapılanma İhtiyacı", "desc": "Mevcut iş modelini güçlendirmek veya yeniden yapılandırmak isteyen firmalar." },
+        { "title": "Yatırımcılar ve Fonlar", "desc": "Yatırımcılar ve özel sermaye fonları." }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Hizmetlerimizdeki Farklılıklar",
+      "benefits": [
+        { "title": "Deneyimli Ekip", "desc": "Uzman M&A danışmanlarımız her adımda size özel çözümler sunar.", "icon": "Award" },
+        { "title": "Bütünleşik Hizmet", "desc": "Stratejik, finansal ve mevzuatsal boyutları bir arada ele alırız.", "icon": "Globe" },
+        { "title": "Uluslararası Standartlar", "desc": "Yerel ve global mevzuata uygun, uluslararası standartlarda hizmet sunarız.", "icon": "ShieldCheck" }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "M&A Sürecinizi Güvence Altına Alın",
+      "description": "Stratejik büyüme ve birleşme süreçlerinde uzman desteğiyle değer yaratın.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

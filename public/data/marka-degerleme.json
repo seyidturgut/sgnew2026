@@ -1,0 +1,185 @@
+{
+  "slug": "marka-degerleme",
+  "title": "Marka",
+  "title_highlighted": "Değerleme",
+  "category": "Kurumsal Finansman",
+  "youtube_id": "",
+  "breadcrumb": [
+    {
+      "name": "Anasayfa",
+      "link": "/"
+    },
+    {
+      "name": "Servisler",
+      "link": "/servisler"
+    },
+    {
+      "name": "Vergi & Finans",
+      "link": "/servisler/vergi-finans"
+    },
+    {
+      "name": "Kurumsal Finansman",
+      "link": "/servisler/vergi-finans/kurumsal-finansman"
+    },
+    {
+      "name": "Marka Değerleme",
+      "link": "/servisler/vergi-finans/kurumsal-finansman/marka-degerleme"
+    }
+  ],
+  "hero": {
+    "title": "Marka Değerleme",
+    "description": "Markanızın finansal ve algısal gücünü ölçün; yatırım, lisanslama ve büyüme kararlarınızı sağlam temellere oturtun.",
+    "image": "/images/servisler/marka-degerleme-hero.jpg",
+    "buttons": [
+      {
+        "text": "Uzmanımızla Görüşün",
+        "link": "#contact",
+        "variant": "primary"
+      },
+      {
+        "text": "Değerleme Süreci",
+        "link": "#services",
+        "variant": "outline"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "Marka Değerleme Nedir?",
+      "content": "<p>Marka değerleme, bir markanın finansal ve algısal gücünü analiz ederek piyasa değerini belirlemeye yönelik kapsamlı bir süreçtir. Şirketlerin rekabet avantajlarını, müşteri sadakatini ve pazardaki konumlarını anlamalarına yardımcı olur; yatırım, satın alma ve lisanslama süreçlerinde kritik rol oynar.</p><p>Sistem Global olarak uluslararası standartlara uygun yöntemlerle markaların gerçek değerini belirliyor ve stratejik kararları destekliyoruz.</p>",
+      "image": "/images/servisler/marka-degerleme-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "icon_grid",
+      "title": "Neden Marka Değerleme?",
+      "items": [
+        {
+          "title": "Birleşme ve Satın Alma",
+          "desc": "Marka değeri, işlem fiyatını doğrudan etkiler ve adil fiyatlama sağlar.",
+          "icon": "Scale"
+        },
+        {
+          "title": "Lisanslama ve Franchise",
+          "desc": "Doğru değerleme, sürdürülebilir gelir ve etkin hak yönetimi sunar.",
+          "icon": "Briefcase"
+        },
+        {
+          "title": "Yatırımcı Güveni",
+          "desc": "Markanın piyasa değeri yatırım kararlarını hızlandırır.",
+          "icon": "TrendingUp"
+        },
+        {
+          "title": "Finansmana Erişim",
+          "desc": "Güçlü marka, daha iyi kredi koşullarına erişimi kolaylaştırır.",
+          "icon": "Coins"
+        }
+      ]
+    },
+    {
+      "type": "process_grid",
+      "title": "Marka Değerleme Süreci",
+      "description": "Algısal ölçüm, finansal analiz ve raporlama adımlarını kapsayan bütüncül bir yaklaşım.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Yöntem Seçimi",
+          "desc": "Markanın sektör ve gelir modeline uygun değerleme yöntemi belirlenir."
+        },
+        {
+          "number": "02",
+          "title": "Algısal Ölçüm",
+          "desc": "Bilinirlik, sadakat ve tüketici algısı anket ve veri analizleriyle ölçülür."
+        },
+        {
+          "number": "03",
+          "title": "Finansal Hesaplama",
+          "desc": "Gelir akışları, piyasa çarpanları ve maliyet verileriyle hesaplama yapılır."
+        },
+        {
+          "number": "04",
+          "title": "Raporlama",
+          "desc": "Şeffaf yöntem ve bulgularla marka değerleme raporu oluşturulur."
+        }
+      ]
+    },
+    {
+      "type": "service_cards",
+      "title": "Değerleme Yaklaşımları",
+      "cards": [
+        {
+          "title": "Gelir Yaklaşımı",
+          "desc": "Gelecek gelir akışları analiz edilerek bugünkü değer hesaplanır (Royalty Relief, DCF).",
+          "icon": "TrendingUp",
+          "color": "blue"
+        },
+        {
+          "title": "Piyasa Yaklaşımı",
+          "desc": "Benzer markaların piyasa işlemleri ve çarpanlarıyla karşılaştırma yapılır.",
+          "icon": "PieChart",
+          "color": "green"
+        },
+        {
+          "title": "Maliyet Yaklaşımı",
+          "desc": "Markanın yeniden yaratılma maliyeti üzerinden değerleme yapılır.",
+          "icon": "Settings",
+          "color": "orange"
+        },
+        {
+          "title": "Dijital ve Algısal Ölçümler",
+          "desc": "CBBE, sosyal medya etkileşimi, tüketici güven endeksi gibi metrikler.",
+          "icon": "Globe",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Marka Değerlemenin Katkıları",
+      "benefits": [
+        {
+          "title": "Stratejik Konumlandırma",
+          "desc": "Pazarlama ve büyüme stratejilerinin doğru kurgulanmasını sağlar.",
+          "icon": "Target"
+        },
+        {
+          "title": "Yasal Süreç Desteği",
+          "desc": "Vergi planlama, transfer fiyatlandırması ve hukuki süreçlerde dayanak oluşturur.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "Finansal Raporlama",
+          "desc": "Mali tablolarda marka varlığının doğru yönetilmesine katkı sağlar.",
+          "icon": "BookOpen"
+        },
+        {
+          "title": "Yatırım ve Büyüme",
+          "desc": "Yatırımcı ilişkilerini güçlendirir ve değer artışı hedeflerini netleştirir.",
+          "icon": "Award"
+        }
+      ]
+    },
+    {
+      "type": "info_list",
+      "title": "Süre ve Çıktılar",
+      "items": [
+        {
+          "title": "Ortalama Süre",
+          "desc": "Marka değerleme süreci, veriye erişim hızına göre genellikle 4-6 hafta sürer."
+        },
+        {
+          "title": "Rapor İçeriği",
+          "desc": "Yöntemler, hesaplamalar, marka algısı ve büyüme önerileri şeffaf şekilde sunulur."
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Markanızın Gerçek Değerini Ortaya Çıkarın",
+      "description": "Rekabet avantajınızı güçlendirin, markanızı doğru değerleme ile geleceğe taşıyın.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

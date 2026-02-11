@@ -1,0 +1,96 @@
+{
+  "slug": "pay-devri-ve-pay-sahipligi-sozlesmeleri-danismanligi",
+  "title": "Pay Devri",
+  "title_highlighted": "ve Pay Sahipliği",
+  "category": "Mevzuat ve Uyum",
+  "youtube_id": "",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Mevzuat ve Uyum", "link": "/servisler/mevzuat-ve-uyum" },
+    { "name": "Pay Devri ve Pay Sahipliği Sözleşmeleri Danışmanlığı", "link": "/servisler/mevzuat-ve-uyum/pay-devri-ve-pay-sahipligi-sozlesmeleri-danismanligi" }
+  ],
+  "hero": {
+    "title": "Pay Devri ve Pay Sahipliği Sözleşmeleri Danışmanlığı",
+    "description": "Pay devri süreçlerinizi hukuka uygun ve güvenli şekilde yönetin, ortaklık yapısında istikrar sağlayın.",
+    "image": "/images/servisler/pay-devri-hero.jpg",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "Pay Devri ve Pay Sahipliği Sözleşmeleri Danışmanlığı Nedir?",
+      "content": "<p>Pay devri ve pay sahipliği sözleşmeleri danışmanlığı, anonim şirket veya limited şirketlerde payların devri ve pay sahipleri arasında yapılan anlaşmaların Türk Ticaret Kanunu çerçevesinde usulüne uygun şekilde yönetilmesini sağlayan kapsamlı bir hizmettir. Şirketlerdeki hisse paylarının devri, gerek mevcut ortaklar arasında gerekse üçüncü kişiler veya yatırımcılar ile yapılacak anlaşmalarla gerçekleşir. Bu süreç, şirketin yönetim yapısını, sermaye yapısını ve faaliyetlerini doğrudan etkileyebilir. Dolayısıyla pay devri ve pay sahipliği sözleşmeleri dikkatli planlanmalı ve yönetilmelidir.</p><p>Pay devri, mevcut bir pay sahibinin paylarını bir başka kişiye veya şirkete devretmesi sürecidir. Bu süreçte taraflar arasında hakların ve yükümlülüklerin net belirlenmesi, ihtilafların önüne geçilmesi açısından kritik öneme sahiptir. Pay sahipliği sözleşmeleri ise şirket ortakları arasında payların yönetimi, hak ve yükümlülükler, pay devri kısıtları, kar payı dağıtımı ve sermaye değişiklikleri gibi konuları belirleyen özel nitelikli sözleşmelerdir. Bu sözleşmeler, şirket yönetiminde denge düzen unsurudur.</p>",
+      "image": "/images/servisler/pay-devri-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "image_text",
+      "title": "Ortaklık Yapısında Güven ve İstikrar",
+      "content": "<p>Pay devri süreçlerinde adil ve şeffaf sözleşmeler, ortaklar arasında güveni artırır ve şirketin uzun vadeli istikrarını güçlendirir.</p>",
+      "image": "/images/servisler/pay-devri-process.jpg",
+      "layout": "left"
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Danışmanlığın Kazandırdıkları",
+      "benefits": [
+        { "title": "Kurumsal Güvence", "desc": "Pay devri ve sözleşmelerin hukuka uygun yürütülmesi hakların korunmasını sağlar.", "icon": "ShieldCheck" },
+        { "title": "Yönetimde İstikrar", "desc": "Pay sahipliği sözleşmeleri ortaklar arasında uyumu korur.", "icon": "TrendingUp" },
+        { "title": "Risk Yönetimi", "desc": "Olası riskler önceden tespit edilerek yönetilir.", "icon": "Target" },
+        { "title": "Çıkarların Korunması", "desc": "Adil anlaşma ve uzun vadeli hak güvence altına alınır.", "icon": "Briefcase" }
+      ]
+    },
+    {
+      "type": "services_list",
+      "title": "Danışmanlık Kapsamında Sunulan Hizmetler",
+      "services": [
+        { "title": "Pay Devir Sürecinin Yönetimi", "desc": "Ortaklık yapısı değişiklikleri için doğru planlama ve uygulama." },
+        { "title": "Pay Sahipliği Sözleşmesi Hazırlığı", "desc": "Hak ve yükümlülüklerin belirlenmesi ve sözleşme hazırlanması." },
+        { "title": "Sözleşme Müzakereleri", "desc": "Taraflar arasında adil ve dengeli anlaşma sağlanması." },
+        { "title": "Mevcut Sözleşmelerin Değerlendirilmesi", "desc": "Mevcut sözleşmelerin incelenmesi ve güncellenmesi." },
+        { "title": "Vergisel ve Mali Danışmanlık", "desc": "Pay devrinin vergi/mali etkilerinin analiz edilmesi." },
+        { "title": "İhtilaf Çözümü", "desc": "Olası ihtilafların çözümü ve uzlaşı süreçlerinin yönetimi." }
+      ]
+    },
+    {
+      "type": "info_list",
+      "title": "Kimler Hizmet Alabilir?",
+      "items": [
+        { "title": "Mevcut Ortaklar", "desc": "Paylarını diğer pay sahiplerine devretmek isteyenler." },
+        { "title": "Yeni Yatırımcılar", "desc": "Yeni yatırımcılarla pay devri anlaşmaları yapmak isteyen şirketler." },
+        { "title": "Ortaklık Sözleşmesi", "desc": "Pay sahipliği sözleşmesi yapmak isteyen işletmeler." },
+        { "title": "Sözleşme Güncelleme", "desc": "Sözleşmelerini güncellemek veya yeniden düzenlemek isteyenler." },
+        { "title": "Hukuki Danışmanlık", "desc": "Pay devri ve pay sahipliği süreçlerinde destek arayan bireyler/şirketler." },
+        { "title": "Aile Şirketleri", "desc": "Aile şirketlerinde pay devri yapmak isteyen aile üyeleri." },
+        { "title": "Halka Arz Planlayanlar", "desc": "Halka arz planlayan şirketler." },
+        { "title": "Yabancı Ortaklıklar", "desc": "Yabancı yatırımcılarla ortaklık kurmak isteyen şirketler." },
+        { "title": "M&A Tarafları", "desc": "Birleşme ve devralma süreçlerinde danışmanlık ihtiyacı olan taraflar." }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Hizmetlerimizdeki Farklılıklar",
+      "benefits": [
+        { "title": "Uzman Kadro", "desc": "Şirket yönetimi ve ortaklık ilişkilerinde deneyimli uzmanlarla süreçleri yönetiyoruz.", "icon": "Award" },
+        { "title": "Kapsamlı Destek", "desc": "Pay devri, müzakere, finansal/vergisel analiz ve stratejik yönetim süreçlerinde uçtan uca destek.", "icon": "Briefcase" },
+        { "title": "Risk Analizi", "desc": "Olası riskler önceden tespit edilerek güvenli ilerleme sağlanır.", "icon": "ShieldCheck" },
+        { "title": "Proaktif Yaklaşım", "desc": "Finansal ve operasyonel riskler önceden belirlenir, şeffaf bilgilendirme sağlanır.", "icon": "TrendingUp" },
+        { "title": "Hızlı ve Etkin Çözümler", "desc": "Süreçler titizlikle ve hızlı şekilde tamamlanır.", "icon": "Zap" },
+        { "title": "Sürekli Destek", "desc": "Güncel gelişmelerle ilgili bilgilendirme ve sürekli danışmanlık sağlanır.", "icon": "BookOpen" },
+        { "title": "Şeffaf ve Müşteri Odaklı", "desc": "Karar alma süreçlerine aktif katılım ve kişiselleştirilmiş çözümler sunulur.", "icon": "Users" },
+        { "title": "Uluslararası Standartlar", "desc": "Yabancı yatırımcılarla yapılan anlaşmalarda uluslararası standartlarda hizmet sunulur.", "icon": "Globe" }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Pay Devri Süreçlerinizi Güvence Altına Alın",
+      "description": "Ortaklık yapınızı koruyun, sözleşmelerinizi güvenle yönetin.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

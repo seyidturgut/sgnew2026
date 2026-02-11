@@ -1,0 +1,204 @@
+{
+  "slug": "finansal-danismanliklar",
+  "title": "Finansal",
+  "title_highlighted": "Danışmanlıklar",
+  "category": "Kurumsal Finansman",
+  "youtube_id": "",
+  "breadcrumb": [
+    {
+      "name": "Anasayfa",
+      "link": "/"
+    },
+    {
+      "name": "Servisler",
+      "link": "/servisler"
+    },
+    {
+      "name": "Vergi & Finans",
+      "link": "/servisler/vergi-finans"
+    },
+    {
+      "name": "Kurumsal Finansman",
+      "link": "/servisler/vergi-finans/kurumsal-finansman"
+    },
+    {
+      "name": "Finansal Danışmanlıklar",
+      "link": "/servisler/vergi-finans/kurumsal-finansman/finansal-danismanliklar"
+    }
+  ],
+  "hero": {
+    "title": "Finansal Danışmanlıklar",
+    "description": "Yatırım kararlarınızı veriyle güçlendirin; finansal modelleme ve due diligence süreçlerinde uzman destek alın.",
+    "image": "/images/servisler/finansal-danismanlik-hero.jpg",
+    "buttons": [
+      {
+        "text": "Uzmanımızla Görüşün",
+        "link": "#contact",
+        "variant": "primary"
+      },
+      {
+        "text": "Hizmet Kapsamı",
+        "link": "#services",
+        "variant": "outline"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "service_cards",
+      "title": "Hizmet Başlıkları",
+      "cards": [
+        {
+          "title": "Finansal Modelleme ve Yatırım Öncesi Finansal Danışmanlıklar",
+          "desc": "Yatırım öncesi nakit akışı, gelir projeksiyonları ve yatırım geri dönüş analizleriyle sağlam finansal strateji oluşturulur.",
+          "icon": "PieChart",
+          "color": "blue"
+        },
+        {
+          "title": "Finansal Yönetim Danışmanlıkları",
+          "desc": "Finansal yapılandırma, risk yönetimi ve performans ölçümü için stratejik danışmanlık desteği sağlanır.",
+          "icon": "Briefcase",
+          "color": "green"
+        },
+        {
+          "title": "Finansal Due Diligence",
+          "desc": "Satın alma ve birleşme öncesinde finansal sağlık, riskler ve gerçek değer detaylı analiz edilir.",
+          "icon": "ShieldCheck",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "content_with_image",
+      "title": "Finansal Modelleme ve Yatırım Öncesi Danışmanlık",
+      "content": "<p>Şirketlerin yatırım kararları öncesinde sağlam finansal temeller üzerine strateji oluşturabilmeleri için verilen danışmanlık hizmetidir. Bu hizmet kapsamında, finansal modelleme teknikleri kullanılarak şirketin nakit akışları, gelir projeksiyonları ve yatırım geri dönüş analizleri yapılır.</p>",
+      "image": "/images/servisler/finansal-danismanlik-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "icon_grid",
+      "title": "Hangi Durumlarda Gereklidir?",
+      "items": [
+        {
+          "title": "Yeni Yatırım ve Fizibilite",
+          "desc": "Yeni yatırımların veya projelerin finansal fizibilitesinin değerlendirilmesi.",
+          "icon": "TrendingUp"
+        },
+        {
+          "title": "Yatırımcı Görüşmeleri",
+          "desc": "Yatırımcılar veya finans kuruluşları ile görüşmeler öncesinde hazırlık yapılması.",
+          "icon": "Users"
+        },
+        {
+          "title": "Risk ve Fırsat Analizi",
+          "desc": "Finansal risklerin ve fırsatların öngörülmesi için analiz yapılması.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "Uzun Vadeli Strateji",
+          "desc": "Şirketin uzun vadeli finansal stratejisinin belirlenmesi.",
+          "icon": "Target"
+        }
+      ]
+    },
+    {
+      "type": "process_grid",
+      "title": "Nasıl Yapılır?",
+      "description": "Yatırım kararları için veri temelli modelleme ve raporlama süreci.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Veri Toplama ve Analiz",
+          "desc": "Şirketin mevcut finansal verileri toplanır ve analiz edilir."
+        },
+        {
+          "number": "02",
+          "title": "Modelleme",
+          "desc": "Gelir-gider, nakit akışı ve kârlılık modelleri geliştirilir."
+        },
+        {
+          "number": "03",
+          "title": "Senaryo ve Duyarlılık",
+          "desc": "Duyarlılık ve senaryo analizleri ile olası riskler değerlendirilir."
+        },
+        {
+          "number": "04",
+          "title": "Raporlama",
+          "desc": "Yatırım kararları için öngörülen finansal sonuçlar raporlanır."
+        }
+      ]
+    },
+    {
+      "type": "content_with_image",
+      "title": "Finansal Due Diligence",
+      "content": "<p>Finansal Due Diligence, bir şirketin satın alınması veya birleşme süreci öncesinde, alıcının hedef şirketin finansal sağlığını, risklerini ve gerçek değerini detaylı olarak analiz ettiği süreçtir. Bu hizmet, yatırım kararının finansal açıdan sağlam temellere dayanmasını ve potansiyel sürpriz maliyetlerin önlenmesini sağlar.</p>",
+      "image": "/images/servisler/finansal-danismanlik-intro.jpg",
+      "image_position": "left"
+    },
+    {
+      "type": "icon_grid",
+      "title": "Due Diligence Hangi Durumlarda Gereklidir?",
+      "items": [
+        {
+          "title": "Mali Yapı Analizi",
+          "desc": "Hedef şirketin mali yapısı ve performansının derinlemesine analiz edilmesi gerektiğinde.",
+          "icon": "PieChart"
+        },
+        {
+          "title": "Risk Tespiti",
+          "desc": "Yatırım kararları öncesinde potansiyel finansal risklerin tespiti için.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "Fiyatlama ve Müzakere",
+          "desc": "Satın alma fiyatının belirlenmesi ve müzakere stratejilerinin oluşturulması sırasında.",
+          "icon": "Scale"
+        },
+        {
+          "title": "Getiri ve Nakit Akışı",
+          "desc": "Alıcı tarafın gelecekteki nakit akışları ve yatırım getirileri hakkında netlik kazanması için.",
+          "icon": "TrendingUp"
+        }
+      ]
+    },
+    {
+      "type": "process_grid",
+      "title": "Due Diligence Nasıl Yapılır?",
+      "description": "Hedef şirketin finansal sağlığını ölçen detaylı analiz süreci.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Finansal Belgelerin İncelenmesi",
+          "desc": "Mali tablolar, vergi kayıtları, borç yapısı ve gelir-gider dengeleri ayrıntılı analiz edilir."
+        },
+        {
+          "number": "02",
+          "title": "Çalışma Sermayesi ve Nakit Akışı",
+          "desc": "Hedef şirketin günlük operasyonlarındaki nakit yönetimi değerlendirilir."
+        },
+        {
+          "number": "03",
+          "title": "Risklerin Tespiti",
+          "desc": "Saklı yükümlülükler, olağan dışı işlemler ve uyumsuzluklar belirlenir."
+        },
+        {
+          "number": "04",
+          "title": "Raporlama ve Öneriler",
+          "desc": "Finansal riskler, fırsatlar ve satın alma sonrası öneriler raporlanır."
+        },
+        {
+          "number": "05",
+          "title": "Müzakere Desteği",
+          "desc": "Alıcının satın alma sürecinde güçlü bir konumda olması için finansal argümanlar geliştirilir."
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Finansal Kararlarınızı Güçlendirin",
+      "description": "Yatırım, büyüme ve satın alma süreçlerinde güvenilir finansal danışmanlık desteği alın.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

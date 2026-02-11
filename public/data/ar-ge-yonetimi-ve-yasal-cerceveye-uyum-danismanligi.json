@@ -1,0 +1,182 @@
+{
+  "slug": "ar-ge-yonetimi-ve-yasal-cerceveye-uyum-danismanligi",
+  "title": "Ar-Ge Yönetimi",
+  "title_highlighted": "ve Yasal Çerçeve Uyum",
+  "category": "Mevzuat ve Uyum",
+  "youtube_id": "",
+  "breadcrumb": [
+    {
+      "name": "Anasayfa",
+      "link": "/"
+    },
+    {
+      "name": "Servisler",
+      "link": "/servisler"
+    },
+    {
+      "name": "Mevzuat ve Uyum",
+      "link": "/servisler/mevzuat-ve-uyum"
+    },
+    {
+      "name": "Ar-Ge Yönetimi ve Yasal Çerçeveye Uyum Danışmanlığı",
+      "link": "/servisler/mevzuat-ve-uyum/ar-ge-yonetimi-ve-yasal-cerceveye-uyum-danismanligi"
+    }
+  ],
+  "hero": {
+    "title": "Ar-Ge Yönetimi ve Yasal Çerçeveye Uyum",
+    "description": "Ar-Ge ve tasarım faaliyetlerinizi mevzuata uyumlu, sürdürülebilir ve teşviklere uygun şekilde yönetin.",
+    "image": "/images/servisler/arge-yonetimi-hero.jpg",
+    "buttons": [
+      {
+        "text": "Uzmanımızla Görüşün",
+        "link": "#contact",
+        "variant": "primary"
+      },
+      {
+        "text": "Hizmet Kapsamı",
+        "link": "#services",
+        "variant": "outline"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "Ar-Ge Yönetimi ve Yasal Çerçeveye Uyum Danışmanlığı",
+      "content": "<p>Ar-Ge ve tasarım faaliyetleri yürüten işletmelerin, resmi düzenlemelere ve sektörel standartlara uygun şekilde ilerlemesi büyük önem taşır. Bu süreç, hem devlet desteklerinden yararlanmak hem de fikri ve yenilikçi projelerin korunması açısından stratejik bir gerekliliktir.</p><p>Ar-Ge merkezleri, tasarım merkezleri ve teknoparklarda faaliyet gösteren şirketler açısından, proje geliştirme süreçlerinin yönetilmesi, iş birlikleri, lisans anlaşmaları ve çalışanların projelere katkıları gibi konular sürdürülebilir büyüme açısından dikkatle ele alınmalıdır. Aynı zamanda teşviklerden etkin biçimde yararlanabilmek için belirlenen kriterlerin karşılanması ve gerekli süreçlerin eksiksiz yürütülmesi gerekmektedir.</p>",
+      "image": "/images/servisler/arge-yonetimi-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Ar-Ge Süreçleri ve Uyumun Kazandırdıkları",
+      "benefits": [
+        {
+          "title": "Mevzuata Uyum",
+          "desc": "Ar-Ge ve tasarım merkezlerinin faaliyetlerinin ilgili düzenlemelere uygun yürütülmesi ve teşviklerden en iyi şekilde faydalanılması.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "Fikri ve Sınai Hakların Korunması",
+          "desc": "Patent, marka, endüstriyel tasarım veya faydalı model gibi hakların sahipliği, yönetimi, transferi ve korunması.",
+          "icon": "BookOpen"
+        },
+        {
+          "title": "Sözleşme Yönetimi",
+          "desc": "Teknokent iş birlikleri, tedarikçiler ve çalışanlarla yapılan sözleşmelerin hukuki güvence altına alınması.",
+          "icon": "Briefcase"
+        },
+        {
+          "title": "Teşviklerden Maksimum Fayda",
+          "desc": "Ar-Ge projeleri için sunulan teşvik ve vergi avantajlarının etkin kullanımı.",
+          "icon": "Coins"
+        },
+        {
+          "title": "Denetim ve Raporlama",
+          "desc": "Ar-Ge merkezleri faaliyetlerine ilişkin düzenli denetim ve raporlamalar.",
+          "icon": "PieChart"
+        },
+        {
+          "title": "Risk Yönetimi",
+          "desc": "Mevzuatsal ve idari risklerin önceden tespit edilerek önlem alınması.",
+          "icon": "Target"
+        }
+      ]
+    },
+    {
+      "type": "services_list",
+      "title": "Hizmet Kapsamımız",
+      "services": [
+        {
+          "title": "Mevzuat ve Uyum Danışmanlığı",
+          "desc": "Ar-Ge ve Tasarım Merkezlerinin yürürlükteki yasal çerçeveye uygun şekilde faaliyet göstermesine destek sağlanır."
+        },
+        {
+          "title": "Fikri ve Sınai Mülkiyet Hakları",
+          "desc": "Buluşlar, tasarımlar ve yeniliklerin fikri ve sınai mülkiyet haklarının elde edilmesi ve korunması sağlanır."
+        },
+        {
+          "title": "İş Birlikleri ve Sözleşme Yönetimi",
+          "desc": "İş ortaklıkları, lisans anlaşmaları ve çalışan katkılarının düzenlenmesine rehberlik edilir."
+        },
+        {
+          "title": "Teşviklerden Yararlanma",
+          "desc": "Vergi avantajları ve devlet desteklerinden etkin şekilde yararlanmak için süreçler takip edilir."
+        },
+        {
+          "title": "Denetim ve Raporlama Hizmetleri",
+          "desc": "Ar-Ge merkezlerinin faaliyetlerinin yasal uyumluluğunu sağlamak için düzenli denetimler yapılır."
+        }
+      ]
+    },
+    {
+      "type": "info_list",
+      "title": "Kimler İçin Uygun?",
+      "items": [
+        {
+          "title": "Ar-Ge ve Tasarım Merkezi Şirketleri",
+          "desc": "Ar-Ge ve Tasarım Merkezi statüsüne sahip olan işletmeler."
+        },
+        {
+          "title": "Teknopark İşletmeleri",
+          "desc": "Teknoparklarda faaliyet gösteren işletmeler."
+        },
+        {
+          "title": "Uluslararası Proje Yürütenler",
+          "desc": "Fikri ve sınai mülkiyet haklarını koruma altına almak isteyen şirketler."
+        },
+        {
+          "title": "Teşvik ve Destek Arayanlar",
+          "desc": "Devlet desteklerinden ve vergi teşviklerinden yararlanmak isteyen işletmeler."
+        },
+        {
+          "title": "Ar-Ge ve Yenilikçi Projeler",
+          "desc": "Ar-Ge ve yenilikçi projeler geliştiren her türlü işletme ve kuruluş."
+        }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Hizmetlerimizdeki Farklılıklar",
+      "benefits": [
+        {
+          "title": "Uzman Kadro",
+          "desc": "Ar-Ge ve Tasarım Merkezi mevzuatına hâkim, alanında uzman danışmanlarımızla çözüm sunuyoruz.",
+          "icon": "Award"
+        },
+        {
+          "title": "Kapsamlı Destek",
+          "desc": "Uyum, fikri mülkiyet, teşvikler ve denetim süreçlerinde geniş kapsamlı destek sağlıyoruz.",
+          "icon": "Layers"
+        },
+        {
+          "title": "Proaktif Yaklaşım",
+          "desc": "Olası riskleri önceden tespit ederek gerekli önlemleri planlıyoruz.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "Güncel Bilgi",
+          "desc": "Sürekli değişen mevzuatı takip ederek güncel uygulamalar sunuyoruz.",
+          "icon": "BookOpen"
+        },
+        {
+          "title": "Sürdürülebilir Çözümler",
+          "desc": "Statünün uzun vadede devamı için stratejik çözümler geliştiriyoruz.",
+          "icon": "TrendingUp"
+        },
+        {
+          "title": "Verimli Yönetim",
+          "desc": "Uyumsuzluk durumunda resmi başvurular ve itiraz süreçleri titizlikle yönetilir.",
+          "icon": "Settings"
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Ar-Ge Süreçlerinizi Güvence Altına Alın",
+      "description": "Uyum, teşvik ve fikri mülkiyet süreçlerini uzman kadromuzla yönetin.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

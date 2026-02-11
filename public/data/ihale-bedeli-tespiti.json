@@ -1,0 +1,138 @@
+{
+  "slug": "ihale-bedeli-tespiti",
+  "title": "İhale",
+  "title_highlighted": "Bedeli Tespiti",
+  "category": "Kurumsal Finansman",
+  "youtube_id": "",
+  "breadcrumb": [
+    {
+      "name": "Anasayfa",
+      "link": "/"
+    },
+    {
+      "name": "Servisler",
+      "link": "/servisler"
+    },
+    {
+      "name": "Vergi & Finans",
+      "link": "/servisler/vergi-finans"
+    },
+    {
+      "name": "Kurumsal Finansman",
+      "link": "/servisler/vergi-finans/kurumsal-finansman"
+    },
+    {
+      "name": "İhale Bedeli Tespiti",
+      "link": "/servisler/vergi-finans/kurumsal-finansman/ihale-bedeli-tespiti"
+    }
+  ],
+  "hero": {
+    "title": "İhale Bedeli Tespiti",
+    "description": "Rekabetçi ama kârlı teklif bedelleri belirleyin; riskleri yönetin, kazanma olasılığınızı artırın.",
+    "image": "/images/servisler/ihale-bedeli-hero.jpg",
+    "buttons": [
+      {
+        "text": "Uzmanımızla Görüşün",
+        "link": "#contact",
+        "variant": "primary"
+      },
+      {
+        "text": "Süreç Detayları",
+        "link": "#services",
+        "variant": "outline"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "İhale Bedeli Tespiti Nedir?",
+      "content": "<p>İhaleler, şirketlerin yeni projelere ve büyük iş fırsatlarına erişimini sağlayan kritik süreçlerdir. Ancak doğru fiyatlandırma yapılmadan girilen bir ihale, ya şirketin kârlılığını riske atabilir ya da rekabet avantajını kaybettirebilir. Bu nedenle, teklif bedelinin titizlikle hesaplanması; şirketin maliyetlerini, rekabet koşullarını ve piyasa dinamiklerini dikkate alan profesyonel bir analiz gerektirir.</p><p>Sistem Global olarak, şirketlerin ihale süreçlerinde rekabetçi ve sürdürülebilir fiyatlandırma yapmasını sağlayarak, ihaleye giriş bedelinin en doğru şekilde belirlenmesine yardımcı oluyoruz.</p>",
+      "image": "/images/servisler/ihale-bedeli-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "icon_grid",
+      "title": "Hangi Durumlarda Gereklidir?",
+      "items": [
+        {
+          "title": "Kamu ve Özel Sektör İhaleleri",
+          "desc": "Devlet kurumları, belediyeler, kamu iştirakleri veya özel sektör tarafından düzenlenen ihalelerde rekabetçi teklif için gereklidir.",
+          "icon": "Briefcase"
+        },
+        {
+          "title": "Sektörel Projeler",
+          "desc": "İnşaat, altyapı, enerji, savunma, medikal cihaz ve teknoloji projelerinde doğru fiyatlama kritik rol oynar.",
+          "icon": "Factory"
+        },
+        {
+          "title": "Uluslararası İhaleler",
+          "desc": "Döviz kurları, bölgesel rekabet ve uluslararası düzenlemeler dikkate alınarak profesyonel tespit yapılmalıdır.",
+          "icon": "Globe"
+        },
+        {
+          "title": "ROI ve Risk Yönetimi",
+          "desc": "Yatırımın geri dönüş süresi ve finansal/operasyonel riskler ihale bedeline yansıtılır.",
+          "icon": "TrendingUp"
+        }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "İhale Bedeli Tespiti Neden Önemlidir?",
+      "benefits": [
+        {
+          "title": "Zarar Riskini Azaltır",
+          "desc": "Fazla düşük teklif verilerek zarar etmenin önüne geçilir.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "Kazanma Şansını Artırır",
+          "desc": "Fazla yüksek teklif nedeniyle ihalenin kaybedilmesi riski düşürülür.",
+          "icon": "Target"
+        },
+        {
+          "title": "Kârlılığı Güvenceye Alır",
+          "desc": "Kârlılık ve nakit akışı hedeflerine uygun teklif oluşturulur.",
+          "icon": "Coins"
+        },
+        {
+          "title": "Rekabet Avantajı",
+          "desc": "En iyi fiyat-performans dengesini yakalayarak rekabet üstünlüğü sağlar.",
+          "icon": "Award"
+        },
+        {
+          "title": "Riskleri Minimize Eder",
+          "desc": "Yasal ve finansal riskler değerlendirilerek yükümlülükler doğru yönetilir.",
+          "icon": "Scale"
+        },
+        {
+          "title": "Teşvikleri Doğru Kullanır",
+          "desc": "Vergi teşvikleri, sübvansiyonlar ve özel finansman modelleri doğru kurgulanır.",
+          "icon": "Zap"
+        }
+      ]
+    },
+    {
+      "type": "info_list",
+      "title": "Süre ve Destek",
+      "items": [
+        {
+          "title": "Ortalama Süre",
+          "desc": "Süreç, ihalenin büyüklüğüne, sektörüne ve rekabet yoğunluğuna bağlı olarak 2 ila 4 hafta içinde tamamlanmaktadır."
+        },
+        {
+          "title": "Profesyonel Destek",
+          "desc": "Kamu ve özel sektör ihalelerinde en doğru ve rekabetçi fiyatı belirlemek için profesyonel destek sağlıyoruz."
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "İhalelerde Güçlü Teklifler Hazırlayın",
+      "description": "İhale süreçlerinizi uzman ekibimizle yöneterek rekabetçi ve sürdürülebilir teklifler oluşturun.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

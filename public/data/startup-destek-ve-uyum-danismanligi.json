@@ -1,0 +1,88 @@
+{
+  "slug": "startup-destek-ve-uyum-danismanligi",
+  "title": "Startup",
+  "title_highlighted": "Destek ve Uyum",
+  "category": "Mevzuat ve Uyum",
+  "youtube_id": "",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Mevzuat ve Uyum", "link": "/servisler/mevzuat-ve-uyum" },
+    { "name": "Startup Destek ve Uyum Danışmanlığı", "link": "/servisler/mevzuat-ve-uyum/startup-destek-ve-uyum-danismanligi" }
+  ],
+  "hero": {
+    "title": "Startup Destek ve Uyum Danışmanlığı",
+    "description": "Girişiminizi doğru yapılandırın, yatırım ve büyüme süreçlerinde hukuki ve stratejik destek alın.",
+    "image": "/images/servisler/startup-hero.jpg",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "Startup Süreç Yönetimi Nedir?",
+      "content": "<p>Yenilikçi iş fikirlerine dayalı olarak kurulan ve hızla büyümeyi hedefleyen girişimler (startuplar), dinamik ve değişken bir iş ortamında faaliyet gösterir. Bu süreçte, iş modelinin oluşturulmasından yatırımcılarla yapılan anlaşmalara, şirketin yapılandırılmasından fikri hakların korunmasına kadar birçok kritik aşama yer alır. Şirketlerin sürdürülebilir şekilde büyümesi için işleyişlerini belirli çerçevelere uygun olarak düzenlemeleri ve yatırım süreçlerini verimli şekilde yönetmeleri büyük önem taşır.</p>",
+      "image": "/images/servisler/startup-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Startup Danışmanlığının Kazandırdıkları",
+      "benefits": [
+        { "title": "Güçlü İş Yapısı", "desc": "Fikri varlıkları koruyarak rekabet avantajı sağlanır.", "icon": "ShieldCheck" },
+        { "title": "Yatırım Süreci Desteği", "desc": "Yatırımcı görüşmelerinde girişimin çıkarları korunur.", "icon": "TrendingUp" },
+        { "title": "Kuruluş ve Yapılandırma", "desc": "En uygun şirket yapısı ve operasyonel çerçeve belirlenir.", "icon": "Briefcase" },
+        { "title": "Büyüme ve Genişleme", "desc": "Hızlı büyümede hukuki zorluklar profesyonel destekle aşılır.", "icon": "Target" }
+      ]
+    },
+    {
+      "type": "image_text",
+      "title": "Yatırım ve Ölçekleme Hazırlığı",
+      "content": "<p>Yatırım turu öncesi doğru yapılandırma ve sözleşme setleri, girişimin ölçeklenmesinde kritik rol oynar. Sürecin her adımında düzenleyici uyum sağlanır.</p>",
+      "image": "/images/servisler/startup-process.jpg",
+      "layout": "left"
+    },
+    {
+      "type": "services_list",
+      "title": "Startup Danışmanlığı Kapsamında Sunulan Hizmetler",
+      "services": [
+        { "title": "Şirket Kuruluşu ve Yapılanma", "desc": "Şirket türünün belirlenmesi, ortaklık anlaşmaları, hisse dağılımı, yönetim yapısı." },
+        { "title": "Yatırım ve Finansman", "desc": "Yatırım anlaşmaları, opsiyon planları, dönüştürülebilir finansman modelleri." },
+        { "title": "Fikri Mülkiyet ve Gizlilik", "desc": "Marka ve ürün koruması, gizlilik anlaşmaları, IP stratejisi." },
+        { "title": "Sözleşmeler ve İş Süreçleri", "desc": "Müşteri/tedarikçi, çalışan ve hizmet sözleşmeleri." },
+        { "title": "Uyum ve Regülasyonlar", "desc": "Vergi danışmanlığı, regülasyon uyumu, KVKK düzenlemeleri." },
+        { "title": "Çıkış Stratejileri", "desc": "Halka arz, satış süreçleri ve exit stratejileri." },
+        { "title": "Risk Yönetimi", "desc": "Risk analizi ve anlaşmazlık çözüm süreçleri." }
+      ]
+    },
+    {
+      "type": "info_list",
+      "title": "Kimler Hizmet Alabilir?",
+      "items": [
+        { "title": "Yeni Girişimciler", "desc": "Yeni bir iş fikriyle yola çıkan girişimciler." },
+        { "title": "Hızla Büyüyen Startuplar", "desc": "Yatırımcılarla anlaşmalar yapmak isteyen startuplar." },
+        { "title": "İnovatif Şirketler", "desc": "Fikri mülkiyet haklarını koruma altına almak isteyenler." },
+        { "title": "Kurulum Aşamasındakiler", "desc": "Şirket kuruluşunda yönlendirmeye ihtiyaç duyan girişimler." }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Hizmetlerimizdeki Farklılıklar",
+      "benefits": [
+        { "title": "Girişim Odaklı Yaklaşım", "desc": "Hızlı ve esnek çözümler sunuyoruz.", "icon": "Zap" },
+        { "title": "Deneyimli Uzmanlar", "desc": "Startup ekosisteminde deneyimli uzmanlarla süreç güvence altına alınır.", "icon": "Award" },
+        { "title": "Yenilikçi Çözümler", "desc": "Değişen ekosistemde en uygun çözümler sunulur.", "icon": "TrendingUp" },
+        { "title": "Yatırımcılarla Güçlü İlişkiler", "desc": "Girişimin yatırımcılarla en iyi şekilde temsil edilmesi sağlanır.", "icon": "Users" }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Startup Sürecinizi Güvence Altına Alın",
+      "description": "Yatırım, yapılandırma ve büyüme süreçlerinizde uzman destek alın.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

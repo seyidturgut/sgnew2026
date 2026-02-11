@@ -1,0 +1,140 @@
+{
+  "slug": "sgk-tesvik-danismanligi",
+  "title": "SGK",
+  "title_highlighted": "Teşvik Danışmanlığı",
+  "category": "İşletme Çözümleri",
+  "youtube_id": "",
+  "breadcrumb": [
+    {
+      "name": "Anasayfa",
+      "link": "/"
+    },
+    {
+      "name": "Servisler",
+      "link": "/servisler"
+    },
+    {
+      "name": "İşletme Çözümleri",
+      "link": "/servisler/isletme-cozumleri"
+    },
+    {
+      "name": "SGK Teşvik Danışmanlığı",
+      "link": "/servisler/isletme-cozumleri/sgk-tesvik-danismanligi"
+    }
+  ],
+  "hero": {
+    "title": "SGK Teşvik Danışmanlığı",
+    "description": "İstihdam, Ar-Ge ve yatırım teşviklerinden maksimum faydayı alın; yasal uyumla prim indirimlerinizi güvenle yönetin.",
+    "image": "/images/servisler/sgk-tesvik-hero.jpg",
+    "buttons": [
+      {
+        "text": "Uzmanımızla Görüşün",
+        "link": "#contact",
+        "variant": "primary"
+      },
+      {
+        "text": "Teşvik Kapsamı",
+        "link": "#services",
+        "variant": "outline"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "SGK Teşvikleri Nedir?",
+      "content": "<p><strong>SGK teşvikleri</strong>; yatırımların, istihdamın ve Ar-Ge faaliyetlerinin artırılması amacıyla işverenlere tanınan sigorta prim indirimlerinin genel adıdır. Ülkemizde faaliyet gösteren tüm özel sektör işletmeleri, kanuni şartları sağlamaları ve prim ödemelerini yasal sürelerde yapmaları halinde bu teşviklerden yararlanabilir.</p><p>Firmaların sigortalı çalışanları için yatırdığı primlerdeki teşvik ve indirimleri hesaplayarak personel maliyetlerinden tasarruf sağlanmasına destek oluruz.</p>",
+      "image": "/images/servisler/sgk-tesvik-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "icon_grid",
+      "title": "Neden SGK Teşvik Danışmanlığı?",
+      "items": [
+        {
+          "title": "KVKK Uyumlu Süreç",
+          "desc": "SGK teşviklerinizi KVKK uyumu ile yönetir, tüm adımları uçtan uca takip ederiz.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "Cezai Risk Yönetimi",
+          "desc": "Hatalı teşvik uygulamalarından kaynaklı ceza risklerini minimize ederiz.",
+          "icon": "Scale"
+        },
+        {
+          "title": "Uzman Ekip Desteği",
+          "desc": "İş hukuku ve sosyal güvenlik uzmanlarımız her an destek verir.",
+          "icon": "Users"
+        },
+        {
+          "title": "Maksimum Kazanç",
+          "desc": "Toplam teşvik miktarını optimize ederek daha yüksek avantaj sağlar.",
+          "icon": "TrendingUp"
+        }
+      ]
+    },
+    {
+      "type": "service_cards",
+      "title": "Hizmet Kapsamımız",
+      "cards": [
+        {
+          "title": "İşveren Teşvikleri Yönetimi",
+          "desc": "SGK teşvik süreçlerini mevzuata uygun şekilde yürütür, güncel değişikliklere göre kurgularız.",
+          "icon": "Briefcase",
+          "color": "blue"
+        },
+        {
+          "title": "Personel Teşvik Sorgulama",
+          "desc": "Aday ve çalışanların teşvik uygunluğunu önceden kontrol ederiz.",
+          "icon": "Search",
+          "color": "green"
+        },
+        {
+          "title": "Maliyet Analizi ve Raporlama",
+          "desc": "Personel bazında teşvik süresi takibi, maliyet avantajı raporlaması ve analizler.",
+          "icon": "PieChart",
+          "color": "orange"
+        },
+        {
+          "title": "Yazılım ve Operasyon Seçenekleri",
+          "desc": "İster hizmet, ister yazılım modeliyle; ihtiyaç halinde kurum içi sunucu kurulumu.",
+          "icon": "Cpu",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Ek Katma Değerler",
+      "benefits": [
+        {
+          "title": "Doğru Teşvik Hesaplaması",
+          "desc": "Bordro hesaplarını etkileyen tüm vergi, SGK ve teşvik kurallarını doğru uygularız.",
+          "icon": "CheckCircle2"
+        },
+        {
+          "title": "Teşvik Uygunluk Kontrolü",
+          "desc": "İşe alım öncesi teşvik uygunluk kontrolü yapar, kayıpların önüne geçeriz.",
+          "icon": "Target"
+        },
+        {
+          "title": "Aylık Optimizasyon",
+          "desc": "Yapay zeka tabanlı hesaplama altyapımızla SGK teşviklerini her ay optimize ederiz.",
+          "icon": "Zap"
+        },
+        {
+          "title": "Süreç Takibi",
+          "desc": "Teşvikten yararlanmak için ortalama + istihdam takibi ve raporlaması yaparız.",
+          "icon": "ClipboardList"
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "SGK Teşviklerinden Maksimum Fayda Sağlayın",
+      "description": "Teşvik süreçlerinizi uzman kadromuzla güvenle yönetin, maliyetlerinizi azaltın.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

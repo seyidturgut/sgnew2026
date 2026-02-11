@@ -1,0 +1,261 @@
+{
+  "slug": "sirket-degerleme",
+  "title": "Şirket",
+  "title_highlighted": "Değerleme",
+  "category": "Kurumsal Finansman",
+  "youtube_id": "",
+  "breadcrumb": [
+    {
+      "name": "Anasayfa",
+      "link": "/"
+    },
+    {
+      "name": "Servisler",
+      "link": "/servisler"
+    },
+    {
+      "name": "Vergi & Finans",
+      "link": "/servisler/vergi-finans"
+    },
+    {
+      "name": "Kurumsal Finansman",
+      "link": "/servisler/vergi-finans/kurumsal-finansman"
+    },
+    {
+      "name": "Şirket Değerleme",
+      "link": "/servisler/vergi-finans/kurumsal-finansman/sirket-degerleme"
+    }
+  ],
+  "hero": {
+    "title": "Şirket Değerleme",
+    "description": "Şirketinizin gerçek değerini ortaya çıkarın; yatırım, birleşme ve stratejik kararlarınızı güvenle yönetin.",
+    "image": "/images/servisler/sirket-degerleme-hero.jpg",
+    "buttons": [
+      {
+        "text": "Uzmanımızla Görüşün",
+        "link": "#contact",
+        "variant": "primary"
+      },
+      {
+        "text": "Değerleme Süreci",
+        "link": "#services",
+        "variant": "outline"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "Şirket Değerleme: Gerçek Potansiyeli Keşfedin",
+      "content": "<p>Şirketiniz, borsada işlem görmese bile dinamik piyasa koşulları ve içsel faktörler doğrultusunda sürekli değişen bir değere sahiptir. Bu değerin doğru tespiti ve onu etkileyen unsurların analiz edilmesi, stratejik kararlar alarak şirketinizin geleceğini şekillendirmenize olanak tanır.</p><p>Yatırım süreçleri öncesinde şirketinizin güncel değerini belirler, değeri artırmaya yönelik uygulanabilir finansal stratejiler geliştirir ve hayata geçirilmesi için yol haritası oluştururuz.</p><p><strong>Şirket değerleme</strong>; şirketin alım-satım işlemleri, yasal süreçler ve stratejik planlama için piyasa değerinin belirlenmesine yardımcı olan hesaplama sürecidir. Pazar konumu, varlıklar, borçlar, finansal raporlar ve rekabet gücü dikkate alınarak gerçekleştirilir.</p>",
+      "image": "/images/servisler/sirket-degerleme-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "icon_grid",
+      "title": "Şirket Değerleme Ne Zaman Yapılır?",
+      "items": [
+        {
+          "title": "Satış ve Birleşme",
+          "desc": "Şirket satışı veya birleşme süreçlerinde adil fiyat belirlemek için yapılır.",
+          "icon": "Scale"
+        },
+        {
+          "title": "Yatırımcı Arayışı",
+          "desc": "Yatırım öncesi güncel değer belirlenerek pazarlık gücü artırılır.",
+          "icon": "TrendingUp"
+        },
+        {
+          "title": "Halka Arz ve Yapılandırma",
+          "desc": "Halka arz öncesi hazırlıklar ve finansal yapılandırmalar için kullanılır.",
+          "icon": "Briefcase"
+        },
+        {
+          "title": "Yasal Süreçler",
+          "desc": "Vergi, miras veya ortak değişimi gibi süreçlerde referans değer sağlar.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "Kredi ve Finansman",
+          "desc": "Banka kredileri ve finansman süreçlerinde güvenilir değerleme referans olur.",
+          "icon": "Coins"
+        },
+        {
+          "title": "Ortaklık Değişimleri",
+          "desc": "Hisse devri, ortak çıkışı veya yeni ortak girişlerinde adil fiyatlama sağlar.",
+          "icon": "Users"
+        }
+      ]
+    },
+    {
+      "type": "process_grid",
+      "title": "Değerleme Süreci Nasıl İlerler?",
+      "description": "Sektör analizinden raporlamaya kadar uçtan uca yapılandırılmış bir değerleme yaklaşımı.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Sektör ve Pazar Analizi",
+          "desc": "Pazar büyüklüğü, rekabet dinamikleri ve şirketin sektördeki konumu değerlendirilir."
+        },
+        {
+          "number": "02",
+          "title": "Finansal Verilerin Toplanması",
+          "desc": "Bilanço, gelir tablosu, nakit akışları, varlık ve borçlar detaylı analiz edilir."
+        },
+        {
+          "number": "03",
+          "title": "Yöntem Seçimi ve Modellemesi",
+          "desc": "Şirketin yapısına uygun değerleme yöntemleri belirlenir ve modeller kurulur."
+        },
+        {
+          "number": "04",
+          "title": "Raporlama ve Strateji",
+          "desc": "Nihai değerleme raporu hazırlanır, stratejik kararlar için yol haritası sunulur."
+        }
+      ]
+    },
+    {
+      "type": "info_list",
+      "title": "Gerekli Belgeler",
+      "items": [
+        {
+          "title": "Finansal Tablolar",
+          "desc": "Son 3 yıla ait bilanço, gelir tablosu ve nakit akış tabloları."
+        },
+        {
+          "title": "Vergi Beyannameleri",
+          "desc": "Güncel ve geçmiş dönem beyannameleri ile vergi kayıtları."
+        },
+        {
+          "title": "Şirket Sözleşmeleri",
+          "desc": "Ana sözleşme, önemli ticari anlaşmalar ve faaliyet raporları."
+        },
+        {
+          "title": "Varlık ve Borç Listeleri",
+          "desc": "Maddi/maddi olmayan varlıklar ile borç ve yükümlülüklerin listesi."
+        }
+      ]
+    },
+    {
+      "type": "service_cards",
+      "title": "Şirket Değerleme Yöntemleri ve Modelleri",
+      "cards": [
+        {
+          "title": "Net Aktif Değeri Yöntemi",
+          "desc": "Maddi ve maddi olmayan varlıklar üzerinden hesaplama yapılarak net aktif değer ortaya konur.",
+          "icon": "Coins",
+          "color": "blue"
+        },
+        {
+          "title": "Çarpan Analizi Yöntemi",
+          "desc": "Benzer şirketlerin piyasa değeri ve çarpanlarıyla karşılaştırma yapılır.",
+          "icon": "PieChart",
+          "color": "green"
+        },
+        {
+          "title": "İndirgenmiş Nakit Akışı (DCF)",
+          "desc": "Gelecek nakit akışları tahmin edilip uygun iskonto oranı ile bugünkü değere getirilir.",
+          "icon": "TrendingUp",
+          "color": "orange"
+        },
+        {
+          "title": "Benzer Şirket Karşılaştırması",
+          "desc": "Sektördeki standart kârlılık, büyüme ve borç oranlarına göre değerleme yapılır.",
+          "icon": "Globe",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Değerleme Raporu Neleri İçerir?",
+      "benefits": [
+        {
+          "title": "Amaç ve Kapsam",
+          "desc": "Değerleme amacının ve kapsamının net olarak tanımlanması.",
+          "icon": "Target"
+        },
+        {
+          "title": "Şirket Profili",
+          "desc": "Faaliyet alanı, ortaklık yapısı ve organizasyon yapısı.",
+          "icon": "Briefcase"
+        },
+        {
+          "title": "Finansal Analiz",
+          "desc": "Bilanço, gelir tablosu, nakit akışı ve varlık/borç analizi.",
+          "icon": "BookOpen"
+        },
+        {
+          "title": "Sektör ve Pazar",
+          "desc": "Pazar payı, rekabet analizi ve sektör dinamikleri.",
+          "icon": "Factory"
+        },
+        {
+          "title": "Yöntem ve Sonuç",
+          "desc": "Kullanılan yöntemler, nihai değer ve etki eden faktörler.",
+          "icon": "Scale"
+        },
+        {
+          "title": "Risk ve Fırsatlar",
+          "desc": "Risk analizi, fırsatlar ve nihai yorumlar.",
+          "icon": "ShieldCheck"
+        }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Şirket Değerlemenin Avantajları",
+      "benefits": [
+        {
+          "title": "Yatırımcı Güveni",
+          "desc": "Şeffaf değerleme, yatırım kararlarını hızlandırır ve güveni artırır.",
+          "icon": "Award"
+        },
+        {
+          "title": "Güçlü Müzakere",
+          "desc": "Doğru değer, satış ve birleşme süreçlerinde pazarlık gücü sağlar.",
+          "icon": "TrendingUp"
+        },
+        {
+          "title": "Stratejik Büyüme",
+          "desc": "Finansal planlama ile büyüme stratejileri daha sağlam temellere oturur.",
+          "icon": "Target"
+        },
+        {
+          "title": "Hukuki Dayanak",
+          "desc": "Yasal süreçlerde raporlar güçlü bir referans oluşturur.",
+          "icon": "Scale"
+        }
+      ]
+    },
+    {
+      "type": "faq_clean",
+      "title": "Sık Yapılan Hatalar",
+      "faqs": [
+        {
+          "q": "Eksik veya güncel olmayan veri kullanımı",
+          "a": "Finansal tabloların güncel olmaması yanlış sonuçlara neden olur."
+        },
+        {
+          "q": "Maddi olmayan varlıkların ihmal edilmesi",
+          "a": "Marka, patent ve bilgi birikimi gibi unsurlar değer üzerinde önemli etkiye sahiptir."
+        },
+        {
+          "q": "Yanlış yöntem seçimi",
+          "a": "Sektör dinamiklerine uygun yöntem seçilmediğinde değerleme gerçeği yansıtmayabilir."
+        },
+        {
+          "q": "Risk analizinin yapılmaması",
+          "a": "Risklerin dışarıda bırakılması, raporun güvenilirliğini düşürür."
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Şirketinizin Gerçek Değerini Öğrenin",
+      "description": "Güvenilir değerleme raporlarıyla stratejik kararlarınızı sağlam temellere oturtun.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

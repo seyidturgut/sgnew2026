@@ -1,0 +1,142 @@
+{
+  "slug": "e-turquality-programi",
+  "title": "E-Turquality",
+  "title_highlighted": "Programı",
+  "layout_density": "compact",
+  "category": "Globallesme ve İhracat",
+  "youtube_id": "KQBkoA6-RSU",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Globallesme ve İhracat", "link": "/servisler/globallesme-ve-ihracat" },
+    { "name": "E-Turquality Programı", "link": "/servisler/globallesme-ve-ihracat/e-turquality-programi" }
+  ],
+  "hero": {
+    "title": "E-Turquality Programı",
+    "description": "Bilişim sektörüne özel desteklerle globalleşmeyi hızlandırın.",
+    "image": "/images/servisler/e-turquality-hero.jpg",
+    "buttons": [
+      { "text": "Başvuru İçin Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Destekler", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "E-Turquality",
+      "title_highlight": "Destekleri",
+      "description": "Bilişim sektöründe markalaşma ve küresel büyüme için kapsamlı teşviklerden yararlanın.",
+      "badge": "5+5 Yıl Destek",
+      "features": [
+        "Tescil ve Koruma Destekleri",
+        "Pazara Giriş ve Tanıtım",
+        "Dijital Ürün Geliştirme",
+        "B2B ve Global Etkinlikler"
+      ],
+      "image": "/images/servisler/e-turquality-hero.jpg"
+    },
+    {
+      "type": "content_with_image",
+      "title": "E-Turquality Programı’na Nasıl Başvururum?",
+      "content": "<p>Sistem Global olarak firmanızın E-Turquality sürecinde yanınızda olmaktan mutluluk duyarız. Bakanlık tarafından belirlenen ön koşulları yerine getiriyorsanız, iletişim formunu doldurarak uzmanımız ile görüşebilirsiniz.</p>",
+      "image": "/images/servisler/e-turquality-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "info_list",
+      "title": "Program Ön Koşulları",
+      "items": [
+        { "title": "Asgari İhracat Tutarı", "desc": "Son 3 yıllık ortalama ihracat tutarı koşulu." },
+        { "title": "Yurt İçi Marka Tescili", "desc": "Yurt içi marka tescil belgesi." },
+        { "title": "Yurt Dışı Marka Tescili", "desc": "WIPO Madrid Sistemi’ne taraf ülkelerden en az birinde tescile dilen yurt dışı marka tescil belgesi." }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "E-Turquality Programı Detayları",
+      "content": "<p>E-Turquality Programı kapsamına alınan şirketler 5 yıl süre ile desteklenecektir. Genelde belirtilen performans kriterlerinin karşılanması halinde 5 yıl uzatılabilecektir.</p>"
+    },
+    {
+      "type": "text",
+      "title": "Başvuru Süreci",
+      "content": "<p>Başvuru kriterlerini tamamlayan firmalar program öncelik kriterleri ve başvuru formuna göre puan alacaklardır. E-Turquality Sertifikası almak için firmaların 70 puan almaları gerekmektedir.</p>"
+    },
+    {
+      "type": "data_table",
+      "title": "Sektörlere Göre Asgari İhracat Tutarları",
+      "subtitle": "Son 3 yıl ortalaması",
+      "rows": [
+        { "label": "Akıllı Şehir Yazılım ve Hizmetleri", "value": "$500.000" },
+        { "label": "Bilişim Hizmetleri", "value": "$500.000" },
+        { "label": "Dijital Aracılık ve Hizmet Platformları", "value": "$500.000" },
+        { "label": "Dijital Oyun", "value": "$1.000.000" },
+        { "label": "Fintech Yazılımı", "value": "$500.000" },
+        { "label": "Siber Güvenlik Yazılım ve Hizmetleri", "value": "$500.000" },
+        { "label": "Telekomünikasyon, Bulut ve İletişim Hizmetleri", "value": "$500.000" },
+        { "label": "Yapay Zeka Yazılımı", "value": "$500.000" },
+        { "label": "Yazılım (Genel)", "value": "$500.000" },
+        { "label": "Yeşil Dönüşüm Yazılım ve Hizmetleri", "value": "$500.000" }
+      ]
+    },
+    {
+      "type": "data_table",
+      "title": "Program Öncelik Kriterleri",
+      "subtitle": "İlave puanlar",
+      "rows": [
+        { "label": "Serbest Bölge/İhtisas Serbest Bölgesi’nde yer alan şirketler", "value": "+15 Puan" },
+        { "label": "TÜBİTAK-TEYDEB programını başarılı bir şekilde tamamlayan şirketler", "value": "+2 Puan" },
+        { "label": "Marka tescil belgesine sahip şirketler (zorunluluk)", "value": "+1 Puan" },
+        { "label": "Hizmet/Ürün tescil belgesine sahip şirketler", "value": "+2 Puan" },
+        { "label": "Teknolojik Ürün Deneyim Belgesi’ne sahip şirketler", "value": "+5 Puan" },
+        { "label": "Devlet Malzeme Ofisi Kataloğu’nda ürünü/hizmeti bulunan şirketler", "value": "+10 Puan" }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Program Hakkında Detaylı Bilgi",
+      "content": "<p>Program hakkında detaylı inceleme yapmak için <a href=\"https://turquality.com/e-turquality\" target=\"_blank\" rel=\"noreferrer\">turquality.com/e-turquality</a> sitesini ziyaret edebilirsiniz.</p>"
+    },
+    {
+      "type": "icon_grid",
+      "title": "Desteklenen Aktiviteler",
+      "items": [
+        { "title": "Tescil ve Koruma Desteği", "desc": "" },
+        { "title": "Patent, Fikri Mülkiyet Hakkı, Tasarım veya Model Satın Alım Desteği", "desc": "" },
+        { "title": "Yazılım, Mobil Uygulama, Dijital Oyun ve Dijital Aracılık Hizmet Platformu Geliştirme Desteği", "desc": "" },
+        { "title": "Donanım Kiralama Desteği", "desc": "" },
+        { "title": "Yazılım Lisansı Desteği", "desc": "" },
+        { "title": "Pazara Giriş Desteği", "desc": "" },
+        { "title": "Rapor ve Veri Analizi Desteği", "desc": "" },
+        { "title": "Belgelendirme Desteği", "desc": "" },
+        { "title": "Yurt Dışı İnsan Kaynağı Arama Desteği", "desc": "" },
+        { "title": "Test Desteği", "desc": "" },
+        { "title": "Ürün/Hizmet Bazlı Reklam, Tanıtım ve Pazarlama Desteği", "desc": "" },
+        { "title": "Genel Amaçlı Reklam, Tanıtım ve Pazarlama Desteği", "desc": "" },
+        { "title": "Ürün Yerleştirme Desteği", "desc": "" },
+        { "title": "Danışmanlık Desteği", "desc": "" },
+        { "title": "Yazılım, Dijital Oyun, Mobil Uygulama ile Dijital Aracılık ve Hizmet Platformu Komisyon Desteği", "desc": "" },
+        { "title": "Acente Komisyon Desteği", "desc": "" },
+        { "title": "Yıldız Teknoloji Ofisi Desteği", "desc": "" },
+        { "title": "Yurt Dışı Yüksek Katma Değerli Bilişim Yüklenici Projesi Desteği", "desc": "" },
+        { "title": "Veri Merkezi Desteği", "desc": "" },
+        { "title": "Yurt Dışı Etkinlik Bireysel ve Milli Katılım Desteği", "desc": "" },
+        { "title": "Yurt İçi Etkinlik Bireysel Katılım Desteği", "desc": "" },
+        { "title": "Yurt Dışı Şirket ve Yurt Dışında Yerleşik Şirkete Ait Marka, Oyun, Yazılım ile Dijital Aracılık ve Hizmet Platformu Alımına Yönelik Danışmanlık Desteği", "desc": "" }
+      ]
+    },
+    {
+      "type": "image_text",
+      "title": "E-Turquality Sürecinde Yanınızdayız",
+      "content": "<p>Ön koşul değerlendirmesi, başvuru hazırlığı ve süreç takibinde uçtan uca danışmanlık sağlıyoruz.</p>",
+      "image": "/images/servisler/e-turquality-process.jpg",
+      "layout": "left"
+    },
+    {
+      "type": "cta_box",
+      "title": "Başvurunuzu Birlikte Yönetin",
+      "description": "E-Turquality Programı için uygunluk değerlendirmesi ve başvuru sürecinde yanınızdayız.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

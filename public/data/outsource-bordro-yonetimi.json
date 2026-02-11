@@ -1,0 +1,140 @@
+{
+  "slug": "outsource-bordro-yonetimi",
+  "title": "Outsource",
+  "title_highlighted": "Bordro Yönetimi",
+  "category": "İşletme Çözümleri",
+  "youtube_id": "",
+  "breadcrumb": [
+    {
+      "name": "Anasayfa",
+      "link": "/"
+    },
+    {
+      "name": "Servisler",
+      "link": "/servisler"
+    },
+    {
+      "name": "İşletme Çözümleri",
+      "link": "/servisler/isletme-cozumleri"
+    },
+    {
+      "name": "Outsource Bordro Yönetimi",
+      "link": "/servisler/isletme-cozumleri/outsource-bordro-yonetimi"
+    }
+  ],
+  "hero": {
+    "title": "Outsource Bordro Yönetimi",
+    "description": "Bordrolama süreçlerinizi uzman ekibimize devredin; operasyonel maliyeti düşürürken mevzuat risklerini kontrol altına alın.",
+    "image": "/images/servisler/outsource-bordro-hero.jpg",
+    "buttons": [
+      {
+        "text": "Uzmanımızla Görüşün",
+        "link": "#contact",
+        "variant": "primary"
+      },
+      {
+        "text": "Hizmet Kapsamı",
+        "link": "#services",
+        "variant": "outline"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "Outsource Bordro Yönetimi Nedir?",
+      "content": "<p>Şirketlerin evrak ve rapor yoğunluğunu azaltmak, mevzuattan doğabilecek riskleri yönetmek ve bordrolama süreçlerini daha verimli hale getirmek amacıyla bu süreci dış kaynakla yürütmesine <strong>Outsource Bordro Yönetimi</strong> denir.</p><p>Sistem Global olarak mevzuat deneyimimiz ve teknoloji odaklı yaklaşımımızla; işe giriş-çıkış bildirimi, iş göremezlik süreçleri, BES ve banka bildirimleri, bordroların hazırlanması, çalışanlara bordro iletimi, muhtasar ve SGK bildirimleri dahil uçtan uca bordro operasyonunu sizin adınıza yönetiyoruz.</p>",
+      "image": "/images/servisler/outsource-bordro-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "icon_grid",
+      "title": "Neden Tercih Edilir?",
+      "items": [
+        {
+          "title": "Operasyonel Maliyeti Azaltır",
+          "desc": "İç kaynakta yürütülen bordrolama iş yükünü azaltarak insan kaynağı ve süreç maliyetlerinde verimlilik sağlar.",
+          "icon": "Settings"
+        },
+        {
+          "title": "Ceza Risklerini Minimize Eder",
+          "desc": "Güncel mevzuata uygun işlem yönetimi sayesinde SGK ve vergi kaynaklı riskleri düşürür.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "Yönetsel Tasarruf Sağlar",
+          "desc": "Yönetim ekiplerinin bordro operasyonu yerine stratejik konulara odaklanmasına imkan tanır.",
+          "icon": "TrendingUp"
+        },
+        {
+          "title": "Teşvikleri Optimize Eder",
+          "desc": "İstisna ve teşviklerin doğru uygulanmasıyla mali avantajların tam kullanımını destekler.",
+          "icon": "Coins"
+        }
+      ]
+    },
+    {
+      "type": "service_cards",
+      "title": "Hizmet Kapsamımız",
+      "cards": [
+        {
+          "title": "Personel Bordrolarının Hazırlanması",
+          "desc": "Aylık puantaj verilerine göre ücret bordrolarının hazırlanması, istisna ve teşviklerin doğru kurgulanması.",
+          "icon": "Briefcase",
+          "color": "blue"
+        },
+        {
+          "title": "Bordro ve Muhasebe Çıktıları",
+          "desc": "İcmallerin hazırlanması, muhasebe fişlerinin oluşturulması ve raporların düzenli olarak iletilmesi.",
+          "icon": "PieChart",
+          "color": "green"
+        },
+        {
+          "title": "Çalışan ve Yasal Bildirim Süreçleri",
+          "desc": "Maaş ödeme süreçleri, SGK-İŞKUR bildirimleri, muhtasar beyanname ve BES işlemlerinin yürütülmesi.",
+          "icon": "Users",
+          "color": "orange"
+        },
+        {
+          "title": "Tazminat ve Belgelendirme",
+          "desc": "Tazminat hesaplamaları ile çalışma belgesi ve vergi matrah bildirimi gibi belgelerin hazırlanması.",
+          "icon": "BookOpen",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Kimler İçin Uygun?",
+      "benefits": [
+        {
+          "title": "Hızlı Büyüyen Şirketler",
+          "desc": "Artan çalışan sayısına rağmen bordro süreçlerini hatasız ve ölçeklenebilir şekilde yönetmek isteyen firmalar.",
+          "icon": "TrendingUp"
+        },
+        {
+          "title": "Ar-Ge ve Teknoloji Şirketleri",
+          "desc": "5746 ve 4691 kapsamındaki teşvik ve istisnaları doğru bordro kurgusuyla uygulamak isteyen işletmeler.",
+          "icon": "Zap"
+        },
+        {
+          "title": "Uyum Odaklı Kurumlar",
+          "desc": "Mevzuat değişikliklerini yakından takip ederek yasal uyum risklerini azaltmak isteyen şirketler.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "Operasyonunu Sadeleştirmek İsteyen Ekipler",
+          "desc": "İK ve finans ekiplerinin zamanını operasyon yerine stratejik işlere ayırmak isteyen kurumlar.",
+          "icon": "Target"
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Bordro Süreçlerinizi Güvenle Dış Kaynağa Taşıyın",
+      "description": "Uzman bordro ekibimizle yasal uyumu güçlendirin, iş yükünüzü azaltın ve operasyonel verimliliğinizi artırın.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

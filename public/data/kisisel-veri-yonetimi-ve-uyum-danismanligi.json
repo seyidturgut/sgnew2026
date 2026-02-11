@@ -1,0 +1,341 @@
+{
+  "slug": "kisisel-veri-yonetimi-ve-uyum-danismanligi",
+  "title": "Kişisel Veri",
+  "title_highlighted": "Yönetimi ve Uyum",
+  "category": "Mevzuat ve Uyum",
+  "youtube_id": "",
+  "breadcrumb": [
+    {
+      "name": "Anasayfa",
+      "link": "/"
+    },
+    {
+      "name": "Servisler",
+      "link": "/servisler"
+    },
+    {
+      "name": "Mevzuat ve Uyum",
+      "link": "/servisler/mevzuat-ve-uyum"
+    },
+    {
+      "name": "Kişisel Veri Yönetimi ve Uyum Danışmanlığı",
+      "link": "/servisler/mevzuat-ve-uyum/kisisel-veri-yonetimi-ve-uyum-danismanligi"
+    }
+  ],
+  "hero": {
+    "title": "Kişisel Veri Yönetimi ve Uyum Danışmanlığı",
+    "description": "KVKK uyumu, veri güvenliği ve süreç yönetimi için uçtan uca danışmanlık desteği alın.",
+    "image": "/images/servisler/kisisel-veri-hero.jpg",
+    "buttons": [
+      {
+        "text": "Uzmanımızla Görüşün",
+        "link": "#contact",
+        "variant": "primary"
+      },
+      {
+        "text": "Hizmet Kapsamı",
+        "link": "#services",
+        "variant": "outline"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "Kişisel Verilerin Korunması (KVKK) Nedir?",
+      "content": "<p>Günümüzde işletmelerin faaliyetleri sırasında çeşitli kişisel verilere erişmesi kaçınılmaz hale gelmiştir. Bu verilerin güvenli bir şekilde işlenmesi, saklanması ve yönetilmesi işletmeler için hem operasyonel verimlilik hem de güvenilirlik açısından büyük önem taşır. Kişisel verilerin düzenli ve uyumlu bir şekilde yönetilmesi, şirketlerin itibarını korumasına ve çeşitli düzenleyici gerekliliklere uyum sağlamasına katkıda bulunur.</p><p>Veri güvenliği ve uyumluluk süreçlerini etkin bir şekilde yönetmek, iş süreçlerinin sadeleşmesine, operasyonel verimliliğin artmasına ve müşterilerle olan güven ilişkisinin güçlenmesine yardımcı olabilir.</p>",
+      "image": "/images/servisler/kisisel-veri-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "info_list",
+      "title": "Kişisel Veri Yönetiminde Temel İlkeler",
+      "items": [
+        {
+          "title": "Şeffaflık ve Güvenilirlik",
+          "desc": "Verilerin belirli, açık ve meşru amaçlar doğrultusunda işlenmesi."
+        },
+        {
+          "title": "Doğruluk ve Güncellik",
+          "desc": "Bilgilerin doğru olması ve gerektiğinde güncellenebilmesi."
+        },
+        {
+          "title": "Amaca Uygunluk",
+          "desc": "Verilerin yalnızca belirlenen amaçlar doğrultusunda ve gerekli olduğu kadar işlenmesi."
+        },
+        {
+          "title": "Veri Güvenliği",
+          "desc": "Yetkisiz erişim, kötüye kullanım ve ihlallere karşı verilerin korunması."
+        },
+        {
+          "title": "Saklama Süresine Uygunluk",
+          "desc": "Verilerin yalnızca gerektiği kadar saklanması ve ihtiyaç kalmadığında güvenli imha."
+        }
+      ]
+    },
+    {
+      "type": "service_cards",
+      "title": "KVKK Uyum Paketleri",
+      "cards": [
+        {
+          "title": "Temel Paket",
+          "desc": "VERBİS kayıt, aydınlatma ve açık rıza metinleri, kişisel veri envanteri, zorunlu politika/prosedürler.",
+          "icon": "BookOpen",
+          "color": "blue"
+        },
+        {
+          "title": "Standart Paket",
+          "desc": "Temel paket + boşluk analizi, eğitim, kişisel veri işleme sözleşmeleri.",
+          "icon": "ShieldCheck",
+          "color": "green"
+        },
+        {
+          "title": "Plus Paket",
+          "desc": "Standart paket + yayına alma sürecinde danışmanlık ve soru-cevap desteği.",
+          "icon": "Star",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "image_text",
+      "title": "Uyum Yol Haritası",
+      "content": "<p>KVKK uyumu için teknik ve organizasyonel adımların birlikte planlanması gerekir. Süreç boyunca veri envanteri, politika ve prosedürler ile eğitim modülleri eş zamanlı kurgulanır.</p>",
+      "image": "/images/servisler/kisisel-veri-security.jpg",
+      "layout": "right"
+    },
+    {
+      "type": "info_list",
+      "title": "Paket Kapsam Detayları",
+      "items": [
+        {
+          "title": "VERBİS’e kayıt",
+          "desc": "Veri Sorumluları Sicil Bilgi Sistemi başvurusu, irtibat kişisi ataması ve kayıt işlemleri desteği sağlanır."
+        },
+        {
+          "title": "Aydınlatma metinleri",
+          "desc": "Çalışan, müşteri, ziyaretçi gibi gruplara veri işleme amaçlarını açıklayan metinler hazırlanır."
+        },
+        {
+          "title": "Açık rıza metinleri",
+          "desc": "Kanunda öngörülen veri işleme şartları dışında kalan haller için onay beyanları hazırlanır."
+        },
+        {
+          "title": "GAP analizi",
+          "desc": "Mevcut durum KVKK yükümlülükleriyle karşılaştırılır, eksikler tespit edilir."
+        },
+        {
+          "title": "Kişisel veri işleme envanteri",
+          "desc": "Toplanan veriler, amaçlar, hukuki sebepler, saklama süreleri ve aktarım grupları belirlenir."
+        },
+        {
+          "title": "Politika ve prosedürler",
+          "desc": "Veri saklama-imha, ihlal yönetimi, kamera, e-posta, eğitim ve disiplin prosedürleri hazırlanır."
+        },
+        {
+          "title": "Eğitim",
+          "desc": "Kişisel veri ile ilgili kişilere online eğitim verilir."
+        },
+        {
+          "title": "Kişisel veri işleme sözleşmeleri",
+          "desc": "Üçüncü taraflarla veri işleme süreçlerine ilişkin sözleşmeler hazırlanır."
+        },
+        {
+          "title": "Yayına alma desteği",
+          "desc": "Doküman ve politikaların uygulamaya geçirilmesinde danışmanlık sağlanır."
+        }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Kişisel Veri Yönetimi Danışmanlığının Kazandırdıkları",
+      "benefits": [
+        {
+          "title": "Uyumluluk ve Risk Yönetimi",
+          "desc": "Düzenlemelere uyum ve risklerin minimize edilmesi.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "Denetim ve Süreç Gözden Geçirme",
+          "desc": "Veri süreçlerinin düzenli kontrolü ve iyileştirme alanlarının tespiti.",
+          "icon": "Settings"
+        },
+        {
+          "title": "Uluslararası Standartlar",
+          "desc": "GDPR ve diğer uluslararası düzenlemelerle uyum.",
+          "icon": "Globe"
+        },
+        {
+          "title": "Veri Güvenliği",
+          "desc": "Kişisel verilerin korunması için stratejilerin belirlenmesi ve uygulanması.",
+          "icon": "ShieldCheck"
+        }
+      ]
+    },
+    {
+      "type": "info_list",
+      "title": "Kişisel Veri İşleme Süreçleri",
+      "items": [
+        {
+          "title": "Toplama ve Depolama",
+          "desc": "Verilerin toplanması, kaydedilmesi ve depolanması."
+        },
+        {
+          "title": "Güncelleme ve Düzenleme",
+          "desc": "Verilerin güncellenmesi ve yeniden düzenlenmesi."
+        },
+        {
+          "title": "Saklama ve Silme",
+          "desc": "Verilerin saklanması ve gerektiğinde silinmesi."
+        },
+        {
+          "title": "Paylaşım ve Devir",
+          "desc": "Yetkili kişilerle paylaşılması veya devredilmesi."
+        }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Özel Nitelikli Kişisel Veriler",
+      "benefits": [
+        {"title": "Irk", "desc": "Özel nitelikli kişisel veri kapsamındadır.", "icon": "ShieldCheck"},
+        {"title": "Etnik Köken", "desc": "Özel nitelikli kişisel veri kapsamındadır.", "icon": "ShieldCheck"},
+        {"title": "Siyasi Düşünce", "desc": "Özel nitelikli kişisel veri kapsamındadır.", "icon": "ShieldCheck"},
+        {"title": "Felsefi İnanç", "desc": "Özel nitelikli kişisel veri kapsamındadır.", "icon": "ShieldCheck"},
+        {"title": "Din / Mezhep", "desc": "Özel nitelikli kişisel veri kapsamındadır.", "icon": "ShieldCheck"},
+        {"title": "Diğer İnançlar", "desc": "Özel nitelikli kişisel veri kapsamındadır.", "icon": "ShieldCheck"},
+        {"title": "Kılık / Kıyafet", "desc": "Özel nitelikli kişisel veri kapsamındadır.", "icon": "ShieldCheck"},
+        {"title": "Dernek / Vakıf / Sendika Üyeliği", "desc": "Özel nitelikli kişisel veri kapsamındadır.", "icon": "ShieldCheck"},
+        {"title": "Sağlık", "desc": "Özel nitelikli kişisel veri kapsamındadır.", "icon": "ShieldCheck"},
+        {"title": "Cinsel Hayat", "desc": "Özel nitelikli kişisel veri kapsamındadır.", "icon": "ShieldCheck"},
+        {"title": "Ceza Mahkûmiyeti ve Güvenlik Tedbirleri", "desc": "Özel nitelikli kişisel veri kapsamındadır.", "icon": "ShieldCheck"},
+        {"title": "Biyometrik", "desc": "Özel nitelikli kişisel veri kapsamındadır.", "icon": "ShieldCheck"},
+        {"title": "Genetik", "desc": "Özel nitelikli kişisel veri kapsamındadır.", "icon": "ShieldCheck"}
+      ]
+    },
+    {
+      "type": "process_grid",
+      "title": "Kişisel Veri Yönetimi Sürecinde Neler Yapılmalı?",
+      "description": "Kurumsal süreçleri KVKK uyumu için yapılandırın.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Açık Süreçler",
+          "desc": "Verilerin işlenmesi için açık ve bilgilendirici süreçler oluşturulur."
+        },
+        {
+          "number": "02",
+          "title": "Bilgi Güvenliği",
+          "desc": "Bilgi güvenliği standartları uygulanır ve sistemler güvence altına alınır."
+        },
+        {
+          "number": "03",
+          "title": "Süreç Güncelleme",
+          "desc": "İlgili sistemler düzenli olarak gözden geçirilir ve güncellenir."
+        },
+        {
+          "number": "04",
+          "title": "Eğitim ve Farkındalık",
+          "desc": "Şirket içinde veri farkındalığını artıracak eğitimler verilir."
+        }
+      ]
+    },
+    {
+      "type": "image_text",
+      "title": "Süreç Yönetimi ve Operasyonel Takip",
+      "content": "<p>Veri işleme süreçlerinin izlenmesi, düzenli kontrol ve raporlama ile sürdürülebilir hale getirilir. Böylece mevzuat değişikliklerine hızlı uyum sağlanır.</p>",
+      "image": "/images/servisler/kisisel-veri-process.jpg",
+      "layout": "left"
+    },
+    {
+      "type": "services_list",
+      "title": "Danışmanlık Kapsamında Sunulan Hizmetler",
+      "services": [
+        {
+          "title": "Uyumluluk Programları",
+          "desc": "Veri süreçlerinin yürürlükteki düzenlemelere uygun hale getirilmesi."
+        },
+        {
+          "title": "Eğitim ve Farkındalık",
+          "desc": "Çalışanların ve yöneticilerin veri yönetimi süreçlerine yönelik bilgilendirilmesi."
+        },
+        {
+          "title": "Veri Güvenliği Önlemleri",
+          "desc": "Teknik ve organizasyonel önlemlerin belirlenmesi."
+        },
+        {
+          "title": "Süreç Değerlendirme ve Güncelleme",
+          "desc": "İş süreçlerinin incelenmesi ve gerekli iyileştirmelerin yapılması."
+        },
+        {
+          "title": "Veri İhlali Bildirim Yönetimi",
+          "desc": "Olası veri güvenliği olaylarında izlenecek adımların belirlenmesi ve yönetilmesi."
+        }
+      ]
+    },
+    {
+      "type": "info_list",
+      "title": "Kimler KVKK Danışmanlığı Hizmeti Alabilir?",
+      "items": [
+        {
+          "title": "Kişisel Veri İşleyen İşletmeler",
+          "desc": "Kişisel veri işleyen tüm işletmeler."
+        },
+        {
+          "title": "Veri Yöneten Şirketler",
+          "desc": "Çalışan, müşteri veya iş ortağı verisi yöneten şirketler."
+        },
+        {
+          "title": "Dijital Platformlar",
+          "desc": "E-ticaret ve dijital platformlar."
+        },
+        {
+          "title": "Sektörel Kuruluşlar",
+          "desc": "Eğitim, sağlık, finans, kamu ve özel sektör kuruluşları."
+        },
+        {
+          "title": "İç Denetim İsteyenler",
+          "desc": "Veri yönetim süreçlerini gözden geçirmek isteyen işletmeler."
+        }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Hizmetlerimizdeki Farklılıklar",
+      "benefits": [
+        {
+          "title": "Deneyimli Uzman Kadro",
+          "desc": "Güncel mevzuat ve en iyi uygulamalar konusunda uzman danışmanlarımızla çözümler sunuyoruz.",
+          "icon": "Award"
+        },
+        {
+          "title": "Kapsamlı Destek",
+          "desc": "Veri süreçlerinden güvenlik önlemlerine kadar geniş kapsamlı destek sağlıyoruz.",
+          "icon": "Briefcase"
+        },
+        {
+          "title": "Proaktif Yaklaşım",
+          "desc": "Riskleri önceden tespit ederek güvenliğinizi artıracak stratejiler geliştiriyoruz.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "Güncel Bilgi",
+          "desc": "Değişen düzenlemeleri takip ederek güncel çözümler sunuyoruz.",
+          "icon": "BookOpen"
+        },
+        {
+          "title": "Sürdürülebilir Çözümler",
+          "desc": "Uzun vadeli etkin veri yönetimi için stratejik öneriler sunuyoruz.",
+          "icon": "TrendingUp"
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "KVKK Uyumunuzu Güçlendirin",
+      "description": "Kişisel veri süreçlerinizi güvence altına alın, uyumu sürdürülebilir hale getirin.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

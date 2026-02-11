@@ -1,0 +1,128 @@
+{
+  "slug": "ozel-hak-ve-lisans-degerleme",
+  "title": "Özel Hak",
+  "title_highlighted": "ve Lisans Değerleme",
+  "category": "Kurumsal Finansman",
+  "youtube_id": "",
+  "breadcrumb": [
+    {
+      "name": "Anasayfa",
+      "link": "/"
+    },
+    {
+      "name": "Servisler",
+      "link": "/servisler"
+    },
+    {
+      "name": "Vergi & Finans",
+      "link": "/servisler/vergi-finans"
+    },
+    {
+      "name": "Kurumsal Finansman",
+      "link": "/servisler/vergi-finans/kurumsal-finansman"
+    },
+    {
+      "name": "Özel Hak ve Lisans Değerleme",
+      "link": "/servisler/vergi-finans/kurumsal-finansman/ozel-hak-ve-lisans-degerleme"
+    }
+  ],
+  "hero": {
+    "title": "Özel Hak ve Lisans Değerleme",
+    "description": "Ruhsat, lisans ve patent gibi stratejik varlıkların gerçek değerini ortaya çıkarın; yatırım ve finansal kararlarınızı güçlendirin.",
+    "image": "/images/servisler/ozel-hak-hero.jpg",
+    "buttons": [
+      {
+        "text": "Uzmanımızla Görüşün",
+        "link": "#contact",
+        "variant": "primary"
+      },
+      {
+        "text": "Değerleme Kapsamı",
+        "link": "#services",
+        "variant": "outline"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "Özel Hak ve Lisans Değerleme Nedir?",
+      "content": "<p>Şirketlerin sahip olduğu ruhsatlar, lisanslar, patentler ve benzeri yasal belgeler, maddi varlıklar kadar değerli stratejik varlıklardır. Özellikle sağlık, enerji, teknoloji ve üretim sektörlerinde faaliyet gösteren işletmeler için bu tür belgelerin doğru bir şekilde değerlenmesi, yatırım kararlarından finansal raporlamaya kadar birçok alanda kritik rol oynar.</p><p>Sistem Global olarak, uluslararası değerleme standartlarına uygun yöntemlerle ruhsat, lisans ve patent gibi varlıkların finansal değerini belirliyor, işletmelerin stratejik planlamalarını güçlendirmelerine yardımcı oluyoruz.</p>",
+      "image": "/images/servisler/ozel-hak-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "icon_grid",
+      "title": "Neden Özel Hak Değerleme?",
+      "items": [
+        {
+          "title": "Satış ve Devir",
+          "desc": "Hastane ruhsatı, enerji lisansı, üretim izinleri veya patentlerin değeri, işletmenin toplam değerine katkı sağlar.",
+          "icon": "Scale"
+        },
+        {
+          "title": "Yatırımcı Çekiciliği",
+          "desc": "Patent portföyü, ruhsat kapsamı ve lisans haklarının finansal katkısını görünür kılar.",
+          "icon": "TrendingUp"
+        },
+        {
+          "title": "Finansmana Erişim",
+          "desc": "Lisans ve patentler, maddi olmayan duran varlık olarak kredi koşullarını iyileştirir.",
+          "icon": "Coins"
+        },
+        {
+          "title": "Yasal Süreçler",
+          "desc": "Miras, hisse devri, vergi planlaması ve hukuki anlaşmazlıklarda adil değer belirlenir.",
+          "icon": "ShieldCheck"
+        }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Hangi Sektörlerde Kritik?",
+      "benefits": [
+        {
+          "title": "Sağlık ve İlaç",
+          "desc": "Hastane ruhsatları, ilaç ruhsatları ve medikal cihaz izinleri finansal performansı etkiler.",
+          "icon": "Briefcase"
+        },
+        {
+          "title": "Enerji ve Yenilenebilir",
+          "desc": "Enerji üretim lisansları ve sahaya ilişkin izinler stratejik varlıktır.",
+          "icon": "Zap"
+        },
+        {
+          "title": "Teknoloji ve Ar-Ge",
+          "desc": "Patentler ve fikri mülkiyet hakları şirket değerine doğrudan katkı sağlar.",
+          "icon": "Cpu"
+        },
+        {
+          "title": "Üretim ve Sanayi",
+          "desc": "Üretim izinleri ve tesciller yatırım süreçlerini şekillendirir.",
+          "icon": "Factory"
+        }
+      ]
+    },
+    {
+      "type": "info_list",
+      "title": "Süre ve Çıktılar",
+      "items": [
+        {
+          "title": "Ortalama Süre",
+          "desc": "Süreç, ruhsat veya patentin türüne, sektörüne ve regülasyonlara bağlı olarak 3 ila 6 hafta içinde tamamlanabilir."
+        },
+        {
+          "title": "Çıktı ve Destek",
+          "desc": "Hastane ruhsatı, enerji lisansı, üretim izinleri, fikri mülkiyet hakları veya patent değerlemesi gibi konularda uzman ekibimizle işletmenizin en doğru finansal değerini belirliyoruz."
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Özel Haklarınızı Değere Dönüştürün",
+      "description": "Ruhsat ve lisanslarınızı doğru değerleyin, finansal gücünüzü stratejik olarak artırın.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

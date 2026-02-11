@@ -1,0 +1,81 @@
+{
+  "slug": "ihracat-gelistirme",
+  "title": "İhracat",
+  "title_highlighted": "Geliştirme",
+  "category": "Globallesme ve İhracat",
+  "youtube_id": "v11EJG5Z4BY",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Globallesme ve İhracat", "link": "/servisler/globallesme-ve-ihracat" },
+    { "name": "İhracat Geliştirme", "link": "/servisler/globallesme-ve-ihracat/ihracat-gelistirme" }
+  ],
+  "hero": {
+    "title": "İhracat Geliştirme",
+    "description": "Mevcut ihracatınızı yeni pazarlar ve yeni müşterilerle büyütün.",
+    "image": "/images/servisler/ihracat-gelistirme-hero.jpg",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero_intro",
+      "title": "İhracatı",
+      "title_highlight": "Büyütün",
+      "description": "Aylık danışmanlık modeliyle ihracat gelirlerinizi çeşitlendirin ve artırın.",
+      "badge": "12 Aylık Program",
+      "features": [
+        "Pazar Analizi ve Hedef Pazar Tespiti",
+        "Potansiyel Müşteriye Erişim",
+        "B2B E-İhracat Süreçleri",
+        "Ticaret Bakanlığı Destekleri"
+      ],
+      "image": "/images/servisler/ihracat-gelistirme-hero.jpg"
+    },
+    {
+      "type": "content_with_image",
+      "title": "İhracat Geliştirme Danışmanlığı Nedir?",
+      "content": "<p>İhracat Geliştirme Danışmanlığı, ihracat yapmakta olan şirketlerin yeni pazarlara ve/veya yeni müşterilere erişerek ihracat oranlarını arttırmak ve bu esnada kurumsal kapasitelerini geliştirmek amacıyla sunulan aylık bir danışmanlık hizmetidir.</p><p>Firmaların mevcut durumunu analiz edip gelişim alanlarının belirlenmesinden başlayarak pazar analizi ve hedef pazar tespiti, potansiyel müşteriye erişim, rakip analizi, fuar ve etkinlik takibi, B2B e-ihracat süreçleri, ihracat odaklı ve çok dilli kurumsal tanıtım materyallerinin oluşturulması ve Ticaret Bakanlığı İhracat Destekleri başvuru süreçlerinin yürütülmesi gibi ihracat yapan bir şirketin tüm ihtiyaçlarına uçtan uca dokunan bir danışmanlık hizmetidir.</p>",
+      "image": "/images/servisler/ihracat-gelistirme-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "image_text",
+      "title": "İhracat Geliştirme Danışmanlığı Firmanıza Ne Kazandırır?",
+      "content": "<p>Firmaların sürdürülebilir büyümeyi yakalayabilmesi için olabildiğince farklı pazarlarda varlığını sürdürmesi günümüzün en önemli gerekliliklerindendir. Gelir çeşitliliğini arttırmış firmalar pazar bağımlılığını azaltmakla kalmayacak buna ek hali hazırda varlığını sürdürdüğü pazar içerisinde oluşabilecek olumsuz durumları diğer pazarlar ile kapatabilme imkanına sahip olacaktır.</p><p>İhracat Geliştirme Danışmanlığı; ihracatını belli ülkelerde, belli bir kapasiteye ulaştırmış firmaların yeni pazarlara açılmasını sağlayarak olan ihracat gelirlerini çeşitlendirmesini sağlar. Bunlara ek olarak hali hazırda varlığını sürdürdüğü pazarlarda ihracat hacminin büyümesini de sağlayarak toplam ihracat miktarını arttırılmasını sağlar.</p>",
+      "image": "/images/servisler/ihracat-gelistirme-process.jpg",
+      "layout": "left"
+    },
+    {
+      "type": "text",
+      "title": "Sistem Global ve İhracat Geliştirme Danışmanlığı",
+      "content": "<p>Sistem Global; çeyrek asrı aşan tecrübesi, alanında uzman kadrosu, 5 farklı ülkede bulunan ofisleri ve uluslararası network ağı üzerinden ihracatını geliştirmek yeni pazarlara açılmak isteyen firmalara gerektiğinde masa başı araştırma, gerektiğinde ise uluslararası ofisleri sayesinde saha araştırması sunmaktadır.</p><p>Sistem Global, firmanız adına minimum zaman ve maliyeti göz önüne alarak paralelde Ticaret Bakanlığı Desteklerinden de faydalanmanızı sağlar. Ticaret Bakanlığı Destekleri başvuru süreci uzman ekiplerimizce hizmet içeriğimiz kapsamında yürütülmektedir.</p><p>İhracat Geliştirme Danışmanlığı 12 aylık bir danışmanlık hizmetidir.</p>"
+    },
+    {
+      "type": "process_steps",
+      "title": "İhracat Geliştirme Yol Haritası",
+      "description": "Her adım ölçülebilir hedeflerle takip edilir.",
+      "steps": [
+        { "title": "Mevcut Durum Analizi", "desc": "İhracat performansı ölçülür ve yol haritası belirlenir." },
+        { "title": "Hedef Pazar Tespiti", "desc": "Pazar araştırma raporu hazırlanır." },
+        { "title": "Potansiyel Müşteri Erişimi", "desc": "Hedef pazarlarda potansiyel müşterilerle temas kurulur." },
+        { "title": "Kurumsal Tanıtım Materyalleri", "desc": "İhracat odaklı, çok dilli içerikler hazırlanır." },
+        { "title": "Ticaret Bakanlığı Destekleri", "desc": "Başvuru ve takip süreçleri yönetilir." },
+        { "title": "Rakip Analizi", "desc": "Ulusal ve uluslararası rakipler değerlendirilir." },
+        { "title": "B2B E-İhracat", "desc": "B2B e-ihracat fırsatları değerlendirilir." },
+        { "title": "Fuar ve Etkinlik Yönetimi", "desc": "Fuar ve etkinlik takibi yapılır." },
+        { "title": "Kurumsal Kimlik Revizyonu", "desc": "Görsel ve içerik kimliği güncellenir." },
+        { "title": "Aylık Takip Toplantıları", "desc": "Süreç raporlanır ve aksiyonlar güncellenir." }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "İhracatınızı Büyütmek İçin Hazırız",
+      "description": "Yeni pazarlar ve sürdürülebilir büyüme için danışmanlarımızla iletişime geçin.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

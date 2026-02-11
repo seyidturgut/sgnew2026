@@ -1,0 +1,154 @@
+{
+    "slug": "yurtdisi-sirket-kurma",
+    "title": "Yurtdışı Şirket",
+    "title_highlighted": "Kurma",
+    "category": "Globallesme ve İhracat",
+    "youtube_id": "C9aBRA-J3X8",
+    "breadcrumb": [
+        {
+            "name": "Anasayfa",
+            "link": "/"
+        },
+        {
+            "name": "Servisler",
+            "link": "/servisler"
+        },
+        {
+            "name": "Globallesme ve İhracat",
+            "link": "/servisler/globallesme-ve-ihracat"
+        },
+        {
+            "name": "Yurtdışı Şirket Kurma",
+            "link": "/servisler/globallesme-ve-ihracat/yurtdisi-sirket-kurma"
+        }
+    ],
+    "hero": {
+        "title": "Yurtdışı Şirket Kurma",
+        "description": "Küresel pazarlara güvenle açılın, doğru ülke ve şirket türü seçimiyle büyümenizi hızlandırın.",
+        "image": "/images/servisler/yurtdisi-sirket-kurma-hero.jpg",
+        "buttons": [
+            {
+                "text": "Uzmanımızla Görüşün",
+                "link": "#contact",
+                "variant": "primary"
+            },
+            {
+                "text": "Süreç Detayları",
+                "link": "#services",
+                "variant": "outline"
+            }
+        ]
+    },
+    "sections": [
+        {
+            "type": "content_with_image",
+            "title": "Yurtdışında Şirketleşme Nedir?",
+            "content": "<p>Şirketlerin birçoğu belirli bir büyüklüğe geldikten sonra ürünlerini dış piyasaya çıkarmak ve yurtdışındaki potansiyel müşterilerine ulaşarak satış hacmini artırma vizyonunu hedefler. Yurt dışındaki rekabet ortamında ayakta kalabilmek için müşteriye ve pazara yakın olmak avantajlı bir konuma gelmesini sağlar.</p><p>Yurtdışında şirketleşme, bir kişinin veya işletmenin kendi ülkesinden farklı bir ülkede yasal bir ticari yapı kurarak uluslararası alanda faaliyet göstermesidir. Bu faaliyet, girişimcilerin global pazara açılmasını, yabancı yatırımcılardan destek almasını ve vergi avantajlarından yararlanmasını sağlar.</p>",
+            "image": "/images/servisler/yurtdisi-sirket-kurma-intro.jpg",
+            "image_position": "right"
+        },
+        {
+            "type": "icon_grid",
+            "title": "Şirket Kurma Türleri",
+            "items": [
+                {
+                    "title": "Limited Şirket",
+                    "desc": "En çok tercih edilen yapı. Ortaklar sadece sermaye payları kadar sorumlu. Hızlı kuruluş, düşük maliyet.",
+                    "icon": "Building"
+                },
+                {
+                    "title": "Anonim Şirket",
+                    "desc": "Büyük ölçekli projeler için ideal. Hisse senetleri serbestçe alınıp satılabilir, yatırımcı çekmek kolay.",
+                    "icon": "TrendingUp"
+                },
+                {
+                    "title": "Şahıs Şirketi",
+                    "desc": "Bireysel girişimciler için pratik ve ekonomik. Asgari sermaye şartı yok, basit defter tutma.",
+                    "icon": "User"
+                }
+            ]
+        },
+        {
+            "type": "service_cards",
+            "title": "Popüler Ülkeler",
+            "cards": [
+                {
+                    "title": "Amerika (Delaware/Wyoming)",
+                    "desc": "Düşük vergi, esnek yapı, LLC kurulumu 2-5 gün. Dijital girişimciler için ideal.",
+                    "icon": "Globe",
+                    "color": "blue"
+                },
+                {
+                    "title": "İngiltere",
+                    "desc": "Min. 1 GBP sermaye, 24-48 saat kurulum. Güçlü hukuk sistemi, AB pazarına yakınlık.",
+                    "icon": "Award",
+                    "color": "green"
+                },
+                {
+                    "title": "Estonya",
+                    "desc": "e-Residency ile tamamen dijital kurulum. Kâr dağıtılmadıkça vergi yok.",
+                    "icon": "Zap",
+                    "color": "purple"
+                },
+                {
+                    "title": "Dubai (Free Zone)",
+                    "desc": "Sıfır gelir vergisi, yerel ortak gereksiz. Hızlı kurulum, modern altyapı.",
+                    "icon": "Sun",
+                    "color": "orange"
+                },
+                {
+                    "title": "Hollanda",
+                    "desc": "Avrupa'nın lojistik merkezi. Güçlü altyapı, şeffaf hukuk, BV yapısı popüler.",
+                    "icon": "Package",
+                    "color": "indigo"
+                },
+                {
+                    "title": "Almanya (GmbH)",
+                    "desc": "Avrupa'nın en büyük ekonomisi. Min. 25K EUR sermaye, sağlam pazar.",
+                    "icon": "Shield",
+                    "color": "red"
+                }
+            ]
+        },
+        {
+            "type": "benefits_grid",
+            "title": "Avantajları",
+            "benefits": [
+                {
+                    "title": "Vergi Optimizasyonu",
+                    "desc": "Birçok ülke düşük vergi oranları ve muafiyetler sunarak işletme maliyetlerini minimize eder.",
+                    "icon": "Percent"
+                },
+                {
+                    "title": "Global Pazar Erişimi",
+                    "desc": "Dünya çapında pazarlara doğrudan erişim, yeni müşteri kitlelerine ulaşma imkanı.",
+                    "icon": "Globe"
+                },
+                {
+                    "title": "Yatırımcı Çekme",
+                    "desc": "Uluslararası yatırımcılar için cazip yapı, sermaye artırımı kolaylığı.",
+                    "icon": "TrendingUp"
+                },
+                {
+                    "title": "Hukuki Güvence",
+                    "desc": "Gelişmiş ülkelerde sağlam hukuk sistemi ve işletme dostu yasal düzenlemeler.",
+                    "icon": "Scale"
+                }
+            ]
+        },
+        {
+            "type": "content_with_image",
+            "title": "Kurulum Süreci",
+            "content": "<p><strong>1. Ülke Seçimi:</strong> Hedef pazar, vergi avantajları, dil ve yasal altyapı kriterleri belirlenir.</p><p><strong>2. Şirket Türü:</strong> Limited, anonim veya şahıs şirketi modeli iş planına göre seçilir.</p><p><strong>3. Belge Hazırlığı:</strong> Pasaport, ikametgah, şirket sözleşmesi, adres kanıtı hazırlanır.</p><p><strong>4. Resmi Başvuru:</strong> Çoğu ülkede online başvuru mümkün, onay 2-10 gün sürer.</p><p><strong>5. Banka Hesabı:</strong> Vergi kaydı ve banka hesabı açılışı tamamlanır.</p>",
+            "image": "/images/servisler/yurtdisi-sirket-kurma-process.jpg",
+            "image_position": "left"
+        },
+        {
+            "type": "cta_box",
+            "title": "Global Pazarlara Güvenle Açılın",
+            "description": "25+ yıllık deneyimimizle yurtdışı şirket kurma süreçlerinizi hızlandırıyor, doğru stratejiyle ilerlemek için operasyonel destek sağlıyoruz.",
+            "button_text": "Hemen İletişime Geçin",
+            "secondary_button": "Detaylı Bilgi Alın"
+        }
+    ]
+}

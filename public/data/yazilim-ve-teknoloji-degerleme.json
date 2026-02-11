@@ -1,0 +1,116 @@
+{
+  "slug": "yazilim-ve-teknoloji-degerleme",
+  "title": "Yazılım ve",
+  "title_highlighted": "Teknoloji Değerleme",
+  "category": "Kurumsal Finansman",
+  "youtube_id": "",
+  "breadcrumb": [
+    {
+      "name": "Anasayfa",
+      "link": "/"
+    },
+    {
+      "name": "Servisler",
+      "link": "/servisler"
+    },
+    {
+      "name": "Vergi & Finans",
+      "link": "/servisler/vergi-finans"
+    },
+    {
+      "name": "Kurumsal Finansman",
+      "link": "/servisler/vergi-finans/kurumsal-finansman"
+    },
+    {
+      "name": "Yazılım ve Teknoloji Değerleme",
+      "link": "/servisler/vergi-finans/kurumsal-finansman/yazilim-ve-teknoloji-degerleme"
+    }
+  ],
+  "hero": {
+    "title": "Yazılım ve Teknoloji Değerleme",
+    "description": "Dijital varlıklarınızın gerçek değerini ortaya çıkarın; yatırım, satın alma ve büyüme kararlarınızı güvenle yönetin.",
+    "image": "/images/servisler/yazilim-teknoloji-hero.jpg",
+    "buttons": [
+      {
+        "text": "Uzmanımızla Görüşün",
+        "link": "#contact",
+        "variant": "primary"
+      },
+      {
+        "text": "Değerleme Kapsamı",
+        "link": "#services",
+        "variant": "outline"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "Yazılım ve Teknoloji Değerleme Nedir?",
+      "content": "<p>Teknoloji şirketleri, yazılım ürünleri ve dijital varlıklar, modern iş dünyasının en değerli unsurları arasında yer almaktadır. Ancak, fiziksel varlıklar gibi doğrudan ölçülebilir olmadıkları için yazılım ve teknoloji değerlemesi, geleneksel varlık değerleme yöntemlerinden farklı bir yaklaşımla ele alınmalıdır. Yazılım ve teknoloji değerleme, bir yazılımın veya teknolojik varlığın finansal ve operasyonel değerini belirlemek için kullanılan kapsamlı bir süreçtir.</p><p>Sistem Global olarak, startup’lardan kurumsal teknoloji firmalarına kadar geniş bir yelpazede yazılım ve teknoloji varlıklarının finansal değerini doğru bir şekilde belirleyerek, yatırım süreçlerinden satın alma işlemlerine kadar kritik kararları destekleyen analizler sunuyoruz.</p>",
+      "image": "/images/servisler/yazilim-teknoloji-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "icon_grid",
+      "title": "Neden Yazılım ve Teknoloji Değerleme?",
+      "items": [
+        {
+          "title": "Yatırım ve Fonlama",
+          "desc": "Teknoloji girişimlerinin en büyük varlığı genellikle yazılımları, platformları ve fikri mülkiyet haklarıdır. Yatırımcıların güvenini kazanmak ve fonlama süreçlerini kolaylaştırmak için yazılım ve teknoloji değerleme kritik bir süreçtir.",
+          "icon": "TrendingUp"
+        },
+        {
+          "title": "Birleşme ve Satın Alma",
+          "desc": "Teknoloji şirketleri arasında gerçekleşen birleşme ve satın alma işlemlerinde, yazılım varlıklarının, patentlerin ve teknolojik ürünlerin gerçek piyasa değerinin belirlenmesi gerekir.",
+          "icon": "Scale"
+        },
+        {
+          "title": "Lisans ve SaaS",
+          "desc": "Yazılım ve teknoloji firmaları, geliştirdikleri ürünleri lisanslayarak veya SaaS (Software as a Service) modeliyle gelir elde ederek büyümeyi hedefler. Ancak lisanslanacak bir yazılımın piyasa değerinin net olarak belirlenmesi gerekir.",
+          "icon": "Briefcase"
+        },
+        {
+          "title": "Vergi ve Transfer",
+          "desc": "Fikri mülkiyet varlıklarının (patent, yazılım kodları, veri tabanları vb.) şirket içinde transfer edilmesi veya farklı ülkelerde kullanılması durumunda, doğru bir vergi planlaması yapmak için yazılım değerleme yapılmalıdır.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "Finansmana Erişim",
+          "desc": "Bankalar ve yatırımcılar, teknoloji firmalarının finansal tablolarındaki maddi olmayan duran varlıkları dikkate alarak kredi değerlendirmesi yapar. Yazılım, veri ve dijital platformların değerini göstermek, finansmana erişimi kolaylaştırır.",
+          "icon": "Coins"
+        },
+        {
+          "title": "Büyüme ve Rekabet",
+          "desc": "Teknoloji ve yazılım şirketleri için değerleme süreci, büyüme hedeflerini belirlemek, şirketin kârlılığını ölçmek ve rekabet avantajını analiz etmek için önemli bir araçtır.",
+          "icon": "Target"
+        }
+      ]
+    },
+    {
+      "type": "info_list",
+      "title": "Süreç ve Zamanlama",
+      "items": [
+        {
+          "title": "Ortalama Süre",
+          "desc": "Süreç, yazılımın veya teknolojinin karmaşıklığına, pazar yapısına ve veri erişimine bağlı olarak 4 ila 8 hafta içinde tamamlanmaktadır."
+        },
+        {
+          "title": "Uzman Desteği",
+          "desc": "Yazılım ve teknoloji değerleme süreciniz için uzman desteği alın. Sistem Global olarak, startup’lardan büyük teknoloji firmalarına kadar geniş bir yelpazede değerleme hizmetleri sunuyoruz."
+        },
+        {
+          "title": "Uygunluk Anketi",
+          "desc": "5 sorudan oluşan bu anket, firmanızın yazılım veya teknoloji varlıklarının değerleme hizmetine uygunluğunu analiz etmek ve gelişim alanlarını belirlemek amacıyla hazırlanmıştır."
+        }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Detaylı Bilgi Alın",
+      "description": "Detaylı bilgi almak için formu doldurun, size ulaşalım.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "sirket-kurma-ttk-uygulama-ve-sicil-isleri-danismanligi",
+  "title": "Şirket Kurma",
+  "title_highlighted": "TTK ve Sicil İşleri",
+  "category": "Mevzuat ve Uyum",
+  "youtube_id": "",
+  "breadcrumb": [
+    { "name": "Anasayfa", "link": "/" },
+    { "name": "Servisler", "link": "/servisler" },
+    { "name": "Mevzuat ve Uyum", "link": "/servisler/mevzuat-ve-uyum" },
+    { "name": "Şirket Kurma, TTK Uygulama ve Sicil İşleri Danışmanlığı", "link": "/servisler/mevzuat-ve-uyum/sirket-kurma-ttk-uygulama-ve-sicil-isleri-danismanligi" }
+  ],
+  "hero": {
+    "title": "Şirket Kurma, TTK Uygulama ve Sicil İşleri Danışmanlığı",
+    "description": "Şirket kuruluşundan sicil işlemlerine kadar tüm süreçleri TTK’ya uygun ve güvenli şekilde yönetin.",
+    "image": "/images/servisler/sirket-kurma-hero.jpg",
+    "buttons": [
+      { "text": "Uzmanımızla Görüşün", "link": "#contact", "variant": "primary" },
+      { "text": "Süreç Detayları", "link": "#services", "variant": "outline" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "content_with_image",
+      "title": "Şirket Kurma, TTK Uygulama ve Sicil İşleri Danışmanlığı Nedir?",
+      "content": "<p>Anonim veya Limited Şirket Kurma, Türk Ticaret Kanunu (TTK) Uygulama ve Ticaret Sicil İşleri danışmanlığı; girişimcilerin ve işletmelerin sicil ihtiyaçlarını karşılayan kapsamlı bir hizmettir. Şirket kuruluşu, ticaret siciline kayıt, defterlerin tutulması, yönetim kurulu ve genel kurul kararlarının alınması, şirket yetkililerinin atanması, imza yetkililerinin belirlenmesi ve ilanı, sermaye artırımı/azaltımı, birleşme-bölünme-devralma süreçlerinin yönetilmesini kapsar.</p><p>Kurulum süreci; şirket türü seçimi, esas sözleşmenin hazırlanması, izinlerin alınması, unvan seçimi, sermaye miktarı, pay analizi, NACE kodlarının seçimi, faaliyet alanı, imtiyazlı paylar, pay devri ve yönetim yapısı gibi adımları içerir. Bu süreçlerde uzman danışmanlık, riskleri minimize eder ve işlerin sorunsuz ilerlemesini sağlar.</p>",
+      "image": "/images/servisler/sirket-kurma-intro.jpg",
+      "image_position": "right"
+    },
+    {
+      "type": "image_text",
+      "title": "Kuruluş ve Sicil Süreçlerinde Güvenli Yönetim",
+      "content": "<p>TTK’ya uyumlu ve doğru kurgulanmış şirket yapıları, hem yasal güvence sağlar hem de operasyonel sürdürülebilirliği güçlendirir.</p>",
+      "image": "/images/servisler/sirket-kurma-process.jpg",
+      "layout": "left"
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Danışmanlığın Kazandırdıkları",
+      "benefits": [
+        { "title": "Doğru Şirket Yapısı", "desc": "İhtiyaçlara en uygun şirket türü belirlenir ve kuruluş süreci yönetilir.", "icon": "Target" },
+        { "title": "TTK’ya Uyum", "desc": "Mevzuata tam uyum sağlanarak yasal güvence oluşturulur.", "icon": "ShieldCheck" },
+        { "title": "Sicil İşlemleri", "desc": "Tescil, ilan ve sicil kayıtları düzenli şekilde yönetilir.", "icon": "BookOpen" },
+        { "title": "Esas Sözleşme Hazırlığı", "desc": "Faaliyet alanı, sermaye, yönetim ve ortaklık hakları netleştirilir.", "icon": "Briefcase" },
+        { "title": "Yasal Güvence", "desc": "Kuruluş sürecinde olası uyuşmazlıklar önlenir ve riskler azaltılır.", "icon": "ShieldCheck" }
+      ]
+    },
+    {
+      "type": "services_list",
+      "title": "Danışmanlık Kapsamında Sunulan Hizmetler",
+      "services": [
+        { "title": "Şirket Türünün Belirlenmesi", "desc": "Faaliyet alanı, sermaye yapısı ve hedeflere göre en uygun şirket türü seçilir." },
+        { "title": "Yasal Yükümlülük Bilgilendirmesi", "desc": "Vergi yükümlülükleri, sermaye gereklilikleri ve yönetim yapıları detaylandırılır." },
+        { "title": "Esas Sözleşme Hazırlığı", "desc": "TTK’ya uygun esas sözleşme hazırlanır ve tescil edilir." },
+        { "title": "Ticaret Sicili İşlemleri", "desc": "Tescil/ilan, genel kurul, şube işlemleri, sermaye değişiklikleri, adres değişikliği vb." },
+        { "title": "Mevzuat Danışmanlığı", "desc": "TTK uyumu, genel kurul ve yönetim kurulu süreçleri yönetilir." },
+        { "title": "Yasal İzin ve Lisanslar", "desc": "Faaliyet izinleri ve lisans süreçleri yürütülür." },
+        { "title": "Aylık Danışmanlık", "desc": "Şirket kurulduktan sonra mevzuatsal destek sürdürülür." }
+      ]
+    },
+    {
+      "type": "info_list",
+      "title": "Kimler Hizmet Alabilir?",
+      "items": [
+        { "title": "Girişimciler", "desc": "Yeni iş kurmak isteyen girişimciler." },
+        { "title": "Büyüme ve Yeniden Yapılanma", "desc": "Mevcut işletmesini büyütmek veya yeniden yapılandırmak isteyenler." },
+        { "title": "TTK Uyum Arayanlar", "desc": "Ticaret sicili işlemlerinde profesyonel destek arayan işletmeler." },
+        { "title": "Yatırımcılar", "desc": "Şirket kurulum sürecinde destek arayan yatırımcılar ve girişimciler." },
+        { "title": "Birleşme/Devralma", "desc": "Şirket birleşme, devralma veya bölünme işlemi yapan işletmeler." },
+        { "title": "Yabancı Şirketler", "desc": "Türkiye’de şube/temsilcilik açılışı için danışmanlık ihtiyacı olanlar." },
+        { "title": "Yabancı Ortaklı Şirketler", "desc": "Yabancı ortaklı şirket kurmak isteyen girişimciler." }
+      ]
+    },
+    {
+      "type": "benefits_grid",
+      "title": "Hizmetlerimizdeki Farklılıklar",
+      "benefits": [
+        { "title": "Uzman Kadro", "desc": "Şirketler hukuku ve sicil işlemlerinde geniş deneyimli ekip.", "icon": "Award" },
+        { "title": "Kapsamlı Destek", "desc": "Mali, vergisel ve mevzuatsal açıdan bütünsel hizmet.", "icon": "Briefcase" },
+        { "title": "Risk Analizi", "desc": "Mevzuatsal riskler önceden tespit edilir.", "icon": "ShieldCheck" },
+        { "title": "Proaktif Yaklaşım", "desc": "Olası risklere karşı önleyici danışmanlık sağlanır.", "icon": "Target" },
+        { "title": "Hızlı ve Etkin Çözümler", "desc": "Resmi belgeler hızlı ve titiz şekilde hazırlanır.", "icon": "Zap" },
+        { "title": "Sürekli Destek", "desc": "Mevzuat değişikliklerinde düzenli bilgilendirme yapılır.", "icon": "BookOpen" },
+        { "title": "Şeffaf ve Müşteri Odaklı", "desc": "Karar alma sürecine aktif katılım ve şeffaf bilgilendirme sağlanır.", "icon": "Users" },
+        { "title": "Uluslararası Standartlar", "desc": "Yabancı ortaklı şirketlerde uluslararası standartlara uygun hizmet.", "icon": "Globe" }
+      ]
+    },
+    {
+      "type": "cta_box",
+      "title": "Şirket Kuruluş Sürecinizi Güvence Altına Alın",
+      "description": "TTK uyumlu ve güvenli şirket kuruluşu için uzman desteği alın.",
+      "button_text": "Hemen İletişime Geçin",
+      "secondary_button": "Detaylı Bilgi Alın"
+    }
+  ]
+}
