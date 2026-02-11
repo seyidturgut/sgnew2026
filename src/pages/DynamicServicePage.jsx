@@ -4,6 +4,7 @@ import ServicePageLayout from '../components/layout/ServicePageLayout'
 import ChatBubble from '../components/ChatBubble'
 import TrustBadges from '../components/TrustBadges'
 import { serviceMenu } from '../data/serviceMenu'
+import { productsMenu } from '../data/productsMenu'
 
 import StatsSection from '../components/StatsSection'
 import {
@@ -214,7 +215,9 @@ const DynamicServicePage = ({ forcedSlug, forcedSubcategory }) => {
         'globallesme-ihracat': 'Globalleşme & İhracat',
         'globallesme-ve-ihracat': 'Globalleşme & İhracat',
         'mevzuat-uyum': 'Mevzuat & Uyum',
-        'mevzuat-ve-uyum': 'Mevzuat & Uyum'
+        'mevzuat-ve-uyum': 'Mevzuat & Uyum',
+        'online-danismanlik-ve-egitim': 'Online Danışmanlık ve Eğitim',
+        'online-danismanlik': 'Online Danışmanlık'
     }
 
     const subcategoryNameMap = {
@@ -234,7 +237,12 @@ const DynamicServicePage = ({ forcedSlug, forcedSubcategory }) => {
         'makina-ekipman': 'Makina Ekipman',
         'eserler': 'Eserler',
         'birlesme-ve-satin-alma-ma': 'Birleşme ve Satın Alma (M&A)',
-        'uluslararasi-ticaret': 'Uluslararası Ticaret'
+        'uluslararasi-ticaret': 'Uluslararası Ticaret',
+        'dijital-cozumler': 'Dijital Çözümler',
+        'finansal-araclar': 'Finansal Araçlar',
+        'yasal-uyum': 'Yasal Uyum',
+        'ihracat-yazilimlari': 'İhracat Yazılımları',
+        'egitim-platformlari': 'Eğitim Platformları'
     }
 
     const categoryFallbacks = {
@@ -255,8 +263,11 @@ const DynamicServicePage = ({ forcedSlug, forcedSubcategory }) => {
     // Helper to find service info in menu
     const findServiceInMenu = (targetSlug) => {
         if (!targetSlug) return null;
-        console.log("Searching for slug:", targetSlug);
-        for (const cat of serviceMenu) {
+
+        // Search in both serviceMenu and productsMenu
+        const menus = [...serviceMenu, ...productsMenu];
+
+        for (const cat of menus) {
             for (const sub of cat.subcategories || []) {
                 const found = sub.items?.find(item => {
                     const itemSlug = item.href.split('/').pop();
@@ -264,12 +275,10 @@ const DynamicServicePage = ({ forcedSlug, forcedSubcategory }) => {
                 });
 
                 if (found) {
-                    console.log("Found service:", found.title, "in sub:", sub.title);
                     return { category: cat, subcategory: sub, item: found };
                 }
             }
         }
-        console.warn("Service NOT found for:", targetSlug);
         return null;
     };
 

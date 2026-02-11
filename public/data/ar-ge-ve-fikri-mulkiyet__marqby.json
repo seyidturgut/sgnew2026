@@ -1,0 +1,27 @@
+{
+    "slug": "marqby",
+    "title": "Marqby",
+    "title_highlighted": "",
+    "category": "ar-ge-ve-fikri-mulkiyet",
+    "layout_density": "compact",
+    "hero_image": "/images/servisler/services-hero-business.webp",
+    "content_json": {
+        "hero": {
+            "title": "Marqby",
+            "description": "Dijital Dönüşüm Yolculuğunuzda Yanınızdayız.",
+            "image": "/images/servisler/services-hero-business.webp"
+        },
+        "sections": [
+            {
+                "type": "intro_text",
+                "content": "<p><strong>Çalışmalarımız devam ediyor.</strong></p><p>Bu ürünümüzle ilgili detaylı bilgiler çok yakında burada olacak. Sistem Global olarak dijital çözümlerimizi geliştirmeye ve size en iyi kullanıcı deneyimini sunmaya devam ediyoruz.</p>"
+            },
+            {
+                "type": "cta_simple",
+                "title": "Detaylı Bilgi Almak İster Misiniz?",
+                "description": "Ürünümüz hakkında ön bilgi almak veya çözüm ortaklığı süreçlerimizi öğrenmek için bizimle iletişime geçebilirsiniz.",
+                "button_text": "Bize Ulaşın"
+            }
+        ]
+    }
+}

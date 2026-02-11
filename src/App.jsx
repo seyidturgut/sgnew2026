@@ -22,9 +22,13 @@ function App() {
                         <Route path="/servisler/:category/:subcategory/:slug" element={<ServiceDispatcher />} />
                         <Route path="/servisler/:category/:slug" element={<ServiceDispatcher />} />
                         <Route path="/servisler/:slug" element={<ServiceDispatcher />} />
-
-                        {/* Fallback for deep nesting if needed */}
                         <Route path="/servisler/*" element={<ServiceDispatcher />} />
+
+                        {/* Digital Products Routes */}
+                        <Route path="/dijital-urunler/:category/:subcategory/:slug" element={<DynamicServicePage />} />
+                        <Route path="/dijital-urunler/:category/:slug" element={<DynamicServicePage />} />
+                        <Route path="/dijital-urunler/:slug" element={<DynamicServicePage />} />
+                        <Route path="/dijital-urunler/*" element={<DynamicServicePage />} />
                     </Routes>
                     <Footer />
                 </div>
