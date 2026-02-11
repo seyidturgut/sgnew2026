@@ -62,59 +62,85 @@ const MobileMenu = ({ isOpen, onClose }) => {
     // View Components
     const MainView = () => (
         <div className="flex flex-col h-full bg-white">
-            <div className="p-4 space-y-2 flex-1 overflow-y-auto">
-                {/* Primary Nav Items */}
-                <Link to="/" onClick={onClose} className="flex items-center gap-4 p-4 rounded-2xl bg-gray-50 hover:bg-orange-50 transition-colors group">
-                    <div className="w-10 h-10 rounded-full bg-white flex items-center justify-center shadow-sm text-gray-400 group-hover:text-[#F37021] transition-colors">
-                        <Home size={20} />
-                    </div>
-                    <span className="font-bold text-gray-800 text-lg">Anasayfa</span>
-                </Link>
+            <div className="flex-1 overflow-y-auto px-6 py-4 space-y-6">
 
+                {/* Hero / Services Entry */}
                 <button
                     onClick={() => pushView({ id: 'services', title: 'Servisler' })}
-                    className="w-full flex items-center justify-between p-4 rounded-2xl bg-white border border-gray-100 shadow-sm active:scale-[0.98] transition-all"
+                    className="w-full relative overflow-hidden group rounded-3xl p-6 text-left shadow-lg shadow-orange-500/10 transition-transform active:scale-[0.98]"
                 >
-                    <div className="flex items-center gap-4">
-                        <div className="w-10 h-10 rounded-full bg-orange-50 flex items-center justify-center text-[#F37021]">
-                            <Globe size={20} />
+                    <div className="absolute inset-0 bg-gradient-to-br from-[#F37021] to-orange-600" />
+                    <div className="absolute inset-0 opacity-20 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] mix-blend-overlay" />
+
+                    <div className="relative flex items-center justify-between z-10">
+                        <div className="flex items-center gap-4">
+                            <div className="w-12 h-12 rounded-2xl bg-white/20 backdrop-blur-sm flex items-center justify-center text-white border border-white/10">
+                                <Globe size={24} />
+                            </div>
+                            <div>
+                                <h3 className="text-xl font-bold text-white leading-none">Servisler</h3>
+                                <p className="text-orange-100 text-sm mt-1.5 font-medium">Tüm hizmetlerimizi keşfedin</p>
+                            </div>
                         </div>
-                        <span className="font-bold text-gray-800 text-lg">Servisler</span>
+                        <div className="w-10 h-10 rounded-full bg-white/20 backdrop-blur-sm flex items-center justify-center text-white group-hover:translate-x-1 transition-transform">
+                            <ChevronRight size={20} />
+                        </div>
                     </div>
-                    <ChevronRight size={20} className="text-gray-400" />
                 </button>
 
-                <Link to="/hakkimizda" onClick={onClose} className="flex items-center justify-between p-4 rounded-2xl bg-white border border-gray-100 hover:bg-gray-50 transition-colors group">
-                    <div className="flex items-center gap-4">
-                        <div className="w-10 h-10 rounded-full bg-blue-50 flex items-center justify-center text-blue-500">
-                            <Users size={20} />
-                        </div>
-                        <span className="font-medium text-gray-700 text-lg">Hakkımızda</span>
+                {/* Primary Navigation Group */}
+                <div className="bg-gray-50 rounded-3xl p-2">
+                    <div className="space-y-1">
+                        <Link to="/" onClick={onClose} className="flex items-center gap-4 p-4 rounded-2xl hover:bg-white hover:shadow-sm transition-all group">
+                            <div className="w-10 h-10 rounded-xl bg-orange-100/50 text-[#F37021] flex items-center justify-center group-hover:bg-[#F37021] group-hover:text-white transition-colors">
+                                <Home size={20} />
+                            </div>
+                            <span className="font-bold text-gray-700 text-base flex-1">Anasayfa</span>
+                        </Link>
                     </div>
-                </Link>
+                </div>
 
-                <Link to="/ekosistemimiz" onClick={onClose} className="flex items-center justify-between p-4 rounded-2xl bg-white border border-gray-100 hover:bg-gray-50 transition-colors group">
-                    <div className="flex items-center gap-4">
-                        <div className="w-10 h-10 rounded-full bg-green-50 flex items-center justify-center text-green-500">
-                            <TrendingUp size={20} />
+                {/* Corporate Navigation Group */}
+                <div className="bg-gray-50 rounded-3xl p-2 space-y-1">
+                    <Link to="/hakkimizda" onClick={onClose} className="flex items-center justify-between p-4 rounded-2xl hover:bg-white hover:shadow-sm transition-all group">
+                        <div className="flex items-center gap-4">
+                            <div className="w-10 h-10 rounded-xl bg-blue-50 text-blue-600 flex items-center justify-center">
+                                <Users size={20} />
+                            </div>
+                            <span className="font-medium text-gray-700 text-base">Hakkımızda</span>
                         </div>
-                        <span className="font-medium text-gray-700 text-lg">Ekosistemimiz</span>
-                    </div>
-                </Link>
+                        <ChevronRight size={16} className="text-gray-300 group-hover:text-blue-500 transition-colors" />
+                    </Link>
 
-                <Link to="/iletisim" onClick={onClose} className="flex items-center justify-between p-4 rounded-2xl bg-white border border-gray-100 hover:bg-gray-50 transition-colors group">
-                    <div className="flex items-center gap-4">
-                        <div className="w-10 h-10 rounded-full bg-purple-50 flex items-center justify-center text-purple-500">
-                            <Phone size={20} />
+                    <div className="h-px bg-gray-200/50 mx-4" />
+
+                    <Link to="/ekosistemimiz" onClick={onClose} className="flex items-center justify-between p-4 rounded-2xl hover:bg-white hover:shadow-sm transition-all group">
+                        <div className="flex items-center gap-4">
+                            <div className="w-10 h-10 rounded-xl bg-green-50 text-green-600 flex items-center justify-center">
+                                <TrendingUp size={20} />
+                            </div>
+                            <span className="font-medium text-gray-700 text-base">Ekosistemimiz</span>
                         </div>
-                        <span className="font-medium text-gray-700 text-lg">İletişim</span>
-                    </div>
-                </Link>
+                        <ChevronRight size={16} className="text-gray-300 group-hover:text-green-500 transition-colors" />
+                    </Link>
+
+                    <div className="h-px bg-gray-200/50 mx-4" />
+
+                    <Link to="/iletisim" onClick={onClose} className="flex items-center justify-between p-4 rounded-2xl hover:bg-white hover:shadow-sm transition-all group">
+                        <div className="flex items-center gap-4">
+                            <div className="w-10 h-10 rounded-xl bg-purple-50 text-purple-600 flex items-center justify-center">
+                                <Phone size={20} />
+                            </div>
+                            <span className="font-medium text-gray-700 text-base">İletişim</span>
+                        </div>
+                        <ChevronRight size={16} className="text-gray-300 group-hover:text-purple-500 transition-colors" />
+                    </Link>
+                </div>
             </div>
 
-            <div className="p-5 border-t border-gray-100 bg-white pb-10">
-                <Link to="/iletisim" onClick={onClose} className="w-full flex items-center justify-center gap-2 py-4 bg-[#F37021] text-white rounded-xl font-bold shadow-lg shadow-orange-500/20 active:scale-95 transition-transform">
-                    Hemen Başvurun <ArrowRight size={20} />
+            <div className="p-6 border-t border-gray-100 bg-white/80 backdrop-blur-md pb-10">
+                <Link to="/iletisim" onClick={onClose} className="w-full flex items-center justify-center gap-2 py-4 bg-gray-900 text-white rounded-2xl font-bold text-lg shadow-xl shadow-gray-200 active:scale-95 transition-transform">
+                    Teklif Alın <ArrowRight size={20} />
                 </Link>
             </div>
         </div>
@@ -161,9 +187,11 @@ const MobileMenu = ({ isOpen, onClose }) => {
                         <p className="text-sm opacity-80 leading-relaxed text-white/90">{category.description}</p>
                     </div>
 
-                    <div className="text-xs font-bold text-gray-400 uppercase tracking-widest px-2 mb-1">
-                        {shouldFlatten ? 'Hizmetler' : 'Alt Alanlar'}
-                    </div>
+                    {!shouldFlatten && (
+                        <div className="text-xs font-bold text-gray-400 uppercase tracking-widest px-2 mb-1">
+                            Alt Alanlar
+                        </div>
+                    )}
 
                     {shouldFlatten ? (
                         // Render items directly (skipping the single subcategory level)
@@ -251,30 +279,34 @@ const MobileMenu = ({ isOpen, onClose }) => {
             <div className={`absolute top-0 right-0 w-full h-full bg-white flex flex-col transition-transform duration-300 ease-[cubic-bezier(0.16,1,0.3,1)] ${isOpen ? 'translate-x-0' : 'translate-x-full'}`}>
 
                 {/* Header (Sticky) */}
-                <div className="flex items-center justify-between px-4 h-16 border-b border-gray-100 bg-white shrink-0 relative z-20">
-                    <div className="flex items-center gap-2 overflow-hidden">
+                <div className="flex items-center justify-between px-6 h-20 border-b border-gray-100 bg-white/80 backdrop-blur-md shrink-0 relative z-20">
+                    <div className="flex items-center gap-4 overflow-hidden flex-1">
                         {navStack.length > 1 ? (
                             <button
                                 onClick={popView}
-                                className="w-10 h-10 flex items-center justify-center rounded-full hover:bg-gray-50 active:bg-gray-100 transition-colors -ml-2"
+                                className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-50 hover:bg-gray-100 active:bg-gray-200 transition-colors"
                             >
-                                <ArrowLeft size={22} className="text-gray-700" />
+                                <ArrowLeft size={20} className="text-gray-900" />
                             </button>
                         ) : (
-                            <div className="w-2" /> // Spacer
+                            <Link to="/" onClick={onClose} className="py-2">
+                                <img src="/logo.png" alt="Sistem Global" className="h-8 w-auto object-contain" />
+                            </Link>
                         )}
-                        <h1 className="font-bold text-lg text-gray-900 line-clamp-1 animate-fade-in">
-                            {/* Show previous title if animating out, otherwise current */}
-                            {isAnimatingOut
-                                ? (navStack[navStack.length - 2]?.title || 'Menü')
-                                : navStack[navStack.length - 1].title
-                            }
-                        </h1>
+
+                        {navStack.length > 1 && (
+                            <h1 className="font-bold text-lg text-gray-900 line-clamp-1 animate-fade-in flex-1">
+                                {isAnimatingOut
+                                    ? (navStack[navStack.length - 2]?.title)
+                                    : navStack[navStack.length - 1].title
+                                }
+                            </h1>
+                        )}
                     </div>
 
                     <button
                         onClick={onClose}
-                        className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-50 text-gray-500 hover:bg-gray-100 transition-colors"
+                        className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-50 text-gray-500 hover:bg-red-50 hover:text-red-500 transition-colors active:scale-90 transform duration-200"
                     >
                         <X size={22} />
                     </button>
@@ -286,43 +318,32 @@ const MobileMenu = ({ isOpen, onClose }) => {
                         const isLast = index === navStack.length - 1;
                         const isSecondLast = index === navStack.length - 2;
 
-                        // Default states derived from stack position
-                        let transform = 'translateX(100%)'; // Future views (shouldn't exist essentially)
+                        let transform = 'translateX(100%)';
                         let filter = 'none';
-                        let animationClass = '';
 
                         if (isLast) {
-                            // Current Top View
                             if (isAnimatingOut) {
-                                // Sliding OUT to right
                                 transform = 'translateX(100%)';
                             } else {
-                                // Default Active State
                                 transform = 'translateX(0%)';
-                                // Only animate entry if it's not the root and not animating out
-                                if (index > 0) animationClass = 'mobile-menu-slide-enter';
                             }
                         } else if (isSecondLast) {
-                            // Previous View (Behind)
                             if (isAnimatingOut) {
-                                // Sliding IN from left (becoming active)
-                                transform = 'translateX(0%)';
+                                transform = 'translateX(0%)'; // Slides back to center
                                 filter = 'none';
                             } else {
-                                // Default Background State
-                                transform = 'translateX(-25%)';
+                                transform = 'translateX(-20%)'; // Slides to background
                                 filter = 'brightness(0.95)';
                             }
                         } else {
-                            // Deeper history
-                            transform = 'translateX(-25%)'; // Keep them stacked behind
+                            transform = 'translateX(-20%)';
                             filter = 'brightness(0.90)';
                         }
 
                         return (
                             <div
                                 key={index}
-                                className={`absolute inset-0 w-full h-full bg-white transition-transform duration-300 ease-[cubic-bezier(0.2,0,0,1)] shadow-xl ${animationClass}`}
+                                className={`absolute inset-0 w-full h-full bg-white transition-all duration-300 ease-[cubic-bezier(0.25,1,0.5,1)] shadow-2xl`}
                                 style={{
                                     zIndex: index + 10,
                                     transform,
