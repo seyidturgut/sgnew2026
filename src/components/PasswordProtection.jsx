@@ -23,7 +23,7 @@ const PasswordProtection = ({ children }) => {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        if (password === 'Sistem**2026') {
+        if (password === 'Sg**2026') {
             localStorage.setItem('sg_gh_auth', 'true');
             setIsAuthenticated(true);
         } else {
