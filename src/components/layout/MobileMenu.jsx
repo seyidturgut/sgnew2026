@@ -2,11 +2,14 @@ import React, { useState, useEffect } from 'react';
 import { createPortal } from 'react-dom';
 import { Link } from 'react-router-dom';
 import { serviceMenu } from '../../data/serviceMenu';
-import { X, ChevronRight, ArrowLeft, Home, Phone, Globe, ArrowUpRight, TrendingUp, Users, Settings } from 'lucide-react';
+import { X, ChevronRight, ArrowLeft, Home, Phone, Globe, ArrowUpRight, TrendingUp, Users, Settings, ArrowRight } from 'lucide-react';
 
 const MobileMenu = ({ isOpen, onClose }) => {
     const [mounted, setMounted] = useState(false);
     const [navStack, setNavStack] = useState([{ id: 'root', title: 'Menü' }]);
+
+    // Animation states
+    const [isAnimatingOut, setIsAnimatingOut] = useState(false);
 
     useEffect(() => {
         setMounted(true);
@@ -21,10 +24,14 @@ const MobileMenu = ({ isOpen, onClose }) => {
             // But let's check if we want persistent state during session. 
             // User usually expects reset.
             setNavStack([{ id: 'root', title: 'Menü' }]);
+            setIsAnimatingOut(false);
         } else {
             document.body.style.overflow = 'unset';
             // Wait for close animation
-            const t = setTimeout(() => setNavStack([{ id: 'root', title: 'Menü' }]), 300);
+            const t = setTimeout(() => {
+                setNavStack([{ id: 'root', title: 'Menü' }]);
+                setIsAnimatingOut(false);
+            }, 300);
             return () => clearTimeout(t);
         }
         return () => {
@@ -33,14 +40,21 @@ const MobileMenu = ({ isOpen, onClose }) => {
     }, [isOpen]);
 
     const pushView = (view) => {
+        if (isAnimatingOut) return; // Prevent interaction during animation
         setNavStack(prev => [...prev, view]);
     };
 
     const popView = () => {
-        setNavStack(prev => {
-            if (prev.length <= 1) return prev;
-            return prev.slice(0, -1);
-        });
+        if (navStack.length <= 1 || isAnimatingOut) return;
+
+        setIsAnimatingOut(true);
+        setTimeout(() => {
+            setNavStack(prev => {
+                if (prev.length <= 1) return prev;
+                return prev.slice(0, -1);
+            });
+            setIsAnimatingOut(false);
+        }, 300); // Match transition duration
     };
 
     if (!mounted) return null;
@@ -132,37 +146,62 @@ const MobileMenu = ({ isOpen, onClose }) => {
         </div>
     );
 
-    const CategoryView = ({ category }) => (
-        <div className="flex flex-col h-full bg-gray-50">
-            <div className="p-4 space-y-3 overflow-y-auto pb-20">
+    const CategoryView = ({ category }) => {
+        // Flatten if there is only 1 subcategory
+        const shouldFlatten = category.subcategories && category.subcategories.length === 1;
 
-                {/* Header Card */}
-                <div className={`w-full p-6 rounded-3xl bg-gradient-to-br ${category.color} text-white shadow-lg mb-4`}>
-                    <category.icon size={32} className="mb-3 opacity-90" />
-                    <h2 className="text-2xl font-bold mb-1">{category.title}</h2>
-                    <p className="text-sm opacity-80 leading-relaxed text-white/90">{category.description}</p>
-                </div>
+        return (
+            <div className="flex flex-col h-full bg-gray-50">
+                <div className="p-4 space-y-3 overflow-y-auto pb-20">
 
-                <div className="text-xs font-bold text-gray-400 uppercase tracking-widest px-2 mb-1">Alt Alanlar</div>
+                    {/* Header Card */}
+                    <div className={`w-full p-6 rounded-3xl bg-gradient-to-br ${category.color} text-white shadow-lg mb-4`}>
+                        <category.icon size={32} className="mb-3 opacity-90" />
+                        <h2 className="text-2xl font-bold mb-1">{category.title}</h2>
+                        <p className="text-sm opacity-80 leading-relaxed text-white/90">{category.description}</p>
+                    </div>
 
-                {category.subcategories.map((sub, idx) => (
-                    <button
-                        key={idx}
-                        onClick={() => pushView({ id: 'subcategory', title: sub.title, data: sub, parent: category })}
-                        className="w-full bg-white p-5 rounded-2xl flex items-center justify-between shadow-sm border border-gray-100 active:scale-[0.98] transition-transform"
-                    >
-                        <div className="flex items-center gap-4">
-                            <div className="w-10 h-10 rounded-full bg-orange-50 flex items-center justify-center text-[#F37021]">
-                                {sub.icon ? <sub.icon size={20} /> : <Settings size={20} />}
-                            </div>
-                            <span className="font-bold text-gray-800 text-sm text-left">{sub.title}</span>
+                    <div className="text-xs font-bold text-gray-400 uppercase tracking-widest px-2 mb-1">
+                        {shouldFlatten ? 'Hizmetler' : 'Alt Alanlar'}
+                    </div>
+
+                    {shouldFlatten ? (
+                        // Render items directly (skipping the single subcategory level)
+                        <div className="space-y-2">
+                            {category.subcategories[0].items.map((item, idx) => (
+                                <Link
+                                    key={idx}
+                                    to={item.href}
+                                    onClick={onClose}
+                                    className="bg-white p-4 rounded-xl flex items-center justify-between border border-gray-100 active:bg-orange-50 transition-colors"
+                                >
+                                    <span className="font-medium text-gray-700 text-sm pr-4">{item.title}</span>
+                                    <ArrowUpRight size={18} className="text-gray-300 flex-shrink-0" />
+                                </Link>
+                            ))}
                         </div>
-                        <ChevronRight size={18} className="text-gray-300" />
-                    </button>
-                ))}
+                    ) : (
+                        // Render subcategories as buttons
+                        category.subcategories.map((sub, idx) => (
+                            <button
+                                key={idx}
+                                onClick={() => pushView({ id: 'subcategory', title: sub.title, data: sub, parent: category })}
+                                className="w-full bg-white p-5 rounded-2xl flex items-center justify-between shadow-sm border border-gray-100 active:scale-[0.98] transition-transform"
+                            >
+                                <div className="flex items-center gap-4">
+                                    <div className="w-10 h-10 rounded-full bg-orange-50 flex items-center justify-center text-[#F37021]">
+                                        {sub.icon ? <sub.icon size={20} /> : <Settings size={20} />}
+                                    </div>
+                                    <span className="font-bold text-gray-800 text-sm text-left">{sub.title}</span>
+                                </div>
+                                <ChevronRight size={18} className="text-gray-300" />
+                            </button>
+                        ))
+                    )}
+                </div>
             </div>
-        </div>
-    );
+        );
+    };
 
     const SubCategoryView = ({ subcategory, parent }) => (
         <div className="flex flex-col h-full bg-gray-50">
@@ -191,7 +230,16 @@ const MobileMenu = ({ isOpen, onClose }) => {
     );
 
     return createPortal(
-        <div className={`fixed inset-0 z-[9999] overflow-hidden transition-all duration-300 ${isOpen ? 'visible pointer-events-auto' : 'invisible pointer-events-none'}`}>
+        <div className={`fixed inset-0 z-[9999] overflow-hidden ${isOpen ? 'visible pointer-events-auto' : 'invisible pointer-events-none'}`}>
+            <style>{`
+                @keyframes slideInRight {
+                    from { transform: translateX(100%); }
+                    to { transform: translateX(0%); }
+                }
+                .mobile-menu-slide-enter {
+                    animation: slideInRight 0.3s cubic-bezier(0.2, 0, 0, 1) forwards;
+                }
+            `}</style>
 
             {/* Backdrop */}
             <div
@@ -216,7 +264,11 @@ const MobileMenu = ({ isOpen, onClose }) => {
                             <div className="w-2" /> // Spacer
                         )}
                         <h1 className="font-bold text-lg text-gray-900 line-clamp-1 animate-fade-in">
-                            {navStack[navStack.length - 1].title}
+                            {/* Show previous title if animating out, otherwise current */}
+                            {isAnimatingOut
+                                ? (navStack[navStack.length - 2]?.title || 'Menü')
+                                : navStack[navStack.length - 1].title
+                            }
                         </h1>
                     </div>
 
@@ -231,17 +283,51 @@ const MobileMenu = ({ isOpen, onClose }) => {
                 {/* Viewport for Stacks */}
                 <div className="relative flex-1 overflow-hidden bg-white">
                     {navStack.map((view, index) => {
-                        // Only show active and immediately previous (for animation overlap)
-                        // Actually, plain map is fine if we Z-index correctly.
-                        const isCurrent = index === navStack.length - 1;
-                        const isBehind = index < navStack.length - 1;
+                        const isLast = index === navStack.length - 1;
+                        const isSecondLast = index === navStack.length - 2;
+
+                        // Default states derived from stack position
+                        let transform = 'translateX(100%)'; // Future views (shouldn't exist essentially)
+                        let filter = 'none';
+                        let animationClass = '';
+
+                        if (isLast) {
+                            // Current Top View
+                            if (isAnimatingOut) {
+                                // Sliding OUT to right
+                                transform = 'translateX(100%)';
+                            } else {
+                                // Default Active State
+                                transform = 'translateX(0%)';
+                                // Only animate entry if it's not the root and not animating out
+                                if (index > 0) animationClass = 'mobile-menu-slide-enter';
+                            }
+                        } else if (isSecondLast) {
+                            // Previous View (Behind)
+                            if (isAnimatingOut) {
+                                // Sliding IN from left (becoming active)
+                                transform = 'translateX(0%)';
+                                filter = 'none';
+                            } else {
+                                // Default Background State
+                                transform = 'translateX(-25%)';
+                                filter = 'brightness(0.95)';
+                            }
+                        } else {
+                            // Deeper history
+                            transform = 'translateX(-25%)'; // Keep them stacked behind
+                            filter = 'brightness(0.90)';
+                        }
 
                         return (
                             <div
                                 key={index}
-                                className={`absolute inset-0 w-full h-full bg-white transition-transform duration-300 ease-[cubic-bezier(0.2,0,0,1)] shadow-xl ${isCurrent ? 'translate-x-0' : (isBehind ? '-translate-x-1/4 brightness-95' : 'translate-x-full')
-                                    }`}
-                                style={{ zIndex: index + 10 }}
+                                className={`absolute inset-0 w-full h-full bg-white transition-transform duration-300 ease-[cubic-bezier(0.2,0,0,1)] shadow-xl ${animationClass}`}
+                                style={{
+                                    zIndex: index + 10,
+                                    transform,
+                                    filter
+                                }}
                             >
                                 {view.id === 'root' && <MainView />}
                                 {view.id === 'services' && <ServicesView />}
