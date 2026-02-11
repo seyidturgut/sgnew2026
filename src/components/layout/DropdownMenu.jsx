@@ -1,154 +1,20 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { ChevronRight, ChevronLeft, ArrowRight } from 'lucide-react';
 
-const menuData = [
-    {
-        title: "Vergi & Finans",
-        // This description appears on the left when this item is hovered/active
-        description: "Sistem Global olarak, müşterilerimizin tüm paydaşlar için uzun vadeli değer yaratmasına yardımcı oluyoruz. Veri ve teknolojiyle desteklenen hizmet ve çözümlerimiz.",
-        submenu: [
-            {
-                title: "Vergi",
-                submenu: [
-                    { title: 'Vergi Yönetim Danışmanlığı', href: '/servisler/vergi-finans/vergi/vergi-yonetim-danismanligi' },
-                    { title: "Transfer Fiyatlandırması", href: "/servisler/vergi-finans/vergi/transfer-fiyatlandirmasi" },
-                    { title: "Kurumlar ve Gelir Vergisi Tasdiki", href: "/servisler/vergi-finans/vergi/kurumlar-ve-gelir-vergisi-tasdiki" },
-                    { title: "KDV İade", href: "/servisler/vergi-finans/vergi/kdv-iade" },
-                    { title: "Arge ve Tasarım İndirimi Raporu", href: "/servisler/vergi-finans/vergi/ar-ge-ve-tasarim-indirimi-raporu" },
-                    { title: "Due Diligence", href: "/servisler/vergi-finans/vergi/due-diligence" },
-                    { title: "Outsource Bordro Yönetimi", href: "/servisler/vergi-finans/vergi/outsource-bordro-yonetimi" },
-                    { title: "Şirket Kuruluşu Danışmanlığı", href: "/servisler/vergi-finans/vergi/sirket-kurulusu-danismanligi" },
-                    { title: "SGK Teşvik Danışmanlığı", href: "/servisler/vergi-finans/vergi/sgk-tesvik-danismanligi" },
-                ]
-            },
-            {
-                title: "Kurumsal Finansman",
-                submenu: [
-                    { title: "Şirket Değerleme", href: "/servisler/vergi-finans/kurumsal-finansman/sirket-degerleme" },
-                    { title: "Marka Değerleme", href: "/servisler/vergi-finans/kurumsal-finansman/marka-degerleme" },
-                    { title: "Yazılım ve Teknoloji Değerleme", href: "/servisler/vergi-finans/kurumsal-finansman/yazilim-ve-teknoloji-degerleme" },
-                    { title: "Özel Hak ve Lisans Değerleme", href: "/servisler/vergi-finans/kurumsal-finansman/ozel-hak-ve-lisans-degerleme" },
-                    { title: "İhale Bedeli Tespiti", href: "/servisler/vergi-finans/kurumsal-finansman/ihale-bedeli-tespiti" },
-                    { title: "Halka Arz Danışmanlığı", href: "/servisler/vergi-finans/kurumsal-finansman/halka-arz-danismanligi" },
-                    { title: "Sektör Analiz Raporları", href: "/servisler/vergi-finans/kurumsal-finansman/sektor-analiz-raporlari" },
-                    { title: "Finansal Danışmanlıklar", href: "/servisler/vergi-finans/kurumsal-finansman/finansal-danismanliklar" },
-                ]
-            }
-        ]
-    },
-    {
-        title: "Ar-Ge ve Fikri Mülkiyet",
-        description: "Ar-Ge yatırımlarını hızlandıran teşvik ve fon danışmanlığı ile fikri mülkiyet haklarınızı koruyan uzman çözümler.",
-        submenu: [
-            {
-                title: "Ar-Ge Yönetimi",
-                submenu: [
-                    { title: "Teknopark Danışmanlığı", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/teknopark-danismanligi" },
-                    { title: "Ar-Ge Merkezi Danışmanlığı", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/ar-ge-merkezi-danismanligi" },
-                    { title: "Yatırım Teşvik Danışmanlığı", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/yatirim-tesvik-danismanligi" },
-                    { title: "TÜBİTAK Fonlarına Erişim Danışmanlığı", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/tubitak-destekleri" },
-                    { title: "Dahilde İşleme Rejimi Danışmanlığı", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/dahilde-isleme-rejimi-danismanligi" },
-                    { title: "Tasarım Merkezi Danışmanlığı", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/tasarim-merkezi-danismanligi" },
-                    { title: "Uluslararası Projeler ve Kalkınma Danışmanlığı", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/uluslararasi-projeler-ve-kalkinma-danismanligi" },
-                    { title: "Teknoloji Odaklı Sanayi Hamlesi", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/teknoloji-odakli-sanayi-hamlesi" },
-                    { title: "Uluslararası Fon Programları", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/uluslararasi-fon-programlari" },
-                    { title: "Ticaret Bakanlığı İhracat Destekleri", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/ticaret-bakanligi-ihracat-destekleri" },
-                    { title: "E-Turquality Programı", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/e-turquality-programi" },
-                    { title: "KOSGEB Destekleri", href: "/servisler/ar-ge-ve-fikri-mulkiyet/ar-ge-yonetimi/kosgeb-destekleri" }
-                ]
-            },
-            {
-                title: "Fikri Mülkiyet",
-                submenu: [
-                    { title: "Marka, Tasarım, Patent Başvuruları", href: "/servisler/ar-ge-ve-fikri-mulkiyet/fikri-mulkiyet/marka-tasarim-patent-basvurulari" },
-                    { title: "Patent İhlal Analizleri", href: "/servisler/ar-ge-ve-fikri-mulkiyet/fikri-mulkiyet/patent-ihlal-analizleri" }
-                ]
-            }
-        ]
-    },
-    {
-        title: "Mevzuat & Uyum",
-        // This description appears on the left when this item is hovered/active
-        description: "Şirketinizin yasal süreçlere tam uyum sağlaması ve risklerin yönetilmesi için kapsamlı mevzuat danışmanlığı.",
-        submenu: [
-            { title: "Ar-Ge Yönetimi ve Yasal Çerçeveye Uyum Danışmanlığı", href: "/servisler/mevzuat-ve-uyum/ar-ge-yonetimi-ve-yasal-cerceveye-uyum-danismanligi" },
-            { title: "Sözleşme Risk Yönetimi", href: "/servisler/mevzuat-ve-uyum/sozlesme-risk-yonetimi" },
-            { title: "Kişisel Veri Yönetimi ve Uyum Danışmanlığı", href: "/servisler/mevzuat-ve-uyum/kisisel-veri-yonetimi-ve-uyum-danismanligi" },
-            { title: "Aile Anayasası ve Kurumsallaşma Hizmetleri", href: "/servisler/mevzuat-ve-uyum/aile-anayasasi-ve-kurumsallasma-hizmetleri" },
-            { title: "Birleşme ve Devralma (M&A) Danışmanlığı", href: "/servisler/mevzuat-ve-uyum/birlesme-ve-devralma-ma-danismanligi" },
-            { title: "Genel Kurul Danışmanlığı", href: "/servisler/mevzuat-ve-uyum/genel-kurul-danismanligi" },
-            { title: "İş Süreçleri ve Uyum Danışmanlığı", href: "/servisler/mevzuat-ve-uyum/is-surecleri-ve-uyum-danismanligi" },
-            { title: "Pay Devri ve Pay Sahipliği Sözleşmeleri Danışmanlığı", href: "/servisler/mevzuat-ve-uyum/pay-devri-ve-pay-sahipligi-sozlesmeleri-danismanligi" },
-            { title: "Rekabet Uyum ve Strateji Danışmanlığı", href: "/servisler/mevzuat-ve-uyum/rekabet-uyum-ve-strateji-danismanligi" },
-            { title: "Şirket Kurma, TTK Uygulama ve Sicil İşleri Danışmanlığı", href: "/servisler/mevzuat-ve-uyum/sirket-kurma-ttk-uygulama-ve-sicil-isleri-danismanligi" },
-            { title: "Startup Destek ve Uyum Danışmanlığı", href: "/servisler/mevzuat-ve-uyum/startup-destek-ve-uyum-danismanligi" },
-        ]
-    },
-    {
-        title: "Globalleşme & İhracat",
-        // This description appears on the left when this item is hovered/active
-        description: "Global pazarlara açılmanız ve ihracat potansiyelinizi artırmanız için uçtan uca çözümler.",
-        submenu: [
-            { title: "Pazara Giriş Projeleri Desteği", href: "/servisler/globallesme-ve-ihracat/pazara-giris-projeleri-destegi" },
-            { title: "Pazar Analizi ve Hedef Pazar Tespiti", href: "/servisler/globallesme-ve-ihracat/pazar-analizi-ve-hedef-pazar-tespiti" },
-            { title: "Yurtdışı Şirket Kurma", href: "/servisler/globallesme-ve-ihracat/yurtdisi-sirket-kurma" },
-            { title: "İhracat Danışmanlığı ve İhracata Başlangıç", href: "/servisler/globallesme-ve-ihracat/ihracat-danismanligi-ve-ihracata-baslangic" },
-            { title: "İhracat Geliştirme", href: "/servisler/globallesme-ve-ihracat/ihracat-gelistirme" },
-            { title: "Ticaret Bakanlığı İhracat Destekleri", href: "/servisler/globallesme-ve-ihracat/ticaret-bakanligi-ihracat-destekleri" },
-            { title: "E-Turquality Programı", href: "/servisler/globallesme-ve-ihracat/e-turquality-programi" },
-        ]
-    },
-    {
-        title: "Finansmana Erişim & Sürdürülebilirlik",
-        description: "Büyüme hedeflerinize ulaşmanız için finansal kaynaklara erişim ve sürdürülebilir gelecek stratejileri.",
-        submenu: [
-            {
-                title: "Finansmana Erişim",
-                submenu: [
-                    { title: "Ticaret Bakanlığı Destekleri", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim/ticaret-bakanligi-destekleri" },
-                    { title: "TÜBİTAK Destekleri", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim/tubitak-destekleri" },
-                    { title: "Yatırım Teşvik Danışmanlığı", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim/yatirim-tesvik-danismanligi" },
-                    { title: "E-Turquality Programı", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim/e-turquality-programi" },
-                    { title: "KOSGEB Destekleri", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim/kosgeb-destekleri" },
-                    { title: "Dahilde İşleme Rejimi Danışmanlığı", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/finansmana-erisim/dahilde-isleme-rejimi-danismanligi" },
-                ]
-            },
-            {
-                title: "Sürdürülebilirlik",
-                submenu: [
-                    { title: "Sürdürülebilirlik Raporlaması", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/surdurulebilirlik-raporlamasi" },
-                    { title: "TSRS Raporu (Türkiye Sürdürülebilirlik Raporlama Standartları)", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/tsrs-raporu" },
-                    { title: "Entegre Raporlama", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/entegre-raporlama" },
-                    { title: "Refinitiv (LSEG)", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/refinitiv-lseg" },
-                    { title: "SBTi (Science Based Targets initiative)", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/sbti-science-based-targets-initiative" },
-                    { title: "ISO 14064-1 Kurumsal Karbon Ayak İzi Raporu", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/iso-14064-1-kurumsal-karbon-ayak-izi-raporu" },
-                    { title: "ISO 14046 – Su Ayak İzi Raporu", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/iso-14046-su-ayak-izi-raporu" },
-                    { title: "ISO 14067 – Ürün Karbon Ayak İzi", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/surdurulebilirlik/iso-14067-urun-karbon-ayak-izi" },
-                ]
-            },
-            {
-                title: "Birleşme ve Satın Alma (M&A)",
-                submenu: [
-                    { title: "Birleşme ve Satın Alma (M&A)", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/birlesme-ve-satin-alma-ma" },
-                    { title: "Yatırım Fizibilitesi Hizmetleri", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/birlesme-ve-satin-alma-ma/yatirim-fizibilitesi-hizmetleri" },
-                    { title: "Yönetim Danışmanlığı Hizmetleri", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/birlesme-ve-satin-alma-ma/yonetim-danismanligi-hizmetleri" }
-                ]
-            },
-            {
-                title: "RPA ve Süreç Danışmanlığı",
-                submenu: [
-                    { title: "Süreç İyileştirme Uygulamaları", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/surec-iyilestirme-uygulamalari" },
-                    { title: "İç Denetim ve Sistem Kurulum Danışmanlığı", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/ic-denetim-ve-sistem-kurulum-danismanligi" },
-                    { title: "Kurumsallaşma Hızlı Check Up", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/kurumsallasma-hizli-check-up" },
-                    { title: "Dijitalleşme Danışmanlığı", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/dijitallesme-danismanligi" },
-                    { title: "Yıllık Lisans Kiralama ve Uyarlama Danışmanlığı", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/yillik-lisans-kiralama-ve-uyarlama-danismanligi" },
-                    { title: "RPA Teknik İzleme", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/rpa-teknik-izleme" },
-                    { title: "RPA Süreç Keşif Workshop", href: "/servisler/finansmana-erisim-ve-surdurulebilirlik/rpa-ve-surec-danismanligi/rpa-surec-kesif-workshop" },
-                ]
-            }
-        ]
-    }
-];
+import { serviceMenu } from '../../data/serviceMenu';
+
+const menuData = serviceMenu.map(category => ({
+    title: category.title,
+    description: category.description,
+    submenu: category.subcategories.map(sub => ({
+        title: sub.title,
+        href: sub.items ? undefined : sub.href, // If no items, it might be a direct link (though structure implies items)
+        submenu: sub.items ? sub.items.map(item => ({
+            title: item.title,
+            href: item.href
+        })) : [] // Map items to submenu structure expected by DropdownMenu
+    }))
+}));
 
 const flattenMenuPages = (items, parents = []) => {
     const pages = [];

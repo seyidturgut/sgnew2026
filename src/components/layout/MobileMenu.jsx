@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { createPortal } from 'react-dom';
 import { Link } from 'react-router-dom';
 import { serviceMenu } from '../../data/serviceMenu';
-import { X, ChevronRight, ArrowLeft, Home, Phone, Globe, ArrowUpRight, TrendingUp, Users, Settings, ArrowRight } from 'lucide-react';
+import { X, ChevronRight, ArrowLeft, Home, Phone, Globe, ArrowUpRight, TrendingUp, Users, Settings, ArrowRight, Monitor, PlaySquare } from 'lucide-react';
 
 const MobileMenu = ({ isOpen, onClose }) => {
     const [mounted, setMounted] = useState(false);
@@ -100,7 +100,7 @@ const MobileMenu = ({ isOpen, onClose }) => {
                     </div>
                 </div>
 
-                {/* Corporate Navigation Group */}
+                {/* Navigation Links Group */}
                 <div className="bg-gray-50 rounded-3xl p-2 space-y-1">
                     <Link to="/hakkimizda" onClick={onClose} className="flex items-center justify-between p-4 rounded-2xl hover:bg-white hover:shadow-sm transition-all group">
                         <div className="flex items-center gap-4">
@@ -114,6 +114,19 @@ const MobileMenu = ({ isOpen, onClose }) => {
 
                     <div className="h-px bg-gray-200/50 mx-4" />
 
+                    {/* Dijital Ürünler - New Item */}
+                    <Link to="/dijital-urunler" onClick={onClose} className="flex items-center justify-between p-4 rounded-2xl hover:bg-white hover:shadow-sm transition-all group">
+                        <div className="flex items-center gap-4">
+                            <div className="w-10 h-10 rounded-xl bg-indigo-50 text-indigo-600 flex items-center justify-center">
+                                <Monitor size={20} />
+                            </div>
+                            <span className="font-medium text-gray-700 text-base">Dijital Ürünler</span>
+                        </div>
+                        <ChevronRight size={16} className="text-gray-300 group-hover:text-indigo-500 transition-colors" />
+                    </Link>
+
+                    <div className="h-px bg-gray-200/50 mx-4" />
+
                     <Link to="/ekosistemimiz" onClick={onClose} className="flex items-center justify-between p-4 rounded-2xl hover:bg-white hover:shadow-sm transition-all group">
                         <div className="flex items-center gap-4">
                             <div className="w-10 h-10 rounded-xl bg-green-50 text-green-600 flex items-center justify-center">
@@ -122,6 +135,19 @@ const MobileMenu = ({ isOpen, onClose }) => {
                             <span className="font-medium text-gray-700 text-base">Ekosistemimiz</span>
                         </div>
                         <ChevronRight size={16} className="text-gray-300 group-hover:text-green-500 transition-colors" />
+                    </Link>
+
+                    <div className="h-px bg-gray-200/50 mx-4" />
+
+                    {/* Medya & İçeriklerimiz - New Item */}
+                    <Link to="/medya" onClick={onClose} className="flex items-center justify-between p-4 rounded-2xl hover:bg-white hover:shadow-sm transition-all group">
+                        <div className="flex items-center gap-4">
+                            <div className="w-10 h-10 rounded-xl bg-pink-50 text-pink-600 flex items-center justify-center">
+                                <PlaySquare size={20} />
+                            </div>
+                            <span className="font-medium text-gray-700 text-base">Medya & İçeriklerimiz</span>
+                        </div>
+                        <ChevronRight size={16} className="text-gray-300 group-hover:text-pink-500 transition-colors" />
                     </Link>
 
                     <div className="h-px bg-gray-200/50 mx-4" />
