@@ -184,73 +184,69 @@ const DropdownMenu = ({ isOpen, onClose }) => {
                     </div>
 
                     {/* COL 3: Level 2 Submenu (Right) - Dynamic Content */}
-                    <div className="col-span-12 lg:col-span-5 pl-8">
+                    <div className="col-span-12 lg:col-span-5 pl-8 text-left">
                         {activeCategory ? (
-                            <div className="animate-fade-in">
-                                <div className="flex items-center mb-4 pb-3 border-b border-gray-100">
+                            <div className="animate-fade-in text-left">
+                                <div className="flex items-center mb-4 pb-3 border-b border-gray-100 justify-start">
                                     <button onClick={() => setActiveCategory(null)} className="lg:hidden mr-4 text-gray-400">
                                         <ChevronLeft size={20} />
                                     </button>
-                                    <h3 className="text-xl font-bold text-gray-900">{activeSubcategory?.title || activeCategory.title}</h3>
+                                    {/* Hide title if flattened (single subcategory) to avoid redundancy */}
+                                    {!(activeCategory.submenu && activeCategory.submenu.length === 1) && (
+                                        <h3 className="text-xl font-bold text-gray-900 text-left">{activeSubcategory?.title || activeCategory.title}</h3>
+                                    )}
+                                    {(activeCategory.submenu && activeCategory.submenu.length === 1) && (
+                                        <h3 className="text-xl font-bold text-gray-900 text-left">{activeCategory.title}</h3>
+                                    )}
                                 </div>
 
                                 {activeCategory.submenu && activeCategory.submenu.length > 0 ? (
                                     activeSubcategory ? (
-                                        <div className="space-y-3 animate-fade-in">
-                                            <button
-                                                onClick={() => setActiveSubcategory(null)}
-                                                className="inline-flex items-center gap-1.5 text-xs font-semibold text-gray-500 hover:text-[#F37021] transition-colors"
-                                            >
-                                                <ChevronLeft size={14} />
-                                                Geri
-                                            </button>
+                                        <div className="space-y-3 animate-fade-in text-left">
+                                            {/* Hide Back button if flattened */}
+                                            {!(activeCategory.submenu && activeCategory.submenu.length === 1) && (
+                                                <button
+                                                    onClick={() => setActiveSubcategory(null)}
+                                                    className="inline-flex items-center gap-1.5 text-xs font-semibold text-gray-500 hover:text-[#F37021] transition-colors"
+                                                >
+                                                    <ChevronLeft size={14} />
+                                                    Geri
+                                                </button>
+                                            )}
 
-                                            <div className="grid grid-cols-1 lg:grid-cols-2 gap-2">
+                                            <div className="grid grid-cols-1 gap-2">
                                                 {(activeSubcategory.submenu || []).map((l3, l3idx) => (
                                                     <a
                                                         key={l3idx}
                                                         href={l3.href}
-                                                        className="group rounded-md border border-gray-200 bg-white px-3 py-2.5 text-gray-700 hover:text-[#F37021] hover:border-orange-200 hover:bg-orange-50 transition-all"
+                                                        className="group flex items-center justify-between rounded-md border border-gray-200 bg-white px-4 py-3 text-gray-700 hover:text-[#F37021] hover:border-orange-200 hover:bg-orange-50 transition-all text-left"
                                                     >
-                                                        <span className="inline-flex items-center justify-between w-full text-xs lg:text-sm font-medium leading-snug">
+                                                        <span className="text-sm font-medium leading-snug flex-1">
                                                             {l3.title}
-                                                            <ChevronRight size={14} className="text-gray-300 group-hover:text-[#F37021] transition-colors shrink-0" />
                                                         </span>
+                                                        <ChevronRight size={16} className="text-gray-300 group-hover:text-[#F37021] transition-colors shrink-0 ml-2" />
                                                     </a>
                                                 ))}
                                             </div>
                                         </div>
                                     ) : (
-                                        <div className="grid grid-cols-1 lg:grid-cols-2 gap-2 animate-fade-in">
+                                        <div className="grid grid-cols-1 lg:grid-cols-2 gap-2 animate-fade-in text-left">
                                             {activeCategory.submenu.map((subitem, idx) => (
-                                                subitem.submenu && subitem.submenu.length > 0 ? (
-                                                    <button
-                                                        key={idx}
-                                                        onClick={() => setActiveSubcategory(subitem)}
-                                                        className="group text-left rounded-md border border-gray-200 bg-white px-3 py-2.5 hover:border-orange-200 hover:bg-orange-50 transition-all"
-                                                    >
-                                                        <span className="inline-flex items-center justify-between w-full text-sm font-semibold text-gray-800 group-hover:text-[#F37021]">
-                                                            {subitem.title}
-                                                            <ChevronRight size={14} className="text-gray-300 group-hover:text-[#F37021] transition-colors shrink-0" />
-                                                        </span>
-                                                    </button>
-                                                ) : (
-                                                    <a
-                                                        key={idx}
-                                                        href={subitem.href || "#"}
-                                                        className="group rounded-md border border-gray-200 bg-white px-3 py-2.5 text-gray-700 hover:text-[#F37021] hover:border-orange-200 hover:bg-orange-50 transition-all"
-                                                    >
-                                                        <span className="inline-flex items-center justify-between w-full text-sm font-medium">
-                                                            {subitem.title}
-                                                            <ChevronRight size={14} className="text-gray-300 group-hover:text-[#F37021] transition-colors shrink-0" />
-                                                        </span>
-                                                    </a>
-                                                )
+                                                <button
+                                                    key={idx}
+                                                    onClick={() => setActiveSubcategory(subitem)}
+                                                    className="group text-left rounded-md border border-gray-200 bg-white px-3 py-2.5 hover:border-orange-200 hover:bg-orange-50 transition-all"
+                                                >
+                                                    <span className="inline-flex items-center justify-between w-full text-sm font-semibold text-gray-800 group-hover:text-[#F37021]">
+                                                        {subitem.title}
+                                                        <ChevronRight size={14} className="text-gray-300 group-hover:text-[#F37021] transition-colors shrink-0" />
+                                                    </span>
+                                                </button>
                                             ))}
                                         </div>
                                     )
                                 ) : (
-                                    <p className="text-gray-500 italic">Bu kategori için alt menü bulunmamaktadır.</p>
+                                    <p className="text-gray-500 italic text-left">Bu kategori için alt menü bulunmamaktadır.</p>
                                 )}
 
                             </div>
