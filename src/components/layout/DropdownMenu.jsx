@@ -219,12 +219,12 @@ const DropdownMenu = ({ isOpen, onClose }) => {
                                                     <a
                                                         key={l3idx}
                                                         href={l3.href}
-                                                        className="group flex items-center justify-between rounded-md border border-gray-200 bg-white px-4 py-3 text-gray-700 hover:text-[#F37021] hover:border-orange-200 hover:bg-orange-50 transition-all text-left"
+                                                        className="group flex items-center justify-between rounded-md border border-gray-200 bg-white px-3 py-2 text-gray-700 hover:text-[#F37021] hover:border-orange-200 hover:bg-orange-50 transition-all text-left"
                                                     >
-                                                        <span className="text-sm font-medium leading-snug flex-1">
+                                                        <span className="text-[13px] font-medium leading-tight flex-1">
                                                             {l3.title}
                                                         </span>
-                                                        <ChevronRight size={16} className="text-gray-300 group-hover:text-[#F37021] transition-colors shrink-0 ml-2" />
+                                                        <ChevronRight size={14} className="text-gray-300 group-hover:text-[#F37021] transition-colors shrink-0 ml-1.5" />
                                                     </a>
                                                 ))}
                                             </div>
