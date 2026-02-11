@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { createPortal } from 'react-dom';
 import { Link } from 'react-router-dom';
 import { serviceMenu } from '../../data/serviceMenu';
+import { productsMenu } from '../../data/productsMenu';
 import { X, ChevronRight, ArrowLeft, Home, Phone, Globe, ArrowUpRight, TrendingUp, Users, Settings, ArrowRight, Monitor, PlaySquare } from 'lucide-react';
 
 const MobileMenu = ({ isOpen, onClose }) => {
@@ -19,15 +20,10 @@ const MobileMenu = ({ isOpen, onClose }) => {
     useEffect(() => {
         if (isOpen) {
             document.body.style.overflow = 'hidden';
-            // Reset stack when opening? No, maybe keep state. 
-            // Better to reset for clean start if closed.
-            // But let's check if we want persistent state during session. 
-            // User usually expects reset.
             setNavStack([{ id: 'root', title: 'Menü' }]);
             setIsAnimatingOut(false);
         } else {
             document.body.style.overflow = 'unset';
-            // Wait for close animation
             const t = setTimeout(() => {
                 setNavStack([{ id: 'root', title: 'Menü' }]);
                 setIsAnimatingOut(false);
@@ -40,7 +36,7 @@ const MobileMenu = ({ isOpen, onClose }) => {
     }, [isOpen]);
 
     const pushView = (view) => {
-        if (isAnimatingOut) return; // Prevent interaction during animation
+        if (isAnimatingOut) return;
         setNavStack(prev => [...prev, view]);
     };
 
@@ -54,7 +50,7 @@ const MobileMenu = ({ isOpen, onClose }) => {
                 return prev.slice(0, -1);
             });
             setIsAnimatingOut(false);
-        }, 300); // Match transition duration
+        }, 300);
     };
 
     if (!mounted) return null;
@@ -64,7 +60,7 @@ const MobileMenu = ({ isOpen, onClose }) => {
         <div className="flex flex-col h-full bg-white">
             <div className="flex-1 overflow-y-auto px-6 py-4 space-y-6">
 
-                {/* Hero / Services Entry */}
+                {/* Services Entry */}
                 <button
                     onClick={() => pushView({ id: 'services', title: 'Servisler' })}
                     className="w-full relative overflow-hidden group rounded-3xl p-6 text-left shadow-lg shadow-orange-500/10 transition-transform active:scale-[0.98]"
@@ -79,29 +75,48 @@ const MobileMenu = ({ isOpen, onClose }) => {
                             </div>
                             <div>
                                 <h3 className="text-xl font-bold text-white leading-none">Servisler</h3>
-                                <p className="text-orange-100 text-sm mt-1.5 font-medium">Tüm hizmetlerimizi keşfedin</p>
+                                <p className="text-orange-100 text-sm mt-1.5 font-medium">Hizmetlerimizi keşfedin</p>
                             </div>
                         </div>
-                        <div className="w-10 h-10 rounded-full bg-white/20 backdrop-blur-sm flex items-center justify-center text-white group-hover:translate-x-1 transition-transform">
-                            <ChevronRight size={20} />
-                        </div>
+                        <ChevronRight size={20} className="text-white opacity-70 group-hover:translate-x-1 transition-transform" />
                     </div>
                 </button>
 
-                {/* Primary Navigation Group */}
-                <div className="bg-gray-50 rounded-3xl p-2">
-                    <div className="space-y-1">
-                        <Link to="/" onClick={onClose} className="flex items-center gap-4 p-4 rounded-2xl hover:bg-white hover:shadow-sm transition-all group">
-                            <div className="w-10 h-10 rounded-xl bg-orange-100/50 text-[#F37021] flex items-center justify-center group-hover:bg-[#F37021] group-hover:text-white transition-colors">
-                                <Home size={20} />
+                {/* Digital Products Entry */}
+                <button
+                    onClick={() => pushView({ id: 'products', title: 'Dijital Ürünler' })}
+                    className="w-full relative overflow-hidden group rounded-3xl p-6 text-left shadow-lg shadow-indigo-500/10 transition-transform active:scale-[0.98]"
+                >
+                    <div className="absolute inset-0 bg-gradient-to-br from-indigo-600 to-blue-700" />
+                    <div className="absolute inset-0 opacity-20 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] mix-blend-overlay" />
+
+                    <div className="relative flex items-center justify-between z-10">
+                        <div className="flex items-center gap-4">
+                            <div className="w-12 h-12 rounded-2xl bg-white/20 backdrop-blur-sm flex items-center justify-center text-white border border-white/10">
+                                <Monitor size={24} />
                             </div>
-                            <span className="font-bold text-gray-700 text-base flex-1">Anasayfa</span>
-                        </Link>
+                            <div>
+                                <h3 className="text-xl font-bold text-white leading-none">Dijital Ürünler</h3>
+                                <p className="text-indigo-100 text-sm mt-1.5 font-medium">Teknoloji çözümlerimiz</p>
+                            </div>
+                        </div>
+                        <ChevronRight size={20} className="text-white opacity-70 group-hover:translate-x-1 transition-transform" />
                     </div>
-                </div>
+                </button>
 
                 {/* Navigation Links Group */}
                 <div className="bg-gray-50 rounded-3xl p-2 space-y-1">
+                    <Link to="/" onClick={onClose} className="flex items-center justify-between p-4 rounded-2xl hover:bg-white hover:shadow-sm transition-all group">
+                        <div className="flex items-center gap-4">
+                            <div className="w-10 h-10 rounded-xl bg-orange-50 text-[#F37021] flex items-center justify-center group-hover:bg-[#F37021] group-hover:text-white transition-colors">
+                                <Home size={20} />
+                            </div>
+                            <span className="font-bold text-gray-700 text-base">Anasayfa</span>
+                        </div>
+                    </Link>
+
+                    <div className="h-px bg-gray-200/50 mx-4" />
+
                     <Link to="/hakkimizda" onClick={onClose} className="flex items-center justify-between p-4 rounded-2xl hover:bg-white hover:shadow-sm transition-all group">
                         <div className="flex items-center gap-4">
                             <div className="w-10 h-10 rounded-xl bg-blue-50 text-blue-600 flex items-center justify-center">
@@ -110,19 +125,6 @@ const MobileMenu = ({ isOpen, onClose }) => {
                             <span className="font-medium text-gray-700 text-base">Hakkımızda</span>
                         </div>
                         <ChevronRight size={16} className="text-gray-300 group-hover:text-blue-500 transition-colors" />
-                    </Link>
-
-                    <div className="h-px bg-gray-200/50 mx-4" />
-
-                    {/* Dijital Ürünler - New Item */}
-                    <Link to="/dijital-urunler" onClick={onClose} className="flex items-center justify-between p-4 rounded-2xl hover:bg-white hover:shadow-sm transition-all group">
-                        <div className="flex items-center gap-4">
-                            <div className="w-10 h-10 rounded-xl bg-indigo-50 text-indigo-600 flex items-center justify-center">
-                                <Monitor size={20} />
-                            </div>
-                            <span className="font-medium text-gray-700 text-base">Dijital Ürünler</span>
-                        </div>
-                        <ChevronRight size={16} className="text-gray-300 group-hover:text-indigo-500 transition-colors" />
                     </Link>
 
                     <div className="h-px bg-gray-200/50 mx-4" />
@@ -139,7 +141,6 @@ const MobileMenu = ({ isOpen, onClose }) => {
 
                     <div className="h-px bg-gray-200/50 mx-4" />
 
-                    {/* Medya & İçeriklerimiz - New Item */}
                     <Link to="/medya" onClick={onClose} className="flex items-center justify-between p-4 rounded-2xl hover:bg-white hover:shadow-sm transition-all group">
                         <div className="flex items-center gap-4">
                             <div className="w-10 h-10 rounded-xl bg-pink-50 text-pink-600 flex items-center justify-center">
@@ -172,18 +173,18 @@ const MobileMenu = ({ isOpen, onClose }) => {
         </div>
     );
 
-    const ServicesView = () => (
+    const RecursiveMenuView = ({ data, titleSuffix = '' }) => (
         <div className="flex flex-col h-full bg-gray-50">
             <div className="p-4 space-y-3 overflow-y-auto pb-20">
-                <div className="text-xs font-bold text-gray-400 uppercase tracking-widest px-2 mb-2">Hizmet Kategorileri</div>
-                {serviceMenu.map((cat) => (
+                <div className="text-xs font-bold text-gray-400 uppercase tracking-widest px-2 mb-2">{titleSuffix || 'Kategoriler'}</div>
+                {data.map((cat) => (
                     <button
                         key={cat.slug}
                         onClick={() => pushView({ id: 'category', title: cat.title, data: cat })}
                         className="w-full bg-white p-5 rounded-2xl flex items-center justify-between shadow-sm border border-gray-100 active:scale-[0.98] transition-transform"
                     >
                         <div className="flex items-center gap-4">
-                            <div className={`w-12 h-12 rounded-xl bg-gradient-to-br ${cat.color} flex items-center justify-center text-white shadow-md`}>
+                            <div className={`w-12 h-12 rounded-xl bg-gradient-to-br ${cat.color || 'from-[#F37021] to-orange-600'} flex items-center justify-center text-white shadow-md`}>
                                 <cat.icon size={22} />
                             </div>
                             <div className="text-left">
@@ -377,7 +378,8 @@ const MobileMenu = ({ isOpen, onClose }) => {
                                 }}
                             >
                                 {view.id === 'root' && <MainView />}
-                                {view.id === 'services' && <ServicesView />}
+                                {view.id === 'services' && <RecursiveMenuView data={serviceMenu} titleSuffix="Hizmet Kategorileri" />}
+                                {view.id === 'products' && <RecursiveMenuView data={productsMenu} titleSuffix="Ürün Kategorileri" />}
                                 {view.id === 'category' && <CategoryView category={view.data} />}
                                 {view.id === 'subcategory' && <SubCategoryView subcategory={view.data} parent={view.parent} />}
                             </div>

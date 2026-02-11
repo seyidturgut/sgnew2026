@@ -3,10 +3,22 @@ import { Link } from 'react-router-dom'
 import { Home, ChevronDown, Menu as MenuIcon, X } from 'lucide-react'
 import DropdownMenu from './DropdownMenu'
 import MobileMenu from './MobileMenu'
+import { productsMenu } from '../../data/productsMenu'
 
 const Header = () => {
     const [isServicesOpen, setIsServicesOpen] = useState(false);
+    const [isProductsOpen, setIsProductsOpen] = useState(false);
     const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+
+    const toggleServices = () => {
+        setIsServicesOpen(!isServicesOpen);
+        setIsProductsOpen(false);
+    };
+
+    const toggleProducts = () => {
+        setIsProductsOpen(!isProductsOpen);
+        setIsServicesOpen(false);
+    };
 
     return (
         <header className="fixed w-full top-0 z-50 bg-white/90 backdrop-blur-sm border-b border-gray-100">
@@ -25,7 +37,7 @@ const Header = () => {
                     {/* Services Dropdown */}
                     <div className="h-full">
                         <button
-                            onClick={() => setIsServicesOpen(!isServicesOpen)}
+                            onClick={toggleServices}
                             className={`text-gray-600 hover:text-primary transition-colors flex items-center gap-1 h-full py-7 font-medium ${isServicesOpen ? 'text-primary' : ''}`}
                         >
                             Servisler
@@ -33,7 +45,17 @@ const Header = () => {
                         </button>
                     </div>
 
-                    <a href="/dijital-urunler" className="text-gray-600 hover:text-primary transition-colors font-medium">Dijital Ürünler</a>
+                    {/* Products Dropdown */}
+                    <div className="h-full">
+                        <button
+                            onClick={toggleProducts}
+                            className={`text-gray-600 hover:text-primary transition-colors flex items-center gap-1 h-full py-7 font-medium ${isProductsOpen ? 'text-primary' : ''}`}
+                        >
+                            Dijital Ürünler
+                            <ChevronDown size={16} className={`transition-transform duration-200 ${isProductsOpen ? 'rotate-180' : ''}`} />
+                        </button>
+                    </div>
+
                     <a href="/ekosistemimiz" className="text-gray-600 hover:text-primary transition-colors font-medium">Ekosistemimiz</a>
                     <a href="/medya" className="text-gray-600 hover:text-primary transition-colors font-medium">Medya & İçeriklerimiz</a>
                     <a href="/iletisim" className="text-gray-600 hover:text-primary transition-colors font-medium">İletişim</a>
@@ -58,10 +80,18 @@ const Header = () => {
                 </div>
             </div>
 
-            {/* Desktop Full Screen Menu Portal */}
+            {/* Desktop Full Screen Menu Portals */}
             <DropdownMenu
                 isOpen={isServicesOpen}
                 onClose={() => setIsServicesOpen(false)}
+                title="Servisler"
+            />
+
+            <DropdownMenu
+                isOpen={isProductsOpen}
+                onClose={() => setIsProductsOpen(false)}
+                data={productsMenu}
+                title="Dijital Ürünler"
             />
 
             {/* Mobile Full Screen Menu */}

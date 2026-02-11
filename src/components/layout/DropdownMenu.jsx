@@ -3,18 +3,22 @@ import { ChevronRight, ChevronLeft, ArrowRight } from 'lucide-react';
 
 import { serviceMenu } from '../../data/serviceMenu';
 
-const menuData = serviceMenu.map(category => ({
-    title: category.title,
-    description: category.description,
-    submenu: category.subcategories.map(sub => ({
-        title: sub.title,
-        href: sub.items ? undefined : sub.href, // If no items, it might be a direct link (though structure implies items)
-        submenu: sub.items ? sub.items.map(item => ({
-            title: item.title,
-            href: item.href
-        })) : [] // Map items to submenu structure expected by DropdownMenu
-    }))
-}));
+const processMenuData = (rawMenuData) => {
+    return rawMenuData.map(category => ({
+        title: category.title,
+        description: category.description,
+        slug: category.slug,
+        submenu: (category.subcategories || []).map(sub => ({
+            title: sub.title,
+            slug: sub.slug,
+            href: sub.items ? undefined : sub.href,
+            submenu: (sub.items || []).map(item => ({
+                title: item.title,
+                href: item.href
+            }))
+        }))
+    }));
+};
 
 const flattenMenuPages = (items, parents = []) => {
     const pages = [];
@@ -29,15 +33,13 @@ const flattenMenuPages = (items, parents = []) => {
             pages.push({
                 title: item.title,
                 href: item.href,
-                category: parents[0] || "Servisler"
+                category: parents[0] || "Menü"
             });
         }
     });
 
     return pages;
 };
-
-const allMenuPages = flattenMenuPages(menuData);
 
 const pickRandomItems = (list, count) => {
     const arr = [...list];
@@ -48,7 +50,10 @@ const pickRandomItems = (list, count) => {
     return arr.slice(0, Math.min(count, arr.length));
 };
 
-const DropdownMenu = ({ isOpen, onClose }) => {
+const DropdownMenu = ({ isOpen, onClose, data = serviceMenu, title = "Servisler" }) => {
+    const menuData = processMenuData(data);
+    const allMenuPages = flattenMenuPages(menuData);
+
     const [activeCategory, setActiveCategory] = useState(null);
     const [activeSubcategory, setActiveSubcategory] = useState(null);
     const [spotlightItems, setSpotlightItems] = useState([]);
@@ -60,9 +65,8 @@ const DropdownMenu = ({ isOpen, onClose }) => {
         const handleClickOutside = (event) => {
             // Check if clicking outside menu AND it's not the toggle button in Header
             if (menuRef.current && !menuRef.current.contains(event.target)) {
-                // If it's a click on the "Servisler" button, the Header handles the toggle
-                // We only close if it's truly "outside" elsewhere
-                const isToggleButton = event.target.closest('button')?.textContent.includes('Servisler');
+                // If it's a click on the dropdown button for this menu, the Header handles the toggle
+                const isToggleButton = event.target.closest('button')?.textContent.trim().includes(title);
                 if (!isToggleButton && onClose) {
                     onClose();
                 }
@@ -75,14 +79,15 @@ const DropdownMenu = ({ isOpen, onClose }) => {
         return () => {
             document.removeEventListener('mousedown', handleClickOutside);
         };
-    }, [isOpen, onClose]);
+    }, [isOpen, onClose, title]);
 
     // Set default active category or reset when menu opens/closes
     useEffect(() => {
         if (isOpen) {
-            // Desktop default: open "Vergi & Finans" when menu first opens
+            // Desktop default: open first category when menu first opens
             if (typeof window !== 'undefined' && window.innerWidth >= 1024) {
-                const defaultCategory = menuData.find((item) => item.title === "Vergi & Finans");
+                // Try to find a sensible default or just take the first one
+                const defaultCategory = menuData.find((item) => item.title === "Vergi & Finans") || menuData[0];
                 setActiveCategory(defaultCategory || null);
             }
         } else {
@@ -128,7 +133,7 @@ const DropdownMenu = ({ isOpen, onClose }) => {
                     {/* COL 1: Info / Agenda (Leftmost) */}
                     <div className="col-span-12 lg:col-span-3 pr-8 border-r border-gray-100 flex flex-col">
                         <span className="text-xs font-bold text-[#F37021] tracking-widest uppercase mb-4 block">GÜNDEM</span>
-                        <h2 className="text-3xl font-serif font-bold mb-6 text-gray-900">Servisler</h2>
+                        <h2 className="text-3xl font-serif font-bold mb-6 text-gray-900">{title}</h2>
                         {activeSpotlight ? (
                             <div className="space-y-5">
                                 <div className="h-[185px] rounded-xl border border-orange-100 bg-orange-50/50 p-4 overflow-hidden">
