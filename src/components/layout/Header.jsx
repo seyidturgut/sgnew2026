@@ -62,6 +62,16 @@ const Header = () => {
                 </nav>
 
                 <div className="actions flex items-center gap-4">
+                    {/* Language Switcher */}
+                    <div className="hidden lg:flex items-center bg-gray-50/50 rounded-full p-1 border border-gray-100 mr-2">
+                        <button className="px-3 py-1.5 rounded-full text-[11px] font-black transition-all bg-[#F37021] text-white shadow-sm">
+                            TR
+                        </button>
+                        <button className="px-3 py-1.5 rounded-full text-[11px] font-black transition-all text-gray-400 hover:text-gray-600">
+                            EN
+                        </button>
+                    </div>
+
                     <a
                         href="/iletisim"
                         className="hidden lg:inline-flex items-center justify-center px-6 py-2.5 bg-[#F37021] text-white text-sm font-bold rounded-full hover:bg-orange-600 transition-all shadow-lg shadow-orange-500/20"

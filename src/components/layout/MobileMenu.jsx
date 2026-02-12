@@ -60,12 +60,20 @@ const MobileMenu = ({ isOpen, onClose }) => {
         <div className="flex flex-col h-full bg-white">
             <div className="flex-1 overflow-y-auto px-5 py-5 space-y-6">
 
-                {/* Slim Welcome Section */}
+                {/* Language & Welcome Section */}
                 <div className="flex items-center justify-between px-1">
                     <div>
                         <h2 className="text-2xl font-black text-gray-900 tracking-tight">
                             Nasıl <span className="text-[#F37021]">Yardımcı</span> Olabiliriz?
                         </h2>
+                    </div>
+                    <div className="flex items-center bg-gray-100 rounded-full p-1 border border-gray-200 shadow-inner">
+                        <button className="px-3 py-1 rounded-full text-[10px] font-black transition-all bg-[#F37021] text-white shadow-sm">
+                            TR
+                        </button>
+                        <button className="px-3 py-1 rounded-full text-[10px] font-black transition-all text-gray-400">
+                            EN
+                        </button>
                     </div>
                 </div>
 
