@@ -5,12 +5,14 @@ import 'swiper/css';
 
 const DigitalInvestments = () => {
     const logos = [
-        "https://via.placeholder.com/150x60/F37021/FFFFFF?text=ARGERA",
-        "https://via.placeholder.com/150x60/2C3E50/FFFFFF?text=EDANISMAN",
-        "https://via.placeholder.com/150x60/F37021/FFFFFF?text=LEGALMATIC",
-        "https://via.placeholder.com/150x60/2C3E50/FFFFFF?text=SIBA",
-        "https://via.placeholder.com/150x60/F37021/FFFFFF?text=SPARKS",
-        "https://via.placeholder.com/150x60/2C3E50/FFFFFF?text=WECOVER"
+        "/assets/images/dijital-urunler/argera.webp",
+        "/assets/images/dijital-urunler/xe-danisman-logo.png",
+        "/assets/images/dijital-urunler/legalmatic.png",
+        "/assets/images/dijital-urunler/siba.webp",
+        "/assets/images/dijital-urunler/sparkslogo.png",
+        "/assets/images/dijital-urunler/wecover.webp",
+        "/assets/images/dijital-urunler/ratingvalue.webp",
+        "/assets/images/dijital-urunler/Regtech_Logo2.svg"
     ]
 
     return (
